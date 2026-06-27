@@ -135,7 +135,7 @@ def _locale(escopo):
 
 # Fontes que cobrem MUITO carro/F1/futebol alem de moto: exigem sinal de moto no titulo
 MIXED = {'UOL Carros', 'Quatro Rodas', 'Motor1.com Brasil', 'Motorsport.com', 'Autosport',
-         'Garagem 360', 'Motorsport.com Brasil'}
+         'Garagem 360', 'Motorsport.com Brasil', 'The Race MotoGP'}
 MOTO_RX = re.compile(
     r'\bmoto(s|ca|cicl|gp|2|3|cross|velocidade)?\b|superbike|\bwsbk\b|scooter|\bnaked\b|big trail|'
     r'\benduro\b|motocross|capacete|pilotagem|duas rodas|ducati|kawasaki|ninja|\bktm\b|triumph|'
@@ -147,10 +147,16 @@ JUNK_RX = re.compile(
     r'\b(t-?shirt|camiseta|moletom|jacket|jaqueta|gloves|luvas?|boots?|botas?|apparel|merch|'
     r'store|loja|cat[áa]logo|catalog|manual|owner|wallpaper|papel de parede|for sale|'
     r'à venda|a venda|usad[oa]s?|seminov|0\s?km|fipe|cons[óo]rcio|financiamento|plaid|'
-    r'kit de|pe[çc]as|accessor|acess[óo]rios?|gift|sale\b|hoodie|bon[ée])\b', re.I)
+    r'kit de|pe[çc]as|accessor|acess[óo]rios?|gift|sale\b|hoodie|bon[ée]|bolsa|alforje|'
+    r'ba[uú]\b|mochila|macac[ãa]o|viseira|protetor de)\b', re.I)
 CLASSIF_RX = re.compile(
     r'-\s*\d{4,}\s*-|\b\d{6,}\b|'
     r'\b[A-ZÀ-Ú][a-zà-ú]+\s+(SP|RJ|MG|PR|RS|SC|BA|GO|DF|CE|PE|ES|MT|MS|PB|RN|PA|AM|AL|SE|PI|MA|TO|RO|AC|AP|RR)\s*$')
+# produto de loja: padrao "Cor/Cor" ou "(Articulado)/(TC-10)" no titulo
+PRODUTO_RX = re.compile(
+    r'\b(preta|preto|branca|branco|vermelh[oa]|cinza|verde|azul|bege|prata|fosc[oa]|grafite|dourad[oa]|titanio)\s*/\s*'
+    r'(preta|preto|branca|branco|vermelh|cinza|verde|azul|bege|prata|fosc|grafite|dourad|titanio)|'
+    r'\((articulado|fosco|brilho|escamote[áa]vel|tc-?\d)', re.I)
 
 
 def google_news_fonte(fonte, vistos, dias=10):
@@ -176,7 +182,7 @@ def google_news_fonte(fonte, vistos, dias=10):
                 t = t0
             if len(t) < 15 or t.lower() == nome.lower():
                 continue
-            if JUNK_RX.search(t) or CLASSIF_RX.search(t):
+            if JUNK_RX.search(t) or CLASSIF_RX.search(t) or PRODUTO_RX.search(t) or t.startswith('Arquivos '):
                 continue
             if nome in MIXED and not MOTO_RX.search(t):
                 continue
