@@ -27,8 +27,8 @@ AGORA = datetime.now(timezone.utc)
 HOJE = AGORA.strftime('%Y-%m-%d')
 
 # Perfil proprio da Duas Rodas (preencher quando tiver os handles/dominio):
-DUAS_RODAS_IG = os.environ.get('DUAS_RODAS_IG', 'revistaduasrodas')  # ajuste se o @ for outro
-DUAS_RODAS_SITE = os.environ.get('DUAS_RODAS_SITE', '')               # dominio do site, se houver
+DUAS_RODAS_IG = os.environ.get('DUAS_RODAS_IG', 'duasrodasbr')        # @ oficial confirmado
+DUAS_RODAS_SITE = os.environ.get('DUAS_RODAS_SITE', 'https://www.revistaduasrodas.com.br/')
 
 
 def _janela_pesada():
@@ -246,6 +246,55 @@ def em_alta_keywords(materias):
     return [{'tema': k, 'mencoes': v, 'materias': exemplos[k][:4]} for k, v in tops if v >= 2][:8]
 
 
+def duas_rodas_cobertura():
+    """Titulos publicados recentemente pela propria Duas Rodas (para comparar e achar furos)."""
+    dom = dominio(DUAS_RODAS_SITE)
+    if not dom:
+        return []
+    out = []
+    try:
+        url = ('https://news.google.com/rss/search?q=' + urllib.parse.quote(f'site:{dom} when:8d')
+               + '&' + _locale('Brasil'))
+        root = ElementTree.fromstring(fetch(url))
+        for item in list(root.iter('item'))[:40]:
+            t = (item.findtext('title') or '').strip()
+            if t:
+                out.append(t)
+        print(f'[dr-cobertura] {len(out)} materias da Duas Rodas')
+    except Exception as e:
+        print(f'[dr-cobertura] {e}', file=sys.stderr)
+    return out
+
+
+def pautas_gap(materias):
+    """FURO sem IA: temas que >=2 concorrentes cobriram nas ultimas 24h e que a propria Duas Rodas
+    ainda NAO publicou (compara com a cobertura recente do site da revista). E o 'comeu bola'."""
+    cut = (AGORA - timedelta(hours=24)).strftime('%Y-%m-%dT%H:%M:%SZ')
+    recentes = [m for m in materias if m.get('ts', '') >= cut]
+    por_tema = {}
+    for m in recentes:
+        for termo in set(x.group(0).title() for x in TERMOS.finditer(m.get('titulo', ''))):
+            d = por_tema.setdefault(termo, {'fontes': set(), 'ex': []})
+            d['fontes'].add(m['fonte'])
+            if len(d['ex']) < 4:
+                d['ex'].append({'titulo': m['titulo'], 'url': m['url'], 'fonte': m['fonte']})
+    dr_termos = set()
+    for t in duas_rodas_cobertura():
+        for termo in TERMOS.finditer(t):
+            dr_termos.add(termo.group(0).title())
+    pautas = []
+    for termo, d in sorted(por_tema.items(), key=lambda kv: -len(kv[1]['fontes'])):
+        if len(d['fontes']) >= 2 and termo not in dr_termos:
+            pautas.append({
+                'pauta': termo,
+                'urgencia': f"{len(d['fontes'])} fontes em 24h",
+                'porque': 'Concorrentes ja publicaram e a Duas Rodas ainda nao cobriu nos ultimos dias.',
+                'fontes': len(d['fontes']),
+                'materias': d['ex'],
+            })
+    return pautas[:6]
+
+
 # ───────────────────────── Claude (opcional) ─────────────────────────
 def claude_analise(materias, data):
     key = os.environ.get('ANTHROPIC_API_KEY')
@@ -394,7 +443,7 @@ def main():
         'materias_24h': len([m for m in materias if m.get('ts', '') >= (AGORA - timedelta(hours=24)).strftime('%Y-%m-%dT%H:%M:%SZ')]),
         'reddit': reddit_trends(),
         'em_alta': em_alta_keywords(materias),          # sempre fresco, de graca
-        'pautas': prev.get('pautas', []),               # IA atualiza so nas janelas pesadas
+        'pautas': pautas_gap(materias),                 # FUROS de graca (sem IA); a IA refina nas janelas
         'resumo_ia': prev.get('resumo_ia', ''),
         'instagram': prev.get('instagram', []),         # Apify atualiza so nas janelas pesadas
         'marca': prev.get('marca', {}),

@@ -70,6 +70,9 @@
             background:var(--red);padding:2px 8px;border-radius:5px;display:inline-block;margin-bottom:9px}
   .pauta .t{font-family:'Barlow Condensed',sans-serif;font-weight:700;font-size:1.12rem;line-height:1.15;margin-bottom:5px}
   .pauta .p{font-size:.78rem;color:var(--text2)}
+  .pauta a.mat{display:block;font-size:.76rem;color:var(--text2);padding:5px 0 0;margin-top:7px;border-top:1px solid var(--line2)}
+  .pauta a.mat:hover{color:#fff}
+  .pauta a.mat b{color:var(--text3);font-weight:500;font-size:.66rem}
   /* ── filtros + radar ── */
   .filtros{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-bottom:14px}
   .pill{font-family:'Barlow Condensed',sans-serif;font-weight:700;font-size:.84rem;text-transform:uppercase;
@@ -157,7 +160,7 @@
   </section>
 
   <section id="sec-pautas" style="display:none">
-    <div class="shead"><span class="stick"></span><h2>Pautas <b>Sugeridas</b></h2><span class="sub">furos pra publicar já</span></div>
+    <div class="shead"><span class="stick"></span><h2>Furos <b>de Pauta</b></h2><span class="sub">os concorrentes publicaram e a Duas Rodas ainda não</span></div>
     <div class="pautas" id="pautas"></div>
   </section>
 
@@ -256,6 +259,7 @@ function render(){
       <span class="u">${esc(p.urgencia||'Pauta')}</span>
       <div class="t">${esc(p.pauta)}</div>
       <div class="p">${esc(p.porque)}</div>
+      ${arr(p.materias).map(m=>`<a class="mat" href="${esc(m.url)}" ${ext()}>${esc(m.titulo)} <b>· ${esc(m.fonte)}</b></a>`).join('')}
     </div>`).join('');
 
   // filtros
