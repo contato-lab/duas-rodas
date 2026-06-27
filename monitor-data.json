@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-06-27T18:38:21Z",
+ "updated_at": "2026-06-27T18:44:20Z",
  "fontes_monitoradas": [
   {
    "nome": "Grid Motors",
@@ -375,6 +375,16 @@
    "tier": "Corrida",
    "dominio": "crash.net",
    "ts": "2026-06-27T16:53:56Z"
+  },
+  {
+   "titulo": "Além da Benda: 5 marcas que (ainda) não vieram ao brasil",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ScnNWNFlCMXllMHAxRE1nVkdyaEwzYkQ5OFZCR3kxbGR5Y2RjRDc5V3FvTWNCRzdZMWh4dGU5NWRuc2RKNkNpV0RtWlRZeVpJV1NFaF93VnJTWnJ6VWdOZXUtM2hrMjRIRnpOaWlEd09ENEJ0enk5X1dNM0xsUQ?oc=5",
+   "fonte": "Motonline",
+   "ig": "motonline",
+   "escopo": "Brasil",
+   "tier": "Brasil",
+   "dominio": "motonline.com.br",
+   "ts": "2026-06-27T16:30:05Z"
   },
   {
    "titulo": "Fernandez flies to Sprint gold as SuperFile Trackhouse take a 1-2 at Assen",
@@ -885,16 +895,6 @@
    "tier": "Brasil",
    "dominio": "andardemoto.com.br",
    "ts": "2026-06-25T17:51:56Z"
-  },
-  {
-   "titulo": "NX 500: o que justifica o sucesso dessa moto Honda?",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1RanN0aUsxeDJZUWdjSnNsQ29GTS1EM19NdHdWWWhVc3RXOHZ1Z0RnMUQ2ckdfYnRKVHEtR2c0ZWM4cVprRHNLbHFrTThQdV9MTlNTQjB5SWJxMEdhbHFja0FYWE9hS1hNYm5WWQ?oc=5",
-   "fonte": "Motonline",
-   "ig": "motonline",
-   "escopo": "Brasil",
-   "tier": "Brasil",
-   "dominio": "motonline.com.br",
-   "ts": "2026-06-25T17:32:08Z"
   },
   {
    "titulo": "VOGE detalha operação no Brasil e anuncia big trails e scooters para julho",
@@ -2248,7 +2248,7 @@
   }
  ],
  "total_materias": 190,
- "materias_24h": 20,
+ "materias_24h": 21,
  "reddit": [],
  "em_alta": [
   {
@@ -2331,7 +2331,7 @@
   },
   {
    "tema": "Honda",
-   "mencoes": 11,
+   "mencoes": 10,
    "materias": [
     {
      "titulo": "Moto da Copa: Honda CG 150 edição especial que acabou em “vexame”",
@@ -2349,9 +2349,9 @@
      "fonte": "MotoMundo"
     },
     {
-     "titulo": "NX 500: o que justifica o sucesso dessa moto Honda?",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1RanN0aUsxeDJZUWdjSnNsQ29GTS1EM19NdHdWWWhVc3RXOHZ1Z0RnMUQ2ckdfYnRKVHEtR2c0ZWM4cVprRHNLbHFrTThQdV9MTlNTQjB5SWJxMEdhbHFja0FYWE9hS1hNYm5WWQ?oc=5",
-     "fonte": "Motonline"
+     "titulo": "The Honda Transalp Is Worth Betting On. Accessory Giant Launches A Bunch Of Upgrades",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMk1MX2F5Zm1TaURXZG0wblB4M2VmQVlxX3g4WjRYUTE4U19tXzZuTmVLZEhWSG1rankwN0Q5TDNEeEdNSTVtQlFWQmhQQTRvRldSd01kblE1dC15b0RQclQ3WmM5Y0c3cWF3NVhXYWFJdW9rbEZ2dFVDUG5IT1hTU0xoMjFQbmMxRmxKNkVB?oc=5",
+     "fonte": "RideApart"
     }
    ]
   },
@@ -2461,12 +2461,16 @@
   }
  ],
  "pautas": [],
+ "resumo_ia": "",
+ "instagram": [],
  "marca": {},
+ "pesado_em": "2026-06-27T18:44:20Z",
  "integracoes": {
   "google_news": true,
   "reddit": false,
   "claude": false,
   "apify": false,
-  "ga4": false
+  "ga4": false,
+  "janela_pesada": true
  }
 }
