@@ -1,0 +1,355 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex,nofollow">
+<title>Duas Rodas — Radar de Pauta</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@0,500;0,700;0,800;1,800;1,900&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --red:#EB2126; --red-d:#c4151a;
+    --bg:#0A0A0A; --card:#151515; --card2:#1d1d1d;
+    --text:#F4F4F4; --text2:#a8a8a8; --text3:#6f6f6f;
+    --line:rgba(255,255,255,.08); --line2:rgba(255,255,255,.05);
+    --rad:14px; --rad-sm:9px;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{background:var(--bg);color:var(--text);font-family:'Inter',sans-serif;line-height:1.5;
+       -webkit-font-smoothing:antialiased;padding-bottom:60px}
+  a{color:inherit;text-decoration:none}
+  .wrap{max-width:1280px;margin:0 auto;padding:0 22px}
+  .cond{font-family:'Barlow Condensed',sans-serif}
+  /* ── header ── */
+  header{position:sticky;top:0;z-index:50;background:rgba(10,10,10,.92);backdrop-filter:blur(10px);
+         border-bottom:1px solid var(--line)}
+  .hbar{height:4px;background:var(--red)}
+  .htop{display:flex;align-items:center;gap:18px;padding:14px 0}
+  .htop img{height:30px}
+  .htitle{font-family:'Barlow Condensed',sans-serif;font-weight:800;font-style:italic;font-size:1.15rem;
+          letter-spacing:.03em;text-transform:uppercase;color:#fff;border-left:2px solid var(--red);padding-left:14px}
+  .htitle span{color:var(--red)}
+  .hmeta{margin-left:auto;display:flex;align-items:center;gap:14px;font-size:.72rem;color:var(--text2)}
+  .dot{width:7px;height:7px;border-radius:50%;display:inline-block;margin-right:5px}
+  .dot.on{background:#39d98a;box-shadow:0 0 6px #39d98a88} .dot.off{background:#555}
+  .integ{display:flex;gap:10px;flex-wrap:wrap}
+  .integ small{font-size:.66rem;color:var(--text3)}
+  /* ── section ── */
+  section{margin-top:34px}
+  .shead{display:flex;align-items:baseline;gap:12px;margin-bottom:16px}
+  .shead h2{font-family:'Barlow Condensed',sans-serif;font-weight:800;font-style:italic;font-size:1.5rem;
+            text-transform:uppercase;letter-spacing:.02em}
+  .shead h2 b{color:var(--red)}
+  .shead .sub{font-size:.76rem;color:var(--text3)}
+  .stick{width:9px;height:26px;background:var(--red);display:inline-block;transform:skewX(-12deg)}
+  /* ── kpis ── */
+  .kpis{display:grid;grid-template-columns:repeat(4,1fr);gap:14px}
+  .kpi{background:var(--card);border:1px solid var(--line);border-radius:var(--rad);padding:16px 18px}
+  .kpi .v{font-family:'Barlow Condensed',sans-serif;font-weight:800;font-size:2.4rem;line-height:1;color:#fff}
+  .kpi .v.red{color:var(--red)}
+  .kpi .l{font-size:.72rem;color:var(--text2);text-transform:uppercase;letter-spacing:.05em;margin-top:6px}
+  /* ── em alta ── */
+  .alta-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(290px,1fr));gap:14px}
+  .alta{background:var(--card);border:1px solid var(--line);border-left:3px solid var(--red);
+        border-radius:var(--rad-sm);padding:15px 16px}
+  .alta .tt{font-family:'Barlow Condensed',sans-serif;font-weight:800;font-size:1.2rem;line-height:1.1;text-transform:uppercase;letter-spacing:.01em}
+  .alta .rs{font-size:.8rem;color:var(--text2);margin:6px 0 10px}
+  .alta .calor{float:right;font-size:.6rem;font-weight:700;text-transform:uppercase;letter-spacing:.06em;
+               padding:2px 7px;border-radius:5px}
+  .calor.alto{background:rgba(235,33,38,.16);color:#ff7a7e} .calor.medio{background:rgba(255,255,255,.08);color:var(--text2)}
+  .alta a.mat{display:block;font-size:.78rem;color:var(--text2);padding:5px 0;border-top:1px solid var(--line2)}
+  .alta a.mat:hover{color:#fff}
+  .alta a.mat b{color:var(--text3);font-weight:500;font-size:.68rem}
+  /* ── pautas ── */
+  .pautas{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:14px}
+  .pauta{background:linear-gradient(180deg,rgba(235,33,38,.07),var(--card));border:1px solid rgba(235,33,38,.25);
+         border-radius:var(--rad-sm);padding:15px 16px}
+  .pauta .u{font-size:.6rem;font-weight:700;text-transform:uppercase;letter-spacing:.08em;color:#0A0A0A;
+            background:var(--red);padding:2px 8px;border-radius:5px;display:inline-block;margin-bottom:9px}
+  .pauta .t{font-family:'Barlow Condensed',sans-serif;font-weight:700;font-size:1.12rem;line-height:1.15;margin-bottom:5px}
+  .pauta .p{font-size:.78rem;color:var(--text2)}
+  /* ── filtros + radar ── */
+  .filtros{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-bottom:14px}
+  .pill{font-family:'Barlow Condensed',sans-serif;font-weight:700;font-size:.84rem;text-transform:uppercase;
+        letter-spacing:.03em;padding:6px 13px;border-radius:20px;border:1px solid var(--line);
+        background:var(--card);color:var(--text2);cursor:pointer;transition:.15s}
+  .pill:hover{color:#fff;border-color:var(--text3)}
+  .pill.active{background:var(--red);border-color:var(--red);color:#fff}
+  .filtros input{margin-left:auto;background:var(--card);border:1px solid var(--line);border-radius:20px;
+                 padding:7px 15px;color:#fff;font-size:.82rem;min-width:200px;font-family:'Inter',sans-serif}
+  .filtros input::placeholder{color:var(--text3)}
+  .feed{display:flex;flex-direction:column;gap:1px;background:var(--line2);border:1px solid var(--line);border-radius:var(--rad);overflow:hidden}
+  .item{display:flex;align-items:center;gap:14px;background:var(--card);padding:13px 16px;transition:.12s}
+  .item:hover{background:var(--card2)}
+  .item .ic{width:40px;flex-shrink:0;text-align:center}
+  .item .ic span{font-family:'Barlow Condensed',sans-serif;font-weight:800;font-size:.62rem;color:var(--text3);
+                 display:block;text-transform:uppercase;letter-spacing:.03em;line-height:1.2}
+  .item .body{flex:1;min-width:0}
+  .item .ti{font-size:.92rem;font-weight:500;color:var(--text);display:block;margin-bottom:3px}
+  .item:hover .ti{color:#fff}
+  .item .meta{font-size:.7rem;color:var(--text3);display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+  .item .meta .fon{color:var(--red);font-weight:600}
+  .tag{font-size:.6rem;font-weight:700;text-transform:uppercase;letter-spacing:.05em;padding:2px 6px;border-radius:4px;
+       background:rgba(255,255,255,.06);color:var(--text2)}
+  .tag.br{background:rgba(235,33,38,.14);color:#ff7a7e}
+  .open{flex-shrink:0;color:var(--text3);font-size:1.1rem}
+  .item:hover .open{color:var(--red)}
+  .empty{padding:34px;text-align:center;color:var(--text3);background:var(--card);border:1px dashed var(--line);border-radius:var(--rad)}
+  .more{display:block;width:100%;margin-top:12px;padding:11px;text-align:center;background:var(--card);
+        border:1px solid var(--line);border-radius:var(--rad-sm);color:var(--text2);cursor:pointer;
+        font-family:'Barlow Condensed',sans-serif;font-weight:700;text-transform:uppercase;letter-spacing:.04em;font-size:.85rem}
+  .more:hover{color:#fff;border-color:var(--red)}
+  /* ── instagram ── */
+  .ig-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:12px}
+  .ig{background:var(--card);border:1px solid var(--line);border-radius:var(--rad-sm);overflow:hidden;display:block}
+  .ig:hover{border-color:var(--red)}
+  .ig .th{aspect-ratio:1;background:#222 center/cover}
+  .ig .cap{padding:9px 11px}
+  .ig .pf{font-weight:700;font-size:.76rem;color:var(--red)}
+  .ig .lg{font-size:.7rem;color:var(--text2);display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;margin:3px 0}
+  .ig .st{font-size:.66rem;color:var(--text3)}
+  /* ── fontes ── */
+  .fontes-grp{margin-bottom:18px}
+  .fontes-grp h3{font-family:'Barlow Condensed',sans-serif;font-weight:700;font-size:.95rem;text-transform:uppercase;
+                 letter-spacing:.05em;color:var(--text2);margin-bottom:9px;border-bottom:1px solid var(--line);padding-bottom:5px}
+  .fontes-list{display:flex;flex-wrap:wrap;gap:8px}
+  .fonte{display:flex;align-items:center;gap:8px;background:var(--card);border:1px solid var(--line);
+         border-radius:20px;padding:6px 13px;font-size:.8rem}
+  .fonte:hover{border-color:var(--red)}
+  .fonte .nm{font-weight:600;color:var(--text)}
+  .fonte .ln{color:var(--text3);font-size:.72rem}
+  .fonte .ln:hover{color:var(--red)}
+  /* ── marca ── */
+  .marca-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:14px}
+  .mcard{background:var(--card);border:1px solid var(--line);border-radius:var(--rad);padding:16px 18px}
+  .mcard .v{font-family:'Barlow Condensed',sans-serif;font-weight:800;font-size:2rem;color:#fff;line-height:1}
+  .mcard .l{font-size:.72rem;color:var(--text2);text-transform:uppercase;letter-spacing:.05em;margin-top:6px}
+  .mcard .h{font-size:.62rem;color:var(--text3);margin-top:8px}
+  footer{margin-top:46px;padding-top:20px;border-top:1px solid var(--line);font-size:.72rem;color:var(--text3)}
+  @media(max-width:760px){.kpis{grid-template-columns:repeat(2,1fr)}.htitle{font-size:.95rem}.htop img{height:24px}
+    .hmeta{display:none}.filtros input{margin-left:0;width:100%}}
+</style>
+</head>
+<body>
+<header>
+  <div class="hbar"></div>
+  <div class="wrap htop">
+    <img src="assets/logo-horizontal-branca.png" alt="Duas Rodas">
+    <div class="htitle">Radar de <span>Pauta</span></div>
+    <div class="hmeta">
+      <div class="integ" id="integ"></div>
+      <span id="updated">—</span>
+    </div>
+  </div>
+</header>
+
+<div class="wrap">
+
+  <section>
+    <div class="kpis" id="kpis"></div>
+  </section>
+
+  <section id="sec-alta">
+    <div class="shead"><span class="stick"></span><h2>Em <b>Alta</b> Agora</h2><span class="sub">o que vários estão cobrindo</span></div>
+    <div class="alta-grid" id="alta"></div>
+  </section>
+
+  <section id="sec-pautas" style="display:none">
+    <div class="shead"><span class="stick"></span><h2>Pautas <b>Sugeridas</b></h2><span class="sub">furos pra publicar já</span></div>
+    <div class="pautas" id="pautas"></div>
+  </section>
+
+  <section id="sec-radar">
+    <div class="shead"><span class="stick"></span><h2>Radar de <b>Matérias</b></h2><span class="sub" id="radar-sub"></span></div>
+    <div class="filtros" id="filtros"></div>
+    <div class="feed" id="feed"></div>
+    <div class="more" id="more" style="display:none">Ver mais matérias</div>
+  </section>
+
+  <section id="sec-ig" style="display:none">
+    <div class="shead"><span class="stick"></span><h2>Instagram dos <b>Concorrentes</b></h2><span class="sub">posts recentes</span></div>
+    <div class="ig-grid" id="ig"></div>
+  </section>
+
+  <section id="sec-reddit" style="display:none">
+    <div class="shead"><span class="stick"></span><h2>Pulso <b>Global</b></h2><span class="sub">comunidades de moto (Reddit)</span></div>
+    <div class="feed" id="reddit"></div>
+  </section>
+
+  <section id="sec-marca">
+    <div class="shead"><span class="stick"></span><h2>Força da <b>Marca</b> — Duas Rodas</h2><span class="sub">medição própria</span></div>
+    <div class="marca-grid" id="marca"></div>
+  </section>
+
+  <section id="sec-fontes">
+    <div class="shead"><span class="stick"></span><h2>Fontes <b>Monitoradas</b></h2><span class="sub" id="fontes-sub"></span></div>
+    <div id="fontes"></div>
+  </section>
+
+  <footer>
+    <strong style="color:var(--red)">Radar de Pauta Duas Rodas.</strong>
+    Matérias via Google News dos próprios sites monitorados (links levam à matéria original). Instagram dos concorrentes e análise de tendências por IA ligam quando as chaves forem configuradas. Atualiza de hora em hora.
+  </footer>
+</div>
+
+<script>
+const arr = x => Array.isArray(x) ? x : (x == null ? [] : [x]);
+const esc = s => (s||'').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const ext = u => `target="_blank" rel="noopener"`;
+function haQuanto(ts){
+  if(!ts) return '';
+  const d = new Date(ts); if(isNaN(d)) return '';
+  const s = (Date.now() - d.getTime())/1000;
+  if(s < 90) return 'agora';
+  if(s < 3600) return 'há '+Math.round(s/60)+' min';
+  if(s < 86400) return 'há '+Math.round(s/3600)+' h';
+  return 'há '+Math.round(s/86400)+' d';
+}
+const TIER_ORD = ['Brasil','Mundo','Corrida','Montadora','Generalista','Criador'];
+const TIER_LBL = {Brasil:'BR',Mundo:'MUNDO',Corrida:'CORRIDA',Montadora:'MARCA',Generalista:'GERAL',Criador:'CRIADOR'};
+
+let DATA = null, FILTRO = 'Todas', BUSCA = '', LIMITE = 40;
+
+async function load(){
+  try{
+    const r = await fetch('monitor-data.json?t='+Date.now(), {cache:'no-store'});
+    DATA = await r.json();
+  }catch(e){ DATA = {}; }
+  render();
+}
+
+function render(){
+  const d = DATA || {};
+  // header
+  document.getElementById('updated').textContent = d.updated_at ? ('atualizado ' + haQuanto(d.updated_at)) : '—';
+  const ig = d.integracoes || {};
+  document.getElementById('integ').innerHTML = [
+    ['News','google_news'],['IA','claude'],['Instagram','apify'],['GA4','ga4']
+  ].map(([n,k]) => `<small><span class="dot ${ig[k]?'on':'off'}"></span>${n}</small>`).join('');
+
+  // kpis
+  const mats = arr(d.materias);
+  document.getElementById('kpis').innerHTML = `
+    <div class="kpi"><div class="v red">${d.materias_24h ?? 0}</div><div class="l">Matérias nas últimas 24h</div></div>
+    <div class="kpi"><div class="v">${arr(d.fontes_monitoradas).length}</div><div class="l">Fontes monitoradas</div></div>
+    <div class="kpi"><div class="v">${arr(d.em_alta).length}</div><div class="l">Temas em alta</div></div>
+    <div class="kpi"><div class="v">${mats.length}</div><div class="l">Matérias no radar</div></div>`;
+
+  // em alta
+  const alta = arr(d.em_alta);
+  document.getElementById('sec-alta').style.display = alta.length ? '' : 'none';
+  document.getElementById('alta').innerHTML = alta.map(t => `
+    <div class="alta">
+      <span class="calor ${t.calor==='alto'?'alto':'medio'}">${t.calor==='alto'?'quente':(t.mencoes||0)+' fontes'}</span>
+      <div class="tt">${esc(t.tema)}</div>
+      ${t.resumo?`<div class="rs">${esc(t.resumo)}</div>`:''}
+      ${arr(t.materias).map(m=>`<a class="mat" href="${esc(m.url)}" ${ext()}>${esc(m.titulo)} <b>· ${esc(m.fonte)}</b></a>`).join('')}
+    </div>`).join('');
+
+  // pautas
+  const pautas = arr(d.pautas);
+  document.getElementById('sec-pautas').style.display = pautas.length ? '' : 'none';
+  document.getElementById('pautas').innerHTML = pautas.map(p => `
+    <div class="pauta">
+      <span class="u">${esc(p.urgencia||'Pauta')}</span>
+      <div class="t">${esc(p.pauta)}</div>
+      <div class="p">${esc(p.porque)}</div>
+    </div>`).join('');
+
+  // filtros
+  const tiersPresentes = TIER_ORD.filter(t => mats.some(m=>m.tier===t));
+  document.getElementById('filtros').innerHTML =
+    ['Todas',...tiersPresentes].map(t=>`<button class="pill ${FILTRO===t?'active':''}" data-f="${t}">${t}</button>`).join('')
+    + `<input id="busca" placeholder="buscar matéria, marca, piloto…" value="${esc(BUSCA)}">`;
+
+  renderFeed();
+
+  // instagram
+  const igs = arr(d.instagram);
+  document.getElementById('sec-ig').style.display = igs.length ? '' : 'none';
+  document.getElementById('ig').innerHTML = igs.slice(0,24).map(p=>`
+    <a class="ig" href="${esc(p.url)}" ${ext()}>
+      ${p.thumb?`<div class="th" style="background-image:url('${esc(p.thumb)}')"></div>`:`<div class="th"></div>`}
+      <div class="cap"><div class="pf">@${esc(p.perfil)}</div>
+      <div class="lg">${esc(p.legenda)||'—'}</div>
+      <div class="st">❤ ${(p.likes||0).toLocaleString('pt-BR')} · ${haQuanto(p.ts)}</div></div>
+    </a>`).join('');
+
+  // reddit
+  const red = arr(d.reddit);
+  document.getElementById('sec-reddit').style.display = red.length ? '' : 'none';
+  document.getElementById('reddit').innerHTML = red.map(r=>`
+    <a class="item" href="${esc(r.url)}" ${ext()}>
+      <div class="ic"><span>${esc(r.sub)}</span></div>
+      <div class="body"><span class="ti">${esc(r.titulo)}</span>
+      <div class="meta">▲ ${r.score||0} · ${r.comentarios||0} coment.</div></div>
+      <div class="open">↗</div></a>`).join('');
+
+  // marca
+  renderMarca(d.marca||{});
+
+  // fontes
+  renderFontes(arr(d.fontes_monitoradas));
+
+  // listeners
+  document.querySelectorAll('#filtros .pill').forEach(b=>b.onclick=()=>{FILTRO=b.dataset.f;LIMITE=40;render();});
+  const bi = document.getElementById('busca');
+  if(bi) bi.oninput = e => { BUSCA = e.target.value; LIMITE=40; renderFeed(); };
+}
+
+function renderFeed(){
+  const d = DATA||{};
+  let mats = arr(d.materias);
+  if(FILTRO!=='Todas') mats = mats.filter(m=>m.tier===FILTRO);
+  if(BUSCA.trim()){ const q=BUSCA.toLowerCase(); mats = mats.filter(m=>(m.titulo+' '+m.fonte).toLowerCase().includes(q)); }
+  document.getElementById('radar-sub').textContent = mats.length + ' matérias' + (FILTRO!=='Todas'?' · '+FILTRO:'');
+  const feed = document.getElementById('feed');
+  if(!mats.length){ feed.innerHTML = `<div class="empty">${d.seed?'Aguardando a primeira varredura (roda em instantes)…':'Nenhuma matéria para esse filtro.'}</div>`;
+    document.getElementById('more').style.display='none'; return; }
+  feed.innerHTML = mats.slice(0,LIMITE).map(m=>`
+    <a class="item" href="${esc(m.url)}" ${ext()}>
+      <div class="ic"><span>${TIER_LBL[m.tier]||''}</span></div>
+      <div class="body">
+        <span class="ti">${esc(m.titulo)}</span>
+        <div class="meta"><span class="fon">${esc(m.fonte)}</span>
+          <span class="tag ${m.escopo==='Brasil'?'br':''}">${esc(m.escopo)}</span>
+          <span>${haQuanto(m.ts)}</span></div>
+      </div>
+      <div class="open">↗</div>
+    </a>`).join('');
+  const more = document.getElementById('more');
+  if(mats.length>LIMITE){ more.style.display='block'; more.textContent=`Ver mais (${mats.length-LIMITE})`;
+    more.onclick=()=>{LIMITE+=40;renderFeed();}; } else more.style.display='none';
+}
+
+function renderMarca(m){
+  const cards = [];
+  if(m.ga4){ cards.push(`<div class="mcard"><div class="v">${(m.ga4.sessions||0).toLocaleString('pt-BR')}</div><div class="l">Sessões no site</div><div class="h">GA4 · ${esc(m.ga4.updated_at||'')}</div></div>`);
+    cards.push(`<div class="mcard"><div class="v">${(m.ga4.users||0).toLocaleString('pt-BR')}</div><div class="l">Usuários</div><div class="h">GA4</div></div>`); }
+  if(m.instagram){ cards.push(`<div class="mcard"><div class="v">${(m.instagram.seguidores||0).toLocaleString('pt-BR')}</div><div class="l">Seguidores Instagram</div><div class="h">@${esc(m.instagram.handle||'')}</div></div>`); }
+  document.getElementById('marca').innerHTML = cards.length ? cards.join('')
+    : `<div class="empty" style="grid-column:1/-1">Medição da marca (GA4 do site + redes + citações) liga assim que o acesso do GA4 e as chaves forem configurados.</div>`;
+}
+
+function renderFontes(fontes){
+  document.getElementById('fontes-sub').textContent = fontes.length + ' veículos e perfis';
+  const byTier = {};
+  fontes.forEach(f=>{ (byTier[f.tier] = byTier[f.tier]||[]).push(f); });
+  document.getElementById('fontes').innerHTML = TIER_ORD.filter(t=>byTier[t]).map(t=>`
+    <div class="fontes-grp">
+      <h3>${t}</h3>
+      <div class="fontes-list">${byTier[t].map(f=>`
+        <span class="fonte"><span class="nm">${esc(f.nome)}</span>
+          ${f.site?`<a class="ln" href="${esc(f.site)}" ${ext()} title="site">site ↗</a>`:''}
+          ${f.ig?`<a class="ln" href="https://instagram.com/${esc(f.ig)}" ${ext()} title="instagram">@${esc(f.ig)}</a>`:''}
+        </span>`).join('')}</div>
+    </div>`).join('');
+}
+
+load();
+setInterval(load, 5*60*1000); // re-checa a cada 5 min
+</script>
+</body>
+</html>

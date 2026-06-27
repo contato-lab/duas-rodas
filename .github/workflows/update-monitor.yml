@@ -1,0 +1,35 @@
+name: Radar de Pauta Duas Rodas
+
+on:
+  schedule:
+    - cron: '20 * * * *'   # de hora em hora (velocidade de furo importa)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  radar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Varredura de materias e tendencias
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
+          DUAS_RODAS_IG: ${{ secrets.DUAS_RODAS_IG }}
+          DUAS_RODAS_SITE: ${{ secrets.DUAS_RODAS_SITE }}
+        run: python monitor-materias.py
+
+      - name: Commit
+        run: |
+          git config user.name "duas-rodas-bot"
+          git config user.email "actions@github.com"
+          git add monitor-data.json
+          git diff --cached --quiet || git commit -m "chore: radar de pauta automatico [skip ci]"
+          git pull --rebase origin main 2>/dev/null || true
+          git push
