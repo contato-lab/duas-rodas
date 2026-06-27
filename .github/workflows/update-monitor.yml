@@ -23,6 +23,7 @@ jobs:
           APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
           DUAS_RODAS_IG: ${{ secrets.DUAS_RODAS_IG }}
           DUAS_RODAS_SITE: ${{ secrets.DUAS_RODAS_SITE }}
+          FORCE_PESADO: ${{ github.event_name == 'workflow_dispatch' && '1' || '' }}
         run: python monitor-materias.py
 
       - name: Commit

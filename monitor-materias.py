@@ -30,6 +30,14 @@ HOJE = AGORA.strftime('%Y-%m-%d')
 DUAS_RODAS_IG = os.environ.get('DUAS_RODAS_IG', 'revistaduasrodas')  # ajuste se o @ for outro
 DUAS_RODAS_SITE = os.environ.get('DUAS_RODAS_SITE', '')               # dominio do site, se houver
 
+
+def _janela_pesada():
+    """As partes que custam (Apify=Instagram, Claude=IA) rodam so ~3x/dia: 07h, 13h e 19h BRT.
+    O Google News (gratis) continua de hora em hora. Disparo manual sempre roda tudo (FORCE_PESADO)."""
+    if os.environ.get('FORCE_PESADO'):
+        return True
+    return AGORA.hour in (10, 16, 22)   # UTC -> 07h, 13h, 19h BRT
+
 # ───────────────────────── FONTES MONITORADAS ─────────────────────────
 # nome, instagram (sem @), site, escopo, tier
 FONTES = [
@@ -282,7 +290,7 @@ def claude_analise(materias, data):
                              'mencoes': len(mats), 'materias': [{'titulo': x['titulo'], 'url': x['url'],
                                                                 'fonte': x['fonte']} for x in mats[:5]]})
         if tend:
-            data['em_alta'] = tend
+            data['tendencias_ia'] = tend   # em_alta fica com a versao por palavra-chave (fresca/horaria)
         if d.get('pautas'):
             data['pautas'] = d['pautas'][:5]
         if d.get('resumo'):
@@ -363,6 +371,14 @@ def marca_ga4(data):
 
 
 def main():
+    # herda do ciclo anterior o que so atualiza algumas vezes ao dia (IA e Instagram),
+    # pra esses blocos nao sumirem nas rodadas horarias que nao os recalculam.
+    try:
+        with open(OUT_FILE, encoding='utf-8') as f:
+            prev = json.load(f)
+    except Exception:
+        prev = {}
+
     materias, vistos = [], set()
     for f in FONTES:
         materias.extend(google_news_fonte(f, vistos))
@@ -377,14 +393,22 @@ def main():
         'total_materias': len(materias),
         'materias_24h': len([m for m in materias if m.get('ts', '') >= (AGORA - timedelta(hours=24)).strftime('%Y-%m-%dT%H:%M:%SZ')]),
         'reddit': reddit_trends(),
-        'em_alta': em_alta_keywords(materias),
-        'pautas': [],
-        'marca': {},
+        'em_alta': em_alta_keywords(materias),          # sempre fresco, de graca
+        'pautas': prev.get('pautas', []),               # IA atualiza so nas janelas pesadas
+        'resumo_ia': prev.get('resumo_ia', ''),
+        'instagram': prev.get('instagram', []),         # Apify atualiza so nas janelas pesadas
+        'marca': prev.get('marca', {}),
     }
 
-    marca_ga4(data)
-    apify_instagram(data)
-    claude_analise(materias, data)  # sobrescreve em_alta/pautas/resumo se a chave existir
+    marca_ga4(data)   # le arquivo local (ga4-data.json), sem custo, roda sempre
+
+    pesado = _janela_pesada()
+    if pesado:
+        apify_instagram(data)            # Instagram dos concorrentes + seguidores Duas Rodas
+        claude_analise(materias, data)   # pautas + resumo via IA (Haiku)
+        data['pesado_em'] = AGORA.strftime('%Y-%m-%dT%H:%M:%SZ')
+    else:
+        data['pesado_em'] = prev.get('pesado_em')
 
     data['integracoes'] = {
         'google_news': True,
@@ -392,6 +416,7 @@ def main():
         'claude': bool(os.environ.get('ANTHROPIC_API_KEY')),
         'apify': bool(os.environ.get('APIFY_TOKEN')),
         'ga4': 'ga4' in data.get('marca', {}),
+        'janela_pesada': pesado,
     }
 
     tmp = OUT_FILE + '.tmp'
@@ -399,7 +424,7 @@ def main():
         json.dump(data, f, ensure_ascii=False, indent=1)
     os.replace(tmp, OUT_FILE)
     print(f'ok: {len(materias)} materias ({data["materias_24h"]} em 24h), '
-          f'{len(data["em_alta"])} temas em alta, {len(data["reddit"])} trends reddit')
+          f'{len(data["em_alta"])} temas em alta, pesado={pesado}')
 
 
 if __name__ == '__main__':
