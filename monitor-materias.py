@@ -246,30 +246,11 @@ def em_alta_keywords(materias):
     return [{'tema': k, 'mencoes': v, 'materias': exemplos[k][:4]} for k, v in tops if v >= 2][:8]
 
 
-def duas_rodas_cobertura():
-    """Titulos publicados recentemente pela propria Duas Rodas (para comparar e achar furos)."""
-    dom = dominio(DUAS_RODAS_SITE)
-    if not dom:
-        return []
-    out = []
-    try:
-        url = ('https://news.google.com/rss/search?q=' + urllib.parse.quote(f'site:{dom} when:8d')
-               + '&' + _locale('Brasil'))
-        root = ElementTree.fromstring(fetch(url))
-        for item in list(root.iter('item'))[:40]:
-            t = (item.findtext('title') or '').strip()
-            if t:
-                out.append(t)
-        print(f'[dr-cobertura] {len(out)} materias da Duas Rodas')
-    except Exception as e:
-        print(f'[dr-cobertura] {e}', file=sys.stderr)
-    return out
-
-
-def pautas_gap(materias):
-    """FURO sem IA: temas que >=2 concorrentes cobriram nas ultimas 24h e que a propria Duas Rodas
-    ainda NAO publicou (compara com a cobertura recente do site da revista). E o 'comeu bola'."""
-    cut = (AGORA - timedelta(hours=24)).strftime('%Y-%m-%dT%H:%M:%SZ')
+def pautas_gap(materias, dr_termos=None):
+    """Temas que os concorrentes mais publicaram nas ultimas 48h, com exemplos clicaveis.
+    Quando temos a cobertura real da Duas Rodas (posts do IG dela, via Apify), marca como FURO
+    o tema que ela ainda nao postou. Sem isso, lista so os temas quentes (sem alegar furo)."""
+    cut = (AGORA - timedelta(hours=48)).strftime('%Y-%m-%dT%H:%M:%SZ')
     recentes = [m for m in materias if m.get('ts', '') >= cut]
     por_tema = {}
     for m in recentes:
@@ -278,21 +259,19 @@ def pautas_gap(materias):
             d['fontes'].add(m['fonte'])
             if len(d['ex']) < 4:
                 d['ex'].append({'titulo': m['titulo'], 'url': m['url'], 'fonte': m['fonte']})
-    dr_termos = set()
-    for t in duas_rodas_cobertura():
-        for termo in TERMOS.finditer(t):
-            dr_termos.add(termo.group(0).title())
-    pautas = []
-    for termo, d in sorted(por_tema.items(), key=lambda kv: -len(kv[1]['fontes'])):
-        if len(d['fontes']) >= 2 and termo not in dr_termos:
-            pautas.append({
+    itens = []
+    for termo, d in por_tema.items():
+        if len(d['fontes']) >= 2:
+            furo = bool(dr_termos) and termo not in dr_termos
+            itens.append({
                 'pauta': termo,
-                'urgencia': f"{len(d['fontes'])} fontes em 24h",
-                'porque': 'Concorrentes ja publicaram e a Duas Rodas ainda nao cobriu nos ultimos dias.',
-                'fontes': len(d['fontes']),
-                'materias': d['ex'],
+                'urgencia': f"{len(d['fontes'])} fontes / 48h",
+                'porque': ('A Duas Rodas ainda nao postou sobre esse tema; concorrentes ja publicaram.'
+                           if furo else f"{len(d['fontes'])} fontes publicaram sobre isso nas ultimas 48h."),
+                'furo': furo, 'fontes': len(d['fontes']), 'materias': d['ex'],
             })
-    return pautas[:6]
+    itens.sort(key=lambda x: (not x['furo'], -x['fontes']))   # furos primeiro, depois mais fontes
+    return itens[:8]
 
 
 # ───────────────────────── Claude (opcional) ─────────────────────────
@@ -393,6 +372,9 @@ def apify_instagram(data):
                 data.setdefault('marca', {})['instagram'] = {
                     'handle': DUAS_RODAS_IG, 'seguidores': it.get('followersCount'),
                     'posts': it.get('postsCount')}
+                caps = ' '.join((p.get('caption') or '') for p in (it.get('latestPosts') or []))
+                if caps.strip():
+                    data['_dr_post_termos'] = sorted({m.group(0).title() for m in TERMOS.finditer(caps)})
         except Exception as e:
             print(f'[apify-dr] {e}', file=sys.stderr)
 
@@ -453,8 +435,11 @@ def main():
 
     pesado = _janela_pesada()
     if pesado:
-        apify_instagram(data)            # Instagram dos concorrentes + seguidores Duas Rodas
-        claude_analise(materias, data)   # pautas + resumo via IA (Haiku)
+        apify_instagram(data)            # Instagram dos concorrentes + seguidores/posts Duas Rodas
+        drt = data.pop('_dr_post_termos', None)
+        if drt is not None:              # cobertura real da DR (posts dela) -> marca os FUROS de verdade
+            data['pautas'] = pautas_gap(materias, drt)
+        claude_analise(materias, data)   # refina pautas + resumo via IA (Haiku), se a chave existir
         data['pesado_em'] = AGORA.strftime('%Y-%m-%dT%H:%M:%SZ')
     else:
         data['pesado_em'] = prev.get('pesado_em')

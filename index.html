@@ -68,6 +68,7 @@
          border-radius:var(--rad-sm);padding:15px 16px}
   .pauta .u{font-size:.6rem;font-weight:700;text-transform:uppercase;letter-spacing:.08em;color:#0A0A0A;
             background:var(--red);padding:2px 8px;border-radius:5px;display:inline-block;margin-bottom:9px}
+  .pauta .u.q{background:rgba(255,255,255,.12);color:var(--text2)}
   .pauta .t{font-family:'Barlow Condensed',sans-serif;font-weight:700;font-size:1.12rem;line-height:1.15;margin-bottom:5px}
   .pauta .p{font-size:.78rem;color:var(--text2)}
   .pauta a.mat{display:block;font-size:.76rem;color:var(--text2);padding:5px 0 0;margin-top:7px;border-top:1px solid var(--line2)}
@@ -160,7 +161,7 @@
   </section>
 
   <section id="sec-pautas" style="display:none">
-    <div class="shead"><span class="stick"></span><h2>Furos <b>de Pauta</b></h2><span class="sub">os concorrentes publicaram e a Duas Rodas ainda não</span></div>
+    <div class="shead"><span class="stick"></span><h2>Furos & <b>Temas Quentes</b></h2><span class="sub">o que os concorrentes mais publicaram nas últimas 48h</span></div>
     <div class="pautas" id="pautas"></div>
   </section>
 
@@ -256,7 +257,7 @@ function render(){
   document.getElementById('sec-pautas').style.display = pautas.length ? '' : 'none';
   document.getElementById('pautas').innerHTML = pautas.map(p => `
     <div class="pauta">
-      <span class="u">${esc(p.urgencia||'Pauta')}</span>
+      <span class="u${p.furo?'':' q'}">${p.furo?'🔴 Furo':'Quente'} · ${esc(p.urgencia||'')}</span>
       <div class="t">${esc(p.pauta)}</div>
       <div class="p">${esc(p.porque)}</div>
       ${arr(p.materias).map(m=>`<a class="mat" href="${esc(m.url)}" ${ext()}>${esc(m.titulo)} <b>· ${esc(m.fonte)}</b></a>`).join('')}
