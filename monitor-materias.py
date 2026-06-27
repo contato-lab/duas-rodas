@@ -133,24 +133,53 @@ def _locale(escopo):
     return 'hl=en-US&gl=US&ceid=US:en'
 
 
+# Fontes que cobrem MUITO carro/F1/futebol alem de moto: exigem sinal de moto no titulo
+MIXED = {'UOL Carros', 'Quatro Rodas', 'Motor1.com Brasil', 'Motorsport.com', 'Autosport',
+         'Garagem 360', 'Motorsport.com Brasil'}
+MOTO_RX = re.compile(
+    r'\bmoto(s|ca|cicl|gp|2|3|cross|velocidade)?\b|superbike|\bwsbk\b|scooter|\bnaked\b|big trail|'
+    r'\benduro\b|motocross|capacete|pilotagem|duas rodas|ducati|kawasaki|ninja|\bktm\b|triumph|'
+    r'harley|royal enfield|aprilia|mv agusta|husqvarna|vespa|\bhornet\b|\bxre\b|\bbiz\b|\bcb\s?\d|'
+    r'\bcg\s?\d|\bgsx|\bmt-?\d|\br\s?1300\b|marc marquez|marquez|bagnaia|acosta|quartararo|'
+    r'bezzecchi|vi[ñn]ales|bastianini|aldeguer|piloto', re.I)
+# loja / manual / merch / classificado: nao e materia jornalistica
+JUNK_RX = re.compile(
+    r'\b(t-?shirt|camiseta|moletom|jacket|jaqueta|gloves|luvas?|boots?|botas?|apparel|merch|'
+    r'store|loja|cat[áa]logo|catalog|manual|owner|wallpaper|papel de parede|for sale|'
+    r'à venda|a venda|usad[oa]s?|seminov|0\s?km|fipe|cons[óo]rcio|financiamento|plaid|'
+    r'kit de|pe[çc]as|accessor|acess[óo]rios?|gift|sale\b|hoodie|bon[ée])\b', re.I)
+CLASSIF_RX = re.compile(
+    r'-\s*\d{4,}\s*-|\b\d{6,}\b|'
+    r'\b[A-ZÀ-Ú][a-zà-ú]+\s+(SP|RJ|MG|PR|RS|SC|BA|GO|DF|CE|PE|ES|MT|MS|PB|RN|PA|AM|AL|SE|PI|MA|TO|RO|AC|AP|RR)\s*$')
+
+
 def google_news_fonte(fonte, vistos, dias=10):
-    """Materias recentes publicadas no dominio da fonte, via Google News RSS (site:)."""
+    """Materias recentes publicadas no dominio da fonte, via Google News RSS (site:).
+    Montadoras sao puladas (o site so traz loja/manual; o lancamento vem pela imprensa e pelo IG)."""
     nome, ig, site, escopo, tier = fonte
     dom = dominio(site)
-    if not dom:
+    if not dom or tier == 'Montadora':
         return []
     out = []
     try:
         q = f'site:{dom} when:{dias}d'
         url = ('https://news.google.com/rss/search?q=' + urllib.parse.quote(q) + '&' + _locale(escopo))
         root = ElementTree.fromstring(fetch(url))
-        for item in list(root.iter('item'))[:8]:
-            t = (item.findtext('title') or '').strip()
+        for item in list(root.iter('item'))[:10]:
+            t0 = (item.findtext('title') or '').strip()
             l = (item.findtext('link') or '').strip()
-            if not t or not l or l in vistos:
+            if not t0 or not l or l in vistos:
                 continue
-            # o titulo do Google News vem "Titulo - Fonte"; limpa o sufixo da fonte
-            t = re.sub(r'\s*[\-–—]\s*[^\-–—]{1,40}$', '', t).strip() or t
+            # o titulo do Google News vem "Titulo - Fonte"; tira o sufixo da fonte
+            t = re.sub(r'\s*[\-–—]\s*[^\-–—]{3,40}$', '', t0).strip()
+            if len(t) < 15:
+                t = t0
+            if len(t) < 15 or t.lower() == nome.lower():
+                continue
+            if JUNK_RX.search(t) or CLASSIF_RX.search(t):
+                continue
+            if nome in MIXED and not MOTO_RX.search(t):
+                continue
             out.append({
                 'titulo': _limpa(t), 'url': l, 'fonte': nome, 'ig': ig,
                 'escopo': escopo, 'tier': tier, 'dominio': dom,
@@ -189,7 +218,7 @@ STOP = set('de da do das dos a o e em no na para por com que the of to in on and
 TERMOS = re.compile(r'\b(MotoGP|Superbike|WSBK|Ducati|Yamaha|Honda|Kawasaki|Suzuki|KTM|BMW|Triumph|'
                     r'Harley|Royal Enfield|Marc Marquez|Marquez|Bagnaia|Acosta|Bastianini|Quartararo|'
                     r'Vinales|Aprilia|Bezzecchi|el[ée]trica|el[ée]trico|big trail|naked|scooter|'
-                    r'Interlagos|Goi[âa]nia|Brasil|lan[çc]amento|recall)\b', re.I)
+                    r'Interlagos|Goi[âa]nia|lan[çc]amento|recall)\b', re.I)
 
 def em_alta_keywords(materias):
     cont = {}
