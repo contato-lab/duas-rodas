@@ -30,7 +30,7 @@ jobs:
 
       - name: Run GA4 update
         env:
-          GA4_PROPERTY_ID: '40156199'
+          GA4_PROPERTY_ID: '397973331'
           GOOGLE_ADS_CLIENT_ID:     ${{ secrets.GOOGLE_ADS_CLIENT_ID }}
           GOOGLE_ADS_CLIENT_SECRET: ${{ secrets.GOOGLE_ADS_CLIENT_SECRET }}
           GOOGLE_ADS_REFRESH_TOKEN: ${{ secrets.GOOGLE_ADS_REFRESH_TOKEN }}

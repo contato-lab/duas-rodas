@@ -13,7 +13,7 @@ from google.analytics.data_v1beta.types import (
     DateRange, Dimension, Metric, OrderBy, RunReportRequest,
 )
 
-PROPERTY_ID = os.environ.get("GA4_PROPERTY_ID", "40156199")
+PROPERTY_ID = os.environ.get("GA4_PROPERTY_ID", "397973331")
 OUT_FILE = "ga4-data.json"
 SCOPES = ["https://www.googleapis.com/auth/analytics.readonly"]
 
