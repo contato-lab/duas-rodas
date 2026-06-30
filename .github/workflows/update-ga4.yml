@@ -1,0 +1,46 @@
+name: Update GA4 Duas Rodas
+
+on:
+  schedule:
+    - cron: '40 */2 * * *'   # a cada 2h (trafego do site nao muda minuto a minuto)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  id-token: write            # necessario para Workload Identity Federation
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Authenticate to Google Cloud (WIF)
+        uses: google-github-actions/auth@v2
+        with:
+          workload_identity_provider: 'projects/929942968095/locations/global/workloadIdentityPools/github-actions/providers/github-actions'
+          service_account: 'festival-interlagos-dashboard@mercurial-shape-490621-h5.iam.gserviceaccount.com'
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install deps
+        run: pip install google-analytics-data google-auth google-auth-oauthlib
+
+      - name: Run GA4 update
+        env:
+          GA4_PROPERTY_ID: '40156199'
+          GOOGLE_ADS_CLIENT_ID:     ${{ secrets.GOOGLE_ADS_CLIENT_ID }}
+          GOOGLE_ADS_CLIENT_SECRET: ${{ secrets.GOOGLE_ADS_CLIENT_SECRET }}
+          GOOGLE_ADS_REFRESH_TOKEN: ${{ secrets.GOOGLE_ADS_REFRESH_TOKEN }}
+        run: python update-ga4.py
+
+      - name: Commit
+        run: |
+          git config user.name  "ga4-bot"
+          git config user.email "actions@github.com"
+          git add ga4-data.json
+          git diff --staged --quiet || git commit -m "chore: update ga4-data.json [skip ci]"
+          git pull --rebase origin main 2>/dev/null || true
+          git push
