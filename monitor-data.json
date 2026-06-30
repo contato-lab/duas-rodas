@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-06-30T04:38:31Z",
+ "updated_at": "2026-06-30T08:39:39Z",
  "fontes_monitoradas": [
   {
    "nome": "Grid Motors",
@@ -347,6 +347,26 @@
  ],
  "materias": [
   {
+   "titulo": "STATE OF PLAY: What is the latest in WorldSSP’s Riders’, Manufacturers’ and Teams’ Championships?",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYmZqUGpIN3RMd29LY0NMVXZtM1NEbGgwYkZOenhCMlpSTTBnYXJUMGJzbm9OQ0VRNzZTM1RtZjNiLTliOVhlVW5QT0ZJemZnbnV1bnp3OVhwd2x4bWlxdkRtSmhHazM5WlRKRmJEWE5aeV9uS2sxMnN4ZlNqbS15QXpRWm11Z0hFVzN0Z3c5b25uQ2pIU0QwV2JHV2ZncGg2Y3lGZG9LcEFPOGhvOEdwSnhpcS1qbmUyTF9RMFE5N0h2SDZ4TXVJQ1VNNzZlTU1sOHpiYU9DTHpqUQ?oc=5",
+   "fonte": "WorldSBK (Superbike)",
+   "ig": "worldsbk",
+   "escopo": "Global",
+   "tier": "Corrida",
+   "dominio": "worldsbk.com",
+   "ts": "2026-06-30T07:44:41Z"
+  },
+  {
+   "titulo": "Superbike team launches electronic kit designed for Ducati Panigale V4 models",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbWRKb2pJTzhMOHhKcUlObDBNVUkybVlZN0R2SjdIMGloZG9GVDQ3Y3dWbUl1TDkxRkRBc0JoY0xWNVFxbEwyN0YwNV9FZU5HU2NfMnFEZmRFN2pYalRhQjVqOS1YZWlLaHM1d2F0ajdpSi0ySWU2b3p1QlUybC1WRzBDa2hOLVBRVENjbkwzTjRDb1RnQzBia3RQTHByQmU3VHlXWExtQQ?oc=5",
+   "fonte": "Visordown",
+   "ig": "visordown",
+   "escopo": "Global",
+   "tier": "Mundo",
+   "dominio": "visordown.com",
+   "ts": "2026-06-30T07:00:00Z"
+  },
+  {
    "titulo": "Tati Paze leva o Brasil ao lugar mais alto do pódio nos Estados Unidos",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdWVrNWpKaWwtbUdLQjdYa01JVU53WHVFTUItaHFmX2F2LWZUejRMQWdhUm9XbmFId0lvSkFvU1FUNkE0SlpxYXRNOUVBOUpPMzVCVkIwNlJ2aGlyUExKV1YwX2hzTkpyVHZic3lHUlA1cVc1dHpMbEhPTnFhQWFiQV95QXliajhEbHlIS1EzeDRlb0JhNVpiZjRZMGZ0WDl6UkE?oc=5",
    "fonte": "Revista Moto Adventure",
@@ -437,14 +457,14 @@
    "ts": "2026-06-29T13:36:18Z"
   },
   {
-   "titulo": "MotoGP, Marco Bezzecchi: \"What a blow... time to take care of my aches and pains\"",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNLVRxSXFkWFROSExoUWxPMkVWTUttVnFkZ3ZMelotY3VVdVA3elloR0EyanpFcDdKelo4M01XdTNncUQtTlhCMXZoSnB1ZDV4LUJJdjRQcUFCQl91VWRkVktCYnJhYmJPOFhFZWxma00wNVJVeEV5RlI2UDdwYU9rRldhTVNKcE5nU3hpVmpKakswcWsyUWhuMExUYmhkM0JPVmNSNndnVWU2bUxDUFNNOFFNQU5IUQ?oc=5",
-   "fonte": "GPOne",
-   "ig": "gponedotcom",
-   "escopo": "Global",
+   "titulo": "MOTO1000GP chega a Minas Gerais com velocidade e ativações para o público neste fim de semana",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOd3JscUx6cTJVRG9UOFhzeXdXWGtnUFRtLURjR1Y2RnJlcmNIT3hQczJSN05obm5wcllqY0tLVXJFRmJOazR1M3VBNVZ3ZVg4LThmVjZ6dWZiQUtjUk8yVC1yNUEtQ0puVENGQWxhQzVsZ2FzaFI5UFlIRGtaUWhrZE8tSV9fRG10b1A4NERRZXMwVXV5SC1MZGpaSkl4empia0lUZWtkOUZCZFBraVpNc0JudDY?oc=5",
+   "fonte": "MOTO1000GP",
+   "ig": "moto1000gp",
+   "escopo": "Brasil",
    "tier": "Corrida",
-   "dominio": "gpone.com",
-   "ts": "2026-06-29T13:16:42Z"
+   "dominio": "m1gp.com.br",
+   "ts": "2026-06-29T12:00:00Z"
   },
   {
    "titulo": "Marc Márquez and the Ducati Lenovo Team seventh in the Assen race. Francesco Bagnaia forced into an early retirement while running fourth",
@@ -475,6 +495,16 @@
    "tier": "Mundo",
    "dominio": "rideapart.com",
    "ts": "2026-06-29T11:21:00Z"
+  },
+  {
+   "titulo": "register - WorldSBK",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5DTm9oNFdnSHRmTDQ0cDl2M0VjWUU0bHVVLVF4Q0lBZVJJTzZiODZSdVAwN2lTV1JLUHE5cjFYWE1hQXpLMTJGMF9neHE?oc=5",
+   "fonte": "WorldSBK (Superbike)",
+   "ig": "worldsbk",
+   "escopo": "Global",
+   "tier": "Corrida",
+   "dominio": "worldsbk.com",
+   "ts": "2026-06-29T11:08:43Z"
   },
   {
    "titulo": "“A bit worried” - Ducati “must improve” in Aprilia MotoGP title fight",
@@ -515,6 +545,16 @@
    "tier": "Generalista",
    "dominio": "autosport.com",
    "ts": "2026-06-29T11:00:03Z"
+  },
+  {
+   "titulo": "Suspicious Mercedes boss Toto Wolff queries how Ferrari can afford “limitless” F1 upgrades",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaERiLWtITmdqbkZ5ZzNtNnd1Ul9SZkljR3RZX2Rrb3ZyYTNWVF9HZG9zMUlNRUI1dThGS1pZcWRwb0QtcG1FSHJNeGZPS2FLVXdVeFdKTXA5WElLdFpBT3JsVDhtN2wteGdzLW5GSXdBcUhvT2ZRSC1LSU96a3Zycnpfek95bmNsVEFFZ0I4MktNOGhzSzF1N3U0NFlNQXNteTB1WDNfWEJXdjJTWVBld3NTcE5JQ09kMU9N?oc=5",
+   "fonte": "Crash MotoGP",
+   "ig": "crashmotogp_",
+   "escopo": "Global",
+   "tier": "Corrida",
+   "dominio": "crash.net",
+   "ts": "2026-06-29T10:19:26Z"
   },
   {
    "titulo": "“It's wrong!” - Brad Binder on “unfair” Assen MotoGP penalty",
@@ -597,6 +637,26 @@
    "ts": "2026-06-29T08:40:05Z"
   },
   {
+   "titulo": "STATE OF PLAY: What is the latest in WorldSBK’s Riders’, Manufacturers’ and Teams’ Championships?",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRDdISGswdmcxekVXRlpYaVNWbGhHUm02cC0tV3RLZVFnVWRod0F6UG04a1ozM3lIcWp5RnJudnNjNklPUEtISVoyQ1hWVVhlNWtwdkEtaVlhaFg1SFVJaFVhTVA4LXgzOHpSV1pBWGxMS2FlX014Q19xNzItZElRSkZiNlBJby1aNzZnQTlFT3JaaGFaQUpHWUhNTDlTdE9yQWx0WlE1Zzg1LXlNU0VlUXN2TkljVVU1VHhaX0hhY1BYczBaZktxLUZEbFJUdWdyQm5EcHBoLTlJQQ?oc=5",
+   "fonte": "WorldSBK (Superbike)",
+   "ig": "worldsbk",
+   "escopo": "Global",
+   "tier": "Corrida",
+   "dominio": "worldsbk.com",
+   "ts": "2026-06-29T08:11:52Z"
+  },
+  {
+   "titulo": "- sso.worldsbk.com",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBzb2wtdzJYSmlxMUs0ZXZ4N0xKTnVRcEVYTzhSMC1YN2laeHFWb1BJbEhwU3pvQVAtRFRTVFpNWHRlallQSHZvLWlJZjE?oc=5",
+   "fonte": "WorldSBK (Superbike)",
+   "ig": "worldsbk",
+   "escopo": "Global",
+   "tier": "Corrida",
+   "dominio": "worldsbk.com",
+   "ts": "2026-06-29T08:01:21Z"
+  },
+  {
    "titulo": "Why Marc Marquez’s lacklustre Assen round was his biggest win of MotoGP 2026",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVF91MFg4TFRSZmxwRHVvcHlqcmw0ZS05MnZIRHlzZk9iZERRcTVtQTJ2SFY5WHJDRjZiV2ozMkFUZ1BrLXFycEk2SVd1Wks1Q0szUUJINEJ4bk1sRndEM1BVdEZzQUVldS1uMDlJN1pEVmJXUWRSUjAzV3l2T01OamZleE5hdGhNb25ZN2RYUmlHcEQ4WUs1cmxiSE9HZngzd1BKSEQtbmE4YU9RcV9BZnQ5bndHVjUzTkNr?oc=5",
    "fonte": "Crash MotoGP",
@@ -607,8 +667,18 @@
    "ts": "2026-06-29T08:00:00Z"
   },
   {
+   "titulo": "Fernandez: \"I thought I wouldn't be able to race... We fought to the end\"",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUEhKZWxlT2EtVWVMQ2dScDVqbUdkYXRBZG1PSEFTTm1oN3BQT3NTME9hNVk5Q3NYalVIZGlYY1Mtb3NCcmhUR1llcW02QkdHSF9HS21mNUNKTjBYSjJkZDFVdVZGTFptSmhSWVh4UHBHSW5fdEI1VHhWOU9PTE56VmNGYzZLc2VTUWNpMFFWcjNKaDEyQUVjZVpJNElPNVBRY3FIZjRsd2twcXlyMGkzbXVCMzluVnpDdmc?oc=5",
+   "fonte": "MotoGP",
+   "ig": "motogp",
+   "escopo": "Global",
+   "tier": "Corrida",
+   "dominio": "motogp.com",
+   "ts": "2026-06-29T07:30:00Z"
+  },
+  {
    "titulo": "Grand Prix MXGP of Portugal R10 2026 Race Day",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMnB4akc5QUExT09nQ1JVOE5rdEdyckw0OGFhSk80cmg4NWd6VlRBTzBlUWtvY3o2cFBoTnVDOTZRRjljYkxJaXJhc2F6T1JSZ2o2RVIzbTh2aG1zMm5Zdm1XZmVXaE1Gdk5PVDRDTWpLcFhWVWFsZ1U3aTN5a3BkNmtTb2IwbG5LM1RPc1Y0aG9IRnlTVG9Kc2dIWXIyQQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVy1XNUUtNjhJVWhUc1RsTkQ2VDc1WEExWGFNaWRxV2x0bDVxWlJkTWxSTm5LWmdzTmNCQzluemFzZnl6NGN3WlVBOWlwSXBfSVduT0ZDSFA0OE8tc1ZUX3l1M3RZZzVmMEVJeFpvVDBrS2V4a0p1SGNHVzB3cjB2RW5jVFJmRFlHOGVjNlZxZVRISG9NTGcxZ2tDZThVdw?oc=5",
    "fonte": "Ducati Corse",
    "ig": "ducaticorse",
    "escopo": "Global",
@@ -625,6 +695,16 @@
    "tier": "Brasil",
    "dominio": "motonline.com.br",
    "ts": "2026-06-29T01:00:53Z"
+  },
+  {
+   "titulo": "Checks reveal no injuries for Bezzecchi",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYzJ3WV9mOHQzUkJIYTFubWFkT3RSSWF4aWpvYmF5eGhvcEVrblduaTZjakdzQWoyblFjYUp5U3I5cE50ODQ5OGZLaHFIVFBCczc5UDFXMDI2NFd6ZlYyYnV0TEZHNDlzQWM1Zm1YNnRhb2ItNWF6YXlTN3NZSU1HTUxWT3FhZ0JpVDg3d2daTHIwYW8?oc=5",
+   "fonte": "MotoGP",
+   "ig": "motogp",
+   "escopo": "Global",
+   "tier": "Corrida",
+   "dominio": "motogp.com",
+   "ts": "2026-06-28T21:22:56Z"
   },
   {
    "titulo": "MotoGP, Rivola: “Bezzecchi has been through a lot lately; he needs to take a break”",
@@ -645,16 +725,6 @@
    "tier": "Corrida",
    "dominio": "gpone.com",
    "ts": "2026-06-28T16:15:20Z"
-  },
-  {
-   "titulo": "Checks reveal no injuries for Bezzecchi",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYzJ3WV9mOHQzUkJIYTFubWFkT3RSSWF4aWpvYmF5eGhvcEVrblduaTZjakdzQWoyblFjYUp5U3I5cE50ODQ5OGZLaHFIVFBCczc5UDFXMDI2NFd6ZlYyYnV0TEZHNDlzQWM1Zm1YNnRhb2ItNWF6YXlTN3NZSU1HTUxWT3FhZ0JpVDg3d2daTHIwYW8?oc=5",
-   "fonte": "MotoGP",
-   "ig": "motogp",
-   "escopo": "Global",
-   "tier": "Corrida",
-   "dominio": "motogp.com",
-   "ts": "2026-06-28T16:13:10Z"
   },
   {
    "titulo": "“Impossible”: Toprak Razgatlioglu explains cause of Assen MotoGP retirement",
@@ -705,16 +775,6 @@
    "tier": "Corrida",
    "dominio": "crash.net",
    "ts": "2026-06-28T15:29:56Z"
-  },
-  {
-   "titulo": "‘I forgot the rules’ - Di Giannantonio on Assen MotoGP penalty in Marc Marquez battle",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaXRWNmhuQTVJQ0YyMkM2SUpmMmYzUXJQaURCcEh1RGFwcjJfRkgzbTdiTHlNYS0wMXhTYmdEM3dUTWozRWg5aEQ5U1E0bjVGbjZrT1FaUGRPU2liRkdWX25BOWU2OFFDU2xTUWJNSGUyRkVYaFRxbGhDbW1SZURZcjNaWFlTbGMzdDRidmxzRFJfUHY1WXVMeFpPeVR2amVKd2szNW82aW11RVJfd1JJLVZLTGUzUQ?oc=5",
-   "fonte": "Crash MotoGP",
-   "ig": "crashmotogp_",
-   "escopo": "Global",
-   "tier": "Corrida",
-   "dominio": "crash.net",
-   "ts": "2026-06-28T15:21:42Z"
   },
   {
    "titulo": "Word on the Grid: Riders reflect on a breathless Dutch GP",
@@ -817,6 +877,26 @@
    "ts": "2026-06-28T11:47:26Z"
   },
   {
+   "titulo": "- sso.worldsbk.com",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBJMGxzakVwWmhrS2VTRVRvMjZ4dk1pMmVRWEwyNjZja3ZIM2hxUGp1MkYySTEwd3N0bEdzamxfeGN6MnNQQ3g2QzJHMVo?oc=5",
+   "fonte": "WorldSBK (Superbike)",
+   "ig": "worldsbk",
+   "escopo": "Global",
+   "tier": "Corrida",
+   "dominio": "worldsbk.com",
+   "ts": "2026-06-28T11:42:33Z"
+  },
+  {
+   "titulo": "- sso.worldsbk.com",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9VT0IyeWhJZDdGcUxOWUU4WWt5REZOc192TkVNZ3JfcFUxYzk0Z2dacDVXd3BoUkt5d1ZZbGFHaktZanpCWXZNNXk2MlQ?oc=5",
+   "fonte": "WorldSBK (Superbike)",
+   "ig": "worldsbk",
+   "escopo": "Global",
+   "tier": "Corrida",
+   "dominio": "worldsbk.com",
+   "ts": "2026-06-28T02:08:10Z"
+  },
+  {
    "titulo": "The Ducati Lenovo Team in the points in Assen Sprint: Marc Márquez sixth, Francesco Bagnaia seventh",
    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTVdGNG9jS0llRWloek4xX21UT1NKbDdjWTlfY1RCSnJ4UG9sbWJhNmx0VWRObkhlY2pIUFZXbVpheXBYdlE3QWhoQkt5VnZaWkhRX19xVmQxcHpBX3dpbUJVU3dNVVlldFNRUklWSGVWTnVBYUVGYjJLQTVCSGJkYVltMGhlWFhIU09LQkR1THpfUjU3cXdLWmttX01RWFB1eHM0RGtQUHI5SVVXWVEweWNvRXNOcTFZbzJPWmU2UFkyWXVCcmtqaWE3WHJBQUZzOFpUSDBDV2c2OEhuYjZuY2ZIYw?oc=5",
    "fonte": "Ducati Corse",
@@ -897,6 +977,16 @@
    "ts": "2026-06-27T11:46:34Z"
   },
   {
+   "titulo": "Grand Prix of Portugal Round 10 MXGP 2026 Qualifying Race",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPa3VNdmlEU1RRTmFwamphODlDUnc5anNUTjRRTmhqYWxucWFXdlVuNVhoTjF1ZkszelFnZUN3NVBvM3NfNzZSYVZLVnZTSENmRk9RLTFaZTFNVXFmVF92cVhSSl9vODhuZThuRVc0enVoQVg0dmpNNXpVYm1tRzJZekJMRVc3N2xaZmpGQmg5QXJZRlRVWkU4LXhpdFpoMVhVWW5vOU15enZ2OWMx?oc=5",
+   "fonte": "Ducati Corse",
+   "ig": "ducaticorse",
+   "escopo": "Global",
+   "tier": "Corrida",
+   "dominio": "ducati.com",
+   "ts": "2026-06-27T07:00:00Z"
+  },
+  {
    "titulo": "Sleny Goyer Claims Race Win and Second Overall in Portugal",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZG92WlpERE84Rm5xbDFXRTA2d2RFTEhqeVZTblp3VGlDNnJ6Tmk4TXhORFNZTVllVlR1ejI4MXVNeTZGMm9aTW9FWklnajg5S0hmeTJTZWdLc3MySGNBaHMzOURVLTFORGpLVl9lTWE4aFFpMFZheVg4LWV6M2dDak9BenNFRzB0TUJ4UHdRQWNfTFhiSXhucHRhVGw5OUl4NUozTlU5VQ?oc=5",
    "fonte": "Yamaha Racing",
@@ -965,16 +1055,6 @@
    "tier": "Mundo",
    "dominio": "cycleworld.com",
    "ts": "2026-06-26T21:30:47Z"
-  },
-  {
-   "titulo": "MotoGP, Quartararo: “I’d rather talk about France at the World Cup than about my Friday”",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOFRydGlyTDVKdHlCeFdOd1RINGl5V1JjTC03MnlxMkNxcnNQNlBvdlRlZjhzejI5SVRQaFlWUTFXd2JscXFhMkpURlpTXzEwV3FEM2g2T2hCZTA5Nm52cHZzS0FuVWxoc2NuOE5BbG9MeXh3eWdJM1owLWVqYk1lNXgyME5LdW9tbnB5dENHVTQzSkRGMUNtcTRPMVY2TUtvc2lIV19tOC1ZWmR3T1ZGU2UtRmowcERLTUh0Z2JlY01oQQ?oc=5",
-   "fonte": "GPOne",
-   "ig": "gponedotcom",
-   "escopo": "Global",
-   "tier": "Corrida",
-   "dominio": "gpone.com",
-   "ts": "2026-06-26T19:41:39Z"
   },
   {
    "titulo": "MotoGP, Marquez puts pressure on Bezzecchi: \"He needs to score 37 points at Assen\"",
@@ -1227,6 +1307,26 @@
    "ts": "2026-06-25T23:25:19Z"
   },
   {
+   "titulo": "MotoGP, Acosta: \"I hope Marc will share his experience with me; he's the last of his era\"",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMlBKT0I5WXkxWVVZTXFXUVRDNXZfbFpQaGhvN2cxWE56OXJUMi12bDZUYkVESkdfY3hZSlo4aFlBREdMRWo5ejJwU0RsU0VyUEs4SlFOQTgwTFV5N3dmR3A4TjRPZUFfNHBCUS1zbGNaeTg2al83YXl2b2lTZHJzOUxEczVFWldidGdqSG5RVHBJclRGZTJ0ZjNnUVhHY3ZCaEVjaTd4Und2Q2t0QkxyMGhPT0ZQOF8tbk5uQS16T285QQ?oc=5",
+   "fonte": "GPOne",
+   "ig": "gponedotcom",
+   "escopo": "Global",
+   "tier": "Corrida",
+   "dominio": "gpone.com",
+   "ts": "2026-06-25T21:07:12Z"
+  },
+  {
+   "titulo": "Allen Millyard to sell unique 207mph eight-litre Viper V10 road bike at auction next month",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOX0pQd0dDcHJ3N1l6YVRvVWt0RnJtTU1nWUR0XzVLTUVyNkR6cl95djQwdVZuX0VUYU5OS1pPMUNldGE5ZXZ4UG1Ldi1TQ0tueFJ3UFd1UWhyU2JrRG94bFJvYVFSUExhM1IyRGFKVHh0VFUtZDFZWF9kMTBfWE5IalBKRTZQdkp5NS1ield5QlVETVF4?oc=5",
+   "fonte": "Motorcycle News (MCN)",
+   "ig": "motorcyclenews",
+   "escopo": "Global",
+   "tier": "Mundo",
+   "dominio": "motorcyclenews.com",
+   "ts": "2026-06-25T19:31:15Z"
+  },
+  {
    "titulo": "Sucesso absoluto: CFMOTO anuncia data de abertura para o segundo lote de reservas no Brasil",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeVlBaHhwNnJveV85bGhnSlgtY1Z0eXVnbDdfalJWM3NRTG44dUpuWDV6Z0dlc0IzcUFSQ2l2WFZ4azNidkhuZHd1M1NHcVlsR0JabGlCNWhWbmV4SHhLN0RUajBxOGt1Wl9nX2E5cExPbG43SXNGMEUzVTM1TF9GdTZLTW1vdi1ZamExaWd3NG9IYTZvX3RaTFVn?oc=5",
    "fonte": "Motociclismo",
@@ -1327,6 +1427,16 @@
    "ts": "2026-06-25T12:30:42Z"
   },
   {
+   "titulo": "Petrucci, Dixon complete one-day Donington test, plan WorldSBK racing return at the UK Round",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSEJkSU15anlFYmNLYXlBQkNTeVVsTVlSd2JadTdyTFVxQWtBZlUyT0RlUWpOT042dlRDbnRseGZyU1djWFlzaU1tN3B2Q0p4NWc3bDZ6RW1EYlprMlpMbk5jR05vQUhBN05SUDluY3p1enlCajFJSmxkWU01dk50eDF5RndXRElIVWdhb21ldC1GbllBUEhPNjlNaDRUd19xTTZRMWVGem9DbmQzbUQxTkRfMG9BLVdDUjdFVWFXSlp3eG55ZENPX21LWG9NY1dNMW5wWnpGcVNsQQ?oc=5",
+   "fonte": "WorldSBK (Superbike)",
+   "ig": "worldsbk",
+   "escopo": "Global",
+   "tier": "Corrida",
+   "dominio": "worldsbk.com",
+   "ts": "2026-06-25T12:30:01Z"
+  },
+  {
    "titulo": "BMW Motorrad Brasil apresenta novas versões da R 1300 GS com ponteira Akrapovic de série",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaGtRd3hLdlpYZ0lpRmN2OXB3U0F6dmVsLTBPU3A4VlVGVlhwOUFXcDc4UnlSSnBjUzRzc0MyZ2t1eWwyemdEZ3Jyem9SdkJOU2tVTlBzcHpNZWNGSjFDNnRmQkJndWRodk91cGQ2cXNkYnBnLWpZNDhfVVM3aE1tUElMTTJRWXhzV3pLSlB1WWRCNlJobllLdmx3TUZvS3FHbTg3aG5lV1RhejZFVXJPd291MXdQS3VzQ3c?oc=5",
    "fonte": "Revista Moto Adventure",
@@ -1345,6 +1455,16 @@
    "tier": "Mundo",
    "dominio": "motorcyclenews.com",
    "ts": "2026-06-25T11:50:44Z"
+  },
+  {
+   "titulo": "MotoGP, VIDEO - Marc Marquez's fall on Ducati 850 at Brno",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbUgzOEVlY3hheElrUUdSOU1ZMHBQYnptd3lEbElFNXJOal9Ockk2bDY5eVZtaEVkMmJuU2c4bW9yejdlWjJCUWhMOTdGUDNFY29QajgwSVNJQlRpOG5RUWwxb0pJclVoZ0JuckhMbWNWOHZmbUtqQkxRN0g5RFNEUE9sbTB2dUx2bWRaak96YzJsakNoaVN4RDhn?oc=5",
+   "fonte": "GPOne",
+   "ig": "gponedotcom",
+   "escopo": "Global",
+   "tier": "Corrida",
+   "dominio": "gpone.com",
+   "ts": "2026-06-25T11:06:37Z"
   },
   {
    "titulo": "Novas Versões BMW R 1300 GS Com Ponteira Akrapovic, Veja Preços No Brasil",
@@ -1435,16 +1555,6 @@
    "tier": "Corrida",
    "dominio": "ducati.com",
    "ts": "2026-06-24T15:41:23Z"
-  },
-  {
-   "titulo": "VIDEO: MCN review the Ducati Diavel V4 RS",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fSTdLVmtfU3hvQVEyWXZZekM0SzhBY0FGM24zVThCZ1ZTOE90SXN2bXIzUks4VU5LdF9MNGR5Q2xHdGhKVVBqVHhnZTNkX3lXMFpBdDhacWVwQXFRVjZvdFNSaVh4Nktoc205Nk13bXJhNFkxNzdxTmVLeFBlRDg?oc=5",
-   "fonte": "Ducati Corse",
-   "ig": "ducaticorse",
-   "escopo": "Global",
-   "tier": "Corrida",
-   "dominio": "ducati.com",
-   "ts": "2026-06-24T14:57:23Z"
   },
   {
    "titulo": "July 2026 - Rider Magazine",
@@ -1697,6 +1807,16 @@
    "ts": "2026-06-23T07:00:00Z"
   },
   {
+   "titulo": "“It was amazing…I knew I needed to push in the last corner”, Sarapuech beams with pride after first WorldWCR podium",
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQWmQ3Q2ZPMWV5YjBrcWZ3TjZ6RGFjRVViaExnNFRVN04yQ0M5am9zQTd3ZlhWcjZMUlg1STJCWDRkU2JXSDZneHlWX0djTHJuclpwc0dlTXBuUWFkOWcyVXNoSDY4R2pKa0VDZENWaFJ2OWM5enJpcVh4cV9XQ1BrTlVjVGZxTTZaaml1eUpuZzIzcE55RXM5a0hpaWtZWGRKMDRqb19td2FlQUpZS214SllaSkpzV3ZyNVo4OF9lbVp2OWdmWVRzUEFiVmVxRm1RMEloRS1rWDc1ZHB3RzBBRWlMcnVMTjFXVjlpbmFCRVA5ZU5sTVE?oc=5",
+   "fonte": "WorldSBK (Superbike)",
+   "ig": "worldsbk",
+   "escopo": "Global",
+   "tier": "Corrida",
+   "dominio": "worldsbk.com",
+   "ts": "2026-06-23T06:35:57Z"
+  },
+  {
    "titulo": "Lexmoto Motorcycle Insurance",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdGFHOHJnOE5vTURtUDhnYUZQVWozQjlBZGo4S2xBbGxrVkFiOW5fLURPSHktX29nQWhNU3pEUVBIUUpKckYyaXRHNEJ4Ylc4SFFoaFpFRGlWWTRqT0N2M3BLaWdSREhNbjU2c1o2aFR5dVRWZU9MS3M2NGpMR1I3MWFRaklFNzZhWldpRC1oNjdWN01OeGRZSDlR?oc=5",
    "fonte": "Bennetts BikeSocial",
@@ -1717,6 +1837,16 @@
    "ts": "2026-06-23T01:14:34Z"
   },
   {
+   "titulo": "Scramblers - Bike EXIF",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZUhpRXg5ZHRZZGxubDBFaW1UUW9CRlB4aC1qSVh0QzRENnREYlNnWVZidlJ2enNKVzAwRVZWS1VJYjR6aklEWVhzc1B6SHhMZFZlMmlKSmtfWmtCNUd6ODVFdUFFWGNkck5VR1RBRm4zSTE1X0xYYUpMcUxiTE8yNUpzTDdDYmZfUE1V?oc=5",
+   "fonte": "Bike EXIF",
+   "ig": "bikeexif",
+   "escopo": "Global",
+   "tier": "Mundo",
+   "dominio": "bikeexif.com",
+   "ts": "2026-06-22T23:45:23Z"
+  },
+  {
    "titulo": "Estreantes enfrentam desafio extra na terceira etapa do MOTO1000GP em Curvelo",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTVY2N1pxaU0xN080MjdVVDI3X3daVjZMeWhMcm5sWE9HMWZ5aHFDWnF4UkJwcjh5OUQtUVdGVUtTaElsbnBTX1hNcjNEYS1RUm9raVU1WHBfNmxUd0VwTlY5U1hiVnUzenZPaVBDRnRmakZmTGpZdGV1cnJNTjlWX2Rya3RldzBjNml0cVkxdHB4ZDRiU1oxeGlWd2VYRll6RTJsX0VB?oc=5",
    "fonte": "MotoMundo",
@@ -1725,16 +1855,6 @@
    "tier": "Criador",
    "dominio": "motomundo.com.br",
    "ts": "2026-06-22T22:33:04Z"
-  },
-  {
-   "titulo": "Cafe racer, bobber and scrambler motorcycles",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE53WGEycTlBWDRFU2Q1LXFjbWhVbjRObFRhcW0tVjVKM2RBLUZWV2RuT1BUNmtackpiMUgyN05USl9wNWY1ZnZQSjkwY08zc2xwTlh3VlBjZWhNbjJMTmx4R3ZnbHJkUGllcUxzSjhB?oc=5",
-   "fonte": "Bike EXIF",
-   "ig": "bikeexif",
-   "escopo": "Global",
-   "tier": "Mundo",
-   "dominio": "bikeexif.com",
-   "ts": "2026-06-22T21:24:05Z"
   },
   {
    "titulo": "2027 Ducati Desmo250 MX First Look",
@@ -1847,16 +1967,6 @@
    "ts": "2026-06-22T08:41:24Z"
   },
   {
-   "titulo": "Aprilia reacts to Marco Bezzecchi slapping a marshal at Brno MotoGP",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOHNYYXU4eTNuSnNGOU1QamdRdzh0NHY0NGtXSEdsODlqdEFrRjl6WGVOS3lyRGR4UEItQS1fN25CVW9DMXlJYTRMV2VFTnFjTnZGM0JwN01namtpWGY1YlQtdnVZSUwyRmlHNEhjbHF2ZC12NENTd01RUmJPdFVsYk40N0VFWTZ3dE9XQjVuX0JaZ01v?oc=5",
-   "fonte": "Visordown",
-   "ig": "visordown",
-   "escopo": "Global",
-   "tier": "Mundo",
-   "dominio": "visordown.com",
-   "ts": "2026-06-22T08:19:57Z"
-  },
-  {
    "titulo": "Suzuki SV7-GX (2026) review, spec, features and price",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUVlFcUZaMmoyUDJTdjZ3YUVqdkN6V2dSaTlKdG9NX0dNWlE3djNncUdTNEVOUWJoYnlQMjg1ZWplMU9aLTlhbWNoeFFlcHI3bkpiUzVCano1LUVRTTBkZHR1T0oyVmNvWDVFVGRhSEljcUVneTJ5cGxXSE1WNE9OczNjVS1EbDAzbkJR?oc=5",
    "fonte": "Visordown",
@@ -1868,7 +1978,7 @@
   },
   {
    "titulo": "RELIVE 2026: 7 rounds, incredible action, big battles and plenty of history",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOS3BweTFDN2NRbFJsSUxLLUVSemt6T0d5MXQ1eTRsTDdEc2FueXpfNkVET3Nyb0x0SG1aSDgyNmJraGpZM0NHOFFSZzlGVVJWVEpOdVdjZmZsSFJXU09RZ1Q1di0ydjdUNnh1VW1xZGpENWw3Z2VIUUVLbVJSZ2xyaXJPRS1mdnBYVkdveFJsZV9DdGJ2NVlpb0h1SHBZZmRLOVhOTmtaWWVzM1JwZ3BMMHQydS00UDR0R0txT2tGMFVIbnZtMnpNZ2xDMA?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPLXFFZEduWFR4WkpDemVhOWNBWGdCRGtkQ045YnUyZHdDbll6eXZiWlQxQ0cxal8zUmltVFp1allxdGFuRm5XS3Z2LTFGYlp1NGgxNnNHU3dQbmc0MXJIX0hYaTlhaW5BT1FhUF94RVZtQUs0d3I1NF9ZaWphSVV4bkxBem8wTkVwVUo0bzlFU1FkamZlYldWdHdlWWUxSl9TNmJoWTc2STBVRlFhSWUyLVMyU044NG9DVUU1bXNqMEh4MG5GNXFzWEJB?oc=5",
    "fonte": "WorldSBK (Superbike)",
    "ig": "worldsbk",
    "escopo": "Global",
@@ -1885,6 +1995,16 @@
    "tier": "Mundo",
    "dominio": "cycleworld.com",
    "ts": "2026-06-22T01:03:46Z"
+  },
+  {
+   "titulo": "Cafe Racers - Bike EXIF",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1KcEU0TG1MM3lvU2ZFTFk4UU1vdFYtcEx5MmJCWVVoV0hrX3dITFhQQVlLRlF5V3ltVEE3QmtUVFliSzg5eXYzb3hSSWR5T3JpX1VNWXplMzFibkIzVlBmbUZhOA?oc=5",
+   "fonte": "Bike EXIF",
+   "ig": "bikeexif",
+   "escopo": "Global",
+   "tier": "Mundo",
+   "dominio": "bikeexif.com",
+   "ts": "2026-06-21T22:19:29Z"
   },
   {
    "titulo": "Black and Gold: FCR Original's BMW R12 Classic Scrambler",
@@ -1967,14 +2087,14 @@
    "ts": "2026-06-20T10:42:49Z"
   },
   {
-   "titulo": "Rising from the Ashes: Hellgate Moto’s BMW K1100RS",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9odjRCR3hRZlFOQTAxNVloektHS2x0SkdGSUdGOG1vaE8wUzFnSTc0NjNNX1A4OENQakRzQjZ0djFBbFJFRkQtQWtpaGJYUWN0cEJ2Q09NQVZaTlBleUlCag?oc=5",
-   "fonte": "Bike EXIF",
-   "ig": "bikeexif",
+   "titulo": "WRP Racing - team profile, riders and results",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5PbFRWc1g1YzBxUFlLTDlURU1ZYVhhSDlENzlKRW5KWDJrUFVDTjA5Wk1aRmpUV3BkZ01QMmxGQnJRX0podGI0SHJpc0U3QWlWWjNMTlo2WnllZXNvbFB3ZHZmZDYzd1o2NldV?oc=5",
+   "fonte": "WorldSBK (Superbike)",
+   "ig": "worldsbk",
    "escopo": "Global",
-   "tier": "Mundo",
-   "dominio": "bikeexif.com",
-   "ts": "2026-06-20T07:00:00Z"
+   "tier": "Corrida",
+   "dominio": "worldsbk.com",
+   "ts": "2026-05-20T09:14:39Z"
   },
   {
    "titulo": "Já é conhecido o programa do Rider 2026, que se realiza a 20 e 21 de junho",
@@ -2075,35 +2195,20 @@
    "tier": "Mundo",
    "dominio": "cycleworld.com",
    "ts": "2017-10-10T02:10:01Z"
-  },
-  {
-   "titulo": "Arquivo De Acima De 600cc",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1vU0hmbDNlYlhVRFpYMDk1WG9lS2dCQUlCd1hCN0VlcldpMjdTaHZQSHpfVmhUZGJ6aU8wb3RaTEdIVThjd2RnV0daRFpMSTFjRVktUldPWHByc1VWcGc?oc=5",
-   "fonte": "MotoRede",
-   "ig": "motorede",
-   "escopo": "Brasil",
-   "tier": "Brasil",
-   "dominio": "motorede.com.br",
-   "ts": "2017-09-03T18:18:17Z"
   }
  ],
- "total_materias": 174,
- "materias_24h": 26,
+ "total_materias": 185,
+ "materias_24h": 29,
  "reddit": [],
  "em_alta": [
   {
    "tema": "Motogp",
-   "mencoes": 36,
+   "mencoes": 34,
    "materias": [
     {
      "titulo": "Marco Bezzecchi’s first words after Assen MotoGP accident",
      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORTF5U2RwYVJqMlBVZGNJOVY5MXNaV05aLWYtcnBmZzdKZndkMUwyalpRTklYaXR4X3JqRC1pMnlSTEF3cjdoZjlBbGZfLXJTc29qQmZYRkF4c3FLcjZIeHhUcEFUQW5FN2dqQVFHMWQ5TUoxekFhSGZ2NFZwajRUWmJYR0MyOUtFOEVyTUZoY25RbkFxLU1mc0NKbnhyWko5WHc?oc=5",
      "fonte": "Crash MotoGP"
-    },
-    {
-     "titulo": "MotoGP, Marco Bezzecchi: \"What a blow... time to take care of my aches and pains\"",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNLVRxSXFkWFROSExoUWxPMkVWTUttVnFkZ3ZMelotY3VVdVA3elloR0EyanpFcDdKelo4M01XdTNncUQtTlhCMXZoSnB1ZDV4LUJJdjRQcUFCQl91VWRkVktCYnJhYmJPOFhFZWxma00wNVJVeEV5RlI2UDdwYU9rRldhTVNKcE5nU3hpVmpKakswcWsyUWhuMExUYmhkM0JPVmNSNndnVWU2bUxDUFNNOFFNQU5IUQ?oc=5",
-     "fonte": "GPOne"
     },
     {
      "titulo": "“A bit worried” - Ducati “must improve” in Aprilia MotoGP title fight",
@@ -2114,13 +2219,23 @@
      "titulo": "“It's wrong!” - Brad Binder on “unfair” Assen MotoGP penalty",
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUGQ1SVAtMnhRRk1SNHo1eW9ueTRxeW1xbnhhNFl2RHJIOU91Z2RZV3pJRE93S2lmd1F4T1hpMnpQYmlFajZmYlAyeEhwakJsek9oRUV5Ti1TaXJ0UVVtb3NHTzhNVHpfUnBqU3ZzTlEtaEF1RFNEbXdMdlFDbkNTNTA5TTNjOEx4bFU0anJieDVWTF9peWtzakpVX2NoZ3lhajFhamlxMWp4SEE?oc=5",
      "fonte": "Crash MotoGP"
+    },
+    {
+     "titulo": "Five things we learned from MotoGP’s action-packed Dutch GP",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObzZvVS1VZGVHZ2pvcDdvMWF0ZXE1SlJlRHJtZXBtOERhcWRDUjNTbXh4blRxclZfbTVrQnVYOUpQQjN0Y19Vc0JrbWdpVlg1MTlVVG9mZTJKLXpvamZEQ2xHTERBcWJOQW9DZXVVeWtrNjRsUVRHMzNRelEwS05lbVJObHRWVzY3ZllrZHJZM3JzS2xQaVUzV3ZYNlNJZDZwQllRSGFRa0hBZw?oc=5",
+     "fonte": "Autosport"
     }
    ]
   },
   {
    "tema": "Ducati",
-   "mencoes": 21,
+   "mencoes": 22,
    "materias": [
+    {
+     "titulo": "Superbike team launches electronic kit designed for Ducati Panigale V4 models",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbWRKb2pJTzhMOHhKcUlObDBNVUkybVlZN0R2SjdIMGloZG9GVDQ3Y3dWbUl1TDkxRkRBc0JoY0xWNVFxbEwyN0YwNV9FZU5HU2NfMnFEZmRFN2pYalRhQjVqOS1YZWlLaHM1d2F0ajdpSi0ySWU2b3p1QlUybC1WRzBDa2hOLVBRVENjbkwzTjRDb1RnQzBia3RQTHByQmU3VHlXWExtQQ?oc=5",
+     "fonte": "Visordown"
+    },
     {
      "titulo": "Volkswagen May Be Looking to Sell Ducati: Report",
      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9oR25JUWdCSHFrRUM1Y3EtdzZ6ZDZ4VW8wUEI4OV84VVA0b1BJWExRRXA1eXRuWURPWm1RZHdsX3FkSl9xZTJTWGJrcDNodTVLQUpncFVOLWNiTmFmekJMc1NyVm5adjV0YjRxUWVkckdrWWpOWmc?oc=5",
@@ -2135,11 +2250,6 @@
      "titulo": "“A bit worried” - Ducati “must improve” in Aprilia MotoGP title fight",
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNnBZRW9xVmVtcUZXdXNrZlZpYy1zSHJnUFR6SFlrWnEwckRGNUQyNDRRR2RoZ01CaWtBbDdtM3NXeUtyaFFOOENpaUxocEhkWmZHcDVaU0NkMkZRd2tIRVVRdzN5eGdiWkM5SzA5RTdhaVFUSW9kYXFDaFROVTVsOGNLN24yZnpxTHRRdFhhd0Njd0lwZ3ZJZndZeEh5RVpkZnQ2TA?oc=5",
      "fonte": "Crash MotoGP"
-    },
-    {
-     "titulo": "Marc Marquez confirms he held “informal talks” with Honda before committing to Ducati",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcFlQdlY4Uk1nS2FGa1Nud3A1SUV4SF92TVVGOTM1ZldSTTQtZW51TURVRFFlNWRPb2FpN1NNNWstOFRLNEVtaHowMmpIS01ka0FqVzNQRk9ZQXNJcno0NElfejdEd19GcEU5RXdHSUFWTmJvRTdGSFpYWmljSFdMRWJ5VENFOTFDNkZyQ2o0NEpnWml0cngzTTA3ZGNEdGhFX3hzWnl3anR0aVF4Y2h0UDNKMHNZdlFGVVlZ?oc=5",
-     "fonte": "Motorsport.com"
     }
    ]
   },
@@ -2192,32 +2302,6 @@
      "titulo": "Double Top-10 Result for Monster Energy Yamaha MotoGP in Dutch GP Race",
      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNWNNNUg3MlVINmVwZlUtdFBWaVJKV1hxX0g0NDlYdWl0QzQ0WlFWci1hZTZMZy03Z3FwM3NIRjhXM08zN0ZIaHZvSXdyRTl2MEhBVUJ0eVIwbkpjV20xbzQydldYRndXS3c1d0g3NXpHcFFnZnc0WnRqUE9wLWdUV1M2T3Z2UHFWNGdQLXB5V0U0SVZvd0kzc01LOXRvOVNpd2VuN3NqQkNYc1BsNjBSUlV1aw?oc=5",
      "fonte": "Yamaha Racing"
-    }
-   ]
-  },
-  {
-   "tema": "Bezzecchi",
-   "mencoes": 8,
-   "materias": [
-    {
-     "titulo": "Marco Bezzecchi’s first words after Assen MotoGP accident",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORTF5U2RwYVJqMlBVZGNJOVY5MXNaV05aLWYtcnBmZzdKZndkMUwyalpRTklYaXR4X3JqRC1pMnlSTEF3cjdoZjlBbGZfLXJTc29qQmZYRkF4c3FLcjZIeHhUcEFUQW5FN2dqQVFHMWQ5TUoxekFhSGZ2NFZwajRUWmJYR0MyOUtFOEVyTUZoY25RbkFxLU1mc0NKbnhyWko5WHc?oc=5",
-     "fonte": "Crash MotoGP"
-    },
-    {
-     "titulo": "MotoGP, Marco Bezzecchi: \"What a blow... time to take care of my aches and pains\"",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNLVRxSXFkWFROSExoUWxPMkVWTUttVnFkZ3ZMelotY3VVdVA3elloR0EyanpFcDdKelo4M01XdTNncUQtTlhCMXZoSnB1ZDV4LUJJdjRQcUFCQl91VWRkVktCYnJhYmJPOFhFZWxma00wNVJVeEV5RlI2UDdwYU9rRldhTVNKcE5nU3hpVmpKakswcWsyUWhuMExUYmhkM0JPVmNSNndnVWU2bUxDUFNNOFFNQU5IUQ?oc=5",
-     "fonte": "GPOne"
-    },
-    {
-     "titulo": "MotoGP, Rivola: “Bezzecchi has been through a lot lately; he needs to take a break”",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZHRILUptVDZSdFAtdHE4UGVIb0JlUDhfLUJzZXpZbVVBemNDeVBIeFZOZlFsNDFGZ0ZFZFpYQlNObGNBZlVQejdNd0hCRXNVaWNHemMtZHZSZ1E2enpjczBSMHFMcGozc1JSRkNQc3ZPMGZBWFBfaEFVZzNkSjdYUnNxN0pPeEZrWGdWQ1NRcVFKV3RtMDhhVmc2X3ZIZUxJLUFHYUVNTUp2RGpzZ2d3VjJQNVZITFhfS3A0?oc=5",
-     "fonte": "GPOne"
-    },
-    {
-     "titulo": "Checks reveal no injuries for Bezzecchi",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYzJ3WV9mOHQzUkJIYTFubWFkT3RSSWF4aWpvYmF5eGhvcEVrblduaTZjakdzQWoyblFjYUp5U3I5cE50ODQ5OGZLaHFIVFBCczc5UDFXMDI2NFd6ZlYyYnV0TEZHNDlzQWM1Zm1YNnRhb2ItNWF6YXlTN3NZSU1HTUxWT3FhZ0JpVDg3d2daTHIwYW8?oc=5",
-     "fonte": "MotoGP"
     }
    ]
   },
@@ -2298,16 +2382,47 @@
      "fonte": "MotoGP"
     }
    ]
+  },
+  {
+   "tema": "Bezzecchi",
+   "mencoes": 6,
+   "materias": [
+    {
+     "titulo": "Marco Bezzecchi’s first words after Assen MotoGP accident",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORTF5U2RwYVJqMlBVZGNJOVY5MXNaV05aLWYtcnBmZzdKZndkMUwyalpRTklYaXR4X3JqRC1pMnlSTEF3cjdoZjlBbGZfLXJTc29qQmZYRkF4c3FLcjZIeHhUcEFUQW5FN2dqQVFHMWQ5TUoxekFhSGZ2NFZwajRUWmJYR0MyOUtFOEVyTUZoY25RbkFxLU1mc0NKbnhyWko5WHc?oc=5",
+     "fonte": "Crash MotoGP"
+    },
+    {
+     "titulo": "Checks reveal no injuries for Bezzecchi",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYzJ3WV9mOHQzUkJIYTFubWFkT3RSSWF4aWpvYmF5eGhvcEVrblduaTZjakdzQWoyblFjYUp5U3I5cE50ODQ5OGZLaHFIVFBCczc5UDFXMDI2NFd6ZlYyYnV0TEZHNDlzQWM1Zm1YNnRhb2ItNWF6YXlTN3NZSU1HTUxWT3FhZ0JpVDg3d2daTHIwYW8?oc=5",
+     "fonte": "MotoGP"
+    },
+    {
+     "titulo": "MotoGP, Rivola: “Bezzecchi has been through a lot lately; he needs to take a break”",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZHRILUptVDZSdFAtdHE4UGVIb0JlUDhfLUJzZXpZbVVBemNDeVBIeFZOZlFsNDFGZ0ZFZFpYQlNObGNBZlVQejdNd0hCRXNVaWNHemMtZHZSZ1E2enpjczBSMHFMcGozc1JSRkNQc3ZPMGZBWFBfaEFVZzNkSjdYUnNxN0pPeEZrWGdWQ1NRcVFKV3RtMDhhVmc2X3ZIZUxJLUFHYUVNTUp2RGpzZ2d3VjJQNVZITFhfS3A0?oc=5",
+     "fonte": "GPOne"
+    },
+    {
+     "titulo": "Golden Ai: Ogura clinches maiden MotoGP victory as Bezzecchi crashes in Assen",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNa1h4Nkh2WTctYmhaT2MwSVk0ZDJSUElLUDV6U01yMTBybkZic1BEQWh6MlZndElEYzgtbTNpcjI5ZzNTMERmMjVWYjJuaDNpT0VNNVJhV0VXUW84N0E3ejNvTlgzeVlCU0JXWERtcERWUkJ3UEVWM08xYnpqRHQ1ZEE0T0tiYWN2MzB6MktsSmFXNGhsRzFnWEVDalE4Sll0akg3YUEwTmtLVVBaR19NZ0M3RnhQa3pfVHlNZGdzSkRUSFFI?oc=5",
+     "fonte": "MotoGP"
+    }
+   ]
   }
  ],
  "pautas": [
   {
    "pauta": "Ducati",
-   "urgencia": "5 fontes / 48h",
-   "porque": "5 fontes publicaram sobre isso nas ultimas 48h.",
+   "urgencia": "6 fontes / 48h",
+   "porque": "6 fontes publicaram sobre isso nas ultimas 48h.",
    "furo": false,
-   "fontes": 5,
+   "fontes": 6,
    "materias": [
+    {
+     "titulo": "Superbike team launches electronic kit designed for Ducati Panigale V4 models",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbWRKb2pJTzhMOHhKcUlObDBNVUkybVlZN0R2SjdIMGloZG9GVDQ3Y3dWbUl1TDkxRkRBc0JoY0xWNVFxbEwyN0YwNV9FZU5HU2NfMnFEZmRFN2pYalRhQjVqOS1YZWlLaHM1d2F0ajdpSi0ySWU2b3p1QlUybC1WRzBDa2hOLVBRVENjbkwzTjRDb1RnQzBia3RQTHByQmU3VHlXWExtQQ?oc=5",
+     "fonte": "Visordown"
+    },
     {
      "titulo": "Volkswagen May Be Looking to Sell Ducati: Report",
      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9oR25JUWdCSHFrRUM1Y3EtdzZ6ZDZ4VW8wUEI4OV84VVA0b1BJWExRRXA1eXRuWURPWm1RZHdsX3FkSl9xZTJTWGJrcDNodTVLQUpncFVOLWNiTmFmekJMc1NyVm5adjV0YjRxUWVkckdrWWpOWmc?oc=5",
@@ -2322,11 +2437,6 @@
      "titulo": "“A bit worried” - Ducati “must improve” in Aprilia MotoGP title fight",
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNnBZRW9xVmVtcUZXdXNrZlZpYy1zSHJnUFR6SFlrWnEwckRGNUQyNDRRR2RoZ01CaWtBbDdtM3NXeUtyaFFOOENpaUxocEhkWmZHcDVaU0NkMkZRd2tIRVVRdzN5eGdiWkM5SzA5RTdhaVFUSW9kYXFDaFROVTVsOGNLN24yZnpxTHRRdFhhd0Njd0lwZ3ZJZndZeEh5RVpkZnQ2TA?oc=5",
      "fonte": "Crash MotoGP"
-    },
-    {
-     "titulo": "Marc Marquez confirms he held “informal talks” with Honda before committing to Ducati",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcFlQdlY4Uk1nS2FGa1Nud3A1SUV4SF92TVVGOTM1ZldSTTQtZW51TURVRFFlNWRPb2FpN1NNNWstOFRLNEVtaHowMmpIS01ka0FqVzNQRk9ZQXNJcno0NElfejdEd19GcEU5RXdHSUFWTmJvRTdGSFpYWmljSFdMRWJ5VENFOTFDNkZyQ2o0NEpnWml0cngzTTA3ZGNEdGhFX3hzWnl3anR0aVF4Y2h0UDNKMHNZdlFGVVlZ?oc=5",
-     "fonte": "Motorsport.com"
     }
    ]
   },
@@ -2343,11 +2453,6 @@
      "fonte": "Crash MotoGP"
     },
     {
-     "titulo": "MotoGP, Marco Bezzecchi: \"What a blow... time to take care of my aches and pains\"",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNLVRxSXFkWFROSExoUWxPMkVWTUttVnFkZ3ZMelotY3VVdVA3elloR0EyanpFcDdKelo4M01XdTNncUQtTlhCMXZoSnB1ZDV4LUJJdjRQcUFCQl91VWRkVktCYnJhYmJPOFhFZWxma00wNVJVeEV5RlI2UDdwYU9rRldhTVNKcE5nU3hpVmpKakswcWsyUWhuMExUYmhkM0JPVmNSNndnVWU2bUxDUFNNOFFNQU5IUQ?oc=5",
-     "fonte": "GPOne"
-    },
-    {
      "titulo": "“A bit worried” - Ducati “must improve” in Aprilia MotoGP title fight",
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNnBZRW9xVmVtcUZXdXNrZlZpYy1zSHJnUFR6SFlrWnEwckRGNUQyNDRRR2RoZ01CaWtBbDdtM3NXeUtyaFFOOENpaUxocEhkWmZHcDVaU0NkMkZRd2tIRVVRdzN5eGdiWkM5SzA5RTdhaVFUSW9kYXFDaFROVTVsOGNLN24yZnpxTHRRdFhhd0Njd0lwZ3ZJZndZeEh5RVpkZnQ2TA?oc=5",
      "fonte": "Crash MotoGP"
@@ -2356,6 +2461,11 @@
      "titulo": "“It's wrong!” - Brad Binder on “unfair” Assen MotoGP penalty",
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUGQ1SVAtMnhRRk1SNHo1eW9ueTRxeW1xbnhhNFl2RHJIOU91Z2RZV3pJRE93S2lmd1F4T1hpMnpQYmlFajZmYlAyeEhwakJsek9oRUV5Ti1TaXJ0UVVtb3NHTzhNVHpfUnBqU3ZzTlEtaEF1RFNEbXdMdlFDbkNTNTA5TTNjOEx4bFU0anJieDVWTF9peWtzakpVX2NoZ3lhajFhamlxMWp4SEE?oc=5",
      "fonte": "Crash MotoGP"
+    },
+    {
+     "titulo": "Five things we learned from MotoGP’s action-packed Dutch GP",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObzZvVS1VZGVHZ2pvcDdvMWF0ZXE1SlJlRHJtZXBtOERhcWRDUjNTbXh4blRxclZfbTVrQnVYOUpQQjN0Y19Vc0JrbWdpVlg1MTlVVG9mZTJKLXpvamZEQ2xHTERBcWJOQW9DZXVVeWtrNjRsUVRHMzNRelEwS05lbVJObHRWVzY3ZllrZHJZM3JzS2xQaVUzV3ZYNlNJZDZwQllRSGFRa0hBZw?oc=5",
+     "fonte": "Autosport"
     }
    ]
   },
@@ -2372,9 +2482,9 @@
      "fonte": "Crash MotoGP"
     },
     {
-     "titulo": "MotoGP, Marco Bezzecchi: \"What a blow... time to take care of my aches and pains\"",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNLVRxSXFkWFROSExoUWxPMkVWTUttVnFkZ3ZMelotY3VVdVA3elloR0EyanpFcDdKelo4M01XdTNncUQtTlhCMXZoSnB1ZDV4LUJJdjRQcUFCQl91VWRkVktCYnJhYmJPOFhFZWxma00wNVJVeEV5RlI2UDdwYU9rRldhTVNKcE5nU3hpVmpKakswcWsyUWhuMExUYmhkM0JPVmNSNndnVWU2bUxDUFNNOFFNQU5IUQ?oc=5",
-     "fonte": "GPOne"
+     "titulo": "Checks reveal no injuries for Bezzecchi",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYzJ3WV9mOHQzUkJIYTFubWFkT3RSSWF4aWpvYmF5eGhvcEVrblduaTZjakdzQWoyblFjYUp5U3I5cE50ODQ5OGZLaHFIVFBCczc5UDFXMDI2NFd6ZlYyYnV0TEZHNDlzQWM1Zm1YNnRhb2ItNWF6YXlTN3NZSU1HTUxWT3FhZ0JpVDg3d2daTHIwYW8?oc=5",
+     "fonte": "MotoGP"
     },
     {
      "titulo": "MotoGP, Rivola: “Bezzecchi has been through a lot lately; he needs to take a break”",
@@ -2382,8 +2492,8 @@
      "fonte": "GPOne"
     },
     {
-     "titulo": "Checks reveal no injuries for Bezzecchi",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYzJ3WV9mOHQzUkJIYTFubWFkT3RSSWF4aWpvYmF5eGhvcEVrblduaTZjakdzQWoyblFjYUp5U3I5cE50ODQ5OGZLaHFIVFBCczc5UDFXMDI2NFd6ZlYyYnV0TEZHNDlzQWM1Zm1YNnRhb2ItNWF6YXlTN3NZSU1HTUxWT3FhZ0JpVDg3d2daTHIwYW8?oc=5",
+     "titulo": "Golden Ai: Ogura clinches maiden MotoGP victory as Bezzecchi crashes in Assen",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNa1h4Nkh2WTctYmhaT2MwSVk0ZDJSUElLUDV6U01yMTBybkZic1BEQWh6MlZndElEYzgtbTNpcjI5ZzNTMERmMjVWYjJuaDNpT0VNNVJhV0VXUW84N0E3ejNvTlgzeVlCU0JXWERtcERWUkJ3UEVWM08xYnpqRHQ1ZEE0T0tiYWN2MzB6MktsSmFXNGhsRzFnWEVDalE4Sll0akg3YUEwTmtLVVBaR19NZ0M3RnhQa3pfVHlNZGdzSkRUSFFI?oc=5",
      "fonte": "MotoGP"
     }
    ]
@@ -2461,11 +2571,6 @@
     {
      "titulo": "Why Marc Marquez’s lacklustre Assen round was his biggest win of MotoGP 2026",
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVF91MFg4TFRSZmxwRHVvcHlqcmw0ZS05MnZIRHlzZk9iZERRcTVtQTJ2SFY5WHJDRjZiV2ozMkFUZ1BrLXFycEk2SVd1Wks1Q0szUUJINEJ4bk1sRndEM1BVdEZzQUVldS1uMDlJN1pEVmJXUWRSUjAzV3l2T01OamZleE5hdGhNb25ZN2RYUmlHcEQ4WUs1cmxiSE9HZngzd1BKSEQtbmE4YU9RcV9BZnQ5bndHVjUzTkNr?oc=5",
-     "fonte": "Crash MotoGP"
-    },
-    {
-     "titulo": "‘I forgot the rules’ - Di Giannantonio on Assen MotoGP penalty in Marc Marquez battle",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaXRWNmhuQTVJQ0YyMkM2SUpmMmYzUXJQaURCcEh1RGFwcjJfRkgzbTdiTHlNYS0wMXhTYmdEM3dUTWozRWg5aEQ5U1E0bjVGbjZrT1FaUGRPU2liRkdWX25BOWU2OFFDU2xTUWJNSGUyRkVYaFRxbGhDbW1SZURZcjNaWFlTbGMzdDRidmxzRFJfUHY1WXVMeFpPeVR2amVKd2szNW82aW11RVJfd1JJLVZLTGUzUQ?oc=5",
      "fonte": "Crash MotoGP"
     }
    ]
