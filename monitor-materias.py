@@ -36,7 +36,7 @@ def _janela_pesada():
     O Google News (gratis) continua de hora em hora. Disparo manual sempre roda tudo (FORCE_PESADO)."""
     if os.environ.get('FORCE_PESADO'):
         return True
-    return AGORA.hour in (10, 16, 22)   # UTC -> 07h, 13h, 19h BRT
+    return AGORA.hour in (10,)   # UTC -> 07h BRT (1x/dia; IG/furos nao mudam intraday, segura o custo)
 
 # ───────────────────────── FONTES MONITORADAS ─────────────────────────
 # nome, instagram (sem @), site, escopo, tier
@@ -345,7 +345,7 @@ def apify_instagram(data):
     handles = [f[1] for f in FONTES if f[1]][:30]
     try:
         posts = apify_call('apify~instagram-post-scraper',
-                           {'username': handles, 'resultsLimit': 2}, token)
+                           {'username': handles, 'resultsLimit': 5}, token)
         items = []
         for p in posts:
             u = p.get('url') or ''
@@ -359,7 +359,7 @@ def apify_instagram(data):
                 'ts': _data_ig(p.get('timestamp')),
             })
         items.sort(key=lambda x: x.get('ts') or '', reverse=True)
-        data['instagram'] = items[:60]
+        data['instagram'] = items[:250]
         print(f'[apify-ig] {len(items)} posts')
     except Exception as e:
         print(f'[apify-ig] {e}', file=sys.stderr)
