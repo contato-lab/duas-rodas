@@ -344,7 +344,7 @@ def apify_instagram(data):
         return
     comp = [f[1] for f in FONTES if f[1]][:30]
     drl = (DUAS_RODAS_IG or '').lower()
-    handles = comp + ([DUAS_RODAS_IG] if DUAS_RODAS_IG else [])
+    handles = ([DUAS_RODAS_IG] if DUAS_RODAS_IG else []) + comp   # DR primeiro: garante que entra no resultado parcial
     try:
         # UMA chamada so (mais confiavel e barato): concorrentes + a propria Duas Rodas juntos
         posts = apify_call('apify~instagram-post-scraper',
