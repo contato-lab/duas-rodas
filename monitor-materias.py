@@ -370,9 +370,11 @@ def apify_instagram(data):
             dposts = apify_call('apify~instagram-post-scraper',
                                 {'username': [DUAS_RODAS_IG], 'resultsLimit': 10}, token)
             caps = ' '.join((p.get('caption') or '') for p in dposts)
-            if caps.strip():
-                data['_dr_post_termos'] = sorted({m.group(0).title() for m in TERMOS.finditer(caps)})
-            print(f'[apify-dr] {len(dposts)} posts da DR, termos={len(data.get("_dr_post_termos") or [])}')
+            termos = sorted({m.group(0).title() for m in TERMOS.finditer(caps)})
+            data['_dr_post_termos'] = termos
+            data.setdefault('marca', {})['temas_cobertos'] = termos
+            data['marca']['posts_lidos'] = len(dposts)
+            print(f'[apify-dr] {len(dposts)} posts da DR, termos={len(termos)}')
         except Exception as e:
             print(f'[apify-dr] {e}', file=sys.stderr)
     # seguidores da Duas Rodas (forca da marca) - best effort, nao bloqueia os furos
