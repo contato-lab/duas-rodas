@@ -342,12 +342,20 @@ def apify_instagram(data):
     token = os.environ.get('APIFY_TOKEN')
     if not token:
         return
-    handles = [f[1] for f in FONTES if f[1]][:30]
+    comp = [f[1] for f in FONTES if f[1]][:30]
+    drl = (DUAS_RODAS_IG or '').lower()
+    handles = comp + ([DUAS_RODAS_IG] if DUAS_RODAS_IG else [])
     try:
+        # UMA chamada so (mais confiavel e barato): concorrentes + a propria Duas Rodas juntos
         posts = apify_call('apify~instagram-post-scraper',
                            {'username': handles, 'resultsLimit': 5}, token)
-        items = []
+        items, dr_caps = [], []
         for p in posts:
+            owner = (p.get('ownerUsername') or '').lower()
+            if drl and owner == drl:                 # post da propria DR -> serve para o FURO
+                if p.get('caption'):
+                    dr_caps.append(p['caption'])
+                continue
             u = p.get('url') or ''
             if not u:
                 continue
@@ -360,23 +368,15 @@ def apify_instagram(data):
             })
         items.sort(key=lambda x: x.get('ts') or '', reverse=True)
         data['instagram'] = items[:250]
-        print(f'[apify-ig] {len(items)} posts')
-    except Exception as e:
-        print(f'[apify-ig] {e}', file=sys.stderr)
-    # posts recentes da propria Duas Rodas (pelo MESMO post-scraper que funciona) -> temas que ela
-    # ja cobriu, para marcar os FUROS de verdade
-    if DUAS_RODAS_IG:
-        try:
-            dposts = apify_call('apify~instagram-post-scraper',
-                                {'username': [DUAS_RODAS_IG], 'resultsLimit': 10}, token)
-            caps = ' '.join((p.get('caption') or '') for p in dposts)
+        if dr_caps:
+            caps = ' '.join(dr_caps)
             termos = sorted({m.group(0).title() for m in TERMOS.finditer(caps)})
             data['_dr_post_termos'] = termos
             data.setdefault('marca', {})['temas_cobertos'] = termos
-            data['marca']['posts_lidos'] = len(dposts)
-            print(f'[apify-dr] {len(dposts)} posts da DR, termos={len(termos)}')
-        except Exception as e:
-            print(f'[apify-dr] {e}', file=sys.stderr)
+            data['marca']['posts_lidos'] = len(dr_caps)
+        print(f'[apify-ig] {len(items)} posts concorrentes, {len(dr_caps)} posts DR')
+    except Exception as e:
+        print(f'[apify-ig] {e}', file=sys.stderr)
     # seguidores da Duas Rodas (forca da marca) - best effort, nao bloqueia os furos
     if DUAS_RODAS_IG:
         try:
