@@ -363,20 +363,30 @@ def apify_instagram(data):
         print(f'[apify-ig] {len(items)} posts')
     except Exception as e:
         print(f'[apify-ig] {e}', file=sys.stderr)
-    # seguidores da propria Duas Rodas
+    # posts recentes da propria Duas Rodas (pelo MESMO post-scraper que funciona) -> temas que ela
+    # ja cobriu, para marcar os FUROS de verdade
+    if DUAS_RODAS_IG:
+        try:
+            dposts = apify_call('apify~instagram-post-scraper',
+                                {'username': [DUAS_RODAS_IG], 'resultsLimit': 10}, token)
+            caps = ' '.join((p.get('caption') or '') for p in dposts)
+            if caps.strip():
+                data['_dr_post_termos'] = sorted({m.group(0).title() for m in TERMOS.finditer(caps)})
+            print(f'[apify-dr] {len(dposts)} posts da DR, termos={len(data.get("_dr_post_termos") or [])}')
+        except Exception as e:
+            print(f'[apify-dr] {e}', file=sys.stderr)
+    # seguidores da Duas Rodas (forca da marca) - best effort, nao bloqueia os furos
     if DUAS_RODAS_IG:
         try:
             prof = apify_call('apify~instagram-profile-scraper', {'usernames': [DUAS_RODAS_IG]}, token)
-            if prof:
+            if prof and prof[0].get('followersCount') is not None:
                 it = prof[0]
                 data.setdefault('marca', {})['instagram'] = {
                     'handle': DUAS_RODAS_IG, 'seguidores': it.get('followersCount'),
                     'posts': it.get('postsCount')}
-                caps = ' '.join((p.get('caption') or '') for p in (it.get('latestPosts') or []))
-                if caps.strip():
-                    data['_dr_post_termos'] = sorted({m.group(0).title() for m in TERMOS.finditer(caps)})
+                print(f'[apify-dr-prof] {it.get("followersCount")} seguidores')
         except Exception as e:
-            print(f'[apify-dr] {e}', file=sys.stderr)
+            print(f'[apify-dr-prof] {e}', file=sys.stderr)
 
 
 def _data_ig(ts):
