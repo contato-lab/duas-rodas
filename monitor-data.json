@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-06-30T08:39:39Z",
+ "updated_at": "2026-06-30T11:56:29Z",
  "fontes_monitoradas": [
   {
    "nome": "Grid Motors",
@@ -347,6 +347,76 @@
  ],
  "materias": [
   {
+   "titulo": "Fabio Quartararo’s first words on Yamaha MotoGP departure",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaUY3Um9tZ3FzR0NfTDBta2tuUlppSjhzdmhyNnJSVi1IYkVobG9FV3lNdDlvRmcyRXdOaVBHdVNrSHk3WmNERTRFUmVGeU94QTRLc1hMYnpnSTFyUXhRd1ZkaFlfVUZQbUg3aml5RzF4bU1yQVRmc1RaMDJRa1RXLThLX2xCZVdPdDRYNlhJcGNiR1EtUWVVdU5GYmJGUQ?oc=5",
+   "fonte": "Crash MotoGP",
+   "ig": "crashmotogp_",
+   "escopo": "Global",
+   "tier": "Corrida",
+   "dominio": "crash.net",
+   "ts": "2026-06-30T09:40:55Z"
+  },
+  {
+   "titulo": "Quartararo and Rins to leave Yamaha at end of MotoGP 2026",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVGRUcGdRLUtPbTY4VllmSFpKaUowS3Y5X2IxczNMSFVranNuOXd4QVdTNFgwNk5ZNkFWUmU3ZTl6dGI3bUp6NGt4VDljUk9CTjhHUVBJVnRVWUd6bzFnX1dRU0JZZW1VVUhrdjNVMm9tYjVTVnNFb2FGNXk4X0xIS05zeWtCUlRXZllZ?oc=5",
+   "fonte": "Autosport",
+   "ig": "autosport",
+   "escopo": "Global",
+   "tier": "Generalista",
+   "dominio": "autosport.com",
+   "ts": "2026-06-30T09:13:01Z"
+  },
+  {
+   "titulo": "Yamaha confirms Fabio Quartararo and Alex Rins will leave at end of 2026 MotoGP season",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVERZMmpQUFlWUmk1OG5Ib1JMbWpfcHh1NXBmdWVPWmcwaFlZUURkYWdNQm1nUUw5eVN4RTRfbkE4QlFwZUU1ZVQyLVNac1BXUldOMklrNkhVbnRXWnc0UnJ4VVNkTUZKQkQ2RUhHWi1aZnNDQXlfUm9lWFBuZURrNzNjSDg5RlFTcG1yUFlnVi1RUnV3NHJfX3hfMF9kSUpVQ0RQQ3RPZ0VmdjloQ2xnQ0Jqdm1MV3lmblVj?oc=5",
+   "fonte": "Motorsport.com",
+   "ig": "motorsportcom",
+   "escopo": "Global",
+   "tier": "Generalista",
+   "dominio": "motorsport.com",
+   "ts": "2026-06-30T09:05:49Z"
+  },
+  {
+   "titulo": "Yamaha announces Quartararo, Rins exits for MotoGP 2027",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZlZ5VEp3REZTbW9jQ0F3Z3FqSUktVHBoaEo2YkVBb1BTTzZ3TjlqdzJ1SzJwYlNYQ1J3bW1PMjBMcVJRVjdwUG1ta0tUWVRPaVZKQ012Z2pENGJYX1BqaTd6UXJxbFlOWE9DSFBPUjFveXBnODNmd2JZVjNEV3RGSVlibWVMb1BnclR2SXdBUUU?oc=5",
+   "fonte": "The Race MotoGP",
+   "ig": "theracemoto",
+   "escopo": "Global",
+   "tier": "Corrida",
+   "dominio": "the-race.com",
+   "ts": "2026-06-30T08:31:59Z"
+  },
+  {
+   "titulo": "Marc Marquez confirms he held “informal talks” with Honda before committing to Ducati",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcFlQdlY4Uk1nS2FGa1Nud3A1SUV4SF92TVVGOTM1ZldSTTQtZW51TURVRFFlNWRPb2FpN1NNNWstOFRLNEVtaHowMmpIS01ka0FqVzNQRk9ZQXNJcno0NElfejdEd19GcEU5RXdHSUFWTmJvRTdGSFpYWmljSFdMRWJ5VENFOTFDNkZyQ2o0NEpnWml0cngzTTA3ZGNEdGhFX3hzWnl3anR0aVF4Y2h0UDNKMHNZdlFGVVlZ?oc=5",
+   "fonte": "Motorsport.com",
+   "ig": "motorsportcom",
+   "escopo": "Global",
+   "tier": "Generalista",
+   "dominio": "motorsport.com",
+   "ts": "2026-06-30T08:16:22Z"
+  },
+  {
+   "titulo": "Official: Fabio Quartararo, Alex Rins to leave Yamaha at the end of MotoGP 2026",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVWJXTnR1d2QtWEFpc0JSc1k3aGluX2NvVC1MVkpZXzExeHp3UUZpa2N3MDdhY2s1dXcxS0RtNUN0OGJzOGgxMVFWd0hQTE9VdlZkY2JGSVpWUU1OQVJpOUxQanFCVnFVV3g1aWdIZGpFVG80NlIyUVZVNHF2Um1aY3ZJMVdCeENnbURHeEtNRDFHNDlDdUVLcnBqV3loWEJwY1RpNGhIYklXQk9n?oc=5",
+   "fonte": "Crash MotoGP",
+   "ig": "crashmotogp_",
+   "escopo": "Global",
+   "tier": "Corrida",
+   "dominio": "crash.net",
+   "ts": "2026-06-30T08:13:53Z"
+  },
+  {
+   "titulo": "Yamaha bid farewell to Quartararo and Rins at the end of 2026",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQa3RHZlhsT2lFUUNRdURvNms1b3VZSWt4LWdWcFJFdmVXRm16WjdVVEdjQmdSNFRLV0pYbXlFQXZJbElmUnZtX01mMXpYeW1KSWVDN3ZhekQwVGxGOEJ1a1VySjQzN0c1UXZpTTZmdnVaOXZCdVRYQ0tqQzd2MWNuVXItWTBMYjI0VDN0X1FiRXBlRF9lSUwydFFxaGhRb2xfQlBFNmRfVlQ0NW8yUzZFbQ?oc=5",
+   "fonte": "MotoGP",
+   "ig": "motogp",
+   "escopo": "Global",
+   "tier": "Corrida",
+   "dominio": "motogp.com",
+   "ts": "2026-06-30T08:09:07Z"
+  },
+  {
    "titulo": "STATE OF PLAY: What is the latest in WorldSSP’s Riders’, Manufacturers’ and Teams’ Championships?",
    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYmZqUGpIN3RMd29LY0NMVXZtM1NEbGgwYkZOenhCMlpSTTBnYXJUMGJzbm9OQ0VRNzZTM1RtZjNiLTliOVhlVW5QT0ZJemZnbnV1bnp3OVhwd2x4bWlxdkRtSmhHazM5WlRKRmJEWE5aeV9uS2sxMnN4ZlNqbS15QXpRWm11Z0hFVzN0Z3c5b25uQ2pIU0QwV2JHV2ZncGg2Y3lGZG9LcEFPOGhvOEdwSnhpcS1qbmUyTF9RMFE5N0h2SDZ4TXVJQ1VNNzZlTU1sOHpiYU9DTHpqUQ?oc=5",
    "fonte": "WorldSBK (Superbike)",
@@ -355,16 +425,6 @@
    "tier": "Corrida",
    "dominio": "worldsbk.com",
    "ts": "2026-06-30T07:44:41Z"
-  },
-  {
-   "titulo": "Superbike team launches electronic kit designed for Ducati Panigale V4 models",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbWRKb2pJTzhMOHhKcUlObDBNVUkybVlZN0R2SjdIMGloZG9GVDQ3Y3dWbUl1TDkxRkRBc0JoY0xWNVFxbEwyN0YwNV9FZU5HU2NfMnFEZmRFN2pYalRhQjVqOS1YZWlLaHM1d2F0ajdpSi0ySWU2b3p1QlUybC1WRzBDa2hOLVBRVENjbkwzTjRDb1RnQzBia3RQTHByQmU3VHlXWExtQQ?oc=5",
-   "fonte": "Visordown",
-   "ig": "visordown",
-   "escopo": "Global",
-   "tier": "Mundo",
-   "dominio": "visordown.com",
-   "ts": "2026-06-30T07:00:00Z"
   },
   {
    "titulo": "Tati Paze leva o Brasil ao lugar mais alto do pódio nos Estados Unidos",
@@ -437,7 +497,7 @@
    "ts": "2026-06-29T14:30:17Z"
   },
   {
-   "titulo": "GTA 6 em pré-venda: veja as motos que já estão confirmadas",
+   "titulo": "GTA 6: veja motos que já estão confirmadas no novo jogo",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBNZW9kV1k1SVFCR2FzTklNdFB4dmtkcU5uc1kxRnhkVEJYSG9PRnRoel9vZnlGR2lFRGVvZlJlUGc2ODJ4c21rb045ZzJsckVrbUpGSzh3cDQzNDFKclhGYU5IdmNrdzltRVBvYzZseFIzeTg1?oc=5",
    "fonte": "Motonline",
    "ig": "motonline",
@@ -457,14 +517,24 @@
    "ts": "2026-06-29T13:36:18Z"
   },
   {
-   "titulo": "MOTO1000GP chega a Minas Gerais com velocidade e ativações para o público neste fim de semana",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOd3JscUx6cTJVRG9UOFhzeXdXWGtnUFRtLURjR1Y2RnJlcmNIT3hQczJSN05obm5wcllqY0tLVXJFRmJOazR1M3VBNVZ3ZVg4LThmVjZ6dWZiQUtjUk8yVC1yNUEtQ0puVENGQWxhQzVsZ2FzaFI5UFlIRGtaUWhrZE8tSV9fRG10b1A4NERRZXMwVXV5SC1MZGpaSkl4empia0lUZWtkOUZCZFBraVpNc0JudDY?oc=5",
-   "fonte": "MOTO1000GP",
-   "ig": "moto1000gp",
-   "escopo": "Brasil",
-   "tier": "Corrida",
-   "dominio": "m1gp.com.br",
-   "ts": "2026-06-29T12:00:00Z"
+   "titulo": "Is Your New Kawasaki Off-Road Motorcycle Not Loud Enough? Get This New Exhaust",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOTZlSk5qSHhDWnpiWUZUbXpWdnpFVWFUX3lsbDNoOUdWVkhUUURmQ1BzaFhxUmdjblFYQVo3QldNTWJ6OVdRZVVYR1NKVkl1X2Q1WVBQV2k0Wi1mYzFVYXNDNjJEVk9sSFZVOF9WUEZIMGs1djlSVUF2QmJwazFaU00yb3o2OWhZbjUxVUhZcjFxTDY3Smt4Wg?oc=5",
+   "fonte": "RideApart",
+   "ig": "rideapart",
+   "escopo": "Global",
+   "tier": "Mundo",
+   "dominio": "rideapart.com",
+   "ts": "2026-06-29T12:24:00Z"
+  },
+  {
+   "titulo": "Harley-Davidson reveals Custom Motorcycle Show winners at European H.O.G Rally",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVmtzWHBhS052ZklHa3doMnc5SDVyWlN0UDBPNTYwZzhKdE54aHM1UWJpM0F4Qm4wNV96YWlyWEh6TmxsenhScnVQbUJzRmpjVXFUb1VWMUo4aThEbDIwbnQtdURxcEZ4c3FYbHF3UFkycVRueUtCVEdrRXpHU0VBVU5OX2oxT21NVExEdEdrcWNLYlpCcUw3endReUxSMXpuWmVCNWtfYw?oc=5",
+   "fonte": "Visordown",
+   "ig": "visordown",
+   "escopo": "Global",
+   "tier": "Mundo",
+   "dominio": "visordown.com",
+   "ts": "2026-06-29T12:18:42Z"
   },
   {
    "titulo": "Marc Márquez and the Ducati Lenovo Team seventh in the Assen race. Francesco Bagnaia forced into an early retirement while running fourth",
@@ -527,16 +597,6 @@
    "ts": "2026-06-29T11:00:28Z"
   },
   {
-   "titulo": "Marc Marquez confirms he held “informal talks” with Honda before committing to Ducati",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcFlQdlY4Uk1nS2FGa1Nud3A1SUV4SF92TVVGOTM1ZldSTTQtZW51TURVRFFlNWRPb2FpN1NNNWstOFRLNEVtaHowMmpIS01ka0FqVzNQRk9ZQXNJcno0NElfejdEd19GcEU5RXdHSUFWTmJvRTdGSFpYWmljSFdMRWJ5VENFOTFDNkZyQ2o0NEpnWml0cngzTTA3ZGNEdGhFX3hzWnl3anR0aVF4Y2h0UDNKMHNZdlFGVVlZ?oc=5",
-   "fonte": "Motorsport.com",
-   "ig": "motorsportcom",
-   "escopo": "Global",
-   "tier": "Generalista",
-   "dominio": "motorsport.com",
-   "ts": "2026-06-29T11:00:03Z"
-  },
-  {
    "titulo": "Marquez held 'informal talks' with Honda before committing to Ducati",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZEo5SzhxYmVXcXI3M0FkMGVBb0RxUXNxQnJGdFJXN3E1bmhvQ0xvWnFVYkNGamdnQURxUXRlZTE5VElHcDZTOV9VTXBQNXhWTlptd25zblJfeHlZU2JPY0tGaFU5N2haLTIxVlRqUjd5UFhSbGpFeTZHeVNjUFFiU042TmJkZlR3a0dDSWtKR1ZnSHVfeEVGdUpiRG9qMUhPdjdNWmpHQTR3d3h3X01NcGdxWGY?oc=5",
    "fonte": "Autosport",
@@ -547,14 +607,14 @@
    "ts": "2026-06-29T11:00:03Z"
   },
   {
-   "titulo": "Suspicious Mercedes boss Toto Wolff queries how Ferrari can afford “limitless” F1 upgrades",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaERiLWtITmdqbkZ5ZzNtNnd1Ul9SZkljR3RZX2Rrb3ZyYTNWVF9HZG9zMUlNRUI1dThGS1pZcWRwb0QtcG1FSHJNeGZPS2FLVXdVeFdKTXA5WElLdFpBT3JsVDhtN2wteGdzLW5GSXdBcUhvT2ZRSC1LSU96a3Zycnpfek95bmNsVEFFZ0I4MktNOGhzSzF1N3U0NFlNQXNteTB1WDNfWEJXdjJTWVBld3NTcE5JQ09kMU9N?oc=5",
-   "fonte": "Crash MotoGP",
-   "ig": "crashmotogp_",
+   "titulo": "Press Reviews | Hypermotard V2 MY26",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdlJLTjBXZDhaWlVxbUdYN3RVNkdIM1BNbGIyYk5NdTJUN0tEQmlCQ3ZtMUxDc2JpX2dROU92SDRVcE5wY1AzMlM4NDVieVFkT3dfT0tLc0JibWtmY3VmaEh0a3daMGFPLXN4MG04TUU0N2lOYlZYZ0ZmZVRIbUdGVg?oc=5",
+   "fonte": "Ducati Corse",
+   "ig": "ducaticorse",
    "escopo": "Global",
    "tier": "Corrida",
-   "dominio": "crash.net",
-   "ts": "2026-06-29T10:19:26Z"
+   "dominio": "ducati.com",
+   "ts": "2026-06-29T10:42:04Z"
   },
   {
    "titulo": "“It's wrong!” - Brad Binder on “unfair” Assen MotoGP penalty",
@@ -645,6 +705,16 @@
    "tier": "Corrida",
    "dominio": "worldsbk.com",
    "ts": "2026-06-29T08:11:52Z"
+  },
+  {
+   "titulo": "Pedro Acosta to undergo surgery after Assen MotoGP stoppage",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeGY4Q2xla3Q2SHNJUHltSFVoMVBmYTY5ZmtOZFlJTG4yZlE0YVNJMXVkd2Q2azRBa1h2RE56NWdOV2M3UXpqY1MyUldkN0dkN3lUMU5mek9PcVdraW04V0xsOWw5YUdLV1c4XzQ0dy1oMGg4WmYwUjdqc2c0NzdjRXFTYWtIcW91Ml9YREt3MUM?oc=5",
+   "fonte": "Visordown",
+   "ig": "visordown",
+   "escopo": "Global",
+   "tier": "Mundo",
+   "dominio": "visordown.com",
+   "ts": "2026-06-29T08:02:40Z"
   },
   {
    "titulo": "- sso.worldsbk.com",
@@ -767,16 +837,6 @@
    "ts": "2026-06-28T15:39:52Z"
   },
   {
-   "titulo": "2026 Dutch MotoGP, Assen - Race Results: Updated after penalties",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObTVNMVlvUkQ3MzVhZy1KRmdmcFY2Q2stcnpRMU1aSnhLN3ZXMTk2bnZBSU9zQmhhdWZGR0dmYUxhal9qWVN3Z3BXLVNXLWppcnFJSktwdFFTdC1tWEc0bHFESmlPSU4wdVhjbElUNGZ3RUU0aGdGck0zajZRTlh3d2tENzduY0lVTFRv?oc=5",
-   "fonte": "Crash MotoGP",
-   "ig": "crashmotogp_",
-   "escopo": "Global",
-   "tier": "Corrida",
-   "dominio": "crash.net",
-   "ts": "2026-06-28T15:29:56Z"
-  },
-  {
    "titulo": "Word on the Grid: Riders reflect on a breathless Dutch GP",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR3pDZXBSbzRzMmZGN2hkSWVka2xzMzR5QUxWLVdZVXJCd0xyR2REdlN3dEtTUjNUdGdSZ3c0Z3Mwc0lfOTh4N0xiNXhlV296WENyUlRGbzhjU2tuUldScmM5dEpSckJqUEtQVVc1X1lPTVlUZk5vcjZramljcGEteVZ6MlVfMVdOQjNqZ1J0NHVvcFIzRVRUWHMyVFRuNURwbXdESEppU1N6bnJi?oc=5",
    "fonte": "MotoGP",
@@ -785,16 +845,6 @@
    "tier": "Corrida",
    "dominio": "motogp.com",
    "ts": "2026-06-28T15:10:00Z"
-  },
-  {
-   "titulo": "Ogura on maiden MotoGP win: \"Winning at Assen makes it even more special!\"",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNTh3WHdubENUVHZ3M20xQXo2SWJVWjU0ZnJXWFJEX0tHcjk3S3BwMFdPdEl4QXYxbEo4RVNCc3dDYVRiRXhaMF9nbTh3SWhITV95VjVSdmhhRTFKeFJDQ2MyLWpCWTJuNjBReHhvSkhMa0FoQlVjMU9UR1dtTzVBbzNZWTZ0TnZReXlKQlJmRmNRUkZZYWI4TkE0Q0VwX19GbjhtTHRtSkxUTDZRaDhGUW9YRmxscGplaVVXMFNGNA?oc=5",
-   "fonte": "MotoGP",
-   "ig": "motogp",
-   "escopo": "Global",
-   "tier": "Corrida",
-   "dominio": "motogp.com",
-   "ts": "2026-06-28T15:07:00Z"
   },
   {
    "titulo": "\"That last chicane is a bit tricky\" - Marquez and Di Giannantonio reflect on their Assen clash",
@@ -874,7 +924,7 @@
    "escopo": "Global",
    "tier": "Corrida",
    "dominio": "motogp.com",
-   "ts": "2026-06-28T11:47:26Z"
+   "ts": "2026-06-28T12:42:33Z"
   },
   {
    "titulo": "- sso.worldsbk.com",
@@ -1317,16 +1367,6 @@
    "ts": "2026-06-25T21:07:12Z"
   },
   {
-   "titulo": "Allen Millyard to sell unique 207mph eight-litre Viper V10 road bike at auction next month",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOX0pQd0dDcHJ3N1l6YVRvVWt0RnJtTU1nWUR0XzVLTUVyNkR6cl95djQwdVZuX0VUYU5OS1pPMUNldGE5ZXZ4UG1Ldi1TQ0tueFJ3UFd1UWhyU2JrRG94bFJvYVFSUExhM1IyRGFKVHh0VFUtZDFZWF9kMTBfWE5IalBKRTZQdkp5NS1ield5QlVETVF4?oc=5",
-   "fonte": "Motorcycle News (MCN)",
-   "ig": "motorcyclenews",
-   "escopo": "Global",
-   "tier": "Mundo",
-   "dominio": "motorcyclenews.com",
-   "ts": "2026-06-25T19:31:15Z"
-  },
-  {
    "titulo": "Sucesso absoluto: CFMOTO anuncia data de abertura para o segundo lote de reservas no Brasil",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeVlBaHhwNnJveV85bGhnSlgtY1Z0eXVnbDdfalJWM3NRTG44dUpuWDV6Z0dlc0IzcUFSQ2l2WFZ4azNidkhuZHd1M1NHcVlsR0JabGlCNWhWbmV4SHhLN0RUajBxOGt1Wl9nX2E5cExPbG43SXNGMEUzVTM1TF9GdTZLTW1vdi1ZamExaWd3NG9IYTZvX3RaTFVn?oc=5",
    "fonte": "Motociclismo",
@@ -1395,6 +1435,16 @@
    "tier": "Corrida",
    "dominio": "m1gp.com.br",
    "ts": "2026-06-25T15:51:00Z"
+  },
+  {
+   "titulo": "GIVI apresenta geração atual de malas expansíveis para motos: a XSpace",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNSlVCQWVMS3BXOHY0MlJiOHI4V1cwdWlJT2F4UVQtSkRYODhOQkk5dktpd2ROZTllVlN0Y0lWejU0Mkc4cHJxMl93czJNLUhkb292NjVxemZtZlNTNFM2d1d5VGtlQ21jUkJ5SzhDY0g5cFVuM3NEdFQ4YkhJdVBFTEtORGh4MUM0MENnbU8zX1lWeTRGUENnRDdZWXRGTy1DMWRHTDV0YzdwTDhxNFQ3VWwweGJEdm15eFgyT2dkcnFmS2dVVXUtbUVYMzFGLWZ4MjZvbnZhYTlDTTJ3cGhzNEJ3?oc=5",
+   "fonte": "AndarDeMoto Brasil",
+   "ig": "andardemoto",
+   "escopo": "Brasil",
+   "tier": "Brasil",
+   "dominio": "andardemoto.com.br",
+   "ts": "2026-06-25T14:59:29Z"
   },
   {
    "titulo": "Aliança Italiana: Pecco Bagnaia assina com a Aprilia em acordo histórico até 2030",
@@ -1727,16 +1777,6 @@
    "ts": "2026-06-23T13:22:35Z"
   },
   {
-   "titulo": "Pedro Acosta Is About To Test KTM's New MotoGP Bike. But He’s Going to Ducati",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbVJLVzEwdlUxN3dveDVoME9TWUtUdmJ3emxEV1d3T1VTSnhoNTVuUmxlbEJyNUFJLThEczJobUN6ejhwWXA5QkNfUW45djRUVlI5N2JoZ3JTQnpOODRQUmxsQXpiRVVrVG5CbTdEdEJKOHB5cm1GdENMSkNHU1ZNa1BRUWdURDYtYjJWc21TbVNTR1phb3I0WlJvRkZEelJ6RVl5NFI2MG1IdXNG?oc=5",
-   "fonte": "RideApart",
-   "ig": "rideapart",
-   "escopo": "Global",
-   "tier": "Mundo",
-   "dominio": "rideapart.com",
-   "ts": "2026-06-23T12:52:00Z"
-  },
-  {
    "titulo": "Harley-Davidson Creators Custom Clash bikes revealed as voting opens",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTW9Ic3hqWlIxNGl5SkQyS01YQzE5bW5iaGIyZlgySUlsdnJaTTZ1anRIZ0tsbEdxUEtreUJ0dVNvOW13UmlHQktwTXZ1Z3hiblR3Y3FzTmdpMndTeGR5ZW1mRlMtUHVERHl1U1FaOEo1N2JTeHpWQWNEYUx4eDM4Y3lqZnBqMzNKWkljVjI1cUUtS3R6UWpMLWc1YU4?oc=5",
    "fonte": "Visordown",
@@ -1785,16 +1825,6 @@
    "tier": "Corrida",
    "dominio": "ducati.com",
    "ts": "2026-06-23T09:07:29Z"
-  },
-  {
-   "titulo": "Royal Enfield amplia rede no Brasil e inaugura unidade inédita no Rio Grande do Norte",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWjVXai1ETUdtR1liMUhmZGhCUm5KTzhBVEhQY1I5SXF0aDZaRHJ4UGtVSWg2VnJBSHlKRDl6LVRiMDJmT0lwdWRjRXR5Y2pxbVZPMEoxaUdwZnR0WkJ6WG16WlRJanNpWmhRb09KaW5vaEFUa2hDSzlzZGkyVGxlNkpTUURNWkNBWjd6LUdTclJLd2U0UWdQbjVNdHlMTzR2a2NqZVJVTmp6bS1CQlNDRkQ2NA?oc=5",
-   "fonte": "MotoNews Brasil",
-   "ig": "motonewsbrasil",
-   "escopo": "Brasil",
-   "tier": "Criador",
-   "dominio": "motonewsbrasil.com",
-   "ts": "2026-06-23T09:04:16Z"
   },
   {
    "titulo": "Prima Pramac Yamaha MotoGP Heads to the Cathedral of Speed for the Dutch TT",
@@ -1967,16 +1997,6 @@
    "ts": "2026-06-22T08:41:24Z"
   },
   {
-   "titulo": "Suzuki SV7-GX (2026) review, spec, features and price",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUVlFcUZaMmoyUDJTdjZ3YUVqdkN6V2dSaTlKdG9NX0dNWlE3djNncUdTNEVOUWJoYnlQMjg1ZWplMU9aLTlhbWNoeFFlcHI3bkpiUzVCano1LUVRTTBkZHR1T0oyVmNvWDVFVGRhSEljcUVneTJ5cGxXSE1WNE9OczNjVS1EbDAzbkJR?oc=5",
-   "fonte": "Visordown",
-   "ig": "visordown",
-   "escopo": "Global",
-   "tier": "Mundo",
-   "dominio": "visordown.com",
-   "ts": "2026-06-22T07:58:32Z"
-  },
-  {
    "titulo": "RELIVE 2026: 7 rounds, incredible action, big battles and plenty of history",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPLXFFZEduWFR4WkpDemVhOWNBWGdCRGtkQ045YnUyZHdDbll6eXZiWlQxQ0cxal8zUmltVFp1allxdGFuRm5XS3Z2LTFGYlp1NGgxNnNHU3dQbmc0MXJIX0hYaTlhaW5BT1FhUF94RVZtQUs0d3I1NF9ZaWphSVV4bkxBem8wTkVwVUo0bzlFU1FkamZlYldWdHdlWWUxSl9TNmJoWTc2STBVRlFhSWUyLVMyU044NG9DVUU1bXNqMEh4MG5GNXFzWEJB?oc=5",
    "fonte": "WorldSBK (Superbike)",
@@ -2047,6 +2067,16 @@
    "ts": "2026-06-21T09:30:40Z"
   },
   {
+   "titulo": "Evento de oficialização da nova estrutura Bajaj e KTM no Brasil, divulgação Bajaj-KTM-1",
+   "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPeVVXU1Flc3NXSnh4MFVaY2k1R0JFcm9sdTRFY3ZMT1NRRFJrT2c2b3ptLXk2UGxDei15aWl6bU5hR25TWjhFcnhfaFlnT2xLOTJyWmcyMkJDcWZ6elNOWWdmaXlZbVVRR0kwdGxCQWRPNWpwRld2OWI5M0g2REVUYlczS09IelFyUnQ5dzBxS0dRSXVmTlNmLVZwRFAwVm9TcU4zUnJVUnRNbFl1Si0zV2R5RGkwQVZ2SFB6eFlGX2tqdnZLa2dWQ09yNUFnaThuUDctQ1JlT09vYUJSZzNPamVnNmxqREVhX1dtMUVxZHZ1a1R1YXJNeGpHbG5QLUVHQjlBOURnT0xkNWprc3hkeVlDT2lmUkF1WElJelFUR09vNkl0SDNWelhiN0tXUQ?oc=5",
+   "fonte": "Revista Moto Adventure",
+   "ig": "revistamotoadventure",
+   "escopo": "Brasil",
+   "tier": "Brasil",
+   "dominio": "motoadventure.com.br",
+   "ts": "2026-06-21T07:50:57Z"
+  },
+  {
    "titulo": "Com Bruno Crivilin, Honda Racing vence o Rally Jalapão",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOeDZlSEtjVFhmWUFGa2p2SkVVSGNnZU5WYlExVXcxWHp1R1gzUnVfWGE0cTNFLW1EMFZmNGVEZVcxbkxRbWRlN2RfVEFHZDk3RVpQdnVya1RKOFNVd0FiV3dCRmUyM3JnYmVWTHFzbzJRc3M3UjNSMUdsaXVoWmdLaEtVbkJpZw?oc=5",
    "fonte": "MotoMundo",
@@ -2065,26 +2095,6 @@
    "tier": "Brasil",
    "dominio": "andardemoto.com.br",
    "ts": "2026-06-20T18:32:03Z"
-  },
-  {
-   "titulo": "Bajaj assume operação da KTM e Husqvarna no Brasil e inicia nova fase das marcas no país",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUmRYbXhwMk94UFpiMzVQLV9XZDhHN3pMalA3Ti0zazMzSlBUZzVBeTlxb3FKRWlDSEVteUMwTm56bDdabk03TEl0ZFAtbmhjUU41WmRTMjVEZVFJNGpWUWtUZ2dWT0ZtdngtZUpDUnhtOVJ0YkExVlpWYTZGb3hrQVlBNFlad0J2Z0JOZUFtQzBYa1BCaXNpUkpBRng1eDc5djdNeW5PdzVkcmxTSHZnNkl0SVhFTEpNM2c?oc=5",
-   "fonte": "Revista Moto Adventure",
-   "ig": "revistamotoadventure",
-   "escopo": "Brasil",
-   "tier": "Brasil",
-   "dominio": "motoadventure.com.br",
-   "ts": "2026-06-20T13:00:00Z"
-  },
-  {
-   "titulo": "Águeda recebe a 12.ª ronda da Elite do Motocross Mundial, dias 26 a 28 de junho",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSUJ3YU5GNXNpSzBrRUJPLVhJQnFmbmduOXJ6eFFOUFVZRDlHQ01lWWFxcDZGTUlKWFZ1OW91Nmxibm9PX3NhaUtGVFlVUHhQdzg3NGJ2QlM4YVdXQmFlQWhCbDhHc09NNDcwNEd0aWpCZ3dOa1NPanJKRWhPYnZoM1JFQXptLUI4YVNyT2pLT3Vlamd1NWFjdVhGWmNLczNLdTRyVXljTHYyU1Z1aFRWMkdKY1RhOTJXYjVEZWtZNXY3UQ?oc=5",
-   "fonte": "AndarDeMoto Brasil",
-   "ig": "andardemoto",
-   "escopo": "Brasil",
-   "tier": "Brasil",
-   "dominio": "andardemoto.com.br",
-   "ts": "2026-06-20T10:42:49Z"
   },
   {
    "titulo": "WRP Racing - team profile, riders and results",
@@ -2125,16 +2135,6 @@
    "tier": "Brasil",
    "dominio": "andardemoto.com.br",
    "ts": "2025-11-19T11:36:51Z"
-  },
-  {
-   "titulo": "Forum - en.moto.it",
-   "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTFBVbkg5RFJ2c1lET1ROVG1RLWZLZ0pTMEVMV0dPYlVrcEJWaEJYQlZqYlE1M3Rkb0Jfd05PTHVR?oc=5",
-   "fonte": "Moto.it",
-   "ig": "motoit",
-   "escopo": "Global",
-   "tier": "Mundo",
-   "dominio": "moto.it",
-   "ts": "2024-12-15T18:13:49Z"
   },
   {
    "titulo": "Clement Salvadori",
@@ -2198,43 +2198,43 @@
   }
  ],
  "total_materias": 185,
- "materias_24h": 29,
+ "materias_24h": 19,
  "reddit": [],
  "em_alta": [
   {
    "tema": "Motogp",
-   "mencoes": 34,
+   "mencoes": 37,
    "materias": [
     {
-     "titulo": "Marco Bezzecchi’s first words after Assen MotoGP accident",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORTF5U2RwYVJqMlBVZGNJOVY5MXNaV05aLWYtcnBmZzdKZndkMUwyalpRTklYaXR4X3JqRC1pMnlSTEF3cjdoZjlBbGZfLXJTc29qQmZYRkF4c3FLcjZIeHhUcEFUQW5FN2dqQVFHMWQ5TUoxekFhSGZ2NFZwajRUWmJYR0MyOUtFOEVyTUZoY25RbkFxLU1mc0NKbnhyWko5WHc?oc=5",
+     "titulo": "Fabio Quartararo’s first words on Yamaha MotoGP departure",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaUY3Um9tZ3FzR0NfTDBta2tuUlppSjhzdmhyNnJSVi1IYkVobG9FV3lNdDlvRmcyRXdOaVBHdVNrSHk3WmNERTRFUmVGeU94QTRLc1hMYnpnSTFyUXhRd1ZkaFlfVUZQbUg3aml5RzF4bU1yQVRmc1RaMDJRa1RXLThLX2xCZVdPdDRYNlhJcGNiR1EtUWVVdU5GYmJGUQ?oc=5",
      "fonte": "Crash MotoGP"
     },
     {
-     "titulo": "“A bit worried” - Ducati “must improve” in Aprilia MotoGP title fight",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNnBZRW9xVmVtcUZXdXNrZlZpYy1zSHJnUFR6SFlrWnEwckRGNUQyNDRRR2RoZ01CaWtBbDdtM3NXeUtyaFFOOENpaUxocEhkWmZHcDVaU0NkMkZRd2tIRVVRdzN5eGdiWkM5SzA5RTdhaVFUSW9kYXFDaFROVTVsOGNLN24yZnpxTHRRdFhhd0Njd0lwZ3ZJZndZeEh5RVpkZnQ2TA?oc=5",
-     "fonte": "Crash MotoGP"
-    },
-    {
-     "titulo": "“It's wrong!” - Brad Binder on “unfair” Assen MotoGP penalty",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUGQ1SVAtMnhRRk1SNHo1eW9ueTRxeW1xbnhhNFl2RHJIOU91Z2RZV3pJRE93S2lmd1F4T1hpMnpQYmlFajZmYlAyeEhwakJsek9oRUV5Ti1TaXJ0UVVtb3NHTzhNVHpfUnBqU3ZzTlEtaEF1RFNEbXdMdlFDbkNTNTA5TTNjOEx4bFU0anJieDVWTF9peWtzakpVX2NoZ3lhajFhamlxMWp4SEE?oc=5",
-     "fonte": "Crash MotoGP"
-    },
-    {
-     "titulo": "Five things we learned from MotoGP’s action-packed Dutch GP",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObzZvVS1VZGVHZ2pvcDdvMWF0ZXE1SlJlRHJtZXBtOERhcWRDUjNTbXh4blRxclZfbTVrQnVYOUpQQjN0Y19Vc0JrbWdpVlg1MTlVVG9mZTJKLXpvamZEQ2xHTERBcWJOQW9DZXVVeWtrNjRsUVRHMzNRelEwS05lbVJObHRWVzY3ZllrZHJZM3JzS2xQaVUzV3ZYNlNJZDZwQllRSGFRa0hBZw?oc=5",
+     "titulo": "Quartararo and Rins to leave Yamaha at end of MotoGP 2026",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVGRUcGdRLUtPbTY4VllmSFpKaUowS3Y5X2IxczNMSFVranNuOXd4QVdTNFgwNk5ZNkFWUmU3ZTl6dGI3bUp6NGt4VDljUk9CTjhHUVBJVnRVWUd6bzFnX1dRU0JZZW1VVUhrdjNVMm9tYjVTVnNFb2FGNXk4X0xIS05zeWtCUlRXZllZ?oc=5",
      "fonte": "Autosport"
+    },
+    {
+     "titulo": "Yamaha confirms Fabio Quartararo and Alex Rins will leave at end of 2026 MotoGP season",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVERZMmpQUFlWUmk1OG5Ib1JMbWpfcHh1NXBmdWVPWmcwaFlZUURkYWdNQm1nUUw5eVN4RTRfbkE4QlFwZUU1ZVQyLVNac1BXUldOMklrNkhVbnRXWnc0UnJ4VVNkTUZKQkQ2RUhHWi1aZnNDQXlfUm9lWFBuZURrNzNjSDg5RlFTcG1yUFlnVi1RUnV3NHJfX3hfMF9kSUpVQ0RQQ3RPZ0VmdjloQ2xnQ0Jqdm1MV3lmblVj?oc=5",
+     "fonte": "Motorsport.com"
+    },
+    {
+     "titulo": "Yamaha announces Quartararo, Rins exits for MotoGP 2027",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZlZ5VEp3REZTbW9jQ0F3Z3FqSUktVHBoaEo2YkVBb1BTTzZ3TjlqdzJ1SzJwYlNYQ1J3bW1PMjBMcVJRVjdwUG1ta0tUWVRPaVZKQ012Z2pENGJYX1BqaTd6UXJxbFlOWE9DSFBPUjFveXBnODNmd2JZVjNEV3RGSVlibWVMb1BnclR2SXdBUUU?oc=5",
+     "fonte": "The Race MotoGP"
     }
    ]
   },
   {
    "tema": "Ducati",
-   "mencoes": 22,
+   "mencoes": 20,
    "materias": [
     {
-     "titulo": "Superbike team launches electronic kit designed for Ducati Panigale V4 models",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbWRKb2pJTzhMOHhKcUlObDBNVUkybVlZN0R2SjdIMGloZG9GVDQ3Y3dWbUl1TDkxRkRBc0JoY0xWNVFxbEwyN0YwNV9FZU5HU2NfMnFEZmRFN2pYalRhQjVqOS1YZWlLaHM1d2F0ajdpSi0ySWU2b3p1QlUybC1WRzBDa2hOLVBRVENjbkwzTjRDb1RnQzBia3RQTHByQmU3VHlXWExtQQ?oc=5",
-     "fonte": "Visordown"
+     "titulo": "Marc Marquez confirms he held “informal talks” with Honda before committing to Ducati",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcFlQdlY4Uk1nS2FGa1Nud3A1SUV4SF92TVVGOTM1ZldSTTQtZW51TURVRFFlNWRPb2FpN1NNNWstOFRLNEVtaHowMmpIS01ka0FqVzNQRk9ZQXNJcno0NElfejdEd19GcEU5RXdHSUFWTmJvRTdGSFpYWmljSFdMRWJ5VENFOTFDNkZyQ2o0NEpnWml0cngzTTA3ZGNEdGhFX3hzWnl3anR0aVF4Y2h0UDNKMHNZdlFGVVlZ?oc=5",
+     "fonte": "Motorsport.com"
     },
     {
      "titulo": "Volkswagen May Be Looking to Sell Ducati: Report",
@@ -2250,6 +2250,32 @@
      "titulo": "“A bit worried” - Ducati “must improve” in Aprilia MotoGP title fight",
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNnBZRW9xVmVtcUZXdXNrZlZpYy1zSHJnUFR6SFlrWnEwckRGNUQyNDRRR2RoZ01CaWtBbDdtM3NXeUtyaFFOOENpaUxocEhkWmZHcDVaU0NkMkZRd2tIRVVRdzN5eGdiWkM5SzA5RTdhaVFUSW9kYXFDaFROVTVsOGNLN24yZnpxTHRRdFhhd0Njd0lwZ3ZJZndZeEh5RVpkZnQ2TA?oc=5",
      "fonte": "Crash MotoGP"
+    }
+   ]
+  },
+  {
+   "tema": "Yamaha",
+   "mencoes": 16,
+   "materias": [
+    {
+     "titulo": "Fabio Quartararo’s first words on Yamaha MotoGP departure",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaUY3Um9tZ3FzR0NfTDBta2tuUlppSjhzdmhyNnJSVi1IYkVobG9FV3lNdDlvRmcyRXdOaVBHdVNrSHk3WmNERTRFUmVGeU94QTRLc1hMYnpnSTFyUXhRd1ZkaFlfVUZQbUg3aml5RzF4bU1yQVRmc1RaMDJRa1RXLThLX2xCZVdPdDRYNlhJcGNiR1EtUWVVdU5GYmJGUQ?oc=5",
+     "fonte": "Crash MotoGP"
+    },
+    {
+     "titulo": "Quartararo and Rins to leave Yamaha at end of MotoGP 2026",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVGRUcGdRLUtPbTY4VllmSFpKaUowS3Y5X2IxczNMSFVranNuOXd4QVdTNFgwNk5ZNkFWUmU3ZTl6dGI3bUp6NGt4VDljUk9CTjhHUVBJVnRVWUd6bzFnX1dRU0JZZW1VVUhrdjNVMm9tYjVTVnNFb2FGNXk4X0xIS05zeWtCUlRXZllZ?oc=5",
+     "fonte": "Autosport"
+    },
+    {
+     "titulo": "Yamaha confirms Fabio Quartararo and Alex Rins will leave at end of 2026 MotoGP season",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVERZMmpQUFlWUmk1OG5Ib1JMbWpfcHh1NXBmdWVPWmcwaFlZUURkYWdNQm1nUUw5eVN4RTRfbkE4QlFwZUU1ZVQyLVNac1BXUldOMklrNkhVbnRXWnc0UnJ4VVNkTUZKQkQ2RUhHWi1aZnNDQXlfUm9lWFBuZURrNzNjSDg5RlFTcG1yUFlnVi1RUnV3NHJfX3hfMF9kSUpVQ0RQQ3RPZ0VmdjloQ2xnQ0Jqdm1MV3lmblVj?oc=5",
+     "fonte": "Motorsport.com"
+    },
+    {
+     "titulo": "Yamaha announces Quartararo, Rins exits for MotoGP 2027",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZlZ5VEp3REZTbW9jQ0F3Z3FqSUktVHBoaEo2YkVBb1BTTzZ3TjlqdzJ1SzJwYlNYQ1J3bW1PMjBMcVJRVjdwUG1ta0tUWVRPaVZKQ012Z2pENGJYX1BqaTd6UXJxbFlOWE9DSFBPUjFveXBnODNmd2JZVjNEV3RGSVlibWVMb1BnclR2SXdBUUU?oc=5",
+     "fonte": "The Race MotoGP"
     }
    ]
   },
@@ -2276,58 +2302,6 @@
      "titulo": "Honda Might Have Just Made Its Smartest EV Move Yet, And Almost Nobody Noticed",
      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbDBkdkxySV9IbERzeWN5V3ExUlgtb2NYSDhkZUlfMVUxRl9sWHI0UFA0eFhvdTQ0S3V0b2UyRS1BSlE4Vy16aFN0TzNrRE0yY3RMalFrV1NxV3Fvd0NTR2RGeDRSTDBkdExJYW1xY2FaV3NxS1UzNzlqOWlTUlUxZ0Nza0dMOHI3TE4wX1hEZGRoTWc?oc=5",
      "fonte": "RideApart"
-    }
-   ]
-  },
-  {
-   "tema": "Yamaha",
-   "mencoes": 10,
-   "materias": [
-    {
-     "titulo": "MotoGP, Toprak: “I’m surprised: the Yamaha was bouncing around in the left-hand turns”",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeUswTlVBVkFxSFJKYksxWWcyajJfaTB6VzFsMjVZd3FMNWtzOG1BSVoxTzNjU0VrY2ZuM2VDZHQ2RlhRR3ZSRVJtYUxYOFN1MGhBcXRKMkJQZnA4ZFVDYjZzdXY2bzNyUXZrX3hNSW0xWEpfTWR0SU1jYUEtSmFIeF9vQk81dk1DRzNtNEZMS0x5elVFdWhwemxWdXZPMG5RMEFLaTlJQmtfSmhJaFZrSFNYMUVuaC1zMzVMai1B?oc=5",
-     "fonte": "GPOne"
-    },
-    {
-     "titulo": "A moto mais louca da Yamaha",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE13RTBZcUI1dDRHNThONTQ4anlHci12Tm1jaVg4QnN2YW9pbkZNNVFzT2FINGxMS0tzaWlmMXBsZnc4ejBRWXhRMXpHTkxKV05aWnFPYURvU0JOTkpuLWYtbllvRDNLdw?oc=5",
-     "fonte": "MotoNews Brasil"
-    },
-    {
-     "titulo": "Promising pace goes unrewarded for Prima Pramac Yamaha MotoGP at Assen",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNk5adS02MTVyY0x0NklSNExWX0YtZG9sRFpENlk4OWZ5aFprSzM2SFducU11aXMtT0thZHVDWFpGb3A1eVM3cUhBOVdpTV80VWVmbkx3Nlo5ZnhoOW1XMjhWSXdob1k5LWtZdmVOaHZEektvOGtHY0czelcxOWdzam56NVdMSjQzWUxTUlBZUXh3YjVmSlE3cHQxT0ltUTlTYm0wVngxNzlYbElLTTZEVHJyUQ?oc=5",
-     "fonte": "Yamaha Racing"
-    },
-    {
-     "titulo": "Double Top-10 Result for Monster Energy Yamaha MotoGP in Dutch GP Race",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNWNNNUg3MlVINmVwZlUtdFBWaVJKV1hxX0g0NDlYdWl0QzQ0WlFWci1hZTZMZy03Z3FwM3NIRjhXM08zN0ZIaHZvSXdyRTl2MEhBVUJ0eVIwbkpjV20xbzQydldYRndXS3c1d0g3NXpHcFFnZnc0WnRqUE9wLWdUV1M2T3Z2UHFWNGdQLXB5V0U0SVZvd0kzc01LOXRvOVNpd2VuN3NqQkNYc1BsNjBSUlV1aw?oc=5",
-     "fonte": "Yamaha Racing"
-    }
-   ]
-  },
-  {
-   "tema": "Ktm",
-   "mencoes": 8,
-   "materias": [
-    {
-     "titulo": "A KTM vai dominar o MotoGP em 2027? Nova 850cc em testes",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBXMWowSGdEbUdaOUdYYTNwRUNHZmVINl8xYlRCZ0NFRTAwZG1FbTNJQW45cEFfMUVraHVpQ2FOMlliWFFGX2hxMURrbHdGNXBGRHc3c0NuOU4yRkxfWWwwVkpESVJVN1N1OFJN?oc=5",
-     "fonte": "Motonline"
-    },
-    {
-     "titulo": "MotoGP, Acosta’s frustration: “KTM wasn’t able to fix the problems: I was stuck with the throttle wide open”",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYmhNa3JmcTN3dVNwdzM5ekJONGI2TGQwWC16UW5zRmQ1TmhuLXo0cTdKUHFtNlJxRzdDSi1sNE5iTDZiWXNGaWZoWnNnZ3BCVG10UHdSQkFMemVqd3oxNlpxX1VPendrU3o1T2JmdU5NekJQUldRQXRVejhWc2dHR08wRkQweTZvUG5nTWc5dmRfTUN2Q24wOXVjcDhDX0U0Q0EtQkJPbGVGd3JrTk4zaGZpMzZCdXNSZEE?oc=5",
-     "fonte": "GPOne"
-    },
-    {
-     "titulo": "WP hit the anchors! Suspension specialists move into braking hardware on KTM Duke nakeds",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQS1Ia1U3N3MyWWQ4X1d1U2VoTWRSbHpBYi0yMGZlbDNpUmJZSnpBN0JqdkE4ZXR5MnNleDlnckhnT0JlbXFtOXNBUVdCaGJWR29GNlV4OVV4d1gyTUxqaEJSSVNHdVUzZ0hJbnZuRlBadUM3Q2s0WTR4ZFZHWjY0SUJXYWJ5YU0xdXRUZm0zRDQxMl9Vbkx3ZzgtSDh1MHJSZUZF?oc=5",
-     "fonte": "Motorcycle News (MCN)"
-    },
-    {
-     "titulo": "Yamaha signs Moto3 deal to replace KTM and Honda",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSnFGNVF6c01RUjQyNms2N1BHU09DNlB6VGp2aUMzZWduQlNWR21VYTk1RVdCNjVFNHRkOUE3Y3BHb1Voc2NtcURkR3lnQjlsbDBGTTJicXFROTItakJDVjREd2FBLWNyOEhVWW04Q1BiX2JBS2tuSDE2MHZHdUpyb1Nn?oc=5",
-     "fonte": "Visordown"
     }
    ]
   },
@@ -2384,44 +2358,157 @@
    ]
   },
   {
-   "tema": "Bezzecchi",
-   "mencoes": 6,
+   "tema": "Ktm",
+   "mencoes": 7,
    "materias": [
     {
-     "titulo": "Marco Bezzecchi’s first words after Assen MotoGP accident",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORTF5U2RwYVJqMlBVZGNJOVY5MXNaV05aLWYtcnBmZzdKZndkMUwyalpRTklYaXR4X3JqRC1pMnlSTEF3cjdoZjlBbGZfLXJTc29qQmZYRkF4c3FLcjZIeHhUcEFUQW5FN2dqQVFHMWQ5TUoxekFhSGZ2NFZwajRUWmJYR0MyOUtFOEVyTUZoY25RbkFxLU1mc0NKbnhyWko5WHc?oc=5",
-     "fonte": "Crash MotoGP"
+     "titulo": "A KTM vai dominar o MotoGP em 2027? Nova 850cc em testes",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBXMWowSGdEbUdaOUdYYTNwRUNHZmVINl8xYlRCZ0NFRTAwZG1FbTNJQW45cEFfMUVraHVpQ2FOMlliWFFGX2hxMURrbHdGNXBGRHc3c0NuOU4yRkxfWWwwVkpESVJVN1N1OFJN?oc=5",
+     "fonte": "Motonline"
     },
     {
-     "titulo": "Checks reveal no injuries for Bezzecchi",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYzJ3WV9mOHQzUkJIYTFubWFkT3RSSWF4aWpvYmF5eGhvcEVrblduaTZjakdzQWoyblFjYUp5U3I5cE50ODQ5OGZLaHFIVFBCczc5UDFXMDI2NFd6ZlYyYnV0TEZHNDlzQWM1Zm1YNnRhb2ItNWF6YXlTN3NZSU1HTUxWT3FhZ0JpVDg3d2daTHIwYW8?oc=5",
-     "fonte": "MotoGP"
-    },
-    {
-     "titulo": "MotoGP, Rivola: “Bezzecchi has been through a lot lately; he needs to take a break”",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZHRILUptVDZSdFAtdHE4UGVIb0JlUDhfLUJzZXpZbVVBemNDeVBIeFZOZlFsNDFGZ0ZFZFpYQlNObGNBZlVQejdNd0hCRXNVaWNHemMtZHZSZ1E2enpjczBSMHFMcGozc1JSRkNQc3ZPMGZBWFBfaEFVZzNkSjdYUnNxN0pPeEZrWGdWQ1NRcVFKV3RtMDhhVmc2X3ZIZUxJLUFHYUVNTUp2RGpzZ2d3VjJQNVZITFhfS3A0?oc=5",
+     "titulo": "MotoGP, Acosta’s frustration: “KTM wasn’t able to fix the problems: I was stuck with the throttle wide open”",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYmhNa3JmcTN3dVNwdzM5ekJONGI2TGQwWC16UW5zRmQ1TmhuLXo0cTdKUHFtNlJxRzdDSi1sNE5iTDZiWXNGaWZoWnNnZ3BCVG10UHdSQkFMemVqd3oxNlpxX1VPendrU3o1T2JmdU5NekJQUldRQXRVejhWc2dHR08wRkQweTZvUG5nTWc5dmRfTUN2Q24wOXVjcDhDX0U0Q0EtQkJPbGVGd3JrTk4zaGZpMzZCdXNSZEE?oc=5",
      "fonte": "GPOne"
     },
     {
-     "titulo": "Golden Ai: Ogura clinches maiden MotoGP victory as Bezzecchi crashes in Assen",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNa1h4Nkh2WTctYmhaT2MwSVk0ZDJSUElLUDV6U01yMTBybkZic1BEQWh6MlZndElEYzgtbTNpcjI5ZzNTMERmMjVWYjJuaDNpT0VNNVJhV0VXUW84N0E3ejNvTlgzeVlCU0JXWERtcERWUkJ3UEVWM08xYnpqRHQ1ZEE0T0tiYWN2MzB6MktsSmFXNGhsRzFnWEVDalE4Sll0akg3YUEwTmtLVVBaR19NZ0M3RnhQa3pfVHlNZGdzSkRUSFFI?oc=5",
-     "fonte": "MotoGP"
+     "titulo": "WP hit the anchors! Suspension specialists move into braking hardware on KTM Duke nakeds",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQS1Ia1U3N3MyWWQ4X1d1U2VoTWRSbHpBYi0yMGZlbDNpUmJZSnpBN0JqdkE4ZXR5MnNleDlnckhnT0JlbXFtOXNBUVdCaGJWR29GNlV4OVV4d1gyTUxqaEJSSVNHdVUzZ0hJbnZuRlBadUM3Q2s0WTR4ZFZHWjY0SUJXYWJ5YU0xdXRUZm0zRDQxMl9Vbkx3ZzgtSDh1MHJSZUZF?oc=5",
+     "fonte": "Motorcycle News (MCN)"
+    },
+    {
+     "titulo": "Yamaha signs Moto3 deal to replace KTM and Honda",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSnFGNVF6c01RUjQyNms2N1BHU09DNlB6VGp2aUMzZWduQlNWR21VYTk1RVdCNjVFNHRkOUE3Y3BHb1Voc2NtcURkR3lnQjlsbDBGTTJicXFROTItakJDVjREd2FBLWNyOEhVWW04Q1BiX2JBS2tuSDE2MHZHdUpyb1Nn?oc=5",
+     "fonte": "Visordown"
+    }
+   ]
+  },
+  {
+   "tema": "Quartararo",
+   "mencoes": 6,
+   "materias": [
+    {
+     "titulo": "Fabio Quartararo’s first words on Yamaha MotoGP departure",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaUY3Um9tZ3FzR0NfTDBta2tuUlppSjhzdmhyNnJSVi1IYkVobG9FV3lNdDlvRmcyRXdOaVBHdVNrSHk3WmNERTRFUmVGeU94QTRLc1hMYnpnSTFyUXhRd1ZkaFlfVUZQbUg3aml5RzF4bU1yQVRmc1RaMDJRa1RXLThLX2xCZVdPdDRYNlhJcGNiR1EtUWVVdU5GYmJGUQ?oc=5",
+     "fonte": "Crash MotoGP"
+    },
+    {
+     "titulo": "Quartararo and Rins to leave Yamaha at end of MotoGP 2026",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVGRUcGdRLUtPbTY4VllmSFpKaUowS3Y5X2IxczNMSFVranNuOXd4QVdTNFgwNk5ZNkFWUmU3ZTl6dGI3bUp6NGt4VDljUk9CTjhHUVBJVnRVWUd6bzFnX1dRU0JZZW1VVUhrdjNVMm9tYjVTVnNFb2FGNXk4X0xIS05zeWtCUlRXZllZ?oc=5",
+     "fonte": "Autosport"
+    },
+    {
+     "titulo": "Yamaha confirms Fabio Quartararo and Alex Rins will leave at end of 2026 MotoGP season",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVERZMmpQUFlWUmk1OG5Ib1JMbWpfcHh1NXBmdWVPWmcwaFlZUURkYWdNQm1nUUw5eVN4RTRfbkE4QlFwZUU1ZVQyLVNac1BXUldOMklrNkhVbnRXWnc0UnJ4VVNkTUZKQkQ2RUhHWi1aZnNDQXlfUm9lWFBuZURrNzNjSDg5RlFTcG1yUFlnVi1RUnV3NHJfX3hfMF9kSUpVQ0RQQ3RPZ0VmdjloQ2xnQ0Jqdm1MV3lmblVj?oc=5",
+     "fonte": "Motorsport.com"
+    },
+    {
+     "titulo": "Yamaha announces Quartararo, Rins exits for MotoGP 2027",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZlZ5VEp3REZTbW9jQ0F3Z3FqSUktVHBoaEo2YkVBb1BTTzZ3TjlqdzJ1SzJwYlNYQ1J3bW1PMjBMcVJRVjdwUG1ta0tUWVRPaVZKQ012Z2pENGJYX1BqaTd6UXJxbFlOWE9DSFBPUjFveXBnODNmd2JZVjNEV3RGSVlibWVMb1BnclR2SXdBUUU?oc=5",
+     "fonte": "The Race MotoGP"
     }
    ]
   }
  ],
  "pautas": [
   {
-   "pauta": "Ducati",
+   "pauta": "Motogp",
+   "urgencia": "8 fontes / 48h",
+   "porque": "8 fontes publicaram sobre isso nas ultimas 48h.",
+   "furo": false,
+   "fontes": 8,
+   "materias": [
+    {
+     "titulo": "Fabio Quartararo’s first words on Yamaha MotoGP departure",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaUY3Um9tZ3FzR0NfTDBta2tuUlppSjhzdmhyNnJSVi1IYkVobG9FV3lNdDlvRmcyRXdOaVBHdVNrSHk3WmNERTRFUmVGeU94QTRLc1hMYnpnSTFyUXhRd1ZkaFlfVUZQbUg3aml5RzF4bU1yQVRmc1RaMDJRa1RXLThLX2xCZVdPdDRYNlhJcGNiR1EtUWVVdU5GYmJGUQ?oc=5",
+     "fonte": "Crash MotoGP"
+    },
+    {
+     "titulo": "Quartararo and Rins to leave Yamaha at end of MotoGP 2026",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVGRUcGdRLUtPbTY4VllmSFpKaUowS3Y5X2IxczNMSFVranNuOXd4QVdTNFgwNk5ZNkFWUmU3ZTl6dGI3bUp6NGt4VDljUk9CTjhHUVBJVnRVWUd6bzFnX1dRU0JZZW1VVUhrdjNVMm9tYjVTVnNFb2FGNXk4X0xIS05zeWtCUlRXZllZ?oc=5",
+     "fonte": "Autosport"
+    },
+    {
+     "titulo": "Yamaha confirms Fabio Quartararo and Alex Rins will leave at end of 2026 MotoGP season",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVERZMmpQUFlWUmk1OG5Ib1JMbWpfcHh1NXBmdWVPWmcwaFlZUURkYWdNQm1nUUw5eVN4RTRfbkE4QlFwZUU1ZVQyLVNac1BXUldOMklrNkhVbnRXWnc0UnJ4VVNkTUZKQkQ2RUhHWi1aZnNDQXlfUm9lWFBuZURrNzNjSDg5RlFTcG1yUFlnVi1RUnV3NHJfX3hfMF9kSUpVQ0RQQ3RPZ0VmdjloQ2xnQ0Jqdm1MV3lmblVj?oc=5",
+     "fonte": "Motorsport.com"
+    },
+    {
+     "titulo": "Yamaha announces Quartararo, Rins exits for MotoGP 2027",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZlZ5VEp3REZTbW9jQ0F3Z3FqSUktVHBoaEo2YkVBb1BTTzZ3TjlqdzJ1SzJwYlNYQ1J3bW1PMjBMcVJRVjdwUG1ta0tUWVRPaVZKQ012Z2pENGJYX1BqaTd6UXJxbFlOWE9DSFBPUjFveXBnODNmd2JZVjNEV3RGSVlibWVMb1BnclR2SXdBUUU?oc=5",
+     "fonte": "The Race MotoGP"
+    }
+   ]
+  },
+  {
+   "pauta": "Yamaha",
    "urgencia": "6 fontes / 48h",
    "porque": "6 fontes publicaram sobre isso nas ultimas 48h.",
    "furo": false,
    "fontes": 6,
    "materias": [
     {
-     "titulo": "Superbike team launches electronic kit designed for Ducati Panigale V4 models",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbWRKb2pJTzhMOHhKcUlObDBNVUkybVlZN0R2SjdIMGloZG9GVDQ3Y3dWbUl1TDkxRkRBc0JoY0xWNVFxbEwyN0YwNV9FZU5HU2NfMnFEZmRFN2pYalRhQjVqOS1YZWlLaHM1d2F0ajdpSi0ySWU2b3p1QlUybC1WRzBDa2hOLVBRVENjbkwzTjRDb1RnQzBia3RQTHByQmU3VHlXWExtQQ?oc=5",
-     "fonte": "Visordown"
+     "titulo": "Fabio Quartararo’s first words on Yamaha MotoGP departure",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaUY3Um9tZ3FzR0NfTDBta2tuUlppSjhzdmhyNnJSVi1IYkVobG9FV3lNdDlvRmcyRXdOaVBHdVNrSHk3WmNERTRFUmVGeU94QTRLc1hMYnpnSTFyUXhRd1ZkaFlfVUZQbUg3aml5RzF4bU1yQVRmc1RaMDJRa1RXLThLX2xCZVdPdDRYNlhJcGNiR1EtUWVVdU5GYmJGUQ?oc=5",
+     "fonte": "Crash MotoGP"
+    },
+    {
+     "titulo": "Quartararo and Rins to leave Yamaha at end of MotoGP 2026",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVGRUcGdRLUtPbTY4VllmSFpKaUowS3Y5X2IxczNMSFVranNuOXd4QVdTNFgwNk5ZNkFWUmU3ZTl6dGI3bUp6NGt4VDljUk9CTjhHUVBJVnRVWUd6bzFnX1dRU0JZZW1VVUhrdjNVMm9tYjVTVnNFb2FGNXk4X0xIS05zeWtCUlRXZllZ?oc=5",
+     "fonte": "Autosport"
+    },
+    {
+     "titulo": "Yamaha confirms Fabio Quartararo and Alex Rins will leave at end of 2026 MotoGP season",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVERZMmpQUFlWUmk1OG5Ib1JMbWpfcHh1NXBmdWVPWmcwaFlZUURkYWdNQm1nUUw5eVN4RTRfbkE4QlFwZUU1ZVQyLVNac1BXUldOMklrNkhVbnRXWnc0UnJ4VVNkTUZKQkQ2RUhHWi1aZnNDQXlfUm9lWFBuZURrNzNjSDg5RlFTcG1yUFlnVi1RUnV3NHJfX3hfMF9kSUpVQ0RQQ3RPZ0VmdjloQ2xnQ0Jqdm1MV3lmblVj?oc=5",
+     "fonte": "Motorsport.com"
+    },
+    {
+     "titulo": "Yamaha announces Quartararo, Rins exits for MotoGP 2027",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZlZ5VEp3REZTbW9jQ0F3Z3FqSUktVHBoaEo2YkVBb1BTTzZ3TjlqdzJ1SzJwYlNYQ1J3bW1PMjBMcVJRVjdwUG1ta0tUWVRPaVZKQ012Z2pENGJYX1BqaTd6UXJxbFlOWE9DSFBPUjFveXBnODNmd2JZVjNEV3RGSVlibWVMb1BnclR2SXdBUUU?oc=5",
+     "fonte": "The Race MotoGP"
+    }
+   ]
+  },
+  {
+   "pauta": "Quartararo",
+   "urgencia": "5 fontes / 48h",
+   "porque": "5 fontes publicaram sobre isso nas ultimas 48h.",
+   "furo": false,
+   "fontes": 5,
+   "materias": [
+    {
+     "titulo": "Fabio Quartararo’s first words on Yamaha MotoGP departure",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaUY3Um9tZ3FzR0NfTDBta2tuUlppSjhzdmhyNnJSVi1IYkVobG9FV3lNdDlvRmcyRXdOaVBHdVNrSHk3WmNERTRFUmVGeU94QTRLc1hMYnpnSTFyUXhRd1ZkaFlfVUZQbUg3aml5RzF4bU1yQVRmc1RaMDJRa1RXLThLX2xCZVdPdDRYNlhJcGNiR1EtUWVVdU5GYmJGUQ?oc=5",
+     "fonte": "Crash MotoGP"
+    },
+    {
+     "titulo": "Quartararo and Rins to leave Yamaha at end of MotoGP 2026",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVGRUcGdRLUtPbTY4VllmSFpKaUowS3Y5X2IxczNMSFVranNuOXd4QVdTNFgwNk5ZNkFWUmU3ZTl6dGI3bUp6NGt4VDljUk9CTjhHUVBJVnRVWUd6bzFnX1dRU0JZZW1VVUhrdjNVMm9tYjVTVnNFb2FGNXk4X0xIS05zeWtCUlRXZllZ?oc=5",
+     "fonte": "Autosport"
+    },
+    {
+     "titulo": "Yamaha confirms Fabio Quartararo and Alex Rins will leave at end of 2026 MotoGP season",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVERZMmpQUFlWUmk1OG5Ib1JMbWpfcHh1NXBmdWVPWmcwaFlZUURkYWdNQm1nUUw5eVN4RTRfbkE4QlFwZUU1ZVQyLVNac1BXUldOMklrNkhVbnRXWnc0UnJ4VVNkTUZKQkQ2RUhHWi1aZnNDQXlfUm9lWFBuZURrNzNjSDg5RlFTcG1yUFlnVi1RUnV3NHJfX3hfMF9kSUpVQ0RQQ3RPZ0VmdjloQ2xnQ0Jqdm1MV3lmblVj?oc=5",
+     "fonte": "Motorsport.com"
+    },
+    {
+     "titulo": "Yamaha announces Quartararo, Rins exits for MotoGP 2027",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZlZ5VEp3REZTbW9jQ0F3Z3FqSUktVHBoaEo2YkVBb1BTTzZ3TjlqdzJ1SzJwYlNYQ1J3bW1PMjBMcVJRVjdwUG1ta0tUWVRPaVZKQ012Z2pENGJYX1BqaTd6UXJxbFlOWE9DSFBPUjFveXBnODNmd2JZVjNEV3RGSVlibWVMb1BnclR2SXdBUUU?oc=5",
+     "fonte": "The Race MotoGP"
+    }
+   ]
+  },
+  {
+   "pauta": "Ducati",
+   "urgencia": "5 fontes / 48h",
+   "porque": "5 fontes publicaram sobre isso nas ultimas 48h.",
+   "furo": false,
+   "fontes": 5,
+   "materias": [
+    {
+     "titulo": "Marc Marquez confirms he held “informal talks” with Honda before committing to Ducati",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcFlQdlY4Uk1nS2FGa1Nud3A1SUV4SF92TVVGOTM1ZldSTTQtZW51TURVRFFlNWRPb2FpN1NNNWstOFRLNEVtaHowMmpIS01ka0FqVzNQRk9ZQXNJcno0NElfejdEd19GcEU5RXdHSUFWTmJvRTdGSFpYWmljSFdMRWJ5VENFOTFDNkZyQ2o0NEpnWml0cngzTTA3ZGNEdGhFX3hzWnl3anR0aVF4Y2h0UDNKMHNZdlFGVVlZ?oc=5",
+     "fonte": "Motorsport.com"
     },
     {
      "titulo": "Volkswagen May Be Looking to Sell Ducati: Report",
@@ -2441,31 +2528,26 @@
    ]
   },
   {
-   "pauta": "Motogp",
-   "urgencia": "5 fontes / 48h",
-   "porque": "5 fontes publicaram sobre isso nas ultimas 48h.",
+   "pauta": "Honda",
+   "urgencia": "3 fontes / 48h",
+   "porque": "3 fontes publicaram sobre isso nas ultimas 48h.",
    "furo": false,
-   "fontes": 5,
+   "fontes": 3,
    "materias": [
     {
-     "titulo": "Marco Bezzecchi’s first words after Assen MotoGP accident",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORTF5U2RwYVJqMlBVZGNJOVY5MXNaV05aLWYtcnBmZzdKZndkMUwyalpRTklYaXR4X3JqRC1pMnlSTEF3cjdoZjlBbGZfLXJTc29qQmZYRkF4c3FLcjZIeHhUcEFUQW5FN2dqQVFHMWQ5TUoxekFhSGZ2NFZwajRUWmJYR0MyOUtFOEVyTUZoY25RbkFxLU1mc0NKbnhyWko5WHc?oc=5",
-     "fonte": "Crash MotoGP"
+     "titulo": "Marc Marquez confirms he held “informal talks” with Honda before committing to Ducati",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcFlQdlY4Uk1nS2FGa1Nud3A1SUV4SF92TVVGOTM1ZldSTTQtZW51TURVRFFlNWRPb2FpN1NNNWstOFRLNEVtaHowMmpIS01ka0FqVzNQRk9ZQXNJcno0NElfejdEd19GcEU5RXdHSUFWTmJvRTdGSFpYWmljSFdMRWJ5VENFOTFDNkZyQ2o0NEpnWml0cngzTTA3ZGNEdGhFX3hzWnl3anR0aVF4Y2h0UDNKMHNZdlFGVVlZ?oc=5",
+     "fonte": "Motorsport.com"
     },
     {
-     "titulo": "“A bit worried” - Ducati “must improve” in Aprilia MotoGP title fight",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNnBZRW9xVmVtcUZXdXNrZlZpYy1zSHJnUFR6SFlrWnEwckRGNUQyNDRRR2RoZ01CaWtBbDdtM3NXeUtyaFFOOENpaUxocEhkWmZHcDVaU0NkMkZRd2tIRVVRdzN5eGdiWkM5SzA5RTdhaVFUSW9kYXFDaFROVTVsOGNLN24yZnpxTHRRdFhhd0Njd0lwZ3ZJZndZeEh5RVpkZnQ2TA?oc=5",
-     "fonte": "Crash MotoGP"
-    },
-    {
-     "titulo": "“It's wrong!” - Brad Binder on “unfair” Assen MotoGP penalty",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUGQ1SVAtMnhRRk1SNHo1eW9ueTRxeW1xbnhhNFl2RHJIOU91Z2RZV3pJRE93S2lmd1F4T1hpMnpQYmlFajZmYlAyeEhwakJsek9oRUV5Ti1TaXJ0UVVtb3NHTzhNVHpfUnBqU3ZzTlEtaEF1RFNEbXdMdlFDbkNTNTA5TTNjOEx4bFU0anJieDVWTF9peWtzakpVX2NoZ3lhajFhamlxMWp4SEE?oc=5",
-     "fonte": "Crash MotoGP"
-    },
-    {
-     "titulo": "Five things we learned from MotoGP’s action-packed Dutch GP",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObzZvVS1VZGVHZ2pvcDdvMWF0ZXE1SlJlRHJtZXBtOERhcWRDUjNTbXh4blRxclZfbTVrQnVYOUpQQjN0Y19Vc0JrbWdpVlg1MTlVVG9mZTJKLXpvamZEQ2xHTERBcWJOQW9DZXVVeWtrNjRsUVRHMzNRelEwS05lbVJObHRWVzY3ZllrZHJZM3JzS2xQaVUzV3ZYNlNJZDZwQllRSGFRa0hBZw?oc=5",
+     "titulo": "Marquez held 'informal talks' with Honda before committing to Ducati",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZEo5SzhxYmVXcXI3M0FkMGVBb0RxUXNxQnJGdFJXN3E1bmhvQ0xvWnFVYkNGamdnQURxUXRlZTE5VElHcDZTOV9VTXBQNXhWTlptd25zblJfeHlZU2JPY0tGaFU5N2haLTIxVlRqUjd5UFhSbGpFeTZHeVNjUFFiU042TmJkZlR3a0dDSWtKR1ZnSHVfeEVGdUpiRG9qMUhPdjdNWmpHQTR3d3h3X01NcGdxWGY?oc=5",
      "fonte": "Autosport"
+    },
+    {
+     "titulo": "Depois da Biz, Honda leva ‘versão Kuromi’ para a Fireblade",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0xR19VV01Ya18xWDBtR3RTVkpiNjN5bEI1cEJlN2lxZlhQZ3dqMUtGZ2tNQ1ZiWDlGNWpPd3o5bmQyT2pGTzFGWjJSd3RROFl4eVhUVGJkUnl0T3JaY1plLUlhUHdlMDNXd3ktcnFLZ3lQNEJfZ2c?oc=5",
+     "fonte": "Motonline"
     }
    ]
   },
@@ -2495,30 +2577,6 @@
      "titulo": "Golden Ai: Ogura clinches maiden MotoGP victory as Bezzecchi crashes in Assen",
      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNa1h4Nkh2WTctYmhaT2MwSVk0ZDJSUElLUDV6U01yMTBybkZic1BEQWh6MlZndElEYzgtbTNpcjI5ZzNTMERmMjVWYjJuaDNpT0VNNVJhV0VXUW84N0E3ejNvTlgzeVlCU0JXWERtcERWUkJ3UEVWM08xYnpqRHQ1ZEE0T0tiYWN2MzB6MktsSmFXNGhsRzFnWEVDalE4Sll0akg3YUEwTmtLVVBaR19NZ0M3RnhQa3pfVHlNZGdzSkRUSFFI?oc=5",
      "fonte": "MotoGP"
-    }
-   ]
-  },
-  {
-   "pauta": "Honda",
-   "urgencia": "3 fontes / 48h",
-   "porque": "3 fontes publicaram sobre isso nas ultimas 48h.",
-   "furo": false,
-   "fontes": 3,
-   "materias": [
-    {
-     "titulo": "Marc Marquez confirms he held “informal talks” with Honda before committing to Ducati",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcFlQdlY4Uk1nS2FGa1Nud3A1SUV4SF92TVVGOTM1ZldSTTQtZW51TURVRFFlNWRPb2FpN1NNNWstOFRLNEVtaHowMmpIS01ka0FqVzNQRk9ZQXNJcno0NElfejdEd19GcEU5RXdHSUFWTmJvRTdGSFpYWmljSFdMRWJ5VENFOTFDNkZyQ2o0NEpnWml0cngzTTA3ZGNEdGhFX3hzWnl3anR0aVF4Y2h0UDNKMHNZdlFGVVlZ?oc=5",
-     "fonte": "Motorsport.com"
-    },
-    {
-     "titulo": "Marquez held 'informal talks' with Honda before committing to Ducati",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZEo5SzhxYmVXcXI3M0FkMGVBb0RxUXNxQnJGdFJXN3E1bmhvQ0xvWnFVYkNGamdnQURxUXRlZTE5VElHcDZTOV9VTXBQNXhWTlptd25zblJfeHlZU2JPY0tGaFU5N2haLTIxVlRqUjd5UFhSbGpFeTZHeVNjUFFiU042TmJkZlR3a0dDSWtKR1ZnSHVfeEVGdUpiRG9qMUhPdjdNWmpHQTR3d3h3X01NcGdxWGY?oc=5",
-     "fonte": "Autosport"
-    },
-    {
-     "titulo": "Depois da Biz, Honda leva ‘versão Kuromi’ para a Fireblade",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0xR19VV01Ya18xWDBtR3RTVkpiNjN5bEI1cEJlN2lxZlhQZ3dqMUtGZ2tNQ1ZiWDlGNWpPd3o5bmQyT2pGTzFGWjJSd3RROFl4eVhUVGJkUnl0T3JaY1plLUlhUHdlMDNXd3ktcnFLZ3lQNEJfZ2c?oc=5",
-     "fonte": "Motonline"
     }
    ]
   },
