@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-07-09T21:51:40Z",
+ "updated_at": "2026-07-09T23:40:35Z",
  "fontes_monitoradas": [
   {
    "nome": "Grid Motors",
@@ -427,16 +427,6 @@
    "ts": "2026-07-09T20:00:43Z"
   },
   {
-   "titulo": "Cartas - Motonline",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1GOEJYd1Jna0J1emJTQ3RjQUViTkNINk5JbURIWDluSWNsOXIzRlRNVVFwREUzaUxIeDh0bzdaRVY4NkZKeHFzaGxwcWRqNm9hWGQ3RXAwRUptc3JnWVMydGJEQ1pKcGZMRFp0RmpR?oc=5",
-   "fonte": "Motonline",
-   "ig": "motonline",
-   "escopo": "Brasil",
-   "tier": "Brasil",
-   "dominio": "motonline.com.br",
-   "ts": "2026-07-09T19:06:39Z"
-  },
-  {
    "titulo": "Guia Completo da MOTOCAR MCF-200",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfSTY1c0FqcEFjZVRWdnVHeDl3UW83TnFYSjVQZDdDZlpOdFl4dUhqWVVsZEE1M29UZnlULUpvQ29laEQwekM3MWhKU1NqRWE2c2RZVVI5MUVhXzJkUkE3REtpSDU?oc=5",
    "fonte": "Motonline",
@@ -449,6 +439,16 @@
   {
    "titulo": "Guia Completo da EMME MIRAGE 50cc",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9qZ09kVVdFWjBtdWFHbjJEUEVVNmR4Wmw3Nmk4alBtX0hFVGd4ajI5U2hRcW5xelQ1U240OEphSDdQNk5seWdWMGNqblVXS0FTdVBmM0RLcnhVdjlXNnZBUGN6Y1UyUQ?oc=5",
+   "fonte": "Motonline",
+   "ig": "motonline",
+   "escopo": "Brasil",
+   "tier": "Brasil",
+   "dominio": "motonline.com.br",
+   "ts": "2026-07-09T18:17:00Z"
+  },
+  {
+   "titulo": "Guia Completo da L'AQUILA AKROS 50",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE92cmhzV2pmSjA3c05PY1ppVTZLdmFrWmNDZDh2N1ZMVVlZRFRtdkJrWXJNcEtpX2l6ajYxaU5ObEt4SktyOXlhck1NZGo4YklhSHRKcDdZSkx1VlJYRUNYa0JVRHZKQQ?oc=5",
    "fonte": "Motonline",
    "ig": "motonline",
    "escopo": "Brasil",
@@ -607,6 +607,16 @@
    "ts": "2026-07-09T12:31:47Z"
   },
   {
+   "titulo": "MotoGP, Bagnaia: \"Ducati has changed, but that doesn't take anything away from the work I've done\"",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORUtWQl9yMDJTQzF0SzZuakM3ZnBUelk1ZDNmZmZQVks1NFBFZ1NsbVdRMWxvQ2lMV1N6WmVwSmxSbmFSZGZBUDFNdENaUmpIXzVHbkhFMEdhSGQwb2I3dW0wRGdNTHJFRzJWaldTTXZzTnRQUnBDc3ZhcEl0dkd3dHM5TktGeXN2RnVrOTVaai1nSF9STklxMG1MMlhQTElfVDlMaDREUnFnV3c5R1VoVmtNVmNKRU9aX0NCcWFpVQ?oc=5",
+   "fonte": "GPOne",
+   "ig": "gponedotcom",
+   "escopo": "Global",
+   "tier": "Corrida",
+   "dominio": "gpone.com",
+   "ts": "2026-07-09T12:17:28Z"
+  },
+  {
    "titulo": "Alex Marquez reveals Gresini “promise” he made amid 2027 MotoGP contract talks",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQjdyUUVRN0liQkJwaG1mQWFqWWRCUjFWU05iLTJNSEFiZWJ5elI1OWs4d1JERTlLN2VrUEdBSmJyVjZ0Zi1hdWl6MzIxQ0xfbnBOX1NpZUpEa05pN2VDWGNSRkZURnNCd1huZXFLcUJEanYtdjA5VHBhQV96RjNRaVhmS1pSa01kVmZGX0VyclQ5V0l2cjJpZjkwaW53clJobG8ySEpybE1kZjMxZlhwTFY2MHU2c0tQMDZzRw?oc=5",
    "fonte": "Crash MotoGP",
@@ -625,16 +635,6 @@
    "tier": "Corrida",
    "dominio": "crash.net",
    "ts": "2026-07-09T11:18:10Z"
-  },
-  {
-   "titulo": "Moto Morini Calibro 700 Bagger, Veja Preço E Ficha Técnica",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5zY2hQdE1wNWlETmZRMlRUbFpnaDJGcjdfMHhUSjlsSlVIb0xwTUFqN0JZZWlIbDhlMEplOVJ2bFRkZ1ppR0ZIVjZoUks0eFdJcjFTSWxwRUlhWDZuOVRIcmlFTmtqaDRUaWlMWHRsYl81U0daWUd5bzk2UWtwZw?oc=5",
-   "fonte": "MotoRede",
-   "ig": "motorede",
-   "escopo": "Brasil",
-   "tier": "Brasil",
-   "dominio": "motorede.com.br",
-   "ts": "2026-07-09T11:00:59Z"
   },
   {
    "titulo": "Johann Zarco to face penalty on MotoGP return from horror Barcelona crash",
@@ -987,6 +987,16 @@
    "ts": "2026-07-08T09:12:21Z"
   },
   {
+   "titulo": "Semana do Rock: Equipamentos para Motociclistas",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5SU3dVZWh4dy0xbTc0MkJJRzNlcnpmTTU4d19nYm1JcEVPNEJyQVlTN19TQmM1T3dIR1M1b0FOUHN5TWg5dWlPQVU1X0NTSUhBOEIzZTZSSENuWDNPd0wzMA?oc=5",
+   "fonte": "Grid Motors",
+   "ig": "gridmotors",
+   "escopo": "Brasil",
+   "tier": "Brasil",
+   "dominio": "gridmotors.com.br",
+   "ts": "2026-07-08T08:39:34Z"
+  },
+  {
    "titulo": "Which of these Japanese super-naked motorcycles would you ride home? Get our verdict right here!",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQckpJNV9ZeDBjbHdkVm0taHR0UlVDT3lnYkxzYTBDZGxyemtKR1ZjdkR4MmJSX2xJbVhqMjkwSGdjZkhhTV9ISkRiTGhwdE1tRTRCWTltTTJxTjdzdHhuLUJ5NnpHNHJwQlU4Y1U0LWRsMWRUR1pjM3FGVWQ3R2VDOWFSN2RGdnk2VlZmak1JVGM5V2VRSnUtbmVIUkRLZw?oc=5",
    "fonte": "Motorcycle News (MCN)",
@@ -997,14 +1007,14 @@
    "ts": "2026-07-08T08:22:36Z"
   },
   {
-   "titulo": "Cafe racer, bobber and scrambler motorcycles",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9PR1B3MjdrLXE3akZQZ3F1N1V5MGdydWoyMEd0SEE4QTFoSU5DbVozRkx0UHc0cXhVdXR1ZWZLZ3ZaZzhFVExSUlZvaWh6dEpVMDh1aUhqZzYxcnZEYm41SkRuXzd4anU5LThXV214empHQU0?oc=5",
-   "fonte": "Bike EXIF",
-   "ig": "bikeexif",
+   "titulo": "Just how good is LS2's multi-season touring suit? Let's find out...",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOV1JScjVIaVpQQ01rOVBIaW5Ec0hqdzRGbUlkSXNLM0JNQ2xGN3RqcWxkcm5GbFNoUDV5bWF6dGRvUm96WEs0Nkp4U2ZWNkJ2UDR5SGR1Y2pXQTlSQ1NuQm5Pa3pYQkFsb2dTQm9hb2dUeXJzc1h6cWNrNnZmTldRcEFuQW9LVFVKeDdRV2dtbw?oc=5",
+   "fonte": "Motorcycle News (MCN)",
+   "ig": "motorcyclenews",
    "escopo": "Global",
    "tier": "Mundo",
-   "dominio": "bikeexif.com",
-   "ts": "2026-07-08T01:01:51Z"
+   "dominio": "motorcyclenews.com",
+   "ts": "2026-07-08T04:02:45Z"
   },
   {
    "titulo": "BMW Brasil amplia line-up da R 1300 GS Adventure com nova versão BX",
@@ -1025,16 +1035,6 @@
    "tier": "Criador",
    "dominio": "motomundo.com.br",
    "ts": "2026-07-08T00:18:31Z"
-  },
-  {
-   "titulo": "Semana do Rock: Equipamentos para Motociclistas",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQXVjZHA4V3hUTURfZ05FMHZZSUhLYkNvNHo1c0lsZV9jQnNuSk4wZEhMU0FkRVhCNXpPS0MyanlZUVZKNWVxOUVDZ3VOdjllMko1OHVMbl9od2YzWjZpV1V2TENpQXQ0Z1BYR2J0LWhrWmZMbnFFaWVSLWlfSm9EN0d6U201V2s?oc=5",
-   "fonte": "Grid Motors",
-   "ig": "gridmotors",
-   "escopo": "Brasil",
-   "tier": "Brasil",
-   "dominio": "gridmotors.com.br",
-   "ts": "2026-07-07T21:38:25Z"
   },
   {
    "titulo": "Riding America’s Straightest Roads",
@@ -1387,6 +1387,16 @@
    "ts": "2026-07-06T18:12:17Z"
   },
   {
+   "titulo": "Showstoppers: The Most Viewed Custom Motorcycles of June 2026",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5HN0ZZVDVIRklncVhMUWVlYjNZa0hvcG9lYV96dW9wdjZrbjAwWmE5aFBFZVhzN3gzT1Z4aVhnZTV4WDBLNjVsUnExWlBFZFJFMnUyNXhWMFBKbjkyNVRmVFg0NVRCWnZCRVJB?oc=5",
+   "fonte": "Bike EXIF",
+   "ig": "bikeexif",
+   "escopo": "Global",
+   "tier": "Mundo",
+   "dominio": "bikeexif.com",
+   "ts": "2026-07-06T17:00:00Z"
+  },
+  {
    "titulo": "MotoGP star Marc Marquez breaks silence on unusual tax choice",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNT0t2WFB4UXhWbUpLYlp2d1I4bVZhTUZ1TGlHbndCTV9rakdReGtXSlNDUFpRUkRtOFpBQWJCekc0U2FKY3ZsazVhS0lNRWRXMUx2VmVJVXZhSVRhZ1VRY0tlX0Nud0FDLVJPOXZmS2xKeEcxRWdNUHFqelZSNTNYN3dvcVZLVWpRX2dwX0ZldU05cEU?oc=5",
    "fonte": "Visordown",
@@ -1457,16 +1467,6 @@
    "ts": "2026-07-06T10:02:52Z"
   },
   {
-   "titulo": "KTM announces Alex Marquez as first signing of new MotoGP era",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWm00ZWx0UVNZamtnX3BMWnF2cndvV0cwM21fRUY4bHVQZzdrbVBwTjIwbWFxcmlqQzREUFo4bmNsb1IyckZZOENCcEZkTEVva2tsU0tzdDNJWXl0cTlYbVRYUVkxRVVuTFlkSGQwVHhwcFY2TXNiUlpVV0l0XzFwUnVHYXdLaGFlbEtESlpaWQ?oc=5",
-   "fonte": "Visordown",
-   "ig": "visordown",
-   "escopo": "Global",
-   "tier": "Mundo",
-   "dominio": "visordown.com",
-   "ts": "2026-07-06T08:57:25Z"
-  },
-  {
    "titulo": "Red Bull KTM welcomes Alex Marquez for 2027",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQkIzem56ajFjVHZMWXhMcDQtY2FjVEM1dDNIR2pKT2h2anBBQmRQQTB5SDZmUERRaS0zVl9RUThtbV83ZHVvRWl1TkdYSWdXZXQxeTlzTG05cjQxMXhXZ0tyWkRoOWlPRHFHSWVhVExwRVJLcURwV0pXb0NJQnRKVWlHOUFNb2J0UHBYTERPeUc0emNwMHB3Vg?oc=5",
    "fonte": "MotoGP",
@@ -1525,16 +1525,6 @@
    "tier": "Mundo",
    "dominio": "bikeexif.com",
    "ts": "2026-07-06T03:55:49Z"
-  },
-  {
-   "titulo": "Sportbikes - Motorcyclist",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9xQmNIU2pGT3FTbnhFQ2s3Q1ZYb2RDQ05ETjMzbGhaZ2FTbmtlQ0JiMTRsYXFZWDRlYVMycmVvb09HYllvTFlxZW5lVFhKbV9BNTVQLXNOd1M4b01RQ3c1QnQ1YU9mWGJnVDVMb1FqRjE?oc=5",
-   "fonte": "Motorcyclist",
-   "ig": "motorcyclistonline",
-   "escopo": "Global",
-   "tier": "Mundo",
-   "dominio": "motorcyclistonline.com",
-   "ts": "2026-07-06T02:24:03Z"
   },
   {
    "titulo": "FOTOS: Suzuki renova ‘família 800’ com novas cores",
@@ -1615,16 +1605,6 @@
    "tier": "Brasil",
    "dominio": "andardemoto.com.br",
    "ts": "2026-07-05T11:29:18Z"
-  },
-  {
-   "titulo": "Moto - News, Ducati: Livery by Troy Lee for Tony Cairoli",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMEprU1JkNVBJQzMtUjJDc1VIY1k3UVZpc2lIU2RzenBUSXlEOHhKRnlkcXBQLUhqY0NmYy1fYUNaSUZiQnZZOHZVdUwzZlBhSlpwLXU3d3RXdkEyWGp4ZVFibnRTeEZ1RVV5ZWF5VVk2M3dYNGlVNl9tOXdVNVM1STFhcF9IY1hLdTZqMWgzbHJHbEJGNlRrcA?oc=5",
-   "fonte": "GPOne",
-   "ig": "gponedotcom",
-   "escopo": "Global",
-   "tier": "Corrida",
-   "dominio": "gpone.com",
-   "ts": "2026-07-05T10:54:14Z"
   },
   {
    "titulo": "As motos Yamaha que passam de 500 km de autonomia e ajudam a reduzir custos no dia a dia",
@@ -1775,6 +1755,16 @@
    "tier": "Brasil",
    "dominio": "motoadventure.com.br",
    "ts": "2026-07-03T22:11:16Z"
+  },
+  {
+   "titulo": "Yamaha Factory Racing Team and YART Qualify for Suzuka Top 10 Trial",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYmdJa1RubkpjcmQ2Z2dXaGlHVHY2X2xrOVE0NTNEMFNlZ2hWdnlLaU1SQ2xqY1p1WFlkbGt0UEwzMldkWjlYNGh2TkZQSTJWZ0xOamhMcU9JWTBReDN5ZEx2YWZ0d0NxSFBtU2RhRkhrT1ZWTkNicUhJNVpOWXljMXFGc0pSMzliTnZydEotNndmeng0WUlzZXppTDRVUFVFUUxOOFZKd3UtTFY4dUtz?oc=5",
+   "fonte": "Yamaha Racing",
+   "ig": "yamaharacingcomofficial",
+   "escopo": "Global",
+   "tier": "Corrida",
+   "dominio": "yamaha-racing.com",
+   "ts": "2026-07-03T19:48:09Z"
   },
   {
    "titulo": "Ventura estreia linha off-road com três modelos para formação de pilotos",
@@ -2097,14 +2087,14 @@
    "ts": "2026-07-01T10:36:44Z"
   },
   {
-   "titulo": "Yamaha Announces Jorge Martín and Ai Ogura as Their Riders for MotoGP's New Era",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVEtuZmFraW52b2lVZl9nQ0g2dE9YWDVHVzU5VUxNNnhJUkZ6RDc5YnphZUhzWFRsc0NHQkhPejUybGRDaVFrVkhHU1ItNUY3TmxiSmhKdmJRZVJadnBtYnQ5d29GRVREM1dKOE45Q2IzdVpGSlNzbGpCLUhXdGYzeTdTa0hWdnV5aXltN0VsU0NzUFQyWWtNclNuTXJBVjk3RmRlTHBQek9QOS1uc18xbWVERGhzYTU3aUUwMWRB?oc=5",
-   "fonte": "Yamaha Racing",
-   "ig": "yamaharacingcomofficial",
+   "titulo": "How the Honda V3R E-Compressor could spawn a new range of boosted motorcycles",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZWpzVXFZRkl5M0tidFg4MUJZS0VRUHhBcUVUN3RBdXBoUXI1UGdtSGMzY1p3OHNOM1pGME8ySXJqTWk4VzdxcTNPMDIxRTgxaTdjcjR0V3ZXWDJtZF9waGdtbXIzRktZRU9IZnJGVGxHQXhLNjRfdXZCTS1WUVhJT2xHdmFReGZ4akhQNVBDMkpoTERMTVFKaTFmZDRPd2tt?oc=5",
+   "fonte": "Visordown",
+   "ig": "visordown",
    "escopo": "Global",
-   "tier": "Corrida",
-   "dominio": "yamaha-racing.com",
-   "ts": "2026-07-01T09:09:45Z"
+   "tier": "Mundo",
+   "dominio": "visordown.com",
+   "ts": "2026-07-01T08:23:44Z"
   },
   {
    "titulo": "OUT NOW, ‘THE GREATEST’",
@@ -2265,25 +2255,15 @@
    "tier": "Corrida",
    "dominio": "ducati.com",
    "ts": "2018-01-18T19:24:59Z"
-  },
-  {
-   "titulo": "TRIUMPH THUNDERBIRD 900 (1993-2003) Review and used buying guide",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Bek5PVGJFRzdDd0RNQlZVZDM2V3pjUDdIcmp1T0pHSnNzYkRMUUsyTDUzQmhmU3FaRUw1UG54MmRHWGVoTzJlLW5mamY3Z3NnN0Mya1FkYTl0aG5mLXBsbUYtUUdwM3ZzUllYdnZpc0FrUHREakl6WmFWZFJzdw?oc=5",
-   "fonte": "Motorcycle News (MCN)",
-   "ig": "motorcyclenews",
-   "escopo": "Global",
-   "tier": "Mundo",
-   "dominio": "motorcyclenews.com",
-   "ts": "2018-01-09T05:03:52Z"
   }
  ],
- "total_materias": 193,
+ "total_materias": 191,
  "materias_24h": 37,
  "reddit": [],
  "em_alta": [
   {
    "tema": "Motogp",
-   "mencoes": 31,
+   "mencoes": 30,
    "materias": [
     {
      "titulo": "Toprak Razgatlioglu names what's missing to unlock “special” MotoGP results",
@@ -2322,14 +2302,14 @@
      "fonte": "WorldSBK (Superbike)"
     },
     {
+     "titulo": "MotoGP, Bagnaia: \"Ducati has changed, but that doesn't take anything away from the work I've done\"",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORUtWQl9yMDJTQzF0SzZuakM3ZnBUelk1ZDNmZmZQVks1NFBFZ1NsbVdRMWxvQ2lMV1N6WmVwSmxSbmFSZGZBUDFNdENaUmpIXzVHbkhFMEdhSGQwb2I3dW0wRGdNTHJFRzJWaldTTXZzTnRQUnBDc3ZhcEl0dkd3dHM5TktGeXN2RnVrOTVaai1nSF9STklxMG1MMlhQTElfVDlMaDREUnFnV3c5R1VoVmtNVmNKRU9aX0NCcWFpVQ?oc=5",
+     "fonte": "GPOne"
+    },
+    {
      "titulo": "Nicolò Bulega Claims Victory in the Lenovo Race of Champions at World Ducati Week",
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOXlIVUl2Q3RYQVlQZmJwdkwzbzBDSmFYSVFRdGp6bjhvWGJKZGY3LU9fNmVKQzhDSE5fUkRNS293Q2hHaDZCV3NadDZHVjJqVEU5aW1pWGpWWklSRHowN3RtbjJPN3FrY3BRaGNkaC0tYkdHV0FtbmNjWVQtanVKNDllTzI4TXBtSERCOG9DOVZ2Ql95QlVPcEtUWU5jZWl4azdqTlpfRHUwTE1TME1QYjlhNDlBdw?oc=5",
      "fonte": "Ducati Corse"
-    },
-    {
-     "titulo": "Ducati Desmo450 SM - A primeira Supermoto de Borgo Panigale",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOY3JWQktsYVZ4ZWs2TEtzdnNkS2puS3k1b0piZFZXZ2k2WVQzRnYzd0o1VUN2TzFjVDY4NFhkeFAzd04yRkJnMzhLeHIzMjhkenB3RzdnX3ROQUVVZVdWWElfaFZwUXF5Ukd3MlNWRVNKTFpUdWU5akQtdV9TMFRDM2Mya3AxS2dRYl9MWlVGMFZCZzR6RTVaN1lBQnFuOWpQTkEtd0JZUkY?oc=5",
-     "fonte": "AndarDeMoto Brasil"
     }
    ]
   },
@@ -2361,7 +2341,7 @@
   },
   {
    "tema": "Honda",
-   "mencoes": 9,
+   "mencoes": 10,
    "materias": [
     {
      "titulo": "Imbatível: Honda cresce 11% e segue dona de quase dois terços do mercado de motos",
@@ -2387,7 +2367,7 @@
   },
   {
    "tema": "Ktm",
-   "mencoes": 7,
+   "mencoes": 6,
    "materias": [
     {
      "titulo": "Maverick Vinales: 'KTM sent me a contract, I signed it, and two weeks later they cancelled it'",
@@ -2438,32 +2418,6 @@
    ]
   },
   {
-   "tema": "Marquez",
-   "mencoes": 4,
-   "materias": [
-    {
-     "titulo": "Alex Marquez reveals Gresini “promise” he made amid 2027 MotoGP contract talks",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQjdyUUVRN0liQkJwaG1mQWFqWWRCUjFWU05iLTJNSEFiZWJ5elI1OWs4d1JERTlLN2VrUEdBSmJyVjZ0Zi1hdWl6MzIxQ0xfbnBOX1NpZUpEa05pN2VDWGNSRkZURnNCd1huZXFLcUJEanYtdjA5VHBhQV96RjNRaVhmS1pSa01kVmZGX0VyclQ5V0l2cjJpZjkwaW53clJobG8ySEpybE1kZjMxZlhwTFY2MHU2c0tQMDZzRw?oc=5",
-     "fonte": "Crash MotoGP"
-    },
-    {
-     "titulo": "MotoGP, KTM announces Alex Marquez for 2027!",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZ3BTVnNoUFRoTXY4Rm9MSVBfcWxBTlI1bXBPb0EwalhGQnE1QmdsMGN4TE92d25aelZhWVc2MnUycWd3cVJLaFhuTEJkNUl2aDV0TEhMdmZSaTFEMmtoNmthUmUxMjJnV3BkSzF1Q2hIcDZjLWhZc0lDNE1NV0ppTzV0Rko1TW90RnJj?oc=5",
-     "fonte": "GPOne"
-    },
-    {
-     "titulo": "KTM announces Alex Marquez as first signing of new MotoGP era",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWm00ZWx0UVNZamtnX3BMWnF2cndvV0cwM21fRUY4bHVQZzdrbVBwTjIwbWFxcmlqQzREUFo4bmNsb1IyckZZOENCcEZkTEVva2tsU0tzdDNJWXl0cTlYbVRYUVkxRVVuTFlkSGQwVHhwcFY2TXNiUlpVV0l0XzFwUnVHYXdLaGFlbEtESlpaWQ?oc=5",
-     "fonte": "Visordown"
-    },
-    {
-     "titulo": "Red Bull KTM welcomes Alex Marquez for 2027",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQkIzem56ajFjVHZMWXhMcDQtY2FjVEM1dDNIR2pKT2h2anBBQmRQQTB5SDZmUERRaS0zVl9RUThtbV83ZHVvRWl1TkdYSWdXZXQxeTlzTG05cjQxMXhXZ0tyWkRoOWlPRHFHSWVhVExwRVJLcURwV0pXb0NJQnRKVWlHOUFNb2J0UHBYTERPeUc0emNwMHB3Vg?oc=5",
-     "fonte": "MotoGP"
-    }
-   ]
-  },
-  {
    "tema": "Royal Enfield",
    "mencoes": 3,
    "materias": [
@@ -2481,6 +2435,27 @@
      "titulo": "Royal Enfield cresce no Brasil e leva novas concessionárias a Maceió e Caruaru",
      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSThHS2FINUFZc0hydHhVb25pNFJFalBsSkhtc0k4Wmk2VjJoT051M3JET05GZzdlTDhEZGc5MGJsM01JUUVOdDh5RmhLRjdmODBhRUwxOEZGTzhseEh0R3lSYk52aEJQaXhMYVN3ZFh5OTM5NEdkR1VpMXNYSC1MTUc5YXAxTDJaNWx3cVpxODYtNTltaUZmZ2UtSG8yM25Mcm0wckF6R1lYQQ?oc=5",
      "fonte": "MotoNews Brasil"
+    }
+   ]
+  },
+  {
+   "tema": "Vinales",
+   "mencoes": 3,
+   "materias": [
+    {
+     "titulo": "Maverick Vinales: 'KTM sent me a contract, I signed it, and two weeks later they cancelled it'",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNXIya2ZZX1BCd28tMXgtZ2dqdDZOZGgwMXhNcHVjWEdUWFpLbU9WWEtPQUhfNFB3WnF3aFNLeThhcUdPNGpndXFyelI3NDBJMVVIcUMtMVg0eHZ2TkpFOG1RQnBfM2g3MXA2cF9tWGNZbnI3N3NvclEyOUlVbVpucUt2cHV0cFo2QmNXMjE5YXkxVTNKQ0xteUR6NWFVR1NjTnN2bW41dFFmT1IzNHdhMmQ2NzVTQ0NtZ204aW0ySDN0MVpqVUVsRnVHQVRIc0NVQUNQNg?oc=5",
+     "fonte": "Motorsport.com"
+    },
+    {
+     "titulo": "'I'm burned out' - Vinales's time in MotoGP looks over",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUVJSV2Z5VF9mcU5OSU1LeEM5M0pTaGVpVTUweEF0YWo3aUlPY0cyd3g5bmVEUXVfZ09uVnVrcnBIbF9oa1N6TGlFTXNfN3pwbExmYVQxM0Z6ek9hTjFLN1lzNU1mRXJVN3U3Zk52R2FRdHRjTUVUcXlvcHQyUmNGd0VwUlpfVzM0V0ZpZUl0NmUzbVU?oc=5",
+     "fonte": "The Race MotoGP"
+    },
+    {
+     "titulo": "\"I'm burnt out\" - Maverick Vinales' extraordinary future claim after KTM MotoGP contract fallout",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYmc5anVhUlhGX1ROZzZ2V1ZTVVVIbURSTGhneFpnTW1NQXVnNXZreEFtdjlkenlRMXFrUHlwdkFFWWVxTmRrbmsyTXZaNTZPbTZTbEN3a0o2c1JkeE1kYl9aVDRxSzczd29tUUlPVEJIMTU4dzdfRzBRaW13bWE5WVdpOFIwaDZtUko5cDYzdVdITTctNktTaVo4TUJRUkQ5ZWs5cGJJSjdKNEJ1OFFLWlphdjl0SjNL?oc=5",
+     "fonte": "Crash MotoGP"
     }
    ]
   }
@@ -2517,10 +2492,10 @@
   },
   {
    "pauta": "Ducati",
-   "urgencia": "4 fontes / 48h",
-   "porque": "4 fontes publicaram sobre isso nas ultimas 48h.",
+   "urgencia": "5 fontes / 48h",
+   "porque": "5 fontes publicaram sobre isso nas ultimas 48h.",
    "furo": false,
-   "fontes": 4,
+   "fontes": 5,
    "materias": [
     {
      "titulo": "Ducati celebrates 100 years of excellence with iconic Goodwood Festival of Speed Tribute",
@@ -2533,14 +2508,14 @@
      "fonte": "WorldSBK (Superbike)"
     },
     {
+     "titulo": "MotoGP, Bagnaia: \"Ducati has changed, but that doesn't take anything away from the work I've done\"",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORUtWQl9yMDJTQzF0SzZuakM3ZnBUelk1ZDNmZmZQVks1NFBFZ1NsbVdRMWxvQ2lMV1N6WmVwSmxSbmFSZGZBUDFNdENaUmpIXzVHbkhFMEdhSGQwb2I3dW0wRGdNTHJFRzJWaldTTXZzTnRQUnBDc3ZhcEl0dkd3dHM5TktGeXN2RnVrOTVaai1nSF9STklxMG1MMlhQTElfVDlMaDREUnFnV3c5R1VoVmtNVmNKRU9aX0NCcWFpVQ?oc=5",
+     "fonte": "GPOne"
+    },
+    {
      "titulo": "Nicolò Bulega Claims Victory in the Lenovo Race of Champions at World Ducati Week",
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOXlIVUl2Q3RYQVlQZmJwdkwzbzBDSmFYSVFRdGp6bjhvWGJKZGY3LU9fNmVKQzhDSE5fUkRNS293Q2hHaDZCV3NadDZHVjJqVEU5aW1pWGpWWklSRHowN3RtbjJPN3FrY3BRaGNkaC0tYkdHV0FtbmNjWVQtanVKNDllTzI4TXBtSERCOG9DOVZ2Ql95QlVPcEtUWU5jZWl4azdqTlpfRHUwTE1TME1QYjlhNDlBdw?oc=5",
      "fonte": "Ducati Corse"
-    },
-    {
-     "titulo": "Ducati Desmo450 SM - A primeira Supermoto de Borgo Panigale",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOY3JWQktsYVZ4ZWs2TEtzdnNkS2puS3k1b0piZFZXZ2k2WVQzRnYzd0o1VUN2TzFjVDY4NFhkeFAzd04yRkJnMzhLeHIzMjhkenB3RzdnX3ROQUVVZVdWWElfaFZwUXF5Ukd3MlNWRVNKTFpUdWU5akQtdV9TMFRDM2Mya3AxS2dRYl9MWlVGMFZCZzR6RTVaN1lBQnFuOWpQTkEtd0JZUkY?oc=5",
-     "fonte": "AndarDeMoto Brasil"
     }
    ]
   },
@@ -2574,30 +2549,6 @@
    ]
   },
   {
-   "pauta": "Ktm",
-   "urgencia": "3 fontes / 48h",
-   "porque": "3 fontes publicaram sobre isso nas ultimas 48h.",
-   "furo": false,
-   "fontes": 3,
-   "materias": [
-    {
-     "titulo": "Maverick Vinales: 'KTM sent me a contract, I signed it, and two weeks later they cancelled it'",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNXIya2ZZX1BCd28tMXgtZ2dqdDZOZGgwMXhNcHVjWEdUWFpLbU9WWEtPQUhfNFB3WnF3aFNLeThhcUdPNGpndXFyelI3NDBJMVVIcUMtMVg0eHZ2TkpFOG1RQnBfM2g3MXA2cF9tWGNZbnI3N3NvclEyOUlVbVpucUt2cHV0cFo2QmNXMjE5YXkxVTNKQ0xteUR6NWFVR1NjTnN2bW41dFFmT1IzNHdhMmQ2NzVTQ0NtZ204aW0ySDN0MVpqVUVsRnVHQVRIc0NVQUNQNg?oc=5",
-     "fonte": "Motorsport.com"
-    },
-    {
-     "titulo": "\"I'm burnt out\" - Maverick Vinales' extraordinary future claim after KTM MotoGP contract fallout",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYmc5anVhUlhGX1ROZzZ2V1ZTVVVIbURSTGhneFpnTW1NQXVnNXZreEFtdjlkenlRMXFrUHlwdkFFWWVxTmRrbmsyTXZaNTZPbTZTbEN3a0o2c1JkeE1kYl9aVDRxSzczd29tUUlPVEJIMTU4dzdfRzBRaW13bWE5WVdpOFIwaDZtUko5cDYzdVdITTctNktTaVo4TUJRUkQ5ZWs5cGJJSjdKNEJ1OFFLWlphdjl0SjNL?oc=5",
-     "fonte": "Crash MotoGP"
-    },
-    {
-     "titulo": "KTM Unveils Its New Dual Sport Motorcycles. But They're basically Race Bikes With License Plates",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZUkwZTMxc194bjBQWVAzZmtVenp6SmVZaDhwUThHN1JhbXF3UWJqS0lJemJ5TjFvekhXUjZ3ZzFkWlFnZml1aGg4RG5LeW13Q0E4MEQ1d01sSk9XUldnajdURVJORTNpSl9LaFVDS2p1cXp3Tk1tcGxhR255WElDUTltZ3pNSWhaYUptN0ZfYy1ENExrX2hKNHNYX0ZhcE9i?oc=5",
-     "fonte": "RideApart"
-    }
-   ]
-  },
-  {
    "pauta": "Vinales",
    "urgencia": "3 fontes / 48h",
    "porque": "3 fontes publicaram sobre isso nas ultimas 48h.",
@@ -2618,6 +2569,30 @@
      "titulo": "\"I'm burnt out\" - Maverick Vinales' extraordinary future claim after KTM MotoGP contract fallout",
      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYmc5anVhUlhGX1ROZzZ2V1ZTVVVIbURSTGhneFpnTW1NQXVnNXZreEFtdjlkenlRMXFrUHlwdkFFWWVxTmRrbmsyTXZaNTZPbTZTbEN3a0o2c1JkeE1kYl9aVDRxSzczd29tUUlPVEJIMTU4dzdfRzBRaW13bWE5WVdpOFIwaDZtUko5cDYzdVdITTctNktTaVo4TUJRUkQ5ZWs5cGJJSjdKNEJ1OFFLWlphdjl0SjNL?oc=5",
      "fonte": "Crash MotoGP"
+    }
+   ]
+  },
+  {
+   "pauta": "Ktm",
+   "urgencia": "3 fontes / 48h",
+   "porque": "3 fontes publicaram sobre isso nas ultimas 48h.",
+   "furo": false,
+   "fontes": 3,
+   "materias": [
+    {
+     "titulo": "Maverick Vinales: 'KTM sent me a contract, I signed it, and two weeks later they cancelled it'",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNXIya2ZZX1BCd28tMXgtZ2dqdDZOZGgwMXhNcHVjWEdUWFpLbU9WWEtPQUhfNFB3WnF3aFNLeThhcUdPNGpndXFyelI3NDBJMVVIcUMtMVg0eHZ2TkpFOG1RQnBfM2g3MXA2cF9tWGNZbnI3N3NvclEyOUlVbVpucUt2cHV0cFo2QmNXMjE5YXkxVTNKQ0xteUR6NWFVR1NjTnN2bW41dFFmT1IzNHdhMmQ2NzVTQ0NtZ204aW0ySDN0MVpqVUVsRnVHQVRIc0NVQUNQNg?oc=5",
+     "fonte": "Motorsport.com"
+    },
+    {
+     "titulo": "\"I'm burnt out\" - Maverick Vinales' extraordinary future claim after KTM MotoGP contract fallout",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYmc5anVhUlhGX1ROZzZ2V1ZTVVVIbURSTGhneFpnTW1NQXVnNXZreEFtdjlkenlRMXFrUHlwdkFFWWVxTmRrbmsyTXZaNTZPbTZTbEN3a0o2c1JkeE1kYl9aVDRxSzczd29tUUlPVEJIMTU4dzdfRzBRaW13bWE5WVdpOFIwaDZtUko5cDYzdVdITTctNktTaVo4TUJRUkQ5ZWs5cGJJSjdKNEJ1OFFLWlphdjl0SjNL?oc=5",
+     "fonte": "Crash MotoGP"
+    },
+    {
+     "titulo": "KTM Unveils Its New Dual Sport Motorcycles. But They're basically Race Bikes With License Plates",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZUkwZTMxc194bjBQWVAzZmtVenp6SmVZaDhwUThHN1JhbXF3UWJqS0lJemJ5TjFvekhXUjZ3ZzFkWlFnZml1aGg4RG5LeW13Q0E4MEQ1d01sSk9XUldnajdURVJORTNpSl9LaFVDS2p1cXp3Tk1tcGxhR255WElDUTltZ3pNSWhaYUptN0ZfYy1ENExrX2hKNHNYX0ZhcE9i?oc=5",
+     "fonte": "RideApart"
     }
    ]
   },
@@ -2670,21 +2645,21 @@
    ]
   },
   {
-   "pauta": "Honda",
+   "pauta": "Bagnaia",
    "urgencia": "2 fontes / 48h",
    "porque": "2 fontes publicaram sobre isso nas ultimas 48h.",
    "furo": false,
    "fontes": 2,
    "materias": [
     {
-     "titulo": "Imbatível: Honda cresce 11% e segue dona de quase dois terços do mercado de motos",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOc1BTMjRqQmxZVDYwU0gxWEpRWTlkam1leWZDM3U2YXJDUW1iQktHUGlubkloMDFzVThyTl81bWg4R3lzcEppQ0ZxTEhoSzBVLV9oSmctS1N2VzlUbzdLZ19hWWhwVHNlWW9PSGRFa3I2V3ppQWRGMkkxcGlBYUdvNVJQaVN2WHlVd1VhZHU5dFVJellXYzRzRkJCU2NYLWVXY2o3bTFrOFdURlE?oc=5",
-     "fonte": "MotoNews Brasil"
+     "titulo": "MotoGP, Bagnaia: \"Ducati has changed, but that doesn't take anything away from the work I've done\"",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORUtWQl9yMDJTQzF0SzZuakM3ZnBUelk1ZDNmZmZQVks1NFBFZ1NsbVdRMWxvQ2lMV1N6WmVwSmxSbmFSZGZBUDFNdENaUmpIXzVHbkhFMEdhSGQwb2I3dW0wRGdNTHJFRzJWaldTTXZzTnRQUnBDc3ZhcEl0dkd3dHM5TktGeXN2RnVrOTVaai1nSF9STklxMG1MMlhQTElfVDlMaDREUnFnV3c5R1VoVmtNVmNKRU9aX0NCcWFpVQ?oc=5",
+     "fonte": "GPOne"
     },
     {
-     "titulo": "Teste da Honda CG 160 Titan 50 anos que celebra meio século de história com edição exclusiva 2026",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPS0o1VHZmdkFQbnc0SHRjeFB2Q01XNllmblRQTEgwMFVrTk9sc1pDQ0Qzbjhxa2pJRE9BSTd1VzVoNkFyeVh2ZWxaT0FmRC1YMWZhX3BCSVdUYWZ3MjY0clhjOFo4dXQ1VER4NHdQRXNVamV4Y0hIWXFRU0JEUXZ6UlpTczF1S1FNZkJvRzc4Vm9fN3RBYWpGY3JWYXB5bEpUa1dZcXZUX0gzUzVnaGtLcnc5M2NtM2hhaXpzMnc5SlRWdHlLSzh1a0s5V1lYaF9PdHBTd01n?oc=5",
-     "fonte": "Motociclismo"
+     "titulo": "Pecco Bagnaia Moving To Aprilia Is The MotoGP Plot Twist Nobody Was Ready For",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWjZNVVJNZXFzdUtkNU4wNHZpLVJXNUpKWktSTkJhVngxNjE5SzMxQ2RyOGxlUk9YejR6UFg4Zi03cTAwd1RIaGYtRDFXV0UyanF5SUt4ZmE0V2ZHallvZnVUUUZFWTF5LXVZa2lpVVRwbDNxQjVtVTdPcUgtcHB5WXhfdw?oc=5",
+     "fonte": "RideApart"
     }
    ]
   }
@@ -3135,9 +3110,9 @@
  ],
  "marca": {
   "ga4": {
-   "sessions": 491951,
-   "users": 484522,
-   "updated_at": "2026-07-09T20:25:10Z"
+   "sessions": 491978,
+   "users": 484548,
+   "updated_at": "2026-07-09T22:05:47Z"
   }
  },
  "pesado_em": "2026-07-01T10:50:54Z",
