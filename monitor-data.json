@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-07-12T23:12:26Z",
+ "updated_at": "2026-07-13T00:14:11Z",
  "fontes_monitoradas": [
   {
    "nome": "Grid Motors",
@@ -347,6 +347,26 @@
  ],
  "materias": [
   {
+   "titulo": "Competições - Motonline",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9CbFgwYTlScmF6c2RraEpZeEdjb3BPbnRQTFJxeExZMmdnbUJ3RkVkeTBNUk9vMWdiZWRFMjEwMFpLRmJSR1ZlQnlNQk8tcWNPZzROLWFXMXpoUENvMERsX0hGV0Q?oc=5",
+   "fonte": "Motonline",
+   "ig": "motonline",
+   "escopo": "Brasil",
+   "tier": "Brasil",
+   "dominio": "motonline.com.br",
+   "ts": "2026-07-12T22:52:13Z"
+  },
+  {
+   "titulo": "California Route 66, The End of the Road",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNV3Q5NGw5am1rbUh1LXlySUNOWVQ2bjZhUlNjTC15UXJJNUFPT0RfbUxBUk5HX29vbUVad1ZtOWhqNnFBajB3N3NDN3hKa3FPbTMtRjVKbjhBd1N5Ny1kNG0yMERGT0t2UjZISDc3M1dFZ2t2WUFMRXBKT2tKN0pEM0VDaw?oc=5",
+   "fonte": "Rider Magazine",
+   "ig": "ridermag",
+   "escopo": "Global",
+   "tier": "Generalista",
+   "dominio": "ridermagazine.com",
+   "ts": "2026-07-12T22:10:23Z"
+  },
+  {
    "titulo": "Bulega and Lecuona make history at Donington with the World Superbike Championship Teams' title for Aruba.it Racing Ducati and the Manufacturers' crown for Ducati",
    "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPQWhjMGVLY2VacVpxbXUzTmd0V2FoTmxvcFdKa29UdW9tRjR0U0xUUGZrQ1FSdWx5RHliR3ZueEtzUkZCQnFUOFZSWUZCMWtFaXBzSVdCelRfdWNEVnFDNkM0TjE0M29abTU0X3E0RE1SeTlvOTRQX1NHbUZoODVfS1J1c2tydUplSk9qenAzX0xCREtqWFlhaEtzd1FPNDgya3lsd1h3cEF1cXZmWG9BbkN6WkhPLVh2WG5LR0dOVFRkU2x6aV85MWZlcHd4c3FrTFh1RHh5d1VmVUFNRllDdnA3YnJxVy1LeGJvOHNsRExOdVh5WlZDaEhIWEhNODBERlNBZy1NMWRwSHZqNVVPdlE5bVFTWUFnRTVtdFJ4Yw?oc=5",
    "fonte": "Ducati Corse",
@@ -405,6 +425,16 @@
    "tier": "Corrida",
    "dominio": "crash.net",
    "ts": "2026-07-12T16:31:59Z"
+  },
+  {
+   "titulo": "UNHEARD: \"You could go even faster, right?\"",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbk1IdVpYMDgxWk51OUlPMENlR002WlFWT1ZUV21QMVBGakF2VjI5XzZGVFpsVHlkdDBaWS0wenlvUS1kRV96SVJPR1VtNDR2NnlpVmtrRFNZQ1dwZ1F5NURwa3J4SjR6UE02WG9JMzhSdzRHUFZyRjlpaTJubld5ZlJuR1JObU9VdHFfNFF6ODZuM0E?oc=5",
+   "fonte": "MotoGP",
+   "ig": "motogp",
+   "escopo": "Global",
+   "tier": "Corrida",
+   "dominio": "motogp.com",
+   "ts": "2026-07-12T16:01:00Z"
   },
   {
    "titulo": "Jorge Martin explains why he’s stopped winning on Aprilia MotoGP bike",
@@ -517,16 +547,6 @@
    "ts": "2026-07-12T13:31:06Z"
   },
   {
-   "titulo": "Honda's First EV Motorcycle Is Here. Suffers The Same Issue As Every Other On-Road EV Motorcycle",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQU3VETU1LSVd4TFA2Z05PLUVORVRaeFdiS09nRXBTYWJlU19FalBKVnctSEE5a09MNmg2Qll1OTdzWnpjelVQZ3B6ekdCZzBXaEhPVl80UE5SQjlxck8yUEJNWUhWY0FvSUxUWDNjQ0xCOG4yaEJXLXhXbEhMUXlRTWl0RWFyZjRWTlBsMElEZlUxd3M?oc=5",
-   "fonte": "RideApart",
-   "ig": "rideapart",
-   "escopo": "Global",
-   "tier": "Mundo",
-   "dominio": "rideapart.com",
-   "ts": "2026-07-12T13:08:50Z"
-  },
-  {
    "titulo": "Marc Marquez cruises to dominant German GP win as rivals crash",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9LdjB5V01ocTlBc3NzTUo3dG5GekgyUUFMbGI3dER4U1k5eDI0c0pqX0JxNE9RVElHVmlpWmg3bm90WnJjNW0zTG1mOGNIUmxOeUppdl9FMGV0aW4xQVhUNHFUN2NhRkFSOVh3b1lB?oc=5",
    "fonte": "The Race MotoGP",
@@ -627,14 +647,24 @@
    "ts": "2026-07-12T08:12:27Z"
   },
   {
-   "titulo": "Offroad - Motonline",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aaGlaZkROekZrY0h6WjctbGI4aG9KRmphb1ZfX1NTd0xBeWVOVHVSdWNNZE9QWlJIb0pnVWswMUNuVndZRHlDVk1MaVN4SExDQWJZS0JSS3RqU2NnVEpj?oc=5",
+   "titulo": "MotoGP - Motonline",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBESllKOHB6a2otdDJsLUxLaERTWkhFd0dlaTRIMC1BM3dpQjhZampsME5OdE5JU1BNUUpfUElNbk93OW1VREI4eEJKNkwySnIyTXNxeWtmbHQ1RjA?oc=5",
    "fonte": "Motonline",
    "ig": "motonline",
    "escopo": "Brasil",
    "tier": "Brasil",
    "dominio": "motonline.com.br",
-   "ts": "2026-07-12T06:46:49Z"
+   "ts": "2026-07-12T02:41:13Z"
+  },
+  {
+   "titulo": "Confira a programação MotoGP da Índia para o fim de semana!",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQV3ZUQzIzUmFtTFVOTUt4X205dl92MzJlYW9kSDd1S3ZBTmtob3Q3U01OaG9jSVVuZTZ1eGIwRzRyQ1diVDltemNsNEo0ZzhQaHZIOE0td0RJNllMeUlFbEtkQTlXZUZmdlBvZjFTOWpIOV9mcXhtV1hsWnpKZ3E2RHcyamlZdTZ2YURFcUdmV3Z2WUVEUTZuQkZlWFMzbGJfd3p3cWpVa9IBpwFBVV95cUxQV3ZUQzIzUmFtTFVOTUt4X205dl92MzJlYW9kSDd1S3ZBTmtob3Q3U01OaG9jSVVuZTZ1eGIwRzRyQ1diVDltemNsNEo0ZzhQaHZIOE0td0RJNllMeUlFbEtkQTlXZUZmdlBvZjFTOWpIOV9mcXhtV1hsWnpKZ3E2RHcyamlZdTZ2YURFcUdmV3Z2WUVEUTZuQkZlWFMzbGJfd3p3cWpVaw?oc=5",
+   "fonte": "Motonline",
+   "ig": "motonline",
+   "escopo": "Brasil",
+   "tier": "Brasil",
+   "dominio": "motonline.com.br",
+   "ts": "2026-07-12T00:17:25Z"
   },
   {
    "titulo": "Bruno Crivilin é campeão das motos no Sertões Series Paraná",
@@ -707,26 +737,6 @@
    "ts": "2026-07-11T22:22:06Z"
   },
   {
-   "titulo": "Offroad - Motonline",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHeUJWSm1ad1FFSzcxdDdZLVNpVG1SbEVCWEZhMUYyT2N4ZUhvRGJlRDFuS3hzZ0ZCQjZxZ0REWWhaS3VZMHRobEtDZHMycXFXMV9lMjFOMi1yNjg4VFE?oc=5",
-   "fonte": "Motonline",
-   "ig": "motonline",
-   "escopo": "Brasil",
-   "tier": "Brasil",
-   "dominio": "motonline.com.br",
-   "ts": "2026-07-11T22:13:33Z"
-  },
-  {
-   "titulo": "8 motos retrô que movimentam o mercado atual",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSENEbF9HejZIUzJFdF9VLW45VmNfMmlvZnVwclB2anRWNUkxdEpjQkNjYVpjdzFvNHBNUkloeElnZUZNMDQ5bjAzWGVlTlI3a2UxMkowODQyNGx2R0dhMHk4a3pVQ2ZCaGRtMGp6YlEtaHRRQ2k0S1ZmM1BiVVBsb0RNWGE4QkVqS1ZNdkdleDBOQUc40gGUAUFVX3lxTFBIQ0RsX0d6NkhTMkV0X1UtbjlWY18yaW9mdXByUHZqdFY1STF0SmNCQ2NhWmN3MW80cE1SSWh4SWdlRk0wNDluMDNYZWVOUjdrZTEySjA4NDI0bHZHR2EweThrelVDZkJoZG0wanpiUS1odFFDaTRLVmYzUGJVUGxvRE1YYThCRWpLVk12R2V4ME5BRzg?oc=5",
-   "fonte": "Motonline",
-   "ig": "motonline",
-   "escopo": "Brasil",
-   "tier": "Brasil",
-   "dominio": "motonline.com.br",
-   "ts": "2026-07-11T22:11:19Z"
-  },
-  {
    "titulo": "A masterful race by Lecuona who at Donington takes the first win of his WorldSBK career after an exciting battle with Bulega (P2)",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5OS01sVDlDUDNnWmxrQmlrUFBBYUVSWktsYlFhNVQ0Q01BU3I5REhoMG0yZkJlLWpXTlpFVHlQNzZxTG1BbmV4OGJQWjZjOFpHNnh6UUozcWFiaWhzM3FWZTQwcERzOU1reGFqaDA5cmI?oc=5",
    "fonte": "Ducati Corse",
@@ -787,16 +797,6 @@
    "ts": "2026-07-11T15:51:57Z"
   },
   {
-   "titulo": "Aprilia gives Marco Bezzecchi much-needed encouragement after German GP withdrawal",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVHh1U1lIa01PcF9fcGhOUmxqbHlPNG9ZY3pnWWQ0RUM5dWpnVVlNc0FBZXl1RUxzVkc0ZDhfMnNyel9HVjJQVGRtYktxbW5DdGRseTRvSm5hVkdqS2JoY01oR3VVWjNuemdyLTJBcU1jQzBIQ3RRYkJvYVlkTHN4MHZvMGNhRl9WVm40ck9zejRuVGtrVWd2MEp0WnlnRkR5emdWRFd3?oc=5",
-   "fonte": "Motorsport.com",
-   "ig": "motorsportcom",
-   "escopo": "Global",
-   "tier": "Generalista",
-   "dominio": "motorsport.com",
-   "ts": "2026-07-11T15:47:14Z"
-  },
-  {
    "titulo": "Word on the Grid: Sprint verdicts and Grand Prix goals",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZVVVd1VucUx0azEyUXQ1aEhTOVNWeFZ4TE1lLVB6QU42VFpYM0xNbGxKM2xydlV3SzVJSFhWYjZJNjdmYVUwUXZnOXJSRV8waTdpSmt3eDI4NVBkQWpVWjlnaGxxdFQ1MWlWVVZwam12SS1TTjlqLWc4SE5DYVBpRzlWemt0VG52LTBsZzFDaDRmZWliTTVQZDg2WVpNUTY1VDloSjZKZmY?oc=5",
    "fonte": "MotoGP",
@@ -825,16 +825,6 @@
    "tier": "Generalista",
    "dominio": "autosport.com",
    "ts": "2026-07-11T15:32:52Z"
-  },
-  {
-   "titulo": "Alex Marquez: “Diggia is fighting for the title, I’m focused on recovery”",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTXlONlJBeW44MVlucW5veVdMa3QzXzh4VFVTU0dfekR4SjY1RXRzOXVXWUdjcHctMHQyUG5GdHAzbFphWEFGUk5WMFRJZTdZdWdFbTlVRE1ISTRWSjdYaEhQeDczZUdvbDBBMUFuZWNjVHp2TlhmR0NBd1lXX3B1djh3MkZWd1JGa1VLc1QtdVlyVnRUaDlQWHpEcGhFR3BOcnVWVE5iem82Sy00NDNNRVk2Rk1IYlhQQWV2eg?oc=5",
-   "fonte": "MotoGP",
-   "ig": "motogp",
-   "escopo": "Global",
-   "tier": "Corrida",
-   "dominio": "motogp.com",
-   "ts": "2026-07-11T15:19:00Z"
   },
   {
    "titulo": "Chinese motorcycle brands no longer need to copy Europe as Europe's suppliers join them instead",
@@ -907,16 +897,6 @@
    "ts": "2026-07-11T09:53:04Z"
   },
   {
-   "titulo": "How KTM dispute reminds Vinales of Yamaha ordeal",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZVdRMFdLVGFRSFhFVkJtakVOYjhvbURMVG14bzc2bkc3WEZldFE1T0duLXRJV1F1aUtQVVlTTUowM3VMLUhqeldEd2JwWDNEQ1hVT1Fidm1KUlJlRngyLU01WWxKZzl1NndXVVdHUms1Ui13REhVSll2aHF2c1RMVU16OVBQSGpxOGlvWmY2elFPNDdyZUI0?oc=5",
-   "fonte": "Autosport",
-   "ig": "autosport",
-   "escopo": "Global",
-   "tier": "Generalista",
-   "dominio": "autosport.com",
-   "ts": "2026-07-11T08:36:09Z"
-  },
-  {
    "titulo": "MotoAmerica, Scholtz Sets Pace On Day One At Laguna",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPanpkMzloSVEtVHZiaHNHN0xkcll4bjdiMlhyUVYxM2tfWnBsQ05PSjFvdExhZEhCcHpsRHdkZHZCMndNVGlWc0hSd0haSzFqUWQzTHFxeXdDbUlwcHZpZEc1UmE3eUtEcXRobGxiaFhFeDlGZm9oT08yaG5GMVQzRjdNbmwtXzRSNy0zRUdXTEpVNGlBUHc?oc=5",
    "fonte": "GPOne",
@@ -967,6 +947,16 @@
    "ts": "2026-07-11T05:00:00Z"
   },
   {
+   "titulo": "A um dia da chegada, Bruno Crivilin mantém liderança das motos no Sertões Series Paraná",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYUQ4RkgxcHVHUm5SMEY1Wnd2bjJ2UzNKREp0bUhYU3pKRTlGVWVqOUQ1VmtfMFNXbFFlWGtOSkl2WmNSb2RweE1CQ2VZNmhfNjhQVnkwQVA2TkFHY19LOG0zSldvUkw1RzEwaU9KZURxajNkbWN2U1cxbXlvX1k4bmtrM1VEYmRiOERSSVVaMnBqRHd3ZkNsdV9TZEdQTGtndlh4NzYzZnpCaXpneWU2UHhn?oc=5",
+   "fonte": "MotoMundo",
+   "ig": "motomundo.com.br",
+   "escopo": "Brasil",
+   "tier": "Criador",
+   "dominio": "motomundo.com.br",
+   "ts": "2026-07-11T00:55:30Z"
+  },
+  {
    "titulo": "Cafe racer, bobber and scrambler motorcycles",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNM2ZiOGctcWJxQWI0R3lyZUJSemdwaFVfLTVYUm8xclEyMm9RZjR3X1JaVkJ3bFdfM28tQUxOUkk3QVJQazVaR1VnRlNpeThLQzRXeG41bl9jdTNWaWY4S0NCaHhOX1RDY0xZbWdLQWg3dDFGTHNfVlk4RDIybU1QdA?oc=5",
    "fonte": "Bike EXIF",
@@ -997,16 +987,6 @@
    "ts": "2026-07-10T21:01:12Z"
   },
   {
-   "titulo": "Marc Márquez and the Ducati Lenovo Team top the Practice timesheets at the Sachsenring. Francesco Bagnaia thirteenth on Friday in Germany",
-   "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQWURLcU1tbF9IX25STENQWkZDREJiV3duWTBRelJKcENLV3QwQjFZSmpEdlJVN2xYR1M3RndPVUtXdmRBQktiZi0wLXdzemZINE9US1ZFdnd2ZWdwamxIX2FoaG00Vks3VlhnWDVkNEJmMW5IT0tXakp0NkpJWmtxLUExc1JqZFpUdWpRSWVVa295RFQyZ0owM0tlRHMyb0hWMkk2ZTVmOTBFNW1vVGlxdWlZZ0ZGbTNES1JPZjJ3ZzA2YTR2Q2FQLXFpX0ZKX1A2VWNqOVVsY05oQTgwWmxaOThNcm1PUlo0YjlITGszUlEzeENKMDRVZFFJZFVRNzRSZUp1aHJhdnQ0NFRNQTNreVZKbDItYjQ?oc=5",
-   "fonte": "Ducati Corse",
-   "ig": "ducaticorse",
-   "escopo": "Global",
-   "tier": "Corrida",
-   "dominio": "ducati.com",
-   "ts": "2026-07-10T20:16:55Z"
-  },
-  {
    "titulo": "Moto Morini prepara ofensiva no Brasil com novos modelos e investimento de R$ 250 milhões",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNc2lhcTA5c21aVDRZVTJjX0xWOTc1WC1KY2Rtd1RFa19iMVJ1LVk2bHd6YktWM2NjdkhYZ1RIQ2hlRzQ5NjBxZDI0RDUtMDIwaVpMaTFDMHJ4Y3ByR1ZMakowdURwaERLRHR2X0g3LXotQ1l6ZnBrbjlkRnR1ak43M1J5VVpDcGdvdFpTdlBiTU9PUGl5RVU1VFRld1BleERlN2JTa181OG1aeFgtZGRhRWtSeWstMDBCY3VkaFBOaGtEYXJIMy1lTkZTcFdJQQ?oc=5",
    "fonte": "Motociclismo",
@@ -1035,6 +1015,16 @@
    "tier": "Corrida",
    "dominio": "motogp.com",
    "ts": "2026-07-10T16:38:44Z"
+  },
+  {
+   "titulo": "Marc Márquez and the Ducati Lenovo Team top the Practice timesheets at the Sachsenring. Francesco Bagnaia thirteenth on Friday in Germany",
+   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQcS13Rk5NZmpwbnNCbWp4dWZZX0pKZWxxcWlyb0dBWHlVR1lZTVlGR0JyeFJacGVlUFlueU1RaUw1T0lWYTNMZ0FmM3ZHOHZ1QUZZdWxkVVR6X2FKTmJ2dmRyNmVVTFJoOXhYSkFycDJ1YjhPR2FkTVJUeFZKOFA1bDFIdEpDU1dHd0lCNU0yOFAwVVBIZ1UxMk9aaTlRRWctejE5YlRGWlAtdlhwcmNWWlhTUmhsZWlYb096UFRSMEUwYm41UFgxOTNTZGNHbDBoVFBsbTVPTF9OSUViQVNFWWdwQzdUcG5vVHIyY2g1MlhGWTNGSVU2eW5sNzl3aTA?oc=5",
+   "fonte": "Ducati Corse",
+   "ig": "ducaticorse",
+   "escopo": "Global",
+   "tier": "Corrida",
+   "dominio": "ducati.com",
+   "ts": "2026-07-10T16:24:21Z"
   },
   {
    "titulo": "CFMOTO conquista o Red Dot Award 2026 com a esportiva 750SR-S",
@@ -1335,6 +1325,16 @@
    "tier": "Mundo",
    "dominio": "rideapart.com",
    "ts": "2026-07-09T12:27:00Z"
+  },
+  {
+   "titulo": "Honda's First EV Motorcycle Is Here. Suffers The Same Issue As Every Other On-Road EV Motorcycle",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQU3VETU1LSVd4TFA2Z05PLUVORVRaeFdiS09nRXBTYWJlU19FalBKVnctSEE5a09MNmg2Qll1OTdzWnpjelVQZ3B6ekdCZzBXaEhPVl80UE5SQjlxck8yUEJNWUhWY0FvSUxUWDNjQ0xCOG4yaEJXLXhXbEhMUXlRTWl0RWFyZjRWTlBsMElEZlUxd3M?oc=5",
+   "fonte": "RideApart",
+   "ig": "rideapart",
+   "escopo": "Global",
+   "tier": "Mundo",
+   "dominio": "rideapart.com",
+   "ts": "2026-07-09T12:00:52Z"
   },
   {
    "titulo": "Moto Morini Calibro 700 Bagger, Veja Preço E Ficha Técnica",
@@ -2207,26 +2207,6 @@
    "ts": "2026-07-03T07:00:00Z"
   },
   {
-   "titulo": "Rally Internacional da Amazônia tem data e roteiro redefinidos",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTDRacXpiQVU3Tm9kYW1IQ3VJeks0alRuU3ZVb3JMM0ZtaTVzQjBGMUhGdEJjYm5SckY0VmJQVnJMS2tXTm92NWJadnl3OVN3NjlOV0prQUgwSG1YMVJqdGxsTVNkN19wd1p6Vm9lSmFCdmZkNm1PYkZHTjF3SzBQZHZhXzBnV0xjM2FwcXNUMmdYdw?oc=5",
-   "fonte": "MotoMundo",
-   "ig": "motomundo.com.br",
-   "escopo": "Brasil",
-   "tier": "Criador",
-   "dominio": "motomundo.com.br",
-   "ts": "2026-07-02T23:43:03Z"
-  },
-  {
-   "titulo": "Suzuki GSX250R Update Coming Soon",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQU244aEhIX0RhcndyTzhyRkk1b2lPdlNVZ3A2RnI3UUsycVF5V283bnEzVmlDQ29tVHZHWGo0a0w1SnpGR3VZS09GZGUxQUxZV3pOR1dLZEV2bm9LNVpITlFLTmpXdnNlR3hxb1lndVQzaTd3MU1jbTRjUEZSXzhibVJPdw?oc=5",
-   "fonte": "Cycle World",
-   "ig": "cycleworld",
-   "escopo": "Global",
-   "tier": "Mundo",
-   "dominio": "cycleworld.com",
-   "ts": "2026-07-02T23:38:49Z"
-  },
-  {
    "titulo": "Clement Salvadori",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9TVXhGaWhGV09EZHVzMlRjNWFNSjVqbzBSVDJfUno1QUcxblBuZ2hFelBHQTRGUGJzclFmbC1lUU12dWtEelhHcnNzZDQ2YWh6UGNYT3FQOA?oc=5",
    "fonte": "Rider Magazine",
@@ -2257,13 +2237,13 @@
    "ts": "2017-09-03T18:18:17Z"
   }
  ],
- "total_materias": 191,
- "materias_24h": 33,
+ "total_materias": 189,
+ "materias_24h": 32,
  "reddit": [],
  "em_alta": [
   {
    "tema": "Motogp",
-   "mencoes": 30,
+   "mencoes": 32,
    "materias": [
     {
      "titulo": "Marc Marquez sets fitness target for upcoming MotoGP summer break",
@@ -2315,17 +2295,12 @@
   },
   {
    "tema": "Yamaha",
-   "mencoes": 12,
+   "mencoes": 11,
    "materias": [
     {
      "titulo": "\"Always emotional\" - Valentino Rossi makes Yamaha MotoGP return at Goodwood",
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSWpYNHNMU0ZJYkVoeEppZmw0bDBYa1AyT2dNeEwtbnhkMzdNdzVTQmNWY2hocDBmRmdZV1BSbjl2TVNDZ1hCakI3dXcyaDFxcl90dEJxc3RiRXptTXExQXJLdnFkTVhKb29fYzdXd2dLSzNubE15NmJlRzZtQ252ZDEzclVrX3lyRXlkRktpRzVUNVhPRzdpMjhKbUlNZjU1N3pna0hxMEw1TWZVajg1c2R3?oc=5",
      "fonte": "Crash MotoGP"
-    },
-    {
-     "titulo": "How KTM dispute reminds Vinales of Yamaha ordeal",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZVdRMFdLVGFRSFhFVkJtakVOYjhvbURMVG14bzc2bkc3WEZldFE1T0duLXRJV1F1aUtQVVlTTUowM3VMLUhqeldEd2JwWDNEQ1hVT1Fidm1KUlJlRngyLU01WWxKZzl1NndXVVdHUms1Ui13REhVSll2aHF2c1RMVU16OVBQSGpxOGlvWmY2elFPNDdyZUI0?oc=5",
-     "fonte": "Autosport"
     },
     {
      "titulo": "Monster Energy Yamaha MotoGP Secure P7 and P14 in Sachsenring Race",
@@ -2336,6 +2311,11 @@
      "titulo": "Gardner Fights Back to Finish 13th in Race 2 as GYTR GRT Yamaha Heads into the Summer Break",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUnJkbTNXMG1hYU1TX1YtcHdJLXZVWDV0T2xBTHRzRmFaQXdzUUVmUGNfVTJEcmhHZzZiQ01CbzFwaEtvQnhuaFlZMGlwSDRVZlR4VE1aQjBOSHF4UHNRbHZucjYxaG1seE5LaUVWcmpfTnItYWU3T1lRSHdHMG1wWkhFYXBFc1NhZFlmc0ZwVmNTVFhHOFAzck9CRXRSNE8wZjlZ?oc=5",
      "fonte": "Yamaha Racing"
+    },
+    {
+     "titulo": "Yamaha YZF-R6: chega ao fim a produção da melhor 600 de todos os tempos",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTUdDa19qXzk1a1NBQkNCb0hXZTB6dlNtOEJrRTljemlZWEFvS2dyNGNzc1phc1ZWZkJMU1NNaWpyRlhXS1Qzd0FWUVhBTnVxR2JSY1NNX2tYUnowMWlrOF9QY1A1d09KOTYwZDFPd3cyOXBaWHV4U25pSjJVbHFzVUdtalZYMm44c1J0bHpwLUl2eDdXd0E?oc=5",
+     "fonte": "Motociclismo"
     }
    ]
   },
@@ -2366,8 +2346,34 @@
    ]
   },
   {
+   "tema": "Honda",
+   "mencoes": 7,
+   "materias": [
+    {
+     "titulo": "Vêm ao Brasil? Motos Honda ganham novas cores no exterior",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYWRicXFsaW94LUZLVEpPbmZEVks3OHAyalM2dWF5a1lkeFlRN2RuMmEyN0xqRDUwb09mcjlQSVphcmFEcmZzU01fYWdBVTZhLXFUd09IRjdrMGIwaVJkeWJPU3dVRlRCYldFWTcyZWMzenNkMkQ4czFKMU5OdjVSX3ViRG04d25iX01KbEJGaUpMTTlI0gGUAUFVX3lxTE1hZGJxcWxpb3gtRktUSk9uZkRWSzc4cDJqUzZ1YXlrWWR4WVE3ZG4yYTI3TGpENTBvT2ZyOVBJWmFyYURyZnNTTV9hZ0FVNmEtcVR3T0hGN2swYjBpUmR5Yk9Td1VGVEJiV0VZNzJlYzN6c2QyRDhzMUoxTk52NVJfdWJEbTh3bmJfTUpsQkZpSkxNOUg?oc=5",
+     "fonte": "Motonline"
+    },
+    {
+     "titulo": "3 Motos Honda Mais Vendidas No Brasil, Veja Preço Dos Destaques De 2026",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPa3AzM29DTi16TVpOOFRXb3lzYmFVdmlpSk81MGRWeGZGejBpTWxqY1llZmZLeDNDcUZoQVN2TGdjLUhMUDJBd0VlLWZlMi1WdVdULWZ4UFJHWTc3R1BpRFhfajRnWTkxUDZqVXU5dG81NzFqSUNkMkhZd21XTzljRHBfV0EyUVJyNTU2OG13QWdZN0hBM0hqcFVUaEdEcGVR?oc=5",
+     "fonte": "MotoRede"
+    },
+    {
+     "titulo": "Honda's First EV Motorcycle Is Here. Suffers The Same Issue As Every Other On-Road EV Motorcycle",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQU3VETU1LSVd4TFA2Z05PLUVORVRaeFdiS09nRXBTYWJlU19FalBKVnctSEE5a09MNmg2Qll1OTdzWnpjelVQZ3B6ekdCZzBXaEhPVl80UE5SQjlxck8yUEJNWUhWY0FvSUxUWDNjQ0xCOG4yaEJXLXhXbEhMUXlRTWl0RWFyZjRWTlBsMElEZlUxd3M?oc=5",
+     "fonte": "RideApart"
+    },
+    {
+     "titulo": "Imbatível: Honda cresce 11% e segue dona de quase dois terços do mercado de motos",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOc1BTMjRqQmxZVDYwU0gxWEpRWTlkam1leWZDM3U2YXJDUW1iQktHUGlubkloMDFzVThyTl81bWg4R3lzcEppQ0ZxTEhoSzBVLV9oSmctS1N2VzlUbzdLZ19hWWhwVHNlWW9PSGRFa3I2V3ppQWRGMkkxcGlBYUdvNVJQaVN2WHlVd1VhZHU5dFVJellXYzRzRkJCU2NYLWVXY2o3bTFrOFdURlE?oc=5",
+     "fonte": "MotoNews Brasil"
+    }
+   ]
+  },
+  {
    "tema": "Bezzecchi",
-   "mencoes": 8,
+   "mencoes": 7,
    "materias": [
     {
      "titulo": "MotoGP, Bezzecchi underwent successful surgery. Aprilia hopes he'll be able to race at Silverstone",
@@ -2385,41 +2391,15 @@
      "fonte": "Crash MotoGP"
     },
     {
-     "titulo": "Aprilia gives Marco Bezzecchi much-needed encouragement after German GP withdrawal",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVHh1U1lIa01PcF9fcGhOUmxqbHlPNG9ZY3pnWWQ0RUM5dWpnVVlNc0FBZXl1RUxzVkc0ZDhfMnNyel9HVjJQVGRtYktxbW5DdGRseTRvSm5hVkdqS2JoY01oR3VVWjNuemdyLTJBcU1jQzBIQ3RRYkJvYVlkTHN4MHZvMGNhRl9WVm40ck9zejRuVGtrVWd2MEp0WnlnRkR5emdWRFd3?oc=5",
-     "fonte": "Motorsport.com"
-    }
-   ]
-  },
-  {
-   "tema": "Honda",
-   "mencoes": 7,
-   "materias": [
-    {
-     "titulo": "Vêm ao Brasil? Motos Honda ganham novas cores no exterior",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYWRicXFsaW94LUZLVEpPbmZEVks3OHAyalM2dWF5a1lkeFlRN2RuMmEyN0xqRDUwb09mcjlQSVphcmFEcmZzU01fYWdBVTZhLXFUd09IRjdrMGIwaVJkeWJPU3dVRlRCYldFWTcyZWMzenNkMkQ4czFKMU5OdjVSX3ViRG04d25iX01KbEJGaUpMTTlI0gGUAUFVX3lxTE1hZGJxcWxpb3gtRktUSk9uZkRWSzc4cDJqUzZ1YXlrWWR4WVE3ZG4yYTI3TGpENTBvT2ZyOVBJWmFyYURyZnNTTV9hZ0FVNmEtcVR3T0hGN2swYjBpUmR5Yk9Td1VGVEJiV0VZNzJlYzN6c2QyRDhzMUoxTk52NVJfdWJEbTh3bmJfTUpsQkZpSkxNOUg?oc=5",
-     "fonte": "Motonline"
-    },
-    {
-     "titulo": "Honda's First EV Motorcycle Is Here. Suffers The Same Issue As Every Other On-Road EV Motorcycle",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQU3VETU1LSVd4TFA2Z05PLUVORVRaeFdiS09nRXBTYWJlU19FalBKVnctSEE5a09MNmg2Qll1OTdzWnpjelVQZ3B6ekdCZzBXaEhPVl80UE5SQjlxck8yUEJNWUhWY0FvSUxUWDNjQ0xCOG4yaEJXLXhXbEhMUXlRTWl0RWFyZjRWTlBsMElEZlUxd3M?oc=5",
-     "fonte": "RideApart"
-    },
-    {
-     "titulo": "3 Motos Honda Mais Vendidas No Brasil, Veja Preço Dos Destaques De 2026",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPa3AzM29DTi16TVpOOFRXb3lzYmFVdmlpSk81MGRWeGZGejBpTWxqY1llZmZLeDNDcUZoQVN2TGdjLUhMUDJBd0VlLWZlMi1WdVdULWZ4UFJHWTc3R1BpRFhfajRnWTkxUDZqVXU5dG81NzFqSUNkMkhZd21XTzljRHBfV0EyUVJyNTU2OG13QWdZN0hBM0hqcFVUaEdEcGVR?oc=5",
-     "fonte": "MotoRede"
-    },
-    {
-     "titulo": "Imbatível: Honda cresce 11% e segue dona de quase dois terços do mercado de motos",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOc1BTMjRqQmxZVDYwU0gxWEpRWTlkam1leWZDM3U2YXJDUW1iQktHUGlubkloMDFzVThyTl81bWg4R3lzcEppQ0ZxTEhoSzBVLV9oSmctS1N2VzlUbzdLZ19hWWhwVHNlWW9PSGRFa3I2V3ppQWRGMkkxcGlBYUdvNVJQaVN2WHlVd1VhZHU5dFVJellXYzRzRkJCU2NYLWVXY2o3bTFrOFdURlE?oc=5",
-     "fonte": "MotoNews Brasil"
+     "titulo": "‘Karma doesn’t exist’ - Marc Marquez hits back at Marco Bezzecchi injury trolls",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeGpOcWQ2Qms5SUJacmF4c3lGMndSQTczZDdJR0dzak1oTUc1M3NERVc5Q2Y2RmdlMEhjRGF5eGRWS0ZBNElOcW5OVVd4S0kyX1pWd3g1SUQ3Sm9GT2J6cjVLWm5HOHZNT3JzcG4tV3lLSm1HV3RGajQxOUJjTFhUdXFtMDJBNkVnNHo1cXNOWWpCN3E1T2J4WGNIOWMzckwtYllodGRJVUF4NmNHTDVSWXN4N2ROQQ?oc=5",
+     "fonte": "Crash MotoGP"
     }
    ]
   },
   {
    "tema": "Marquez",
-   "mencoes": 6,
+   "mencoes": 5,
    "materias": [
     {
      "titulo": "Alex Marquez explains German GP crash: “Maybe I was too confident”",
@@ -2432,35 +2412,9 @@
      "fonte": "Autosport"
     },
     {
-     "titulo": "Alex Marquez: “Diggia is fighting for the title, I’m focused on recovery”",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTXlONlJBeW44MVlucW5veVdMa3QzXzh4VFVTU0dfekR4SjY1RXRzOXVXWUdjcHctMHQyUG5GdHAzbFphWEFGUk5WMFRJZTdZdWdFbTlVRE1ISTRWSjdYaEhQeDczZUdvbDBBMUFuZWNjVHp2TlhmR0NBd1lXX3B1djh3MkZWd1JGa1VLc1QtdVlyVnRUaDlQWHpEcGhFR3BOcnVWVE5iem82Sy00NDNNRVk2Rk1IYlhQQWV2eg?oc=5",
-     "fonte": "MotoGP"
-    },
-    {
      "titulo": "MotoGP German GP: Marquez leads Ducati's qualifying domination as Bezzecchi crashes",
      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWEZkTzNtYlVVTlVaOXpjSGVuR3hTaEVFM0RjLXZzYXBVVUQ4cHpZdkl6UmM4ZWwtbHZQMjNubEFXbTF2OG9iaVQ1T291X1l0NVRCbVZiOXZ1dFNVY1poUE1wNXM2RlFqMDJLbDlDZXJkT05Xc3FoZ0FNQVN6dDdEVU5xMWlGVXM0ZlhmekZn?oc=5",
      "fonte": "Autosport"
-    }
-   ]
-  },
-  {
-   "tema": "Aprilia",
-   "mencoes": 4,
-   "materias": [
-    {
-     "titulo": "Jorge Martin explains why he’s stopped winning on Aprilia MotoGP bike",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUEtpdkhzRGFmYWdudWF4QnVBOVBQdUM2THp4czRlX2Z0TjQxRkZHUnBMd2ZMV1dvSlEtZFZibVNHc1NiN3B4bkpacVNuR0RHYmJfTUo3X1FwVmlhT2RzYW1Kd0ZHV0VOY0V4OXNpd0YxUjM4VUYzZFp0WlVVU0xSY193SG5VOWttZTJjcllILWt6R3F1OFdfTVJvZFpxbkExcDFHVmJYQWtyM0l4MXc?oc=5",
-     "fonte": "Crash MotoGP"
-    },
-    {
-     "titulo": "MotoGP, Bezzecchi underwent successful surgery. Aprilia hopes he'll be able to race at Silverstone",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcnlXbS1QbGNGOXNjUlQtUnVtWF8zeHh4eVhMSWtKcnNmdkw0c0doaW01UVp1OVBWTGtSSzdVSl9Cc3BubXZQSWpFZzFoWC03OFJvV0o2YUdZMTJ0eWxMWkxyU19HVVpVaU56c19sV0RCcW1FdTR1Rl90NzdfamFGaHB1ek1ncnU2UmVkMnRJSWhYUHdEQkd0Wmc5SWs1dmJXTXNfSk5YZ3ZyWEZQZ1gwTTV3YmlsTlhja1Vn?oc=5",
-     "fonte": "GPOne"
-    },
-    {
-     "titulo": "Aprilia gives Marco Bezzecchi much-needed encouragement after German GP withdrawal",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVHh1U1lIa01PcF9fcGhOUmxqbHlPNG9ZY3pnWWQ0RUM5dWpnVVlNc0FBZXl1RUxzVkc0ZDhfMnNyel9HVjJQVGRtYktxbW5DdGRseTRvSm5hVkdqS2JoY01oR3VVWjNuemdyLTJBcU1jQzBIQ3RRYkJvYVlkTHN4MHZvMGNhRl9WVm40ck9zejRuVGtrVWd2MEp0WnlnRkR5emdWRFd3?oc=5",
-     "fonte": "Motorsport.com"
     },
     {
      "titulo": "MotoGP German GP: Marquez tops Friday practice as Ducati edges out Aprilia",
@@ -2468,15 +2422,41 @@
      "fonte": "Autosport"
     }
    ]
+  },
+  {
+   "tema": "Bmw",
+   "mencoes": 4,
+   "materias": [
+    {
+     "titulo": "BMW's superbike gets World Superbike-inspired changes for 2027",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5QWWpPeFEtbjBWY3c1dDNoRkFSUW40RVM5LXNBQ2ZPdzI3amozNkNiNmVYWFJpZ1ZfUG1uTXh2aTBHWGx1TEU0VkNTbkgzREVaWUtEODBWbDBwTURuNnN3dURtS19MS0I2cEV3cTZ0cw?oc=5",
+     "fonte": "Motorcycle News (MCN)"
+    },
+    {
+     "titulo": "BMW R 1300 GS Adventure, Nova Versão Triple Black ASA Com Kit Baixo No Brasil",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1vSEpHSFg5NHdFLWYyQlQ5TjdJaWt2Y0RiOWpmUHM3N003WHFybENTcUs5SEFhb3ZCbG9JbFp5azgtTURBdkc4clJkQzlCd2dqcW9oVUtKeWpOTTF1NjZidlRsTDI0d0hHZFNoZ180Q09OeENVRzhxdg?oc=5",
+     "fonte": "MotoRede"
+    },
+    {
+     "titulo": "BMW Brasil amplia line-up da R 1300 GS Adventure com nova versão BX",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWDEwdG1xaFJ4UWYwVjNTSmRMNFZGSGRxSTBMNDcta01ZeXpYVm5rRlFhNGlBaFJoalBjb1NRX1pxMEJmNVpsWFRkTU4xNFZDMWF2OV9YMl9QM2xCZVJMOG1xb1NJQm1nM09ET1A3SS1LcjZVTU92cEgtc2QtTG5xZ2IxXzhhMFNJUkE0SzhwTVduMU5KamhNbUNJUGpzanBkcWtseEE0YkJybkRiYXF6dkdYeUdGTXBVZlBROVQ0LXVlRVXSAcIBQVVfeXFMTUo0c0NXNndMTzF6QXNVaXZoTi02X0s1WXBPY3Z3aUN5WFNtbVA3amhvMzg2NWliX0dTRUpPbFA1SkpIbTRrWWdnOGN3ak5ya2NMcVB4UUhSUjRVR0M4eUYtbUpEekhQNEh2anZxb0w2MkVEckJvMndITzFScmVQU18tR3g0SC1WbXBtQ191MXRfLTlMSTRGRDlHNlRERjhuZ0FtV01yS2hPNzlZOV9sSHp6bGh6M0Q0M3dwRWMyZTgzMGc?oc=5",
+     "fonte": "MOTO.com.br"
+    },
+    {
+     "titulo": "Bike EXIF’s Top 8 BMW Motorcycles of 2020",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1TU2duVTQ2OExZYW9UT1BHckNMRC1URWNZYjlyNjVuelBHRWozNVRfbUxmREplQXpySlRNOWRlcWFkd1JaZHFpTE5GeHlJd3pOUnJyMDNnTE9oV0ZVMWk4cg?oc=5",
+     "fonte": "Bike EXIF"
+    }
+   ]
   }
  ],
  "pautas": [
   {
    "pauta": "Motogp",
-   "urgencia": "7 fontes / 48h",
-   "porque": "7 fontes publicaram sobre isso nas ultimas 48h.",
+   "urgencia": "8 fontes / 48h",
+   "porque": "8 fontes publicaram sobre isso nas ultimas 48h.",
    "furo": false,
-   "fontes": 7,
+   "fontes": 8,
    "materias": [
     {
      "titulo": "Marc Marquez sets fitness target for upcoming MotoGP summer break",
@@ -2560,10 +2540,10 @@
   },
   {
    "pauta": "Bezzecchi",
-   "urgencia": "4 fontes / 48h",
-   "porque": "4 fontes publicaram sobre isso nas ultimas 48h.",
+   "urgencia": "3 fontes / 48h",
+   "porque": "3 fontes publicaram sobre isso nas ultimas 48h.",
    "furo": false,
-   "fontes": 4,
+   "fontes": 3,
    "materias": [
     {
      "titulo": "MotoGP, Bezzecchi underwent successful surgery. Aprilia hopes he'll be able to race at Silverstone",
@@ -2581,18 +2561,18 @@
      "fonte": "Crash MotoGP"
     },
     {
-     "titulo": "Aprilia gives Marco Bezzecchi much-needed encouragement after German GP withdrawal",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVHh1U1lIa01PcF9fcGhOUmxqbHlPNG9ZY3pnWWQ0RUM5dWpnVVlNc0FBZXl1RUxzVkc0ZDhfMnNyel9HVjJQVGRtYktxbW5DdGRseTRvSm5hVkdqS2JoY01oR3VVWjNuemdyLTJBcU1jQzBIQ3RRYkJvYVlkTHN4MHZvMGNhRl9WVm40ck9zejRuVGtrVWd2MEp0WnlnRkR5emdWRFd3?oc=5",
-     "fonte": "Motorsport.com"
+     "titulo": "‘Karma doesn’t exist’ - Marc Marquez hits back at Marco Bezzecchi injury trolls",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeGpOcWQ2Qms5SUJacmF4c3lGMndSQTczZDdJR0dzak1oTUc1M3NERVc5Q2Y2RmdlMEhjRGF5eGRWS0ZBNElOcW5OVVd4S0kyX1pWd3g1SUQ3Sm9GT2J6cjVLWm5HOHZNT3JzcG4tV3lLSm1HV3RGajQxOUJjTFhUdXFtMDJBNkVnNHo1cXNOWWpCN3E1T2J4WGNIOWMzckwtYllodGRJVUF4NmNHTDVSWXN4N2ROQQ?oc=5",
+     "fonte": "Crash MotoGP"
     }
    ]
   },
   {
    "pauta": "Aprilia",
-   "urgencia": "3 fontes / 48h",
-   "porque": "3 fontes publicaram sobre isso nas ultimas 48h.",
+   "urgencia": "2 fontes / 48h",
+   "porque": "2 fontes publicaram sobre isso nas ultimas 48h.",
    "furo": false,
-   "fontes": 3,
+   "fontes": 2,
    "materias": [
     {
      "titulo": "Jorge Martin explains why he’s stopped winning on Aprilia MotoGP bike",
@@ -2603,20 +2583,15 @@
      "titulo": "MotoGP, Bezzecchi underwent successful surgery. Aprilia hopes he'll be able to race at Silverstone",
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcnlXbS1QbGNGOXNjUlQtUnVtWF8zeHh4eVhMSWtKcnNmdkw0c0doaW01UVp1OVBWTGtSSzdVSl9Cc3BubXZQSWpFZzFoWC03OFJvV0o2YUdZMTJ0eWxMWkxyU19HVVpVaU56c19sV0RCcW1FdTR1Rl90NzdfamFGaHB1ek1ncnU2UmVkMnRJSWhYUHdEQkd0Wmc5SWs1dmJXTXNfSk5YZ3ZyWEZQZ1gwTTV3YmlsTlhja1Vn?oc=5",
      "fonte": "GPOne"
-    },
-    {
-     "titulo": "Aprilia gives Marco Bezzecchi much-needed encouragement after German GP withdrawal",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVHh1U1lIa01PcF9fcGhOUmxqbHlPNG9ZY3pnWWQ0RUM5dWpnVVlNc0FBZXl1RUxzVkc0ZDhfMnNyel9HVjJQVGRtYktxbW5DdGRseTRvSm5hVkdqS2JoY01oR3VVWjNuemdyLTJBcU1jQzBIQ3RRYkJvYVlkTHN4MHZvMGNhRl9WVm40ck9zejRuVGtrVWd2MEp0WnlnRkR5emdWRFd3?oc=5",
-     "fonte": "Motorsport.com"
     }
    ]
   },
   {
    "pauta": "Marquez",
-   "urgencia": "3 fontes / 48h",
-   "porque": "3 fontes publicaram sobre isso nas ultimas 48h.",
+   "urgencia": "2 fontes / 48h",
+   "porque": "2 fontes publicaram sobre isso nas ultimas 48h.",
    "furo": false,
-   "fontes": 3,
+   "fontes": 2,
    "materias": [
     {
      "titulo": "Alex Marquez explains German GP crash: “Maybe I was too confident”",
@@ -2629,11 +2604,6 @@
      "fonte": "Autosport"
     },
     {
-     "titulo": "Alex Marquez: “Diggia is fighting for the title, I’m focused on recovery”",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTXlONlJBeW44MVlucW5veVdMa3QzXzh4VFVTU0dfekR4SjY1RXRzOXVXWUdjcHctMHQyUG5GdHAzbFphWEFGUk5WMFRJZTdZdWdFbTlVRE1ISTRWSjdYaEhQeDczZUdvbDBBMUFuZWNjVHp2TlhmR0NBd1lXX3B1djh3MkZWd1JGa1VLc1QtdVlyVnRUaDlQWHpEcGhFR3BOcnVWVE5iem82Sy00NDNNRVk2Rk1IYlhQQWV2eg?oc=5",
-     "fonte": "MotoGP"
-    },
-    {
      "titulo": "MotoGP German GP: Marquez leads Ducati's qualifying domination as Bezzecchi crashes",
      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWEZkTzNtYlVVTlVaOXpjSGVuR3hTaEVFM0RjLXZzYXBVVUQ4cHpZdkl6UmM4ZWwtbHZQMjNubEFXbTF2OG9iaVQ1T291X1l0NVRCbVZiOXZ1dFNVY1poUE1wNXM2RlFqMDJLbDlDZXJkT05Xc3FoZ0FNQVN6dDdEVU5xMWlGVXM0ZlhmekZn?oc=5",
      "fonte": "Autosport"
@@ -2642,20 +2612,15 @@
   },
   {
    "pauta": "Yamaha",
-   "urgencia": "3 fontes / 48h",
-   "porque": "3 fontes publicaram sobre isso nas ultimas 48h.",
+   "urgencia": "2 fontes / 48h",
+   "porque": "2 fontes publicaram sobre isso nas ultimas 48h.",
    "furo": false,
-   "fontes": 3,
+   "fontes": 2,
    "materias": [
     {
      "titulo": "\"Always emotional\" - Valentino Rossi makes Yamaha MotoGP return at Goodwood",
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSWpYNHNMU0ZJYkVoeEppZmw0bDBYa1AyT2dNeEwtbnhkMzdNdzVTQmNWY2hocDBmRmdZV1BSbjl2TVNDZ1hCakI3dXcyaDFxcl90dEJxc3RiRXptTXExQXJLdnFkTVhKb29fYzdXd2dLSzNubE15NmJlRzZtQ252ZDEzclVrX3lyRXlkRktpRzVUNVhPRzdpMjhKbUlNZjU1N3pna0hxMEw1TWZVajg1c2R3?oc=5",
      "fonte": "Crash MotoGP"
-    },
-    {
-     "titulo": "How KTM dispute reminds Vinales of Yamaha ordeal",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZVdRMFdLVGFRSFhFVkJtakVOYjhvbURMVG14bzc2bkc3WEZldFE1T0duLXRJV1F1aUtQVVlTTUowM3VMLUhqeldEd2JwWDNEQ1hVT1Fidm1KUlJlRngyLU01WWxKZzl1NndXVVdHUms1Ui13REhVSll2aHF2c1RMVU16OVBQSGpxOGlvWmY2elFPNDdyZUI0?oc=5",
-     "fonte": "Autosport"
     },
     {
      "titulo": "Monster Energy Yamaha MotoGP Secure P7 and P14 in Sachsenring Race",
@@ -2666,25 +2631,6 @@
      "titulo": "Gardner Fights Back to Finish 13th in Race 2 as GYTR GRT Yamaha Heads into the Summer Break",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUnJkbTNXMG1hYU1TX1YtcHdJLXZVWDV0T2xBTHRzRmFaQXdzUUVmUGNfVTJEcmhHZzZiQ01CbzFwaEtvQnhuaFlZMGlwSDRVZlR4VE1aQjBOSHF4UHNRbHZucjYxaG1seE5LaUVWcmpfTnItYWU3T1lRSHdHMG1wWkhFYXBFc1NhZFlmc0ZwVmNTVFhHOFAzck9CRXRSNE8wZjlZ?oc=5",
      "fonte": "Yamaha Racing"
-    }
-   ]
-  },
-  {
-   "pauta": "Vinales",
-   "urgencia": "2 fontes / 48h",
-   "porque": "2 fontes publicaram sobre isso nas ultimas 48h.",
-   "furo": false,
-   "fontes": 2,
-   "materias": [
-    {
-     "titulo": "“All I get is criticism” - Maverick Vinales/Tech3 MotoGP rift deepens in Germany",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxON3NzVi1zU0NXT3BCMDVSVUUyS0FmWWVqVkxJNi1pWGFwajBMSi15NXhDUE1jb3E4TFpGckFyanhwNk9SYW1TeG9QR1k0eGVmYjc2THlNSDBydDZhdTlqWngtcmJSYmRMRWdyLUtsYzRNZnBrUjNXUnYyeVRqU2VtMGwzTjJtNFVqN3lEY0ZFMVd0M1VNMTlLMVM1a0lieU41UHpoWndTM3lxT1h2elNLeGhtRQ?oc=5",
-     "fonte": "Crash MotoGP"
-    },
-    {
-     "titulo": "How KTM dispute reminds Vinales of Yamaha ordeal",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZVdRMFdLVGFRSFhFVkJtakVOYjhvbURMVG14bzc2bkc3WEZldFE1T0duLXRJV1F1aUtQVVlTTUowM3VMLUhqeldEd2JwWDNEQ1hVT1Fidm1KUlJlRngyLU01WWxKZzl1NndXVVdHUms1Ui13REhVSll2aHF2c1RMVU16OVBQSGpxOGlvWmY2elFPNDdyZUI0?oc=5",
-     "fonte": "Autosport"
     }
    ]
   }
@@ -3135,9 +3081,9 @@
  ],
  "marca": {
   "ga4": {
-   "sessions": 469838,
-   "users": 463479,
-   "updated_at": "2026-07-12T21:27:18Z"
+   "sessions": 469900,
+   "users": 463540,
+   "updated_at": "2026-07-12T23:32:06Z"
   }
  },
  "pesado_em": "2026-07-11T10:36:53Z",
