@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-07-13T19:54:10Z",
+ "updated_at": "2026-07-13T21:16:12Z",
  "fontes_monitoradas": [
   {
    "nome": "Grid Motors",
@@ -347,6 +347,16 @@
  ],
  "materias": [
   {
+   "titulo": "Cafe racer, bobber and scrambler motorcycles",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBUUEF4a1VJUTF0dEFYYl9XYjB4ZV9lWVdSLS1MUEZBMnc0b0duYmVWZ0dGY01YMXB4SE84WXBsQWxoMVNvMU9jUVBhVUhuTmxWeERJNXhBeTJ0aE9lLXc?oc=5",
+   "fonte": "Bike EXIF",
+   "ig": "bikeexif",
+   "escopo": "Global",
+   "tier": "Mundo",
+   "dominio": "bikeexif.com",
+   "ts": "2026-07-13T18:20:00Z"
+  },
+  {
    "titulo": "De Xmax a Tiger 900: quais as rivais da Voge no Brasil",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1OeHBWd25pT1JYa2MxUUJiRDRVZDIzWWVrSGt0d0J0cklRc0JwQ2gzdmlacUdWUTNGNjZadkVXQUhJeWMyV0hSTlowejZEZmJlSmNVdmpJTVNLNjlpZkJ1a3BDUnBMZ0xKNWJYSkZwUmZ0Y3A0MWc?oc=5",
    "fonte": "Motonline",
@@ -355,26 +365,6 @@
    "tier": "Brasil",
    "dominio": "motonline.com.br",
    "ts": "2026-07-13T18:00:03Z"
-  },
-  {
-   "titulo": "Shotgun 650 ou CLC 450 Bobber? Qual bobber é melhor?",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Db2tlR2tkQVBfUm9PNEJZd0ZFSnZXLXRrLXFkVGRYOU1FQzl0cEdYNlhpMkZvX0cwNUM2cTBEYnNuUG95X1JOUXc5ek1zeERCYUF1bFlIUExtdmdXSmY2TGdBX2pMY0tTZXV2SjV2R3E?oc=5",
-   "fonte": "Motonline",
-   "ig": "motonline",
-   "escopo": "Brasil",
-   "tier": "Brasil",
-   "dominio": "motonline.com.br",
-   "ts": "2026-07-13T17:20:28Z"
-  },
-  {
-   "titulo": "Pecco Bagnaia admits Ducati hasn’t solved unwelcome MotoGP issue all season",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNWdIRjN5bjROTGpLNkJGT25Dc0xVcDl0ZE9xTzhJYU14bmVEcHkycGxtMVcxeGNXTF94LTdYcDNBOWVRWnFnRVBXME9sYnoyWDhWdzdhRE8xNUlJYnR6VjhRUU8zVHM1d0dTMDlXOWIyS19pWGU3SW04UHJHV2N1R0oyeWgyT3FPZEhiMHFiaDJzZXRCWloxVFlVcEd4N1FPZ05lM3RhcTJCb2xxRlBsdUVDSUpYVUNoRWc?oc=5",
-   "fonte": "Crash MotoGP",
-   "ig": "crashmotogp_",
-   "escopo": "Global",
-   "tier": "Corrida",
-   "dominio": "crash.net",
-   "ts": "2026-07-13T17:16:37Z"
   },
   {
    "titulo": "Rival da ZX-4RR: Honda lança esportiva 4 cilindros e câmbio “automático”",
@@ -477,6 +467,26 @@
    "ts": "2026-07-13T11:09:12Z"
   },
   {
+   "titulo": "Yamaha Crosser Wolverine 2026, Veja Preço E Ficha Técnica",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWGlQUE1mbFhEY2NqZnlTMlVuSjFMZktCWVJXRnJTT1cxb0JKTDBGVnMzZEpJX2FDdkNackJBdEh6alE1SXNtcnl4dlppTnBtRTFJRXk5N3VJbWNCcWw0WTlUS0hHUDZhLWZTZU03N08zdF9IRVVtUG1tYXhQemRSSw?oc=5",
+   "fonte": "MotoRede",
+   "ig": "motorede",
+   "escopo": "Brasil",
+   "tier": "Brasil",
+   "dominio": "motorede.com.br",
+   "ts": "2026-07-13T11:00:48Z"
+  },
+  {
+   "titulo": "Pecco Bagnaia admits Ducati hasn’t solved unwelcome MotoGP issue all season",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNWdIRjN5bjROTGpLNkJGT25Dc0xVcDl0ZE9xTzhJYU14bmVEcHkycGxtMVcxeGNXTF94LTdYcDNBOWVRWnFnRVBXME9sYnoyWDhWdzdhRE8xNUlJYnR6VjhRUU8zVHM1d0dTMDlXOWIyS19pWGU3SW04UHJHV2N1R0oyeWgyT3FPZEhiMHFiaDJzZXRCWloxVFlVcEd4N1FPZ05lM3RhcTJCb2xxRlBsdUVDSUpYVUNoRWc?oc=5",
+   "fonte": "Crash MotoGP",
+   "ig": "crashmotogp_",
+   "escopo": "Global",
+   "tier": "Corrida",
+   "dominio": "crash.net",
+   "ts": "2026-07-13T10:57:01Z"
+  },
+  {
    "titulo": "‘Everything goes to Max’ Sergio Perez reveals true reality of being Verstappen’s Red Bull teammate",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSGlGUnNBZUZPWDV4VUZJMS1zNW13a1lIMTN2QkUteFF3LXZCVENRRjh4cWhBd1E0WXZCRjZZaWpCTllGX0tmU2V0ZGplZ1U1M0sxR29leWtwUUpwbFpLeFdteElBem9hNmdEZWtzZVVWTGdzNTV2dU5MQmJzSTlDUzItemljXzlLQUhVSlNjLThvWm1Yb2tJMEVSaFd4OUhKZ1ZGRE93Uk04RGVuS2NPQW43SG80QWR2WW44?oc=5",
    "fonte": "Crash MotoGP",
@@ -505,6 +515,16 @@
    "tier": "Generalista",
    "dominio": "motorsport.com",
    "ts": "2026-07-13T10:30:23Z"
+  },
+  {
+   "titulo": "Rivals block KTM request to open MotoGP engines due to breakdowns",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVW9BdWpaNWlkdWdtZDYyaEdHZE1tVWJldTQwTUdxMEJ0Rnkwa0tOSDVRT0JJODRKWXo5R2drcUdsRkxGX0Y4UEF6eHpBS1g5OFFNSmdIOGlOTHFqcmRCZXVlb0Zhc0VuRHdnejE2MGoxZUcwbklGUWZlaDRLUDJrUFlaSzNEaEs5WXpXZUFLUVkzOTRZZzdnWGkwc2ttQzZjdlJpeHVDdmtHbE11SUUwcQ?oc=5",
+   "fonte": "Autosport",
+   "ig": "autosport",
+   "escopo": "Global",
+   "tier": "Generalista",
+   "dominio": "autosport.com",
+   "ts": "2026-07-13T10:30:03Z"
   },
   {
    "titulo": "Perfect 10: Marc Marquez matches Agostini with 10 wins at one circuit",
@@ -597,14 +617,14 @@
    "ts": "2026-07-13T04:16:26Z"
   },
   {
-   "titulo": "Ducati.com - Dealer Locator",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdjQ1UEtBRmxiVnAwaEhLUGozWnBTS2RVbzNIVUtSeC04QmlXeFA0WEN5a29aNUt1blcxTk5MdDVDRm9iM0l4OWFIdFFQc2otLW9PNFpuRms1MDJzN0tEaUd6TmtwVjk2MjdMcHU5SVZiNTlmeVZKbkxOV3MwWE1DcGtTZUx1UQ?oc=5",
-   "fonte": "Ducati Corse",
-   "ig": "ducaticorse",
-   "escopo": "Global",
-   "tier": "Corrida",
-   "dominio": "ducati.com",
-   "ts": "2026-07-13T00:19:37Z"
+   "titulo": "Mais potência, mesmo visual. Kawasaki lançou a Versys 1100!",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQWdIYTFvd0tkNW9ad0hxdTJ2RWYyWHV0ZWw1UGRWYm5Yd0NYbjY2alNKaDlFWXE1Znpfb3l5NmMwWVRWbWt0TFdJSXA1aVpaYkFEcF9JVlhoU0VUS196X0F2Tl8zek9FRWVvelpmdy02NlYwaFBleURBWDVSaENoY2ttNzJpSWxreGVaZGZnZHZ6YUc5aDE4Z3hudUllOHAtRU9wUNIBpAFBVV95cUxNQWdIYTFvd0tkNW9ad0hxdTJ2RWYyWHV0ZWw1UGRWYm5Yd0NYbjY2alNKaDlFWXE1Znpfb3l5NmMwWVRWbWt0TFdJSXA1aVpaYkFEcF9JVlhoU0VUS196X0F2Tl8zek9FRWVvelpmdy02NlYwaFBleURBWDVSaENoY2ttNzJpSWxreGVaZGZnZHZ6YUc5aDE4Z3hudUllOHAtRU9wUA?oc=5",
+   "fonte": "Motonline",
+   "ig": "motonline",
+   "escopo": "Brasil",
+   "tier": "Brasil",
+   "dominio": "motonline.com.br",
+   "ts": "2026-07-12T23:52:28Z"
   },
   {
    "titulo": "Competições - Motonline",
@@ -637,6 +657,36 @@
    "ts": "2026-07-12T20:08:14Z"
   },
   {
+   "titulo": "Editorial - Motonline",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5QOTViSEJqZlhhZTJkWVdkVmlfOG1oWG9QYTYtUXhxX2pjZEY5YWpDRTlOb2E2dXBkNnVVOGxZU0RkeHN3cXE3T0lFRFlGOG1kUl85UXR4YkJuU3NDZk5tUg?oc=5",
+   "fonte": "Motonline",
+   "ig": "motonline",
+   "escopo": "Brasil",
+   "tier": "Brasil",
+   "dominio": "motonline.com.br",
+   "ts": "2026-07-12T18:50:15Z"
+  },
+  {
+   "titulo": "Ducati react to double title triumph at Donington Park: “We have demonstrated incredible dominance”",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQaVFkUS1ZU3NNMUQ4VHdNUmVIQnpDYnRkRDVScTJVa2l4TWFKWmZsdnlhemlEeEdBMlNwMUxtcDdvQTZFUnBfdFJMZ1BkUldVMWc3b3dUTzJxbUxSSUF6UVhmTnlVenI4RXFtbjFBU2hlSm5QUlk4Y3lveFM2Z1FVTVhOOVBwM2lISGRaRDk0dGUtNWh6M2lKTFN1XzQwQVVqT3JtcXd6NldmS00xemVoSVVodWhkMWMwWVdKUjFlVk5UenNLbWwxb0ZOSXI1a0Z4XzBPRmMtZ1BiRnVzeC1iMDNn?oc=5",
+   "fonte": "WorldSBK (Superbike)",
+   "ig": "worldsbk",
+   "escopo": "Global",
+   "tier": "Corrida",
+   "dominio": "worldsbk.com",
+   "ts": "2026-07-12T17:46:11Z"
+  },
+  {
+   "titulo": "Watch FREE HIGHLIGHTS: Another incredible World Supersport battle at Donington Park",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPYndPbnNoQ1pBNno0bUhTbFM3UUQ0V000MmJIZDl3WFdvdVQwakZQQ2lkMmw2Sl9scjh1U2tsdVZNTEFBbUxsakRNZV9ja1BrOGZIV0pvcTRaSzktTmRILTcyVmFpUlVEWXRmLW5ab2dFUmVGTnJkTE9fRlhuWXJpcjhzSk5KMEpWRjJSRXBqV1ZfX1BWOEFFeV9NQ0hsazNKV1dRQlVpdXRJaC1GVkplRGoxQ05fdVBFWm1hTUdFZkVSNUh2N2c0aFdPb3RWb0xxclpfNWNsZC1xSVF3YmxTeUZ3?oc=5",
+   "fonte": "WorldSBK (Superbike)",
+   "ig": "worldsbk",
+   "escopo": "Global",
+   "tier": "Corrida",
+   "dominio": "worldsbk.com",
+   "ts": "2026-07-12T17:28:00Z"
+  },
+  {
    "titulo": "Watch FREE HIGHLIGHTS: WorldWCR title race heads to Jerez after another epic Donington duel",
    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOZ1NuamlYeU5KSlZwbWxVUXhieXdTcDhrOVc5Y1B5c2lIX2xZT1NwakRIcS1YRFRJeHFwdms3M21MSXQ2S3VZMWVEOFRaU1dSYWMzQUx4QUx3cWdVaWpWQ2lTSU1OQk1FYnBoTnpGUEFyVGwxcFA2TUVLLVo1ZjBtMndPd2ZIb3RqZGpkTUpaSUZEVFNKT05YWlFFQ25UM1RyTjlFNWF0al9ic25LUjFXYnRuMF90UF85bVBsWGZORzBWMU5mSFFRQnlETlZFWTJPLUtZM1ptbnc4VEE2TW92WXp4OHlVR1J2TU5aWS1R?oc=5",
    "fonte": "WorldSBK (Superbike)",
@@ -645,16 +695,6 @@
    "tier": "Corrida",
    "dominio": "worldsbk.com",
    "ts": "2026-07-12T17:01:00Z"
-  },
-  {
-   "titulo": "VÍDEO: Piloto escapa 'por um triz' de atropelamento na Moto3",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMndLdzJwSjFSaFF5SGh1Z0xrek5hVDlLbzNfVTdXaW1iWlA2TUhCS3drb0E3cnFaNHZmYmJKdEhMc1gxcm1RSVhUR3UzQzRoZjc3UU1aLXVTM29PeVFNbEs1d3dvTnhHakZBN3BNMHV2bE9JNzJkODNESU1XWWFQYmw2NHh6TmladmdkQ2F2eTYyb3FEMHB0clNuQ0Nta3hKaHZjdDFXUUV5andKWFlsdXFjR3BaMUxwMzZsVEJLd0RkOGloT3RBeEFB?oc=5",
-   "fonte": "Motorsport.com Brasil",
-   "ig": "motorsportcom.brasil",
-   "escopo": "Brasil",
-   "tier": "Corrida",
-   "dominio": "br.motorsport.com",
-   "ts": "2026-07-12T17:00:10Z"
   },
   {
    "titulo": "“Lucky” Sprint issue helps Ai Ogura secure Sachsenring MotoGP podium",
@@ -767,6 +807,16 @@
    "ts": "2026-07-12T13:31:06Z"
   },
   {
+   "titulo": "MotoGP™ Grand Prix: Liqui Moly GP of Germany",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUF9VRTUwRW9Wd3BkWFp2Zzd5aFpwc3JSS05rYmZWYXRLaHYxOVFZdkpoa1VkSWNXaXFYb3NBQzFfUXJ2Z25VdW5nbDQ5Sy1hTXlVZmQ4aE4xejc0RklYYmRGeXVrOG5WWEJJSkhPbmhCSE5PdkQ1OVl3WFY2cnIwUzNQRzh6aXE2LVlBUnlSVXo1M09tdzlGcGl3?oc=5",
+   "fonte": "MotoGP",
+   "ig": "motogp",
+   "escopo": "Global",
+   "tier": "Corrida",
+   "dominio": "motogp.com",
+   "ts": "2026-07-12T13:20:00Z"
+  },
+  {
    "titulo": "Marc Marquez cruises to dominant German GP win as rivals crash",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9LdjB5V01ocTlBc3NzTUo3dG5GekgyUUFMbGI3dER4U1k5eDI0c0pqX0JxNE9RVElHVmlpWmg3bm90WnJjNW0zTG1mOGNIUmxOeUppdl9FMGV0aW4xQVhUNHFUN2NhRkFSOVh3b1lB?oc=5",
    "fonte": "The Race MotoGP",
@@ -807,16 +857,6 @@
    "ts": "2026-07-12T10:51:00Z"
   },
   {
-   "titulo": "Uriarte defeats Quiles for Moto3 win in Sachsenring classic",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUnVSandJRlZnN05JWUpoR3JFMEVUNlZQVG1faHNmc3ZBZnpOOGI3REFnTmZMQnZydG15NkluNjlfNWl5MEt6ZkVjeGlYNTl4S1A5N0s2Sy1NTjZoa1JtZFFSOWc0UGlSMGJlMTFGZHRFRkwzZnBEWkRLNFdiR3dGSzNpbTFnbHF0RWFZZF9DQldGbmdkQ0tmSWhQUlRZdUZ5cnJYdDVTTUItYmMtX3c?oc=5",
-   "fonte": "MotoGP",
-   "ig": "motogp",
-   "escopo": "Global",
-   "tier": "Corrida",
-   "dominio": "motogp.com",
-   "ts": "2026-07-12T10:10:22Z"
-  },
-  {
    "titulo": "Two riders die following incident in FIM circuit race at Brno",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUUExVEc0aHZGNWdhMnA0bUNvVWVXM2ZuaXVvNlN5c3pxZmNfRlE1VlRDYXpBeVlyVGJISktqQUdRWEhidWk1UjRJX0xuY3duQnF0VW5jRjFDVm5uankzT1psVXNlVEVLVzZvVk5UejJTYlUydER2U0dKc2xrTGtVRU1oNDkyUTdYSUF5WWxoOHFkb3ExREtfNGpXTWFVc1JQ?oc=5",
    "fonte": "Crash MotoGP",
@@ -847,16 +887,6 @@
    "ts": "2026-07-12T06:46:49Z"
   },
   {
-   "titulo": "MotoGP - Motonline",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBESllKOHB6a2otdDJsLUxLaERTWkhFd0dlaTRIMC1BM3dpQjhZampsME5OdE5JU1BNUUpfUElNbk93OW1VREI4eEJKNkwySnIyTXNxeWtmbHQ1RjA?oc=5",
-   "fonte": "Motonline",
-   "ig": "motonline",
-   "escopo": "Brasil",
-   "tier": "Brasil",
-   "dominio": "motonline.com.br",
-   "ts": "2026-07-12T02:41:13Z"
-  },
-  {
    "titulo": "Bruno Crivilin é campeão das motos no Sertões Series Paraná",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMFJFLTljUzlBMjhDcWJtcUFBTlV6TDE1eWlFOEJoNjF4cmFzdnJ3UUdzc1VKVElTWnItZURwSks2eE5XMmRROEI5QkpEZjNJR2UyUmh6UHFHYWNqaG81VWxaX0swQUdYY05LTGtpRlRBS1RCOWE0LW9RRzZpQU9rVHhUYm5TQTRSX1Q2eHNR?oc=5",
    "fonte": "MotoMundo",
@@ -867,24 +897,14 @@
    "ts": "2026-07-12T00:10:20Z"
   },
   {
-   "titulo": "DUCATI'S DONINGTON DUEL: Lecuona and Bulega fight tooth and nail for victory",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVkRicm4wVWkzVzJRWFNveWJjTmN0UmVqa25RMnE3SWc5M3VaU2hsdWhYbTRLb2NiZUMyT3BETjhhWnUtTWg5MjNoV2d6b3J4b3hYSzQyT2k3N05jSlJ3LWdCT0Y5cGRVazFvYzRMVHd5bnhNNmlJdkxDRlJnNWJGbTI1bUdyT0NPZ18xdDNrcEJBMXh5TDdnNDI5bHQ0Z2J1eHdJLUZsc001M3V0SGVnVm1xV1d6bU40a1RGczVLbFUwRG05eWZn?oc=5",
-   "fonte": "WorldSBK (Superbike)",
-   "ig": "worldsbk",
+   "titulo": "A masterful race by Lecuona who at Donington takes the first win of his WorldSBK career after an exciting battle with Bulega (P2)",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5OS01sVDlDUDNnWmxrQmlrUFBBYUVSWktsYlFhNVQ0Q01BU3I5REhoMG0yZkJlLWpXTlpFVHlQNzZxTG1BbmV4OGJQWjZjOFpHNnh6UUozcWFiaWhzM3FWZTQwcERzOU1reGFqaDA5cmI?oc=5",
+   "fonte": "Ducati Corse",
+   "ig": "ducaticorse",
    "escopo": "Global",
    "tier": "Corrida",
-   "dominio": "worldsbk.com",
-   "ts": "2026-07-11T18:25:00Z"
-  },
-  {
-   "titulo": "Marquez pessimistic for German GP despite sprint win",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOV8xbzFoQ21EcHR5NG1KbGhwbUtVYlpYc1huMENzZFpUZHZ1U0Z5ZWFiQVhLUXlfSkdIY21DOEExWHVvY0laaUlhWUR4djZSLTFlX2czdk40VGtCekM4ZzE2VTIyRVdIcEFoX0J1aVNtS3J6MnNTbFBKMUdybnNGSlpCTFJaZnRY?oc=5",
-   "fonte": "Autosport",
-   "ig": "autosport",
-   "escopo": "Global",
-   "tier": "Generalista",
-   "dominio": "autosport.com",
-   "ts": "2026-07-11T16:09:29Z"
+   "dominio": "ducati.com",
+   "ts": "2026-07-11T20:56:17Z"
   },
   {
    "titulo": "MotoGP, Bagnaia: \"Having just one qualifying session for two races is a huge limitation\"",
@@ -1057,16 +1077,6 @@
    "ts": "2026-07-11T00:55:30Z"
   },
   {
-   "titulo": "Cafe racer, bobber and scrambler motorcycles",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNM2ZiOGctcWJxQWI0R3lyZUJSemdwaFVfLTVYUm8xclEyMm9RZjR3X1JaVkJ3bFdfM28tQUxOUkk3QVJQazVaR1VnRlNpeThLQzRXeG41bl9jdTNWaWY4S0NCaHhOX1RDY0xZbWdLQWg3dDFGTHNfVlk4RDIybU1QdA?oc=5",
-   "fonte": "Bike EXIF",
-   "ig": "bikeexif",
-   "escopo": "Global",
-   "tier": "Mundo",
-   "dominio": "bikeexif.com",
-   "ts": "2026-07-11T00:26:29Z"
-  },
-  {
    "titulo": "Encosto Traseiro para Motors",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9RanAyS0pra21tSzdzM2pXVlFQVElWVjN5cTFjcm5zbHBJZk91UHlZLWN0ZHZTSXpvVHVSNEtqMFRrbFBKR09ZYm9fVXkzNDZZb1Fnc29tMjF0SzJLNTBmQTV6aW0zZGJy?oc=5",
    "fonte": "Grid Motors",
@@ -1095,16 +1105,6 @@
    "tier": "Mundo",
    "dominio": "bikeexif.com",
    "ts": "2026-07-10T18:00:00Z"
-  },
-  {
-   "titulo": "Watch Alex Lowes aiming for podium on home soil, where does he need to find time after P4 on Friday?",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZjRGaUZYemxldERYT1I5aVlLM3dwMDExRzFTWlRoUDVxY05wem1KTXIwRnFwYk5XdEpHUVNpLXVfZk85RDd1WnJFRU5lcnpzMUFiOUxvek51Ukk5QkdJdDYtZHhrX0t4VEIzTHQyVjEwOGF6dDdMS3FLSU9XTEhzVXFyUXhKRlM3c3FMQW1YYl84MXdqUWd5czhTWm1vMTlvTm0wdG9HNnVDLWZRWEpveHJvZ3oyV0IzeGdybk9yS2R2cXU3WEM5VWUydU9DOWlCQWRjdk54YzI4S2xjOHlZYg?oc=5",
-   "fonte": "WorldSBK (Superbike)",
-   "ig": "worldsbk",
-   "escopo": "Global",
-   "tier": "Corrida",
-   "dominio": "worldsbk.com",
-   "ts": "2026-07-10T17:05:00Z"
   },
   {
    "titulo": "ICYMI: new grid layout takes effect from Germany",
@@ -1155,6 +1155,16 @@
    "tier": "Corrida",
    "dominio": "motogp.com",
    "ts": "2026-07-10T15:46:00Z"
+  },
+  {
+   "titulo": "Entrevista Pedro Franco, CEO Capital Moto Week",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTDFFekJHNTNOekJlbmxOMnc4SnZXUDdlN3B6c08xek8zX25NSTFQSW1ELXlGOThPazNLX2c3MWZEY01FQW93NGhqemVnMlJXUUpUQzAyc0RQUlpLOTBhOE9uZVBXNlBrUzdzeF9EdnpnaE9veE90VWtaZ0k0eFJGbg?oc=5",
+   "fonte": "Revista Moto Adventure",
+   "ig": "revistamotoadventure",
+   "escopo": "Brasil",
+   "tier": "Brasil",
+   "dominio": "motoadventure.com.br",
+   "ts": "2026-07-10T15:16:51Z"
   },
   {
    "titulo": "CFMoto e Brembo firmam parceria",
@@ -1347,6 +1357,16 @@
    "ts": "2026-07-09T22:42:00Z"
   },
   {
+   "titulo": "Newsletter nº 25/2026 - 9 de julho de 2026",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSEhRdkx3SDNyNU5KUjR2T3RzU0VUSVFwaWpfNWY0N3plbVNwYXFWRDg4SS1UWDh0R3JEbXlUSVhoSXZ3OTBmRXJIT29DelMxYy1ldUtMSXV4Qy1zX3RrMXd5Ym41anR1c21ranR2Zk9ZRDV3ZEZfSTVEQVNqR3R5d3JMOXdZLVJobEsxdjFhRlUyZw?oc=5",
+   "fonte": "AndarDeMoto Brasil",
+   "ig": "andardemoto",
+   "escopo": "Brasil",
+   "tier": "Brasil",
+   "dominio": "andardemoto.com.br",
+   "ts": "2026-07-09T17:47:34Z"
+  },
+  {
    "titulo": "Innovation from Down Under: Our 5 Favorites from Purpose Built Moto",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5xZTNxalB5MlV0ZE1jdnVpZ2o2QTZaVGNoUGNxSUZzTmdSOEdMbjNmVWMxaWVZY3BtZ25Cc1ZUWnhvTkk5NDVOVTZ6YXNmVFdWSHZGclBtM0NHZDlISGhwTXV4Q25YbWZLWWYxZVcyd0lGdw?oc=5",
    "fonte": "Bike EXIF",
@@ -1385,16 +1405,6 @@
    "tier": "Brasil",
    "dominio": "motociclismoonline.com.br",
    "ts": "2026-07-09T15:47:49Z"
-  },
-  {
-   "titulo": "Keanu Reeves e Gard Hollinger explicam porque correr em motos é \"pura diversão\"",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdVZPVi05YV81T2VYMnR6bzg3YXk5bW51c3ZBMWk5VGRwQjFDeXAwVURweDYyZEdOSmFoSjdSVmlRRzRtejE0aHd5cWZrZU5PVFNuZklWVjNyaUdKSzUzMDdpUWpDUWtRaEV3ZjBZRkN3S2toRmdVVkZNeXFPN0dtMmxjSTdhZC01UlFNUkE5OV85aEpqTXBoM3daUGVPMS1XX0NvWUZjNGZGd0U4c0pXTkpiWFhiWEttbXZiaURkS0E2SWM?oc=5",
-   "fonte": "AndarDeMoto Brasil",
-   "ig": "andardemoto",
-   "escopo": "Brasil",
-   "tier": "Brasil",
-   "dominio": "andardemoto.com.br",
-   "ts": "2026-07-09T15:05:37Z"
   },
   {
    "titulo": "Is this classic Italian budget A2 adventure bike worth buying? Find out in our in-depth review!",
@@ -1514,7 +1524,7 @@
    "escopo": "Brasil",
    "tier": "Criador",
    "dominio": "motomundo.com.br",
-   "ts": "2026-07-09T00:07:38Z"
+   "ts": "2026-07-09T02:26:37Z"
   },
   {
    "titulo": "Motordrome Magic, A Razor-Thin Panhead Board Tracker From Japan",
@@ -1525,6 +1535,16 @@
    "tier": "Mundo",
    "dominio": "bikeexif.com",
    "ts": "2026-07-08T17:00:00Z"
+  },
+  {
+   "titulo": "600 Master: Régis Santos vence em Curvelo",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA4NlZGS3daNEFqRXhGZjZnRm5ZenFPcEptMmpVeWtnNGE4MEpIYTEza1pJZ3ZnbFdHTEllb1pQbjN5Skw0NWlYRlY2ZVMxZXh6MDVqbDJHdzNuNGtCTWwwajU0b3lPcEswamd2bUtR?oc=5",
+   "fonte": "MOTO1000GP",
+   "ig": "moto1000gp",
+   "escopo": "Brasil",
+   "tier": "Corrida",
+   "dominio": "m1gp.com.br",
+   "ts": "2026-07-08T16:10:00Z"
   },
   {
    "titulo": "Just how good is LS2's multi-season touring suit? Let's find out...",
@@ -1785,16 +1805,6 @@
    "tier": "Mundo",
    "dominio": "motorcyclenews.com",
    "ts": "2026-07-07T13:08:45Z"
-  },
-  {
-   "titulo": "Kawasaki Ninja 650 2027: esportiva \"Fun Style Easy\" ganha combinação de cor refinada e moderna",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVFg0bzlZcEhxbWpWdlc1RWZLZ1J6UjNwa1U1WVk1Tk5xVjA5WGQ4V05mQUNkUzQ3WHpiZmd4dmpPZUZXVDlQLUIyalduSEh2MG1hSUlZc3J0NkN3TFpCUmhTVHlfRFpKTWpZcmZKd0JJbnpsMV9QcHJ5RUxpY2pkTWd5MHRXbHloQWZ6SERJWDl3Zw?oc=5",
-   "fonte": "Motociclismo",
-   "ig": "motociclismo_br",
-   "escopo": "Brasil",
-   "tier": "Brasil",
-   "dominio": "motociclismoonline.com.br",
-   "ts": "2026-07-07T12:59:25Z"
   },
   {
    "titulo": "Há vantagens exclusivas para membros do clube de proprietários Indian Motorcycle na Concentração de Faro",
@@ -2077,16 +2087,6 @@
    "ts": "2026-07-05T12:25:00Z"
   },
   {
-   "titulo": "Bajaj cresce 55% no primeiro semestre de 2026",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11WkN0VDhqRkZ3SW1QdEpsUEQwT2N1RkdFYlMwcE9Sck00c1UtYzc5VXlUaDNpZU1NLVJBOHVyblByYjFYM3lNUU5CXzRXRFh1eGxIekVIeHRrUkt4R2JXY1hRSnhTc0pVdmd5a2g1QkxoNVRrYjgySWtWZnh1cjg?oc=5",
-   "fonte": "Revista Moto Adventure",
-   "ig": "revistamotoadventure",
-   "escopo": "Brasil",
-   "tier": "Brasil",
-   "dominio": "motoadventure.com.br",
-   "ts": "2026-07-05T12:00:00Z"
-  },
-  {
    "titulo": "As motos Yamaha que passam de 500 km de autonomia e ajudam a reduzir custos no dia a dia",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNamhPblBydmZQeHRmUWUyOFFBbG1mbko3eG8tMnF0NHNVMmFrazBvZF8yREs3UjRETHYyNEJpXzFJbGR3TVN6eUEyQnMtVDB1dFhIN3FWeVZBU2lWUVBwLXQxNGluRmpEdENoNmRIYW9Fc2FRWW81NzRrWG1HSXhjc0ZwYWw3MURxeE1PQTBwV3JpaG5vd2xmMDFFMjJleGRMM0ZSRmFuRmZZejR2dEJsWGUtb3c4WEU2SEc4WTZxajQ5LUpsZlVlZ0ZwUDA?oc=5",
    "fonte": "Motociclismo",
@@ -2115,16 +2115,6 @@
    "tier": "Corrida",
    "dominio": "gpone.com",
    "ts": "2026-07-04T15:09:44Z"
-  },
-  {
-   "titulo": "GP Light, Sexta-feira",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9oRVpIbmo0MVNWbUpUZE1IQVlXSEthbTJaV1ZfRE5WNTcwYTlYUTY2TGFfdTNab2JfUG5VbTIweHI5OXFrRS1xLUNNQVhVamFDRU9wSHJ3?oc=5",
-   "fonte": "MOTO1000GP",
-   "ig": "moto1000gp",
-   "escopo": "Brasil",
-   "tier": "Corrida",
-   "dominio": "m1gp.com.br",
-   "ts": "2026-07-04T14:58:00Z"
   },
   {
    "titulo": "Piranhas recebe a terceira rodada do goiano de motocross",
@@ -2217,6 +2207,16 @@
    "ts": "2024-04-04T14:32:45Z"
   },
   {
+   "titulo": "Willian Teixeira",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5XRFdvR2pySHc4Uk9oNy1LNkZjeHd5bEZuME80ajFyQXA5WEhMdVZZNWRQZS16X0VpZnBfLTFqZEJlM1BWTnBMQWtKamlvTExMVkk3MnUzNzZmTmhYdjFaLWpsMmx5a05VcFE?oc=5",
+   "fonte": "Motociclismo",
+   "ig": "motociclismo_br",
+   "escopo": "Brasil",
+   "tier": "Brasil",
+   "dominio": "motociclismoonline.com.br",
+   "ts": "2019-06-05T20:01:00Z"
+  },
+  {
    "titulo": "Sport Rider - Cycle World",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE41MmJZOTBfcnJvLW5LM0hObUN4UkZLSWZHNVEzMGFfd3BQTzZZaWlzdHIxSlU5ZmlwUmZxdTE3TFFKdmNCSk5ZbEk1NFVWNkly?oc=5",
    "fonte": "Cycle World",
@@ -2238,18 +2238,13 @@
   }
  ],
  "total_materias": 189,
- "materias_24h": 29,
+ "materias_24h": 30,
  "reddit": [],
  "em_alta": [
   {
    "tema": "Motogp",
-   "mencoes": 29,
+   "mencoes": 30,
    "materias": [
-    {
-     "titulo": "Pecco Bagnaia admits Ducati hasn’t solved unwelcome MotoGP issue all season",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNWdIRjN5bjROTGpLNkJGT25Dc0xVcDl0ZE9xTzhJYU14bmVEcHkycGxtMVcxeGNXTF94LTdYcDNBOWVRWnFnRVBXME9sYnoyWDhWdzdhRE8xNUlJYnR6VjhRUU8zVHM1d0dTMDlXOWIyS19pWGU3SW04UHJHV2N1R0oyeWgyT3FPZEhiMHFiaDJzZXRCWloxVFlVcEd4N1FPZ05lM3RhcTJCb2xxRlBsdUVDSUpYVUNoRWc?oc=5",
-     "fonte": "Crash MotoGP"
-    },
     {
      "titulo": "‘It’s why we can’t race’ - MotoGP tyre pressure rule labelled \"joke\" after German GP",
      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQamZ5SGJwQ2tNODBib2FBTXROX3NpQWVVZ0lja0t4S2VxMWVGS0ZRSVQ2aThxbXUwUUxXOHZIZk5LOWJqeVVCMGxzSWVzZFpjTXgyaThZTE5VcENkdnoyUjZ3LUgxdWx4LUpydmd2RG5UdmJ2NmNWYm1GWFQ0SWFGeTR0azZqNVNWNGNTWTVWT1JxOThySGh1V0Zqb1ZlZWlYM2owRUZtSUxCU3FXUUVtRklSOTltQzd6R01NUA?oc=5",
@@ -2264,22 +2259,27 @@
      "titulo": "“Really surprised” - Toprak Razgatlioglu compares Yamaha and Honda at Sachsenring MotoGP",
      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTEZQV3Q2NnR4Y19VRUVzanRkeWNnTzVxVkJXbEtnLUM5ZE1SUXpMQ3hCMld1QXozWU8wTzZ1Mko3NlZuSHhqVFpFUFJmdWJSdHoxSk90dVdXNkJNcTlMdU5GcWpiWG9IRzJxX21uZUhEb0hOQk5xWDJnQTdBclRZblBycWpEbTU2ZGNCSmt6ZlV1Y2Q1OFhMZ1U0Tk1Bemh3el84SU1wVWtPRmtMcjJqekpMR1JlOGNpa3c?oc=5",
      "fonte": "Crash MotoGP"
+    },
+    {
+     "titulo": "Pecco Bagnaia admits Ducati hasn’t solved unwelcome MotoGP issue all season",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNWdIRjN5bjROTGpLNkJGT25Dc0xVcDl0ZE9xTzhJYU14bmVEcHkycGxtMVcxeGNXTF94LTdYcDNBOWVRWnFnRVBXME9sYnoyWDhWdzdhRE8xNUlJYnR6VjhRUU8zVHM1d0dTMDlXOWIyS19pWGU3SW04UHJHV2N1R0oyeWgyT3FPZEhiMHFiaDJzZXRCWloxVFlVcEd4N1FPZ05lM3RhcTJCb2xxRlBsdUVDSUpYVUNoRWc?oc=5",
+     "fonte": "Crash MotoGP"
     }
    ]
   },
   {
    "tema": "Ducati",
-   "mencoes": 19,
+   "mencoes": 18,
    "materias": [
-    {
-     "titulo": "Pecco Bagnaia admits Ducati hasn’t solved unwelcome MotoGP issue all season",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNWdIRjN5bjROTGpLNkJGT25Dc0xVcDl0ZE9xTzhJYU14bmVEcHkycGxtMVcxeGNXTF94LTdYcDNBOWVRWnFnRVBXME9sYnoyWDhWdzdhRE8xNUlJYnR6VjhRUU8zVHM1d0dTMDlXOWIyS19pWGU3SW04UHJHV2N1R0oyeWgyT3FPZEhiMHFiaDJzZXRCWloxVFlVcEd4N1FPZ05lM3RhcTJCb2xxRlBsdUVDSUpYVUNoRWc?oc=5",
-     "fonte": "Crash MotoGP"
-    },
     {
      "titulo": "Veja moto de R$ 890 mil que Ducati trará ao BR",
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ05RX0pOWk94Z3lPVVA1Q1ByMmJjcUNMdjNHeXVkTDFVQ21oWDBzY0JtWVdsM1gwVXZocmY5XzRrUTUwRUdQcURkRV9tZUFvV3hGTzZMR0F2UGVsdjloeDcxYzJOd0dkM1NMTElabFRRTHFZZWhaS0lrd3Z1dnFoeDRXaTdrNjhMZHMwYUdKR0RZcHJIdkHSAZYBQVVfeXFMT2dOUV9KTlpPeGd5T1VQNUNQcjJiY3FDTHYzR3l1ZEwxVUNtaFgwc2NCbVlXbDNYMFV2aHJmOV80a1E1MEVHUHFEZEVfbWVBb1d4Rk82TEdBdlBlbHY5aHg3MWMyTndHZDNTTExJWmxUUUxxWWVoWktJa3d2dXZxaHg0V2k3azY4TGRzMGFHSkdEWXBySHZB?oc=5",
      "fonte": "Motonline"
+    },
+    {
+     "titulo": "Pecco Bagnaia admits Ducati hasn’t solved unwelcome MotoGP issue all season",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNWdIRjN5bjROTGpLNkJGT25Dc0xVcDl0ZE9xTzhJYU14bmVEcHkycGxtMVcxeGNXTF94LTdYcDNBOWVRWnFnRVBXME9sYnoyWDhWdzdhRE8xNUlJYnR6VjhRUU8zVHM1d0dTMDlXOWIyS19pWGU3SW04UHJHV2N1R0oyeWgyT3FPZEhiMHFiaDJzZXRCWloxVFlVcEd4N1FPZ05lM3RhcTJCb2xxRlBsdUVDSUpYVUNoRWc?oc=5",
+     "fonte": "Crash MotoGP"
     },
     {
      "titulo": "Marc Márquez wins the Sachsenring Sprint with the Ducati Lenovo Team. Bagnaia seventh at the flag",
@@ -2287,15 +2287,15 @@
      "fonte": "Ducati Corse"
     },
     {
-     "titulo": "Ducati.com - Dealer Locator",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdjQ1UEtBRmxiVnAwaEhLUGozWnBTS2RVbzNIVUtSeC04QmlXeFA0WEN5a29aNUt1blcxTk5MdDVDRm9iM0l4OWFIdFFQc2otLW9PNFpuRms1MDJzN0tEaUd6TmtwVjk2MjdMcHU5SVZiNTlmeVZKbkxOV3MwWE1DcGtTZUx1UQ?oc=5",
+     "titulo": "Ducati makes history: a record-breaking 22nd WorldSBK Manufacturers' title",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfSDhZbnd4WnNMZHNZdk1jRTk4Mmc4ckV4V0pMOFZtYUU3dzRWeUtla1daMFRLVmdkeFhobEY1dEpZcWlaMWk2X21sZVZxaXI3NmZWeFNybFpDaFNSMTVFdDlrWXYtZ21vcV93?oc=5",
      "fonte": "Ducati Corse"
     }
    ]
   },
   {
    "tema": "Yamaha",
-   "mencoes": 12,
+   "mencoes": 13,
    "materias": [
     {
      "titulo": "The Yamaha “motivation” Fabio Quartararo needs for his Honda MotoGP move",
@@ -2308,13 +2308,13 @@
      "fonte": "Crash MotoGP"
     },
     {
-     "titulo": "Monster Energy Yamaha MotoGP Secure P7 and P14 in Sachsenring Race",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZHBiV0JhdWVyVnR4c0JCSkM3QThBeVNLS3BmS0V3czRMclNWemlTd3d3MlYyVVFrQUVYN2p6N01EbkNrSHNMeGNId3NvUDRacGV0Y0hUcUwwdTZxYlVCR1RvUUd6Zm9yNzlUbm1TNmpoMTl0dHZqaTV0bEtrcFhURjkwQWVVVkhpWElFcUxRQVlqM0ZEOUtSWXBEVmhtcGZkeVVWQkYxc2xhd3MtbFE?oc=5",
-     "fonte": "Yamaha Racing"
+     "titulo": "Yamaha Crosser Wolverine 2026, Veja Preço E Ficha Técnica",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWGlQUE1mbFhEY2NqZnlTMlVuSjFMZktCWVJXRnJTT1cxb0JKTDBGVnMzZEpJX2FDdkNackJBdEh6alE1SXNtcnl4dlppTnBtRTFJRXk5N3VJbWNCcWw0WTlUS0hHUDZhLWZTZU03N08zdF9IRVVtUG1tYXhQemRSSw?oc=5",
+     "fonte": "MotoRede"
     },
     {
-     "titulo": "Gardner Fights Back to Finish 13th in Race 2 as GYTR GRT Yamaha Heads into the Summer Break",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUnJkbTNXMG1hYU1TX1YtcHdJLXZVWDV0T2xBTHRzRmFaQXdzUUVmUGNfVTJEcmhHZzZiQ01CbzFwaEtvQnhuaFlZMGlwSDRVZlR4VE1aQjBOSHF4UHNRbHZucjYxaG1seE5LaUVWcmpfTnItYWU3T1lRSHdHMG1wWkhFYXBFc1NhZFlmc0ZwVmNTVFhHOFAzck9CRXRSNE8wZjlZ?oc=5",
+     "titulo": "Monster Energy Yamaha MotoGP Secure P7 and P14 in Sachsenring Race",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZHBiV0JhdWVyVnR4c0JCSkM3QThBeVNLS3BmS0V3czRMclNWemlTd3d3MlYyVVFrQUVYN2p6N01EbkNrSHNMeGNId3NvUDRacGV0Y0hUcUwwdTZxYlVCR1RvUUd6Zm9yNzlUbm1TNmpoMTl0dHZqaTV0bEtrcFhURjkwQWVVVkhpWElFcUxRQVlqM0ZEOUtSWXBEVmhtcGZkeVVWQkYxc2xhd3MtbFE?oc=5",
      "fonte": "Yamaha Racing"
     }
    ]
@@ -2373,12 +2373,17 @@
   },
   {
    "tema": "Ktm",
-   "mencoes": 5,
+   "mencoes": 6,
    "materias": [
     {
      "titulo": "Rivals block KTM request to open up engines amid breakdown woes",
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMzhQUDJvMGtyeG42TEVIWmZUcnVTcVdVeTZDSzlwSV9ScnJUaXAzakdXd1ZNRTZoS1RmOWR3Y2pKYkcyUTFocVVZS3FZbktlZjc1TXNpazgxdlVpcGNTZVhVQ2JRX1lnN0RsTlNrY2hEUGxHTEhOa3dpWnlvYmtpYlltczRKQ2NIVlZmLUtVT0hoT3lLdllpd0V2LU1CV2pianV0YVVITFI0XzlKT281c0JfajZLQQ?oc=5",
      "fonte": "Motorsport.com"
+    },
+    {
+     "titulo": "Rivals block KTM request to open MotoGP engines due to breakdowns",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVW9BdWpaNWlkdWdtZDYyaEdHZE1tVWJldTQwTUdxMEJ0Rnkwa0tOSDVRT0JJODRKWXo5R2drcUdsRkxGX0Y4UEF6eHpBS1g5OFFNSmdIOGlOTHFqcmRCZXVlb0Zhc0VuRHdnejE2MGoxZUcwbklGUWZlaDRLUDJrUFlaSzNEaEs5WXpXZUFLUVkzOTRZZzdnWGkwc2ttQzZjdlJpeHVDdmtHbE11SUUwcQ?oc=5",
+     "fonte": "Autosport"
     },
     {
      "titulo": "KTM admits “there is something wrong inside our MotoGP engines”",
@@ -2388,11 +2393,6 @@
     {
      "titulo": "KTM Hired a MotoGP Rider, Then Fired, Then Hired Someone Else All Within a Week",
      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUGVKZzVUYXU3cEZrTG5SNmpiSFR3WGdjM0RXZnNrLWlMWDFGWjdKZDJUdHRvREdEaDNuVXJaTWVWZF9FZ0F3LWdmQjQ4dDdGdDl4X1RETU9kVXo3VlhkM3RJY0JFa3k2YnBydzUzUGJxMlNTUFBQNWpvQTFNa0NlakNtblpMNkxmUEJMNlR1ZmdFZzVz?oc=5",
-     "fonte": "RideApart"
-    },
-    {
-     "titulo": "KTM Unveils Its New Dual Sport Motorcycles. But They're basically Race Bikes With License Plates",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZUkwZTMxc194bjBQWVAzZmtVenp6SmVZaDhwUThHN1JhbXF3UWJqS0lJemJ5TjFvekhXUjZ3ZzFkWlFnZml1aGg4RG5LeW13Q0E4MEQ1d01sSk9XUldnajdURVJORTNpSl9LaFVDS2p1cXp3Tk1tcGxhR255WElDUTltZ3pNSWhaYUptN0ZfYy1ENExrX2hKNHNYX0ZhcE9i?oc=5",
      "fonte": "RideApart"
     }
    ]
@@ -2453,16 +2453,11 @@
  "pautas": [
   {
    "pauta": "Motogp",
-   "urgencia": "6 fontes / 48h",
-   "porque": "6 fontes publicaram sobre isso nas ultimas 48h.",
+   "urgencia": "5 fontes / 48h",
+   "porque": "5 fontes publicaram sobre isso nas ultimas 48h.",
    "furo": false,
-   "fontes": 6,
+   "fontes": 5,
    "materias": [
-    {
-     "titulo": "Pecco Bagnaia admits Ducati hasn’t solved unwelcome MotoGP issue all season",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNWdIRjN5bjROTGpLNkJGT25Dc0xVcDl0ZE9xTzhJYU14bmVEcHkycGxtMVcxeGNXTF94LTdYcDNBOWVRWnFnRVBXME9sYnoyWDhWdzdhRE8xNUlJYnR6VjhRUU8zVHM1d0dTMDlXOWIyS19pWGU3SW04UHJHV2N1R0oyeWgyT3FPZEhiMHFiaDJzZXRCWloxVFlVcEd4N1FPZ05lM3RhcTJCb2xxRlBsdUVDSUpYVUNoRWc?oc=5",
-     "fonte": "Crash MotoGP"
-    },
     {
      "titulo": "‘It’s why we can’t race’ - MotoGP tyre pressure rule labelled \"joke\" after German GP",
      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQamZ5SGJwQ2tNODBib2FBTXROX3NpQWVVZ0lja0t4S2VxMWVGS0ZRSVQ2aThxbXUwUUxXOHZIZk5LOWJqeVVCMGxzSWVzZFpjTXgyaThZTE5VcENkdnoyUjZ3LUgxdWx4LUpydmd2RG5UdmJ2NmNWYm1GWFQ0SWFGeTR0azZqNVNWNGNTWTVWT1JxOThySGh1V0Zqb1ZlZWlYM2owRUZtSUxCU3FXUUVtRklSOTltQzd6R01NUA?oc=5",
@@ -2477,25 +2472,30 @@
      "titulo": "“Really surprised” - Toprak Razgatlioglu compares Yamaha and Honda at Sachsenring MotoGP",
      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTEZQV3Q2NnR4Y19VRUVzanRkeWNnTzVxVkJXbEtnLUM5ZE1SUXpMQ3hCMld1QXozWU8wTzZ1Mko3NlZuSHhqVFpFUFJmdWJSdHoxSk90dVdXNkJNcTlMdU5GcWpiWG9IRzJxX21uZUhEb0hOQk5xWDJnQTdBclRZblBycWpEbTU2ZGNCSmt6ZlV1Y2Q1OFhMZ1U0Tk1Bemh3el84SU1wVWtPRmtMcjJqekpMR1JlOGNpa3c?oc=5",
      "fonte": "Crash MotoGP"
+    },
+    {
+     "titulo": "Pecco Bagnaia admits Ducati hasn’t solved unwelcome MotoGP issue all season",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNWdIRjN5bjROTGpLNkJGT25Dc0xVcDl0ZE9xTzhJYU14bmVEcHkycGxtMVcxeGNXTF94LTdYcDNBOWVRWnFnRVBXME9sYnoyWDhWdzdhRE8xNUlJYnR6VjhRUU8zVHM1d0dTMDlXOWIyS19pWGU3SW04UHJHV2N1R0oyeWgyT3FPZEhiMHFiaDJzZXRCWloxVFlVcEd4N1FPZ05lM3RhcTJCb2xxRlBsdUVDSUpYVUNoRWc?oc=5",
+     "fonte": "Crash MotoGP"
     }
    ]
   },
   {
    "pauta": "Ducati",
-   "urgencia": "4 fontes / 48h",
-   "porque": "4 fontes publicaram sobre isso nas ultimas 48h.",
+   "urgencia": "5 fontes / 48h",
+   "porque": "5 fontes publicaram sobre isso nas ultimas 48h.",
    "furo": false,
-   "fontes": 4,
+   "fontes": 5,
    "materias": [
-    {
-     "titulo": "Pecco Bagnaia admits Ducati hasn’t solved unwelcome MotoGP issue all season",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNWdIRjN5bjROTGpLNkJGT25Dc0xVcDl0ZE9xTzhJYU14bmVEcHkycGxtMVcxeGNXTF94LTdYcDNBOWVRWnFnRVBXME9sYnoyWDhWdzdhRE8xNUlJYnR6VjhRUU8zVHM1d0dTMDlXOWIyS19pWGU3SW04UHJHV2N1R0oyeWgyT3FPZEhiMHFiaDJzZXRCWloxVFlVcEd4N1FPZ05lM3RhcTJCb2xxRlBsdUVDSUpYVUNoRWc?oc=5",
-     "fonte": "Crash MotoGP"
-    },
     {
      "titulo": "Veja moto de R$ 890 mil que Ducati trará ao BR",
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ05RX0pOWk94Z3lPVVA1Q1ByMmJjcUNMdjNHeXVkTDFVQ21oWDBzY0JtWVdsM1gwVXZocmY5XzRrUTUwRUdQcURkRV9tZUFvV3hGTzZMR0F2UGVsdjloeDcxYzJOd0dkM1NMTElabFRRTHFZZWhaS0lrd3Z1dnFoeDRXaTdrNjhMZHMwYUdKR0RZcHJIdkHSAZYBQVVfeXFMT2dOUV9KTlpPeGd5T1VQNUNQcjJiY3FDTHYzR3l1ZEwxVUNtaFgwc2NCbVlXbDNYMFV2aHJmOV80a1E1MEVHUHFEZEVfbWVBb1d4Rk82TEdBdlBlbHY5aHg3MWMyTndHZDNTTExJWmxUUUxxWWVoWktJa3d2dXZxaHg0V2k3azY4TGRzMGFHSkdEWXBySHZB?oc=5",
      "fonte": "Motonline"
+    },
+    {
+     "titulo": "Pecco Bagnaia admits Ducati hasn’t solved unwelcome MotoGP issue all season",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNWdIRjN5bjROTGpLNkJGT25Dc0xVcDl0ZE9xTzhJYU14bmVEcHkycGxtMVcxeGNXTF94LTdYcDNBOWVRWnFnRVBXME9sYnoyWDhWdzdhRE8xNUlJYnR6VjhRUU8zVHM1d0dTMDlXOWIyS19pWGU3SW04UHJHV2N1R0oyeWgyT3FPZEhiMHFiaDJzZXRCWloxVFlVcEd4N1FPZ05lM3RhcTJCb2xxRlBsdUVDSUpYVUNoRWc?oc=5",
+     "fonte": "Crash MotoGP"
     },
     {
      "titulo": "Marc Márquez wins the Sachsenring Sprint with the Ducati Lenovo Team. Bagnaia seventh at the flag",
@@ -2503,8 +2503,8 @@
      "fonte": "Ducati Corse"
     },
     {
-     "titulo": "Ducati.com - Dealer Locator",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdjQ1UEtBRmxiVnAwaEhLUGozWnBTS2RVbzNIVUtSeC04QmlXeFA0WEN5a29aNUt1blcxTk5MdDVDRm9iM0l4OWFIdFFQc2otLW9PNFpuRms1MDJzN0tEaUd6TmtwVjk2MjdMcHU5SVZiNTlmeVZKbkxOV3MwWE1DcGtTZUx1UQ?oc=5",
+     "titulo": "Ducati makes history: a record-breaking 22nd WorldSBK Manufacturers' title",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfSDhZbnd4WnNMZHNZdk1jRTk4Mmc4ckV4V0pMOFZtYUU3dzRWeUtla1daMFRLVmdkeFhobEY1dEpZcWlaMWk2X21sZVZxaXI3NmZWeFNybFpDaFNSMTVFdDlrWXYtZ21vcV93?oc=5",
      "fonte": "Ducati Corse"
     }
    ]
@@ -2539,21 +2539,26 @@
    ]
   },
   {
-   "pauta": "Bagnaia",
-   "urgencia": "2 fontes / 48h",
-   "porque": "2 fontes publicaram sobre isso nas ultimas 48h.",
+   "pauta": "Ktm",
+   "urgencia": "3 fontes / 48h",
+   "porque": "3 fontes publicaram sobre isso nas ultimas 48h.",
    "furo": false,
-   "fontes": 2,
+   "fontes": 3,
    "materias": [
     {
-     "titulo": "Pecco Bagnaia admits Ducati hasn’t solved unwelcome MotoGP issue all season",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNWdIRjN5bjROTGpLNkJGT25Dc0xVcDl0ZE9xTzhJYU14bmVEcHkycGxtMVcxeGNXTF94LTdYcDNBOWVRWnFnRVBXME9sYnoyWDhWdzdhRE8xNUlJYnR6VjhRUU8zVHM1d0dTMDlXOWIyS19pWGU3SW04UHJHV2N1R0oyeWgyT3FPZEhiMHFiaDJzZXRCWloxVFlVcEd4N1FPZ05lM3RhcTJCb2xxRlBsdUVDSUpYVUNoRWc?oc=5",
-     "fonte": "Crash MotoGP"
+     "titulo": "Rivals block KTM request to open up engines amid breakdown woes",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMzhQUDJvMGtyeG42TEVIWmZUcnVTcVdVeTZDSzlwSV9ScnJUaXAzakdXd1ZNRTZoS1RmOWR3Y2pKYkcyUTFocVVZS3FZbktlZjc1TXNpazgxdlVpcGNTZVhVQ2JRX1lnN0RsTlNrY2hEUGxHTEhOa3dpWnlvYmtpYlltczRKQ2NIVlZmLUtVT0hoT3lLdllpd0V2LU1CV2pianV0YVVITFI0XzlKT281c0JfajZLQQ?oc=5",
+     "fonte": "Motorsport.com"
     },
     {
-     "titulo": "Marc Márquez wins the Sachsenring Sprint with the Ducati Lenovo Team. Bagnaia seventh at the flag",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWk5aeVlVaVhhTEV1NGhiMUZzZFlYeVdUWUVwQ1A1Ti1QTlNldDdJVXlKZDRudmxOeUFjMzREVkV5aDZobW01Z09tdTZxYmVQZmRrckcyODdhV2prTl9DMDZXS0VJXzZJTlY3eVY3MUlDZkVPZFhXRkZfSTlXd1U0YjVpeVRGN0F5QTdHYWVnQUNGeEhLYjc0ZDd3WjAyZ1NTQ1Y0UWpuQXhsWVRXamhzSW0tZElIY0hIcnBlRjB2alFiZDZKZkN0OFJn?oc=5",
-     "fonte": "Ducati Corse"
+     "titulo": "Rivals block KTM request to open MotoGP engines due to breakdowns",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVW9BdWpaNWlkdWdtZDYyaEdHZE1tVWJldTQwTUdxMEJ0Rnkwa0tOSDVRT0JJODRKWXo5R2drcUdsRkxGX0Y4UEF6eHpBS1g5OFFNSmdIOGlOTHFqcmRCZXVlb0Zhc0VuRHdnejE2MGoxZUcwbklGUWZlaDRLUDJrUFlaSzNEaEs5WXpXZUFLUVkzOTRZZzdnWGkwc2ttQzZjdlJpeHVDdmtHbE11SUUwcQ?oc=5",
+     "fonte": "Autosport"
+    },
+    {
+     "titulo": "KTM admits “there is something wrong inside our MotoGP engines”",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNS3RXZ2h4N1V3X0QwelB0TmZ6aVFvSjBaY0RxS18wOVYyLXlQcVhlOWNfak1BSlNvZ0VTbkJDVHM0WGU1UnluZTJ5X3AwN3VLQks5UEtxWTA5Mzh2R3dSTTlIQnFDM3h2VkxXWW80aGRXaEdvV2x0TkdKYTVzNXlYRzU2RnZVSTFzTWNPdzlXVHM0Nkw0bDZmVkZUbEVkVnZNQ1hUZA?oc=5",
+     "fonte": "Crash MotoGP"
     }
    ]
   },
@@ -2587,21 +2592,45 @@
    ]
   },
   {
-   "pauta": "Ktm",
+   "pauta": "Yamaha",
    "urgencia": "2 fontes / 48h",
    "porque": "2 fontes publicaram sobre isso nas ultimas 48h.",
    "furo": false,
    "fontes": 2,
    "materias": [
     {
-     "titulo": "Rivals block KTM request to open up engines amid breakdown woes",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMzhQUDJvMGtyeG42TEVIWmZUcnVTcVdVeTZDSzlwSV9ScnJUaXAzakdXd1ZNRTZoS1RmOWR3Y2pKYkcyUTFocVVZS3FZbktlZjc1TXNpazgxdlVpcGNTZVhVQ2JRX1lnN0RsTlNrY2hEUGxHTEhOa3dpWnlvYmtpYlltczRKQ2NIVlZmLUtVT0hoT3lLdllpd0V2LU1CV2pianV0YVVITFI0XzlKT281c0JfajZLQQ?oc=5",
-     "fonte": "Motorsport.com"
+     "titulo": "The Yamaha “motivation” Fabio Quartararo needs for his Honda MotoGP move",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVnVheG96dTZUZ2ZHakVZbTdXeG9lNHplYkpLOVR5a1VsQTJxbm5nTDNidVFYNWp2RVR2d3NUWWp1eWFpaHFJOUQ1dU44Q0U1U3llUUFKLVhBS1p5MVpoOWJKWjRvNG1zUjZhbkZDM1ZIa1RwNUJkNThtTDVlb2ZlVFZfcjlMd0RuR3pFc1Z1Z1h3ODRzWnR5UEx3eGNnYkpBTm5zck9XTUFFQQ?oc=5",
+     "fonte": "Crash MotoGP"
     },
     {
-     "titulo": "KTM admits “there is something wrong inside our MotoGP engines”",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNS3RXZ2h4N1V3X0QwelB0TmZ6aVFvSjBaY0RxS18wOVYyLXlQcVhlOWNfak1BSlNvZ0VTbkJDVHM0WGU1UnluZTJ5X3AwN3VLQks5UEtxWTA5Mzh2R3dSTTlIQnFDM3h2VkxXWW80aGRXaEdvV2x0TkdKYTVzNXlYRzU2RnZVSTFzTWNPdzlXVHM0Nkw0bDZmVkZUbEVkVnZNQ1hUZA?oc=5",
+     "titulo": "“Really surprised” - Toprak Razgatlioglu compares Yamaha and Honda at Sachsenring MotoGP",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTEZQV3Q2NnR4Y19VRUVzanRkeWNnTzVxVkJXbEtnLUM5ZE1SUXpMQ3hCMld1QXozWU8wTzZ1Mko3NlZuSHhqVFpFUFJmdWJSdHoxSk90dVdXNkJNcTlMdU5GcWpiWG9IRzJxX21uZUhEb0hOQk5xWDJnQTdBclRZblBycWpEbTU2ZGNCSmt6ZlV1Y2Q1OFhMZ1U0Tk1Bemh3el84SU1wVWtPRmtMcjJqekpMR1JlOGNpa3c?oc=5",
      "fonte": "Crash MotoGP"
+    },
+    {
+     "titulo": "Yamaha Crosser Wolverine 2026, Veja Preço E Ficha Técnica",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWGlQUE1mbFhEY2NqZnlTMlVuSjFMZktCWVJXRnJTT1cxb0JKTDBGVnMzZEpJX2FDdkNackJBdEh6alE1SXNtcnl4dlppTnBtRTFJRXk5N3VJbWNCcWw0WTlUS0hHUDZhLWZTZU03N08zdF9IRVVtUG1tYXhQemRSSw?oc=5",
+     "fonte": "MotoRede"
+    }
+   ]
+  },
+  {
+   "pauta": "Bagnaia",
+   "urgencia": "2 fontes / 48h",
+   "porque": "2 fontes publicaram sobre isso nas ultimas 48h.",
+   "furo": false,
+   "fontes": 2,
+   "materias": [
+    {
+     "titulo": "Pecco Bagnaia admits Ducati hasn’t solved unwelcome MotoGP issue all season",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNWdIRjN5bjROTGpLNkJGT25Dc0xVcDl0ZE9xTzhJYU14bmVEcHkycGxtMVcxeGNXTF94LTdYcDNBOWVRWnFnRVBXME9sYnoyWDhWdzdhRE8xNUlJYnR6VjhRUU8zVHM1d0dTMDlXOWIyS19pWGU3SW04UHJHV2N1R0oyeWgyT3FPZEhiMHFiaDJzZXRCWloxVFlVcEd4N1FPZ05lM3RhcTJCb2xxRlBsdUVDSUpYVUNoRWc?oc=5",
+     "fonte": "Crash MotoGP"
+    },
+    {
+     "titulo": "Marc Márquez wins the Sachsenring Sprint with the Ducati Lenovo Team. Bagnaia seventh at the flag",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWk5aeVlVaVhhTEV1NGhiMUZzZFlYeVdUWUVwQ1A1Ti1QTlNldDdJVXlKZDRudmxOeUFjMzREVkV5aDZobW01Z09tdTZxYmVQZmRrckcyODdhV2prTl9DMDZXS0VJXzZJTlY3eVY3MUlDZkVPZFhXRkZfSTlXd1U0YjVpeVRGN0F5QTdHYWVnQUNGeEhLYjc0ZDd3WjAyZ1NTQ1Y0UWpuQXhsWVRXamhzSW0tZElIY0hIcnBlRjB2alFiZDZKZkN0OFJn?oc=5",
+     "fonte": "Ducati Corse"
     }
    ]
   }
@@ -3052,9 +3081,9 @@
  ],
  "marca": {
   "ga4": {
-   "sessions": 457015,
-   "users": 450872,
-   "updated_at": "2026-07-13T18:18:39Z"
+   "sessions": 457119,
+   "users": 450967,
+   "updated_at": "2026-07-13T20:00:57Z"
   }
  },
  "pesado_em": "2026-07-11T10:36:53Z",
