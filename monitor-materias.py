@@ -359,6 +359,42 @@ def apify_call(actor, payload, token, timeout=300):
         return json.loads(r.read())
 
 
+def _embutir_thumbs(items, largura=320, max_kb=120):
+    """Baixa as thumbs do IG e embute como data URI base64 no proprio JSON.
+    Motivo: boa parte das URLs assinadas que o Apify devolve e presa a sessao/IP
+    do scraper; no navegador do usuario ~2/3 delas dao 403 e o card fica sem
+    imagem. Aqui no runner elas carregam, entao baixamos na hora. Com Pillow
+    redimensiona pra ~320px (JSON fica ~2-3MB); sem Pillow embute o original
+    ate max_kb. Falhou o download? Mantem a URL original como estava."""
+    try:
+        from PIL import Image as PILImage
+        import io
+        tem_pil = True
+    except Exception:
+        tem_pil = False
+    import base64
+    ok = 0
+    for it in items:
+        u = it.get('thumb') or ''
+        if not u.startswith('http'):
+            continue
+        try:
+            raw = fetch(u, timeout=15)
+            if tem_pil:
+                im = PILImage.open(io.BytesIO(raw)).convert('RGB')
+                if im.width > largura:
+                    im = im.resize((largura, int(im.height * largura / im.width)))
+                buf = io.BytesIO()
+                im.save(buf, 'JPEG', quality=70)
+                raw = buf.getvalue()
+            if len(raw) <= max_kb * 1024:
+                it['thumb'] = 'data:image/jpeg;base64,' + base64.b64encode(raw).decode('ascii')
+                ok += 1
+        except Exception:
+            pass   # mantem a URL original; o front ja lida com imagem quebrada
+    print(f'[thumbs] {ok}/{len(items)} embutidas em base64 (pillow={tem_pil})')
+
+
 def apify_instagram(data):
     """Posts recentes do Instagram dos concorrentes + seguidores da Duas Rodas."""
     token = os.environ.get('APIFY_TOKEN')
@@ -389,7 +425,9 @@ def apify_instagram(data):
                 'ts': _data_ig(p.get('timestamp')),
             })
         items.sort(key=lambda x: x.get('ts') or '', reverse=True)
-        data['instagram'] = items[:250]
+        items = items[:250]
+        _embutir_thumbs(items)
+        data['instagram'] = items
         if dr_caps:
             caps = ' '.join(dr_caps)
             termos = sorted({m.group(0).title() for m in TERMOS.finditer(caps)})

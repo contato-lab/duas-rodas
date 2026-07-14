@@ -17,6 +17,9 @@ jobs:
         with:
           python-version: '3.12'
 
+      - name: Pillow (redimensiona thumbs do IG pra embutir em base64)
+        run: pip install --quiet pillow
+
       - name: Varredura de materias e tendencias
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
