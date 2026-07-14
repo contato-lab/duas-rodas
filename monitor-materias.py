@@ -31,12 +31,22 @@ DUAS_RODAS_IG = os.environ.get('DUAS_RODAS_IG', 'duasrodasbr')        # @ oficia
 DUAS_RODAS_SITE = os.environ.get('DUAS_RODAS_SITE', 'https://www.revistaduasrodas.com.br/')
 
 
-def _janela_pesada():
-    """As partes que custam (Apify=Instagram, Claude=IA) rodam so ~3x/dia: 07h, 13h e 19h BRT.
-    O Google News (gratis) continua de hora em hora. Disparo manual sempre roda tudo (FORCE_PESADO)."""
+def _janela_pesada(prev):
+    """As partes que custam (Apify=Instagram, Claude=IA) rodam ~1x/dia.
+    NAO usa hora fixa: o agendador do GitHub atrasa/pula horarios (na pratica a
+    janela das 10h UTC ficou 14 dias sem cair em nenhum run, congelando o IG).
+    Regra nova: roda quando a ultima rodada pesada tem mais de 20h, em qualquer
+    horario que o cron consiga executar. Disparo manual sempre roda (FORCE_PESADO)."""
     if os.environ.get('FORCE_PESADO'):
         return True
-    return AGORA.hour in (10,)   # UTC -> 07h BRT (1x/dia; IG/furos nao mudam intraday, segura o custo)
+    ultimo = (prev or {}).get('pesado_em') or ''
+    if not ultimo:
+        return True
+    try:
+        dt = datetime.strptime(ultimo, '%Y-%m-%dT%H:%M:%SZ').replace(tzinfo=timezone.utc)
+    except Exception:
+        return True
+    return (AGORA - dt) >= timedelta(hours=20)
 
 # ───────────────────────── FONTES MONITORADAS ─────────────────────────
 # nome, instagram (sem @), site, escopo, tier
@@ -457,7 +467,7 @@ def main():
 
     marca_ga4(data)   # le arquivo local (ga4-data.json), sem custo, roda sempre
 
-    pesado = _janela_pesada()
+    pesado = _janela_pesada(prev)
     if pesado:
         apify_instagram(data)            # Instagram dos concorrentes + seguidores/posts Duas Rodas
         drt = data.pop('_dr_post_termos', None)
