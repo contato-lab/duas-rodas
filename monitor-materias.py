@@ -59,6 +59,18 @@ FONTES = [
     ('Motorrad', 'motorradonline', 'https://www.motorradonline.de/', 'Global', 'Mundo'),
     ('Motorcyclist', 'motorcyclistonline', 'https://www.motorcyclistonline.com/', 'Global', 'Mundo'),
     ('Visordown', 'visordown', 'https://www.visordown.com/', 'Global', 'Mundo'),
+    # Mundo - lista complementar (doc Sites_internacionais, 14/07/2026). IG vazio de
+    # proposito: o Apify so pega os 30 primeiros handles e adicionar IG aqui
+    # deslocaria fontes que ja sao monitoradas no Instagram.
+    ('Cycle News', '', 'https://www.cyclenews.com/', 'Global', 'Mundo'),
+    ('Motorcycle Daily', '', 'https://www.motorcycledaily.com/', 'Global', 'Mundo'),
+    ('RevZilla Common Tread', '', 'https://www.revzilla.com/common-tread', 'Global', 'Mundo'),
+    ('IAMABIKER', '', 'https://www.iamabiker.com/', 'Global', 'Mundo'),
+    ('MoreBikes', '', 'https://www.morebikes.co.uk/', 'Global', 'Mundo'),
+    ('The Moto Globe', '', 'https://www.themotoglobe.com/', 'Global', 'Mundo'),
+    ('Motorcycle Daily News', '', 'https://motorcycledailynews.com/', 'Global', 'Mundo'),
+    ('WebBikeWorld', '', 'https://www.webbikeworld.com/', 'Global', 'Mundo'),
+    ('ADVMoto', '', 'https://adventuremotorcycle.com/', 'Global', 'Mundo'),
     # MotoGP / Corrida (oficiais)
     ('MotoGP', 'motogp', 'https://www.motogp.com/', 'Global', 'Corrida'),
     ('WorldSBK (Superbike)', 'worldsbk', 'https://www.worldsbk.com/', 'Global', 'Corrida'),
