@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-02T15:31:40Z",
+ "updated_at": "2026-08-02T17:28:08Z",
  "fontes_monitoradas": [
   {
    "nome": "Grid Motors",
@@ -410,6 +410,16 @@
  ],
  "materias": [
   {
+   "titulo": "- ridermagazine.com",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9QS3F6aVowdmNMX2RkWG9rbzI0REltVzFhdDlsN0EwYm1mZjd5dl9UVElROWtMaC1idUpXVUFTQWhJNjhwQktfQThGSFI?oc=5",
+   "fonte": "Rider Magazine",
+   "ig": "ridermag",
+   "escopo": "Global",
+   "tier": "Generalista",
+   "dominio": "ridermagazine.com",
+   "ts": "2026-08-02T15:30:35Z"
+  },
+  {
    "titulo": "Instant Vinales/KTM MotoGP split would be best all round",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTGVtMENIbFp1VFppR042VG5jUTBFSHNRTEVKbDE1dFI0VVZXNGpWandUX0xsQ0tmSlhWbzlyRDZYcWpNN3F3SDhqR1A5Z1RVOE1oTEZJZ2YybDQ2a29QVENoVVB2RExOMVY2V3QzMkhteXB4cXZqbHpvUHkwMnZaRjNkQmtDNURnMXI5aV9xX3RFb0k?oc=5",
    "fonte": "The Race MotoGP",
@@ -420,16 +430,6 @@
    "ts": "2026-08-02T14:11:16Z"
   },
   {
-   "titulo": "KTM reportedly considering axing Maverick Vinales before British MotoGP",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUTVwaEtuMW5nejBxM0kzbDdGM3l3dk84WDk4QnNtV182bG5wdXN5UXV6V1FzbGxKWmdhdUR0SDd2SF9scFh3N0JZV0p6SFF1VnB0MWNUSzBzV09saC1GZzVCdF82blFxQnV4dTAwOXd4ZTM1TlBTeEN3YjBhVG5iaE44NXduV1pFU3c0UXE1eVpreGpXZVhPeEVkaDJDcFl6aVE4QlktOWlKaU5r?oc=5",
-   "fonte": "Crash MotoGP",
-   "ig": "crashmotogp_",
-   "escopo": "Global",
-   "tier": "Corrida",
-   "dominio": "crash.net",
-   "ts": "2026-08-02T13:10:16Z"
-  },
-  {
    "titulo": "KTM might drop Vinales with immediate effect",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSTFZWUs3WXp6T01qR05feE9nOTBzMHl0bE05clJLcVBld0Q4VEhFSUkwWkEwbEtFa1BlTDg0blhoUmw4OUd6M0prSWZ6aGJwMktRN0FhSWxCSml0WDNNNURoVS1qQTR2dGpwZGItZlFKeUxXcjF4d3RFUmxPc05lYkxxa25FSG5URUZVVlFvTkpLUUZyd29jdDhqVEZZaXo2NTJn?oc=5",
    "fonte": "Autosport",
@@ -438,6 +438,26 @@
    "tier": "Generalista",
    "dominio": "autosport.com",
    "ts": "2026-08-02T12:48:21Z"
+  },
+  {
+   "titulo": "Scheib registra melhor volta no fim e lidera warm-up da GP1000 by Motul",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMm90akNCQlhNNndUUVJFSFFFNHJTVnRPbWJhczZSYnUtb0tNb24wZ1hrUXVPRUZhU2k2SmhXNVVUejk0NkJDeUNnVHIwUWdNaHh1RWlQYWZVY2Jxam10N21LaVVZc3NuYzZLQUdxTUotaWpkTVA0RjZodHNNRjlpQUltSDFIS3pMT0FOTnBCT1ZSZW4tbk53?oc=5",
+   "fonte": "MOTO1000GP",
+   "ig": "moto1000gp",
+   "escopo": "Brasil",
+   "tier": "Corrida",
+   "dominio": "m1gp.com.br",
+   "ts": "2026-08-02T12:39:00Z"
+  },
+  {
+   "titulo": "KTM reportedly considering axing Maverick Vinales before British MotoGP",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUTVwaEtuMW5nejBxM0kzbDdGM3l3dk84WDk4QnNtV182bG5wdXN5UXV6V1FzbGxKWmdhdUR0SDd2SF9scFh3N0JZV0p6SFF1VnB0MWNUSzBzV09saC1GZzVCdF82blFxQnV4dTAwOXd4ZTM1TlBTeEN3YjBhVG5iaE44NXduV1pFU3c0UXE1eVpreGpXZVhPeEVkaDJDcFl6aVE4QlktOWlKaU5r?oc=5",
+   "fonte": "Crash MotoGP",
+   "ig": "crashmotogp_",
+   "escopo": "Global",
+   "tier": "Corrida",
+   "dominio": "crash.net",
+   "ts": "2026-08-02T11:59:05Z"
   },
   {
    "titulo": "KTM making plans to drop Maverick Vinales with immediate effect",
@@ -458,6 +478,16 @@
    "tier": "Corrida",
    "dominio": "crash.net",
    "ts": "2026-08-02T10:00:00Z"
+  },
+  {
+   "titulo": "Brits say Skyfall has the greatest motorcycle movie scene of the 21st century, but did they get it right?",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOU1hPaW1pUnNHZ0JLTEZrZW1Ta1VMajJXTHlaT1JoQ3VoTV9RRS1JLUtRa0FJOUl5XzI5X2pOQlJ1am5EWngwbk41WUlVOTFyc21rWXhQejZjOUczSmNYWHlUZnpoYWpOd0xpVU56YmNZVnVlQ3FOVC11bkM1Ym5mWWswcGJOd1RIb1JjVW5fLU1VUUJadlRPd1l6dXA2aHhwRk9LdjIwck5FWTN6VHpUOTROM09UcWt0bUZN?oc=5",
+   "fonte": "Visordown",
+   "ig": "visordown",
+   "escopo": "Global",
+   "tier": "Mundo",
+   "dominio": "visordown.com",
+   "ts": "2026-08-02T09:00:00Z"
   },
   {
    "titulo": "How a Jack Miller MotoGP departure could affect Alvaro Bautista",
@@ -498,6 +528,16 @@
    "tier": "Brasil",
    "dominio": "motonline.com.br",
    "ts": "2026-08-02T07:27:31Z"
+  },
+  {
+   "titulo": "Competições - Motonline",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Hdm84d05ibTVUTng2eU4tdW5lVVM1YjgzTW00Wl9fWllUS2dWR3BscHl5RFowZWt2V1FKTUtYdmZBZzBiaVJqRXM3SEhtYkpXdXVXNy1GN0VqOFFIcW1qUEltVk4?oc=5",
+   "fonte": "Motonline",
+   "ig": "motonline",
+   "escopo": "Brasil",
+   "tier": "Brasil",
+   "dominio": "motonline.com.br",
+   "ts": "2026-08-02T07:26:43Z"
   },
   {
    "titulo": "Enduro - Motonline",
@@ -550,14 +590,14 @@
    "ts": "2026-08-02T06:51:06Z"
   },
   {
-   "titulo": "Competições - Motonline",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBpaFBhT1dhTkxhd21kZFo3SU91dXVfRFREYWw2dDdSOGRYQUlTUHQ5bDhLbEhlOXlzM1lRNGNJbjRGVXNfbXRvVFNXU2NBMEthWjJsWGFaVDdPMEpKbWZmQTBWOA?oc=5",
+   "titulo": "Página 998 de 1480 - Principais Notícias sobre Lançamentos de Motos, Testes, Avaliações, Eventos, Competições e Muito Mais. Desde 1999, o mais completo site de Motos do Brasil!",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA5TGdLeWJKdUhDQlhXaUUyMTFGVG1WMTJDWjRhSFpjODBDejd3bktiVzdyUWl2b3phTFQ2SzY3WVBMUFZxUjRUY0ZWcjdmWEFrSE5BXw?oc=5",
    "fonte": "Motonline",
    "ig": "motonline",
    "escopo": "Brasil",
    "tier": "Brasil",
    "dominio": "motonline.com.br",
-   "ts": "2026-08-02T06:30:42Z"
+   "ts": "2026-08-02T06:30:36Z"
   },
   {
    "titulo": "Story - Página 41 de 158",
@@ -568,6 +608,26 @@
    "tier": "Brasil",
    "dominio": "motonline.com.br",
    "ts": "2026-08-02T06:29:10Z"
+  },
+  {
+   "titulo": "MotoGP, Goodwood Festival of Speed 2026: proof that heaven exists!",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNnNyTkMxYkttaVJGd25FTkxzTGc0UmdNZHVtYjVoVUh5SU43RmR3VHQzRDE5U09FNGYxaUtoeld1QjJnU0x2ck1rdXJjU3lUaG5WdmlJcG8tQkZUeGZZOVg2QVZyTzlubVZOc1lGVXhlYmp6Z21yX2czbXlPV2NvemJ1UE1kMER1V05VczJxZjA0eG5mQkpmTE44X2gzRDd1VHhWUFpHQQ?oc=5",
+   "fonte": "GPOne",
+   "ig": "gponedotcom",
+   "escopo": "Global",
+   "tier": "Corrida",
+   "dominio": "gpone.com",
+   "ts": "2026-08-02T06:05:50Z"
+  },
+  {
+   "titulo": "2026 Mid-Ohio MotoAmerica Results",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNa09OakYzSDBfLVpoQ0U1RUlQcjFKNEE5SDFQMldMZkxsYXlXbzhvTXRHblQtaV9ERTNNNllFc1lFYV9RT2FBdHRVSW5ieEItbUg4WFRZd1h3cHgwbWp1Q2hiWGh2MUxEQUZZSmVPZVN3MUdpVnFrZ1k0cFhMRk9mM21B?oc=5",
+   "fonte": "Cycle News",
+   "ig": "",
+   "escopo": "Global",
+   "tier": "Mundo",
+   "dominio": "cyclenews.com",
+   "ts": "2026-08-02T02:08:18Z"
   },
   {
    "titulo": "Passenger seat Streetfighter V2",
@@ -658,16 +718,6 @@
    "tier": "Corrida",
    "dominio": "m1gp.com.br",
    "ts": "2026-08-01T19:15:00Z"
-  },
-  {
-   "titulo": "Página 251 de 1480 - Principais Notícias sobre Lançamentos de Motos, Testes, Avaliações, Eventos, Competições e Muito Mais. Desde 1999, o mais completo site de Motos do Brasil!",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1JTl9QU2xoSUZBV1ZsNVdFN2UxalNVdDRvdG1wOXROaWtPM01ucjZBQjRXbkpLajJ6eDBMS1ZzNXF4QU1BczJYYk1YZzJkXzV1TnJEMw?oc=5",
-   "fonte": "Motonline",
-   "ig": "motonline",
-   "escopo": "Brasil",
-   "tier": "Brasil",
-   "dominio": "motonline.com.br",
-   "ts": "2026-08-01T18:51:58Z"
   },
   {
    "titulo": "GP Light: David Portuga lidera classificatórios e conquista a pole em Cascavel",
@@ -840,17 +890,7 @@
    "ts": "2026-07-31T21:35:20Z"
   },
   {
-   "titulo": "MCN | Author | Page 18",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9OVlJabzk1ZUZZdXU4MVdCT3RIWTAzeHVmZnRxdXZYRFdESzZkUFBQTkpKM3ZYWG9kbDV2UE1tNS11NVJ4VG50eEZGLVhaRllodFQ4UGZKc1dsV1NiRk1R?oc=5",
-   "fonte": "Motorcycle News (MCN)",
-   "ig": "motorcyclenews",
-   "escopo": "Global",
-   "tier": "Mundo",
-   "dominio": "motorcyclenews.com",
-   "ts": "2026-07-31T21:30:59Z"
-  },
-  {
-   "titulo": "Lifestyle - ducati.com",
+   "titulo": "Lifestyle - Ducati",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DX3p1M05oSkxDbUJ1cXRGWmpZcGQwWmhadFZDRjJ5NEdibHNCMmdzTkFoUkJseURxNFZDaEpLRWJSMjhHeGpfTHd2TDBqTXB6aTl4V01yMVplZw?oc=5",
    "fonte": "Ducati Corse",
    "ig": "ducaticorse",
@@ -860,7 +900,7 @@
    "ts": "2026-07-31T20:43:34Z"
   },
   {
-   "titulo": "Bikes & Beyond - ducati.com",
+   "titulo": "Bikes & Beyond - Ducati",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBmOFpBRU42cFNqMW5FUXE1c0MzQUZYTXJtcWRFQXl2bTZwU2ZSYU85bmVyY2pFQ1I1cDhTdjlqM2x3YkdIRmRyQXFDTXYybnJ1cnU1c0pZRHYzM0hBZjhtalVsYw?oc=5",
    "fonte": "Ducati Corse",
    "ig": "ducaticorse",
@@ -878,16 +918,6 @@
    "tier": "Corrida",
    "dominio": "ducati.com",
    "ts": "2026-07-31T20:41:53Z"
-  },
-  {
-   "titulo": "GP1000 by Motul: Eric Granado lidera disputa apertada em Cascavel",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNc1RDTnZLbzVPYmtLS2hPelFJWnQ1c01taTJpWnRYUWFKOS1MclB6eDJHYjFsbVJKQkdTN3N6SV9UbUtWZEhTTWphTzNpdXZBMENEYmtjVHBHNFBMOUdnUWNzVEtCS1VoMEUzb1BjWEJHUngxOTgxaDhIOHJ6U0pPa0dLcnVuQU05UXV0ZWNB?oc=5",
-   "fonte": "MOTO1000GP",
-   "ig": "moto1000gp",
-   "escopo": "Brasil",
-   "tier": "Corrida",
-   "dominio": "m1gp.com.br",
-   "ts": "2026-07-31T20:33:00Z"
   },
   {
    "titulo": "register - WorldSBK",
@@ -930,16 +960,6 @@
    "ts": "2026-07-31T19:37:00Z"
   },
   {
-   "titulo": "Daytona 660 Cup: João Carneiro encerra sexta-feira na frente",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZmlyNXllTmV1OWJXeWY3dk1UNVR5V29PdHRwRG81SlVfaHNJSUg0TzkwNXVwYVBjWDEwM1RGX3dPYzMxMF9fZzJQMWZqeGRWT0s1ZUxHclltdVhsMW04NlFEdG9vV2w1SktxYzBxV29IeDZfU2FXV0tjVUpSZGg2SVJGX3M0aEk?oc=5",
-   "fonte": "MOTO1000GP",
-   "ig": "moto1000gp",
-   "escopo": "Brasil",
-   "tier": "Corrida",
-   "dominio": "m1gp.com.br",
-   "ts": "2026-07-31T19:32:00Z"
-  },
-  {
    "titulo": "Moto - News, Michelin Power Days 2026: Over 850 motorcyclists on track",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZW1WTnRHNjZzYWVZMjlGZWZDTEs4NzBSeU5aNkRILThacG5icFlrYVNPSGlJaVd5NC1DYklmSXR5ZXhiNE1GODA1VUdSa0lmRExFNFM2SFVYZFhEWEhGSGZoM3lIbXRqV2lXUy1keHlqZWlmaGxQdGlpRWFJNlR5d1U4Q0sxNHBEMXplNDFua2ROZ2dXdld0QXlBd28wZzI0T2d4TmhaemozNGc?oc=5",
    "fonte": "GPOne",
@@ -958,16 +978,6 @@
    "tier": "Mundo",
    "dominio": "bennetts.co.uk",
    "ts": "2026-07-31T19:04:31Z"
-  },
-  {
-   "titulo": "Flashback Friday: Bike EXIF’s Top 10 Harley-Davidson Customs of 2024",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB0NFRPX2FuVnFYNFZ5TjRTMXJqeWRCYlNGbVh5OGZJRzBnb0d2QVhBM3BLNzJUTncxOVBYV0YzNFdFYTN4ZU9YbGdTUXpKdEc2b1lqMkNIZkdMVHZrdEhHcTZZbzlZd01ENDhtWg?oc=5",
-   "fonte": "Bike EXIF",
-   "ig": "bikeexif",
-   "escopo": "Global",
-   "tier": "Mundo",
-   "dominio": "bikeexif.com",
-   "ts": "2026-07-31T18:00:00Z"
   },
   {
    "titulo": "Honda reveal fresh 10-strong line-up in India amid increased production focus in the country",
@@ -1070,16 +1080,6 @@
    "ts": "2026-07-31T12:51:47Z"
   },
   {
-   "titulo": "Indian Motorcycles Will Kill A Host of Its Confusing Scout Lineup",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaXR3MXRibm5zY1FUVjlfcnBqTnZZV1dXVmNTQjMyWThSSVYzaFo5VjZCVy04X0dMYndYVlA3dGxpLWtXZUlnd1BzTVFmOUpzUEVfVUZ5aEdyLU1HV2tvbDMyWHU5NWgtMm9NT3lOemp5Q29jR1BOSlYyQzd4RjVhRHBMa2tjUDl1RmlCRG10N1lMYkE?oc=5",
-   "fonte": "RideApart",
-   "ig": "rideapart",
-   "escopo": "Global",
-   "tier": "Mundo",
-   "dominio": "rideapart.com",
-   "ts": "2026-07-31T12:39:00Z"
-  },
-  {
    "titulo": "Nova Honda Tornado 2027 Na Cor Preta (Black), Veja Fotos E Preço Da XR300L",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xSmgxWDkyUUNlWWVUYmx1LUZHc29UZjFWZHN3NW1Cejh3VlpkMXNxQURpY0RLT2tWZWhkanVxX2hFVDNRcXN4M213ejBnUGNtTmVLcnloRnRzVEJ3SGxBZkZIN09VYkVVbVo0?oc=5",
    "fonte": "MotoRede",
@@ -1140,7 +1140,7 @@
    "ts": "2026-07-31T07:00:00Z"
   },
   {
-   "titulo": "Gajser Fights to Fourth at MXGP of Flanders as Reisulis Brothers Recover to Sixth and Seventh",
+   "titulo": "Gajser Fights to Fourth at MXGP of Flanders as Reisulis Brothers Recover to Sixth and Seventh - yamaha",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNc1dtQUFuWmhJaUxmLVY0SjBqY2RnTjNiNWlBdnpwVjdmX3BudkV4WFVaUHNRYjh3SmFSWTFZZTR2Q2tIMEl6Q29oUjdzbGdSVmZLNk9hdnB0akpoSHVMaThXNFhGNXV4b3NtUkhnNkdORVk3RS1ZMUtvTklaZW5CazFDVk9HWmR0Y3NRLUVVZWdwLV9vTmJ6a3lZblgydnhUOFJVcWFRcEJLY1hmMTh3?oc=5",
    "fonte": "Yamaha Racing",
    "ig": "yamaharacingcomofficial",
@@ -1198,16 +1198,6 @@
    "tier": "Generalista",
    "dominio": "ridermagazine.com",
    "ts": "2026-07-30T18:00:55Z"
-  },
-  {
-   "titulo": "MotoGP, Misano: Bezzecchi returns to the track for the first time since his surgery",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNWNDbnp1M0NRSF85RHVsNFMwdU1xZjRPNnE4NTJPOGh6ZXNnUGR4N0Eyam5fZ1RORGYzNHJMOXZkZVIyS2E4ZmM3UlpYNWpOdnI3ZkEzYk1qeTVzZERkTlI0S1VfbEZvV0ZWbUtBWFBFUmNLalpORkQzSnJwTm9UeklWc3h2V2FxNEpsbFJkRmx2eW55LS12SnZKY2tBUHVXWkZtb0ZUczVoSlFlcUluTkIxdkFMS05vOVh1OEoyRQ?oc=5",
-   "fonte": "GPOne",
-   "ig": "gponedotcom",
-   "escopo": "Global",
-   "tier": "Corrida",
-   "dominio": "gpone.com",
-   "ts": "2026-07-30T17:30:40Z"
   },
   {
    "titulo": "Throwback Thursday, Kinetic Art: A Handbuilt Board Tracker with a Harley Sportster Engine",
@@ -1300,7 +1290,7 @@
    "ts": "2026-07-30T11:00:45Z"
   },
   {
-   "titulo": "Monster Energy Yamaha Factory MXGP & MX2 Teams Set Sights on Belgian Grand Prix Success",
+   "titulo": "Monster Energy Yamaha Factory MXGP & MX2 Teams Set Sights on Belgian Grand Prix Success - yamaha",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSFQtZThTRlVVRm8yNk1uM0FkbFF0UFZzcEZpMnNxMm5PcUxvRnNJMHJNUzVwWng5MHZBTTNNZG14aUZpN3VvRFlkLXJnN2VWSjRGU0dzYkpzUGRwM3NHUFMzamo2X3p3RUdpcFAtMHB2VWRGZElCTHpDVmxqTTNfOEJVMzlOMzdDaUxhOEVCS1RqUDZYMFJ0WTdUc1J4aGxMSnBiZUF2UjBXdnhUcnJr?oc=5",
    "fonte": "Yamaha Racing",
    "ig": "yamaharacingcomofficial",
@@ -1428,6 +1418,16 @@
    "tier": "Mundo",
    "dominio": "bikeexif.com",
    "ts": "2026-07-30T03:37:51Z"
+  },
+  {
+   "titulo": "Cafe racer, bobber and scrambler motorcycles",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9zVWpsX1B6YmNyUnBuVWo5eElVNlM0TXNGZjhLOGpNNnF3Tk1kc0MtS2MtVlRZWTYzTHU0bHBIQWcydEhCZHNnUWdvRnlEUU9zSFlPT3Azeks2MDg?oc=5",
+   "fonte": "Bike EXIF",
+   "ig": "bikeexif",
+   "escopo": "Global",
+   "tier": "Mundo",
+   "dominio": "bikeexif.com",
+   "ts": "2026-07-30T01:30:13Z"
   },
   {
    "titulo": "Grit and Grace: 8 of our Favorite Triumph Trackers",
@@ -1910,6 +1910,26 @@
    "ts": "2026-07-27T14:42:07Z"
   },
   {
+   "titulo": "It's a real retro road test, but which bike comes out on top? Find out here!",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbll4bTduTlpSU1NmZEZWWWVzS2Uza01PYVZqTThKTm0tYjhPWHpvOEozYUFaNFpSNEFpQ19acmE3SHVGbjY0enUwLXdxellueDN2ZHNIWncybm1hY3lTMlp6N2ZCQ21pVi1kRFdTN3FubkRUazBDTFRGOEZRTjE3blg5QW5tWFVDMklpLUJBYTJvSDNwdGtvcnVoSk15d3ZaeTg5NDhNQzJSekQ0Q3VB?oc=5",
+   "fonte": "Motorcycle News (MCN)",
+   "ig": "motorcyclenews",
+   "escopo": "Global",
+   "tier": "Mundo",
+   "dominio": "motorcyclenews.com",
+   "ts": "2026-07-27T14:28:51Z"
+  },
+  {
+   "titulo": "That Viper V10-Powered Motorcycle Sold For a Bunch of Money",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYzRsT1FSZUxsVnZ2a1pDak94R0NtTnZuUGpFd2h5ZnlWRUxWVm4tbElxSEJRdXJvWnRWcVVZMTdWZXhEemI5S2Fwb1YyLXREejBhbU1iWEU2X1BLWWZ6Sk5vSGRFQWEtd3NscDFZX0lPa2dmOUxaY3RKeGRpaUo0dHJyVmd5aWZIaWl5dE04clpYdE44eU45cFhCa1VqdGJ4eFdEZks5MlI?oc=5",
+   "fonte": "RideApart",
+   "ig": "rideapart",
+   "escopo": "Global",
+   "tier": "Mundo",
+   "dominio": "rideapart.com",
+   "ts": "2026-07-27T13:18:00Z"
+  },
+  {
    "titulo": "Full line-up of MotoGP stars to descend on Central London confirmed",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNVlJV1FMOF9jTGtVcHBva19paS1DVEtjNkF2d014TkNPdFNybmhiSXMxaFZhaDdHeXNxOWU4MXRIeG0zLVNILVpHSVJpRkFtME1yTDBiU2Z6d2lKQ1JUNkllVzZZMWJ5eUhJbDNwSTkzUWZGbGpZZUFxN080dlpqMURuS1plcWtKM2UxbUZUUFE0S28zTE5tZUdmenlnbTdDRW8yY1BJbmZheWpobjloVkFITHh6RUYy?oc=5",
    "fonte": "MotoGP",
@@ -2100,16 +2120,6 @@
    "ts": "2026-07-25T19:42:06Z"
   },
   {
-   "titulo": "2026 Washougal Pro Motocross Results (Updated)",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOUtSX193anAzRU0wQUNwM3dDYkktdTVKU0xqZ1MyYmZhTnEtM0dab0pJSVhHeENnYXFaWG15TmliUTBtdjgzc3dLck51dlE5U041T2ZsdFV4cnVCN1F5UjdUVWVRRUZ4bjlVdGZldHhvUlk4RWJtYzFFY1F1R2lKRUQyc3lKQQ?oc=5",
-   "fonte": "Cycle News",
-   "ig": "",
-   "escopo": "Global",
-   "tier": "Mundo",
-   "dominio": "cyclenews.com",
-   "ts": "2026-07-25T17:59:24Z"
-  },
-  {
    "titulo": "Baker Drivetrain Expands Popular Cable-Type Side Cover Lineup",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaU9kWDZ6c2FXbjJvYjluSTc1WjYxZGpPdGlJVUpReGgyQjNyX01oaGlJaGhZc2p0Wi1mZkFLOWJ6SHdjMzNYNVpPWnlEaWNXT0gwVFNla1Y1NWZXWjY3Nk9RY29hNXhZSVBzNDdWMTBNVnE5RkdwcHZIMzZkWTlVbTd5Z2ZBZ2YxTUxMWFJpWWNFdGFRb0txWUVkWkZ3N05GV1o3dnZrWQ?oc=5",
    "fonte": "Cycle News",
@@ -2130,16 +2140,6 @@
    "ts": "2026-07-25T17:00:00Z"
   },
   {
-   "titulo": "Kawasaki’s MXGP title-winning KX450 available with £500 discount",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPb2diSGlOOGZtSWZzQXVJR2ZLLWwxMXhNU1JQbEpJWTlFdWZyb0xJc1hSWXQ2a1M1ZlVJZ05ITjdFSjlIMjYwVUlzSnVjR3prM25TSS1Fc1lhQ2JGdzdCa3NtWEJ3bnlmeWwwT3BTRXhqemVhZGJ6NE9nMlNBRVdiVTlGcnRzWlZ6MVN6ZG9PR0hCUENa?oc=5",
-   "fonte": "Visordown",
-   "ig": "visordown",
-   "escopo": "Global",
-   "tier": "Mundo",
-   "dominio": "visordown.com",
-   "ts": "2026-07-25T14:51:03Z"
-  },
-  {
    "titulo": "Yamaha XMAX 300 Connected 2027: scooter premium ganha novas cores, GPS Garmin nativo e bolha elétrica",
    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSmxBUVBGTS1TLWd3RUhmUWRleTE2UDlkb0Q3ZVd2Uk5pM0pEVWdJR1N5d0tZU3hLUG1BSHJlc1NWcUlEOEJhZVpyaGowMmtoM1l2N3o2Tjk4U1Q5Z1hkX0dvUC1hX1p4aFJHZThldWhwRE1BWkd2Q01ZVWdZaVg2T0ZfUmdQWjY0WTZoT1l4dWVQTkw1cGRZVlBwMmxCYS1UQWFNRVdLcnpwMWF4UGxvSlE2VUNKdmV0cFc5cUhWdlBNOFR4Mnp6MzlRR01LNG9PeG9ObW9uYTFqR1U?oc=5",
    "fonte": "Motociclismo",
@@ -2148,16 +2148,6 @@
    "tier": "Brasil",
    "dominio": "motociclismoonline.com.br",
    "ts": "2026-07-25T14:39:17Z"
-  },
-  {
-   "titulo": "This Dodge Viper V10 powered motorcycle just sold for £149,500",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTzBVd2lpXzdxT3FibnVvUmhabzVDMmtQaHl3RWE5TjJHMGdzdW9wQVdNRXdiNjgyOGc3cDhLSFdhUXRlajFPYmZZUndrWmRMbndHVm5BM0RCSV9SdVUxRlpnNUZIQWJZb3pHcjhpa0tpWXZEUHY0LTRfLS1STGJhS0dVcTY?oc=5",
-   "fonte": "Motorcycle News (MCN)",
-   "ig": "motorcyclenews",
-   "escopo": "Global",
-   "tier": "Mundo",
-   "dominio": "motorcyclenews.com",
-   "ts": "2026-07-25T14:36:28Z"
   },
   {
    "titulo": "Honda XR300L Tornado 2027 chega com mais tecnologia e segurança; veja o que mudou",
@@ -2190,7 +2180,27 @@
    "ts": "2026-07-25T09:00:34Z"
   },
   {
-   "titulo": "Tim Gajser Battles to Fifth Overall in the Czech Republic",
+   "titulo": "This Dodge Viper V10 powered motorcycle just sold for £149,500",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTzBVd2lpXzdxT3FibnVvUmhabzVDMmtQaHl3RWE5TjJHMGdzdW9wQVdNRXdiNjgyOGc3cDhLSFdhUXRlajFPYmZZUndrWmRMbndHVm5BM0RCSV9SdVUxRlpnNUZIQWJZb3pHcjhpa0tpWXZEUHY0LTRfLS1STGJhS0dVcTY?oc=5",
+   "fonte": "Motorcycle News (MCN)",
+   "ig": "motorcyclenews",
+   "escopo": "Global",
+   "tier": "Mundo",
+   "dominio": "motorcyclenews.com",
+   "ts": "2026-07-25T07:00:00Z"
+  },
+  {
+   "titulo": "2026 Washougal Pro Motocross Results (Updated)",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOUtSX193anAzRU0wQUNwM3dDYkktdTVKU0xqZ1MyYmZhTnEtM0dab0pJSVhHeENnYXFaWG15TmliUTBtdjgzc3dLck51dlE5U041T2ZsdFV4cnVCN1F5UjdUVWVRRUZ4bjlVdGZldHhvUlk4RWJtYzFFY1F1R2lKRUQyc3lKQQ?oc=5",
+   "fonte": "Cycle News",
+   "ig": "",
+   "escopo": "Global",
+   "tier": "Mundo",
+   "dominio": "cyclenews.com",
+   "ts": "2026-07-25T07:00:00Z"
+  },
+  {
+   "titulo": "Tim Gajser Battles to Fifth Overall in the Czech Republic - yamaha",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORHdiZTczZTZwdTZJelBnSEszOHgtdGpwOEJtRkZ0TkRBbVgyeEh3OGx0cnlnTFpQUWtGd0NFS2VvT0kwX2RVZFRJZUZneGhybWtUOVhJZmJQbzQwb2pacGV2MlNJbjFjSXh6VkR2WV8tYzcwZjc1c1BHOXM0SkkwR3BfNGVNeGoxYU1fR296UWRnWVJtNk5oclJtTFBxcEI3SEd4cmxn?oc=5",
    "fonte": "Yamaha Racing",
    "ig": "yamaharacingcomofficial",
@@ -2200,7 +2210,7 @@
    "ts": "2026-07-25T07:00:00Z"
   },
   {
-   "titulo": "Karlis Reisulis Breaks Through with Third Overall in the Czech Republic",
+   "titulo": "Karlis Reisulis Breaks Through with Third Overall in the Czech Republic - yamaha",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNa3R1cVA3YlFVQVBvWmpXekhaeFVYNjk1UERQNUpjWEcyWW9sbFk3Vkt0V09yWFNRUVBwY2NEWWNxaDV2YlFLd2d2cXl5VkQydnE5Z3hGMGNReDBISWJSOTFGUGtrVkxvdUNvX1Z5S1VXTGo4aWFYTE5kWmhwLUo1d1JwUExlRmdGUVhMa3JUUGdxNV92a3ZmWUFwX1ozVGp5SDliVVV4S1NUS1JCZFd3?oc=5",
    "fonte": "Yamaha Racing",
    "ig": "yamaharacingcomofficial",
@@ -2320,16 +2330,6 @@
    "ts": "2026-07-24T07:00:00Z"
   },
   {
-   "titulo": "Fly Racing 2027 Collection",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBkSEZBUDNibEd1d0d2MU1MckcxN3kxcUg3NmpRLXpaTzM3amVEaHBQdWN6bDJFOXhEVWVjemVuaC13dW5hOG1PQkZkdHBOOG1venozRWlnQ3dRV3pkQmdGTzUxdnlHYU5icVh1VjFlY1h1TlRKNnY4Uw?oc=5",
-   "fonte": "Cycle News",
-   "ig": "",
-   "escopo": "Global",
-   "tier": "Mundo",
-   "dominio": "cyclenews.com",
-   "ts": "2026-07-24T07:00:00Z"
-  },
-  {
    "titulo": "2026 Honda Rebel 1100T review: The babiest of baggers",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1nVFlqSFl6TGdGQ0RIcU1JWnI4RDNTazVhNFhCTFk1UWRPMmowQ0dab2Fyc3dHXzBITERGQVVoeHNYaFJTWXBsS0FJMHhCWUFBa0RIMmtOV0tkeTBRQ1h3TEhYdWJEUnVFWjl4WFJFdWFtUTc2Q1E?oc=5",
    "fonte": "RevZilla Common Tread",
@@ -2340,7 +2340,17 @@
    "ts": "2026-07-24T07:00:00Z"
   },
   {
-   "titulo": "Gajser & J.Reisulis Charge to Top-Five Results in Challenging Czech GP Qualifying",
+   "titulo": "Best of Unseen: celebrations and fun from the first part of 2026",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTUEySmlYdkl2NFNMM3pnWjhjM2lJX3J6S0dVWFRaX052cjF0MTctZWI5bURUTHFHckpJdVB1TVgtYkdSbXBzV0lDYjBWVm9LaWRCWFhVcWlud1lza2o4ckxyMjZBOWNhNUNyNWJaTnRNaUticVo0NXV5TDNTNzRQMDZ0RWJTQU5sY3pRUjhxWjU0M3JzUWE0Uk5tNWlRZm13bmNvTi1ZTlJHZXBqU1lOZ1Nxcw?oc=5",
+   "fonte": "MotoGP",
+   "ig": "motogp",
+   "escopo": "Global",
+   "tier": "Corrida",
+   "dominio": "motogp.com",
+   "ts": "2026-07-24T07:00:00Z"
+  },
+  {
+   "titulo": "Gajser & J.Reisulis Charge to Top-Five Results in Challenging Czech GP Qualifying - yamaha",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbjN2SGJSbzc5ZXVqdGZ2a3c2M3RYbXc2LUZSMVhLTFYybXhHTi1rRDhiMFdHeFl6NUpiU2ZCZ3ZaUGdZTS1HTV9PMTBmTjVrMmxWOFBCbmxtdXFhOGlnTVlrcjNvdDNYUDRWRXNLRl9TeHNWbVc5Q3VNWGNSeHRvanZUaHVaNXlYQkxhRzRxSm1CMmlmbzBoUE5FQXRmUUtYZmZfWC1XRThfb3dXalhB?oc=5",
    "fonte": "Yamaha Racing",
    "ig": "yamaharacingcomofficial",
@@ -2358,16 +2368,6 @@
    "tier": "Mundo",
    "dominio": "cycleworld.com",
    "ts": "2026-07-24T04:02:28Z"
-  },
-  {
-   "titulo": "Ride for a Cause in REVER’s 2026 Million Mile Challenge",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYWpMWjV0Nkp2NDM3eUpCVy1ET2RYQlZnQ01PSm9oeGNoWF82RVA5Mk5Hei1nbXBoMFdycE1FVFJBeFctajU3UDYyY01BQ2VDQlFhUFd2WjdaSGZOZ2lXbDRJYTFsdHdPaVZoaDdRdU81QTk4Y1ZMemE1R3ZJbWdMV195UUhQN1BReVdnZ3VFTVNiM1hUOC1Z?oc=5",
-   "fonte": "Rider Magazine",
-   "ig": "ridermag",
-   "escopo": "Global",
-   "tier": "Generalista",
-   "dominio": "ridermagazine.com",
-   "ts": "2026-07-23T19:21:35Z"
   },
   {
    "titulo": "Honda XRE300 Sahara 2027, Veja Preço E Ficha Técnica",
@@ -2400,6 +2400,16 @@
    "ts": "2026-05-11T14:48:59Z"
   },
   {
+   "titulo": "Resultados 2026, M1GP",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1XTjY1T0tiSUFBZTlvb1NJcDYzUG9vdVRmTnVzQTUya0xVTzM4NnJxNDlzdEo0bVZ0dFd6OUdLVFdBZF9jdTZNOVVDR05GcERreVFLV1hxbnVYWXVRZ09ZeFM0ellwZ0cz?oc=5",
+   "fonte": "MOTO1000GP",
+   "ig": "moto1000gp",
+   "escopo": "Brasil",
+   "tier": "Corrida",
+   "dominio": "m1gp.com.br",
+   "ts": "2026-04-10T12:08:15Z"
+  },
+  {
    "titulo": "15.ª Edição de 2026 do Distinguished Gentleman’s Ride será a 17 de maio",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR2NlYTBuUXFYN0hMTktLeWRLX1hyaEFXcEptWk42N0JjZnNwWEM1T3BWaXduX1czdVMzaEZGT2pkZzR4VVRkNmYwczhSTGZRQ3lGb2xCal80XzVKWEYxSjV5VnZNSTRMbmV2QUU0ZFlmcWhRMGhkMlg3TG1iWDRfR2hrdkJneXB2TkRpMzhIaEgxNk1ZeWkxVjVELWJoc0FPZE5xTERzSTdwNlFvdW5oVmhkZlFXanVtRmc?oc=5",
    "fonte": "AndarDeMoto Brasil",
@@ -2408,16 +2418,6 @@
    "tier": "Brasil",
    "dominio": "andardemoto.com.br",
    "ts": "2026-04-05T10:47:35Z"
-  },
-  {
-   "titulo": "Results - motogp.com",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5DZjc5R0hKU1Z5SktNRDhnQWMxRmNGX05YS0tRWkk5Tk1RU1dHeG54R1ZBSzUtZS12VEJCdjd0M3BQaEZkWjVSUU4ycmIxMHNFZ2dreGhCajc4Nl9mck5ZM2kwZU8walZEdHprOEU2eVFGLTZwX1VtNVluTQ?oc=5",
-   "fonte": "MotoGP",
-   "ig": "motogp",
-   "escopo": "Global",
-   "tier": "Corrida",
-   "dominio": "motogp.com",
-   "ts": "2026-02-27T22:07:54Z"
   },
   {
    "titulo": "AMA Motocross Results and News",
@@ -2460,7 +2460,7 @@
    "ts": "2024-04-04T14:32:45Z"
   },
   {
-   "titulo": "News - Yamaha Racing",
+   "titulo": "News - yamaha-racing.com",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5zSUE2Wnk3enpqWFA2QUhFaVdfYmFTTVZCc09CYjZRQlMtcVZ6MU1zVmtkXzk1WWFOVGwycGNpcnVObmZiVERLOE1Xbw?oc=5",
    "fonte": "Yamaha Racing",
    "ig": "yamaharacingcomofficial",
@@ -2521,12 +2521,12 @@
   }
  ],
  "total_materias": 211,
- "materias_24h": 27,
+ "materias_24h": 32,
  "reddit": [],
  "em_alta": [
   {
    "tema": "Motogp",
-   "mencoes": 23,
+   "mencoes": 22,
    "materias": [
     {
      "titulo": "Instant Vinales/KTM MotoGP split would be best all round",
@@ -2577,6 +2577,32 @@
    ]
   },
   {
+   "tema": "Yamaha",
+   "mencoes": 13,
+   "materias": [
+    {
+     "titulo": "Gajser Fights to Fourth at MXGP of Flanders as Reisulis Brothers Recover to Sixth and Seventh - yamaha",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNc1dtQUFuWmhJaUxmLVY0SjBqY2RnTjNiNWlBdnpwVjdmX3BudkV4WFVaUHNRYjh3SmFSWTFZZTR2Q2tIMEl6Q29oUjdzbGdSVmZLNk9hdnB0akpoSHVMaThXNFhGNXV4b3NtUkhnNkdORVk3RS1ZMUtvTklaZW5CazFDVk9HWmR0Y3NRLUVVZWdwLV9vTmJ6a3lZblgydnhUOFJVcWFRcEJLY1hmMTh3?oc=5",
+     "fonte": "Yamaha Racing"
+    },
+    {
+     "titulo": "Monster Energy Yamaha Factory MXGP & MX2 Teams Set Sights on Belgian Grand Prix Success - yamaha",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSFQtZThTRlVVRm8yNk1uM0FkbFF0UFZzcEZpMnNxMm5PcUxvRnNJMHJNUzVwWng5MHZBTTNNZG14aUZpN3VvRFlkLXJnN2VWSjRGU0dzYkpzUGRwM3NHUFMzamo2X3p3RUdpcFAtMHB2VWRGZElCTHpDVmxqTTNfOEJVMzlOMzdDaUxhOEVCS1RqUDZYMFJ0WTdUc1J4aGxMSnBiZUF2UjBXdnhUcnJr?oc=5",
+     "fonte": "Yamaha Racing"
+    },
+    {
+     "titulo": "Monster Energy Yamaha Factory MXGP & MX2 Teams Set Sights on Belgian Grand Prix Success - yamaha",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSFQtZThTRlVVRm8yNk1uM0FkbFF0UFZzcEZpMnNxMm5PcUxvRnNJMHJNUzVwWng5MHZBTTNNZG14aUZpN3VvRFlkLXJnN2VWSjRGU0dzYkpzUGRwM3NHUFMzamo2X3p3RUdpcFAtMHB2VWRGZElCTHpDVmxqTTNfOEJVMzlOMzdDaUxhOEVCS1RqUDZYMFJ0WTdUc1J4aGxMSnBiZUF2UjBXdnhUcnJr?oc=5",
+     "fonte": "Yamaha Racing"
+    },
+    {
+     "titulo": "Yamaha “excited” for MotoGP 2027 as new riders bring “fresh air”",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUjNiSUJvUGdIalB6Szkwa093OWdVdnNSblBJM29Eel9rU3g4QWQ4bk1vdjhETlJsLWxORDNkZDdyMXZ4MjZiVllDSjFnNmlEX0ZtNjhvR3FIREVibTJwUzQ3bk1BRHRCRVQzclR3QVRndzFObVBHN013XzZ4cGExcVl2WU96cVcxbG5XRTJYRllVZlN4MXdIVXk4QVVWZw?oc=5",
+     "fonte": "Crash MotoGP"
+    }
+   ]
+  },
+  {
    "tema": "Ducati",
    "mencoes": 10,
    "materias": [
@@ -2591,12 +2617,12 @@
      "fonte": "Ducati Corse"
     },
     {
-     "titulo": "Lifestyle - ducati.com",
+     "titulo": "Lifestyle - Ducati",
      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DX3p1M05oSkxDbUJ1cXRGWmpZcGQwWmhadFZDRjJ5NEdibHNCMmdzTkFoUkJseURxNFZDaEpLRWJSMjhHeGpfTHd2TDBqTXB6aTl4V01yMVplZw?oc=5",
      "fonte": "Ducati Corse"
     },
     {
-     "titulo": "Bikes & Beyond - ducati.com",
+     "titulo": "Bikes & Beyond - Ducati",
      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBmOFpBRU42cFNqMW5FUXE1c0MzQUZYTXJtcWRFQXl2bTZwU2ZSYU85bmVyY2pFQ1I1cDhTdjlqM2x3YkdIRmRyQXFDTXYybnJ1cnU1c0pZRHYzM0hBZjhtalVsYw?oc=5",
      "fonte": "Ducati Corse"
     }
@@ -2625,32 +2651,6 @@
      "titulo": "Honda, LS2, Royal Enfield, BMW e CFMoto escolhem o Capital Moto Week para lançar novidades no mercado brasileiro",
      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNY0FkUGYwNm5GdXRFRFczMnNvWFRXZ3k3R1cyaUtJYWpoSFlpNTYyNnozbjFYWnMxenpHY29oTk1xSjg2Qm5BVlY2Uy1helZreDJ6OHRxdWt0bkJMX2Y2OWRfMEJwd3o3SVlsZFJtUXVVLXpoSHVBVkMybndPYUp3TWRkWTNLX2k0WlZ6YW5CT1ZjbURVMEtmaF85am1SS19ZUjlWMVZINXNITjJEcHozQUVyRXVGX2hTYTdYczdwVV8ySmYxQmtGSjR4cjQwcm55Y1JkQm9R?oc=5",
      "fonte": "Revista Moto Adventure"
-    }
-   ]
-  },
-  {
-   "tema": "Yamaha",
-   "mencoes": 8,
-   "materias": [
-    {
-     "titulo": "Monster Energy Yamaha Factory MXGP & MX2 Teams Set Sights on Belgian Grand Prix Success",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSFQtZThTRlVVRm8yNk1uM0FkbFF0UFZzcEZpMnNxMm5PcUxvRnNJMHJNUzVwWng5MHZBTTNNZG14aUZpN3VvRFlkLXJnN2VWSjRGU0dzYkpzUGRwM3NHUFMzamo2X3p3RUdpcFAtMHB2VWRGZElCTHpDVmxqTTNfOEJVMzlOMzdDaUxhOEVCS1RqUDZYMFJ0WTdUc1J4aGxMSnBiZUF2UjBXdnhUcnJr?oc=5",
-     "fonte": "Yamaha Racing"
-    },
-    {
-     "titulo": "Yamaha “excited” for MotoGP 2027 as new riders bring “fresh air”",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUjNiSUJvUGdIalB6Szkwa093OWdVdnNSblBJM29Eel9rU3g4QWQ4bk1vdjhETlJsLWxORDNkZDdyMXZ4MjZiVllDSjFnNmlEX0ZtNjhvR3FIREVibTJwUzQ3bk1BRHRCRVQzclR3QVRndzFObVBHN013XzZ4cGExcVl2WU96cVcxbG5XRTJYRllVZlN4MXdIVXk4QVVWZw?oc=5",
-     "fonte": "Crash MotoGP"
-    },
-    {
-     "titulo": "Yamaha XMAX 300 2027, Veja Preço E Ficha Técnica",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBHQ1JyOHo5OU5SUTJjSzVCOFhLdHFra2l4UGwtRWk3Wk5IZnNLdm5fVlhkQ1lpTFhWNDRDY3R1Smc3Y2dRMVJXdm1LUEQ0bUU5YlotNmZseHpHQjZGNC04QXJLRDJXRTJRdmwzWEpRc0hDUWp5UzBKVFhEOA?oc=5",
-     "fonte": "MotoRede"
-    },
-    {
-     "titulo": "XMAX 300 2027: Yamaha apresenta novas cores para a scooter premium",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWGd2RzJzRm1iQ3pOMEc0MV82alJ6NW85NlhVQXpuOVVRTU5RbkVuOU9qU1RKRHRuUC1GTHNmMjVRZmNNYUNDbnl4cGlGZTM5UWxyYjVFYS00VkdGdGxVeXpWRm11UDlKNG1XRnEzRDJ5RzZ1aURGUkh6U2hDWTY1eWpJUl9nRFM0ZzVuWm1HWEY2czRPcEczVQ?oc=5",
-     "fonte": "MotoNews Brasil"
     }
    ]
   },
@@ -2690,14 +2690,14 @@
      "fonte": "The Race MotoGP"
     },
     {
-     "titulo": "KTM reportedly considering axing Maverick Vinales before British MotoGP",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUTVwaEtuMW5nejBxM0kzbDdGM3l3dk84WDk4QnNtV182bG5wdXN5UXV6V1FzbGxKWmdhdUR0SDd2SF9scFh3N0JZV0p6SFF1VnB0MWNUSzBzV09saC1GZzVCdF82blFxQnV4dTAwOXd4ZTM1TlBTeEN3YjBhVG5iaE44NXduV1pFU3c0UXE1eVpreGpXZVhPeEVkaDJDcFl6aVE4QlktOWlKaU5r?oc=5",
-     "fonte": "Crash MotoGP"
-    },
-    {
      "titulo": "KTM might drop Vinales with immediate effect",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSTFZWUs3WXp6T01qR05feE9nOTBzMHl0bE05clJLcVBld0Q4VEhFSUkwWkEwbEtFa1BlTDg0blhoUmw4OUd6M0prSWZ6aGJwMktRN0FhSWxCSml0WDNNNURoVS1qQTR2dGpwZGItZlFKeUxXcjF4d3RFUmxPc05lYkxxa25FSG5URUZVVlFvTkpLUUZyd29jdDhqVEZZaXo2NTJn?oc=5",
      "fonte": "Autosport"
+    },
+    {
+     "titulo": "KTM reportedly considering axing Maverick Vinales before British MotoGP",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUTVwaEtuMW5nejBxM0kzbDdGM3l3dk84WDk4QnNtV182bG5wdXN5UXV6V1FzbGxKWmdhdUR0SDd2SF9scFh3N0JZV0p6SFF1VnB0MWNUSzBzV09saC1GZzVCdF82blFxQnV4dTAwOXd4ZTM1TlBTeEN3YjBhVG5iaE44NXduV1pFU3c0UXE1eVpreGpXZVhPeEVkaDJDcFl6aVE4QlktOWlKaU5r?oc=5",
+     "fonte": "Crash MotoGP"
     },
     {
      "titulo": "KTM making plans to drop Maverick Vinales with immediate effect",
@@ -2735,6 +2735,64 @@
  ],
  "pautas": [
   {
+   "pauta": "Ktm",
+   "urgencia": "4 fontes / 48h",
+   "porque": "4 fontes publicaram sobre isso nas ultimas 48h.",
+   "furo": false,
+   "fontes": 4,
+   "materias": [
+    {
+     "titulo": "Instant Vinales/KTM MotoGP split would be best all round",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTGVtMENIbFp1VFppR042VG5jUTBFSHNRTEVKbDE1dFI0VVZXNGpWandUX0xsQ0tmSlhWbzlyRDZYcWpNN3F3SDhqR1A5Z1RVOE1oTEZJZ2YybDQ2a29QVENoVVB2RExOMVY2V3QzMkhteXB4cXZqbHpvUHkwMnZaRjNkQmtDNURnMXI5aV9xX3RFb0k?oc=5",
+     "fonte": "The Race MotoGP"
+    },
+    {
+     "titulo": "KTM might drop Vinales with immediate effect",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSTFZWUs3WXp6T01qR05feE9nOTBzMHl0bE05clJLcVBld0Q4VEhFSUkwWkEwbEtFa1BlTDg0blhoUmw4OUd6M0prSWZ6aGJwMktRN0FhSWxCSml0WDNNNURoVS1qQTR2dGpwZGItZlFKeUxXcjF4d3RFUmxPc05lYkxxa25FSG5URUZVVlFvTkpLUUZyd29jdDhqVEZZaXo2NTJn?oc=5",
+     "fonte": "Autosport"
+    },
+    {
+     "titulo": "KTM reportedly considering axing Maverick Vinales before British MotoGP",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUTVwaEtuMW5nejBxM0kzbDdGM3l3dk84WDk4QnNtV182bG5wdXN5UXV6V1FzbGxKWmdhdUR0SDd2SF9scFh3N0JZV0p6SFF1VnB0MWNUSzBzV09saC1GZzVCdF82blFxQnV4dTAwOXd4ZTM1TlBTeEN3YjBhVG5iaE44NXduV1pFU3c0UXE1eVpreGpXZVhPeEVkaDJDcFl6aVE4QlktOWlKaU5r?oc=5",
+     "fonte": "Crash MotoGP"
+    },
+    {
+     "titulo": "KTM making plans to drop Maverick Vinales with immediate effect",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeF9YOEhFc0M5cG94SGZHUXNhb1doYVNEZFh4enU5ZXFFN3llLVR4cGIzOTlTamhrMTlIZTR5bEtzRUpCZDRFTXByZGRWRlVQSnY3X2c4eHpNVUYwcUVweGktTlVUQUt4dlJ3S2l0NlY3aldEMWRtVGJWZmNOaHRoVGg1ek9GMUVmWDNkWDVmMjRwNlJlZEs0VDE4aWs3SDR3aEpVd0VEUDk0c1FHOGdHNDRB?oc=5",
+     "fonte": "Motorsport.com"
+    }
+   ]
+  },
+  {
+   "pauta": "Vinales",
+   "urgencia": "4 fontes / 48h",
+   "porque": "4 fontes publicaram sobre isso nas ultimas 48h.",
+   "furo": false,
+   "fontes": 4,
+   "materias": [
+    {
+     "titulo": "Instant Vinales/KTM MotoGP split would be best all round",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTGVtMENIbFp1VFppR042VG5jUTBFSHNRTEVKbDE1dFI0VVZXNGpWandUX0xsQ0tmSlhWbzlyRDZYcWpNN3F3SDhqR1A5Z1RVOE1oTEZJZ2YybDQ2a29QVENoVVB2RExOMVY2V3QzMkhteXB4cXZqbHpvUHkwMnZaRjNkQmtDNURnMXI5aV9xX3RFb0k?oc=5",
+     "fonte": "The Race MotoGP"
+    },
+    {
+     "titulo": "KTM might drop Vinales with immediate effect",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSTFZWUs3WXp6T01qR05feE9nOTBzMHl0bE05clJLcVBld0Q4VEhFSUkwWkEwbEtFa1BlTDg0blhoUmw4OUd6M0prSWZ6aGJwMktRN0FhSWxCSml0WDNNNURoVS1qQTR2dGpwZGItZlFKeUxXcjF4d3RFUmxPc05lYkxxa25FSG5URUZVVlFvTkpLUUZyd29jdDhqVEZZaXo2NTJn?oc=5",
+     "fonte": "Autosport"
+    },
+    {
+     "titulo": "KTM reportedly considering axing Maverick Vinales before British MotoGP",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUTVwaEtuMW5nejBxM0kzbDdGM3l3dk84WDk4QnNtV182bG5wdXN5UXV6V1FzbGxKWmdhdUR0SDd2SF9scFh3N0JZV0p6SFF1VnB0MWNUSzBzV09saC1GZzVCdF82blFxQnV4dTAwOXd4ZTM1TlBTeEN3YjBhVG5iaE44NXduV1pFU3c0UXE1eVpreGpXZVhPeEVkaDJDcFl6aVE4QlktOWlKaU5r?oc=5",
+     "fonte": "Crash MotoGP"
+    },
+    {
+     "titulo": "KTM making plans to drop Maverick Vinales with immediate effect",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeF9YOEhFc0M5cG94SGZHUXNhb1doYVNEZFh4enU5ZXFFN3llLVR4cGIzOTlTamhrMTlIZTR5bEtzRUpCZDRFTXByZGRWRlVQSnY3X2c4eHpNVUYwcUVweGktTlVUQUt4dlJ3S2l0NlY3aldEMWRtVGJWZmNOaHRoVGg1ek9GMUVmWDNkWDVmMjRwNlJlZEs0VDE4aWs3SDR3aEpVd0VEUDk0c1FHOGdHNDRB?oc=5",
+     "fonte": "Motorsport.com"
+    }
+   ]
+  },
+  {
    "pauta": "Motogp",
    "urgencia": "4 fontes / 48h",
    "porque": "4 fontes publicaram sobre isso nas ultimas 48h.",
@@ -2764,64 +2822,6 @@
    ]
   },
   {
-   "pauta": "Vinales",
-   "urgencia": "4 fontes / 48h",
-   "porque": "4 fontes publicaram sobre isso nas ultimas 48h.",
-   "furo": false,
-   "fontes": 4,
-   "materias": [
-    {
-     "titulo": "Instant Vinales/KTM MotoGP split would be best all round",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTGVtMENIbFp1VFppR042VG5jUTBFSHNRTEVKbDE1dFI0VVZXNGpWandUX0xsQ0tmSlhWbzlyRDZYcWpNN3F3SDhqR1A5Z1RVOE1oTEZJZ2YybDQ2a29QVENoVVB2RExOMVY2V3QzMkhteXB4cXZqbHpvUHkwMnZaRjNkQmtDNURnMXI5aV9xX3RFb0k?oc=5",
-     "fonte": "The Race MotoGP"
-    },
-    {
-     "titulo": "KTM reportedly considering axing Maverick Vinales before British MotoGP",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUTVwaEtuMW5nejBxM0kzbDdGM3l3dk84WDk4QnNtV182bG5wdXN5UXV6V1FzbGxKWmdhdUR0SDd2SF9scFh3N0JZV0p6SFF1VnB0MWNUSzBzV09saC1GZzVCdF82blFxQnV4dTAwOXd4ZTM1TlBTeEN3YjBhVG5iaE44NXduV1pFU3c0UXE1eVpreGpXZVhPeEVkaDJDcFl6aVE4QlktOWlKaU5r?oc=5",
-     "fonte": "Crash MotoGP"
-    },
-    {
-     "titulo": "KTM might drop Vinales with immediate effect",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSTFZWUs3WXp6T01qR05feE9nOTBzMHl0bE05clJLcVBld0Q4VEhFSUkwWkEwbEtFa1BlTDg0blhoUmw4OUd6M0prSWZ6aGJwMktRN0FhSWxCSml0WDNNNURoVS1qQTR2dGpwZGItZlFKeUxXcjF4d3RFUmxPc05lYkxxa25FSG5URUZVVlFvTkpLUUZyd29jdDhqVEZZaXo2NTJn?oc=5",
-     "fonte": "Autosport"
-    },
-    {
-     "titulo": "KTM making plans to drop Maverick Vinales with immediate effect",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeF9YOEhFc0M5cG94SGZHUXNhb1doYVNEZFh4enU5ZXFFN3llLVR4cGIzOTlTamhrMTlIZTR5bEtzRUpCZDRFTXByZGRWRlVQSnY3X2c4eHpNVUYwcUVweGktTlVUQUt4dlJ3S2l0NlY3aldEMWRtVGJWZmNOaHRoVGg1ek9GMUVmWDNkWDVmMjRwNlJlZEs0VDE4aWs3SDR3aEpVd0VEUDk0c1FHOGdHNDRB?oc=5",
-     "fonte": "Motorsport.com"
-    }
-   ]
-  },
-  {
-   "pauta": "Ktm",
-   "urgencia": "4 fontes / 48h",
-   "porque": "4 fontes publicaram sobre isso nas ultimas 48h.",
-   "furo": false,
-   "fontes": 4,
-   "materias": [
-    {
-     "titulo": "Instant Vinales/KTM MotoGP split would be best all round",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTGVtMENIbFp1VFppR042VG5jUTBFSHNRTEVKbDE1dFI0VVZXNGpWandUX0xsQ0tmSlhWbzlyRDZYcWpNN3F3SDhqR1A5Z1RVOE1oTEZJZ2YybDQ2a29QVENoVVB2RExOMVY2V3QzMkhteXB4cXZqbHpvUHkwMnZaRjNkQmtDNURnMXI5aV9xX3RFb0k?oc=5",
-     "fonte": "The Race MotoGP"
-    },
-    {
-     "titulo": "KTM reportedly considering axing Maverick Vinales before British MotoGP",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUTVwaEtuMW5nejBxM0kzbDdGM3l3dk84WDk4QnNtV182bG5wdXN5UXV6V1FzbGxKWmdhdUR0SDd2SF9scFh3N0JZV0p6SFF1VnB0MWNUSzBzV09saC1GZzVCdF82blFxQnV4dTAwOXd4ZTM1TlBTeEN3YjBhVG5iaE44NXduV1pFU3c0UXE1eVpreGpXZVhPeEVkaDJDcFl6aVE4QlktOWlKaU5r?oc=5",
-     "fonte": "Crash MotoGP"
-    },
-    {
-     "titulo": "KTM might drop Vinales with immediate effect",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSTFZWUs3WXp6T01qR05feE9nOTBzMHl0bE05clJLcVBld0Q4VEhFSUkwWkEwbEtFa1BlTDg0blhoUmw4OUd6M0prSWZ6aGJwMktRN0FhSWxCSml0WDNNNURoVS1qQTR2dGpwZGItZlFKeUxXcjF4d3RFUmxPc05lYkxxa25FSG5URUZVVlFvTkpLUUZyd29jdDhqVEZZaXo2NTJn?oc=5",
-     "fonte": "Autosport"
-    },
-    {
-     "titulo": "KTM making plans to drop Maverick Vinales with immediate effect",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeF9YOEhFc0M5cG94SGZHUXNhb1doYVNEZFh4enU5ZXFFN3llLVR4cGIzOTlTamhrMTlIZTR5bEtzRUpCZDRFTXByZGRWRlVQSnY3X2c4eHpNVUYwcUVweGktTlVUQUt4dlJ3S2l0NlY3aldEMWRtVGJWZmNOaHRoVGg1ek9GMUVmWDNkWDVmMjRwNlJlZEs0VDE4aWs3SDR3aEpVd0VEUDk0c1FHOGdHNDRB?oc=5",
-     "fonte": "Motorsport.com"
-    }
-   ]
-  },
-  {
    "pauta": "Ducati",
    "urgencia": "2 fontes / 48h",
    "porque": "2 fontes publicaram sobre isso nas ultimas 48h.",
@@ -2839,12 +2839,12 @@
      "fonte": "Ducati Corse"
     },
     {
-     "titulo": "Lifestyle - ducati.com",
+     "titulo": "Lifestyle - Ducati",
      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DX3p1M05oSkxDbUJ1cXRGWmpZcGQwWmhadFZDRjJ5NEdibHNCMmdzTkFoUkJseURxNFZDaEpLRWJSMjhHeGpfTHd2TDBqTXB6aTl4V01yMVplZw?oc=5",
      "fonte": "Ducati Corse"
     },
     {
-     "titulo": "Bikes & Beyond - ducati.com",
+     "titulo": "Bikes & Beyond - Ducati",
      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBmOFpBRU42cFNqMW5FUXE1c0MzQUZYTXJtcWRFQXl2bTZwU2ZSYU85bmVyY2pFQ1I1cDhTdjlqM2x3YkdIRmRyQXFDTXYybnJ1cnU1c0pZRHYzM0hBZjhtalVsYw?oc=5",
      "fonte": "Ducati Corse"
     }
@@ -2866,44 +2866,6 @@
      "titulo": "Honda reveal fresh 10-strong line-up in India amid increased production focus in the country",
      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1EUlBWSnlVRk9KcVB2bjZ6QW1BaVUxeW90TEJaRGc4RHNXblZXV0VWS1VHQi1SYVliNkFZVGFuTFoxT3pKbUpyU3ZHZ2JHZHZYVHM5TnJ6MVByZ3hyclpEcnZYa2lfa2hkZGRrc2RXS2VQS0lNZU84?oc=5",
      "fonte": "Motorcycle News (MCN)"
-    }
-   ]
-  },
-  {
-   "pauta": "Bmw",
-   "urgencia": "2 fontes / 48h",
-   "porque": "2 fontes publicaram sobre isso nas ultimas 48h.",
-   "furo": false,
-   "fontes": 2,
-   "materias": [
-    {
-     "titulo": "Chegou o blusão Glandon Air da BMW para reforçar oferta de equipamento de verão",
-     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQMUNBa2JpckotdkdpeXVUX1VncnZWcWRrT3VBZ0Z4OXZWVGRMLXpYNklkbzFWYkV2LUJ3T2w2Y2prbHVPNUpNYjY3OXJUTHJPSG0zenZVcmxiaDFoWkpJenVDYlNNUzN4ZWg4X09SeHZQRERuNURpUXQzdVpHZXhJd2pQWEpTQmFKTDA0Mk9jMzBFNDVjVzFnbTVFTWdPdXZFdmFBMS1tckYyN3c0SUNkbHJ2aFhGMFZZNHVOdG1pUlZGY0I5ZTFJUjFuM0h2RURtbHppanRMQ043TklNa1d3MTMteHdNRU1tdmxyNHJKTUtuX1FNbkE?oc=5",
-     "fonte": "AndarDeMoto Brasil"
-    },
-    {
-     "titulo": "Akrapovic Slip-On Exhausts BMW R1300RT 2026",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTFRBcXpHU2EyWnIwWm83dVdKeXZCWTJrbU9WTVRvZUJvMmQ3VVdYX3Z1dzBzck0tRTlUUzZsbjNkVVJrcnhsbURoOS1lY1FxaEJkS3JydlFPaHFnVWxLOEloaHlEY3oxWF9aRG5nZnY3SnR3cDhSMlBoNWtwU2NaSERtdjZndw?oc=5",
-     "fonte": "RevZilla Common Tread"
-    }
-   ]
-  },
-  {
-   "pauta": "Harley",
-   "urgencia": "2 fontes / 48h",
-   "porque": "2 fontes publicaram sobre isso nas ultimas 48h.",
-   "furo": false,
-   "fontes": 2,
-   "materias": [
-    {
-     "titulo": "Harley-Davidson Is Probably Going to Build That Awesome Cafe Racer Concept",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOelE2eS04bVNMczhCRFhIQTdlUnQ4dHpRdm84eHltQkk4Z1ByV3JaMWJRMG5tbDM4Z1cta3lUN0dpNkhTbFBvSkdGN1lEYnhXTUxwUEU0UnRtM2t5S0hMeHVkYTFzVmhHbThSUEtwd0ZlU2JRMXdtVHdMbThSUWYxMkEyNTMzRUloTFFOTi03ZmdOWF9KMkVDazBLTjB1dFl4ZWZ2RHBlNjZERXZLU3VHaWVBdw?oc=5",
-     "fonte": "RideApart"
-    },
-    {
-     "titulo": "Flashback Friday: Bike EXIF’s Top 10 Harley-Davidson Customs of 2024",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB0NFRPX2FuVnFYNFZ5TjRTMXJqeWRCYlNGbVh5OGZJRzBnb0d2QVhBM3BLNzJUTncxOVBYV0YzNFdFYTN4ZU9YbGdTUXpKdEc2b1lqMkNIZkdMVHZrdEhHcTZZbzlZd01ENDhtWg?oc=5",
-     "fonte": "Bike EXIF"
     }
    ]
   }
@@ -3183,9 +3145,9 @@
  ],
  "marca": {
   "ga4": {
-   "sessions": 147053,
-   "users": 141953,
-   "updated_at": "2026-08-02T14:10:27Z"
+   "sessions": 147062,
+   "users": 141962,
+   "updated_at": "2026-08-02T15:41:21Z"
   }
  },
  "pesado_em": "2026-08-02T07:04:18Z",
