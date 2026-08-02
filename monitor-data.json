@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-02T14:02:57Z",
+ "updated_at": "2026-08-02T15:31:40Z",
  "fontes_monitoradas": [
   {
    "nome": "Grid Motors",
@@ -410,6 +410,36 @@
  ],
  "materias": [
   {
+   "titulo": "Instant Vinales/KTM MotoGP split would be best all round",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTGVtMENIbFp1VFppR042VG5jUTBFSHNRTEVKbDE1dFI0VVZXNGpWandUX0xsQ0tmSlhWbzlyRDZYcWpNN3F3SDhqR1A5Z1RVOE1oTEZJZ2YybDQ2a29QVENoVVB2RExOMVY2V3QzMkhteXB4cXZqbHpvUHkwMnZaRjNkQmtDNURnMXI5aV9xX3RFb0k?oc=5",
+   "fonte": "The Race MotoGP",
+   "ig": "theracemoto",
+   "escopo": "Global",
+   "tier": "Corrida",
+   "dominio": "the-race.com",
+   "ts": "2026-08-02T14:11:16Z"
+  },
+  {
+   "titulo": "KTM reportedly considering axing Maverick Vinales before British MotoGP",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUTVwaEtuMW5nejBxM0kzbDdGM3l3dk84WDk4QnNtV182bG5wdXN5UXV6V1FzbGxKWmdhdUR0SDd2SF9scFh3N0JZV0p6SFF1VnB0MWNUSzBzV09saC1GZzVCdF82blFxQnV4dTAwOXd4ZTM1TlBTeEN3YjBhVG5iaE44NXduV1pFU3c0UXE1eVpreGpXZVhPeEVkaDJDcFl6aVE4QlktOWlKaU5r?oc=5",
+   "fonte": "Crash MotoGP",
+   "ig": "crashmotogp_",
+   "escopo": "Global",
+   "tier": "Corrida",
+   "dominio": "crash.net",
+   "ts": "2026-08-02T13:10:16Z"
+  },
+  {
+   "titulo": "KTM might drop Vinales with immediate effect",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSTFZWUs3WXp6T01qR05feE9nOTBzMHl0bE05clJLcVBld0Q4VEhFSUkwWkEwbEtFa1BlTDg0blhoUmw4OUd6M0prSWZ6aGJwMktRN0FhSWxCSml0WDNNNURoVS1qQTR2dGpwZGItZlFKeUxXcjF4d3RFUmxPc05lYkxxa25FSG5URUZVVlFvTkpLUUZyd29jdDhqVEZZaXo2NTJn?oc=5",
+   "fonte": "Autosport",
+   "ig": "autosport",
+   "escopo": "Global",
+   "tier": "Generalista",
+   "dominio": "autosport.com",
+   "ts": "2026-08-02T12:48:21Z"
+  },
+  {
    "titulo": "KTM making plans to drop Maverick Vinales with immediate effect",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeF9YOEhFc0M5cG94SGZHUXNhb1doYVNEZFh4enU5ZXFFN3llLVR4cGIzOTlTamhrMTlIZTR5bEtzRUpCZDRFTXByZGRWRlVQSnY3X2c4eHpNVUYwcUVweGktTlVUQUt4dlJ3S2l0NlY3aldEMWRtVGJWZmNOaHRoVGg1ek9GMUVmWDNkWDVmMjRwNlJlZEs0VDE4aWs3SDR3aEpVd0VEUDk0c1FHOGdHNDRB?oc=5",
    "fonte": "Motorsport.com",
@@ -470,7 +500,7 @@
    "ts": "2026-08-02T07:27:31Z"
   },
   {
-   "titulo": "Enduro - motonline.com.br",
+   "titulo": "Enduro - Motonline",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kV1NZZUhYYUstN0l4eHpJOTZfSjZQYy11blFFSUxKTVRPdzFWdmFOek5CRTQ0V2JHams0Q1JHTWFvb0gzQ2FTVXpQVEMyMjE0R1U3Nk4yNGF5N0E?oc=5",
    "fonte": "Motonline",
    "ig": "motonline",
@@ -480,7 +510,7 @@
    "ts": "2026-08-02T07:22:53Z"
   },
   {
-   "titulo": "MotoGP - motonline.com.br",
+   "titulo": "MotoGP - Motonline",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5nR3ZWNkthd3dUZk9kY2xubkwyakx4VXQ4NDNfQV81OFltZklQY0UxTWl6UHpmWjdFOHluWXdjbUhOMG9ZdnpsYVRIYVRrbFRUVmdLcTZtVmlvWHMw?oc=5",
    "fonte": "Motonline",
    "ig": "motonline",
@@ -510,7 +540,7 @@
    "ts": "2026-08-02T06:54:55Z"
   },
   {
-   "titulo": "Segurança - motonline.com.br",
+   "titulo": "Segurança - Motonline",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzVHNyU05weEZFdWUyTmFHOHZ6Q0p5TW1MVHpjb0x6SF9WVkgzd09TXzgzUUpiVU9DTEpCVUJTanhLWDBjb192WnVheGdGcHR3ZUJxUHd5NVZXY0J2REk2RA?oc=5",
    "fonte": "Motonline",
    "ig": "motonline",
@@ -520,7 +550,7 @@
    "ts": "2026-08-02T06:51:06Z"
   },
   {
-   "titulo": "Competições - motonline.com.br",
+   "titulo": "Competições - Motonline",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBpaFBhT1dhTkxhd21kZFo3SU91dXVfRFREYWw2dDdSOGRYQUlTUHQ5bDhLbEhlOXlzM1lRNGNJbjRGVXNfbXRvVFNXU2NBMEthWjJsWGFaVDdPMEpKbWZmQTBWOA?oc=5",
    "fonte": "Motonline",
    "ig": "motonline",
@@ -610,6 +640,16 @@
    "ts": "2026-08-01T21:15:01Z"
   },
   {
+   "titulo": "Vídeos - Motonline",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5kUWlNTHhlSlN4UTAybEprWVdTenJ6WEJTdGhRUTNSY1RGUm05dWRocDRMdEwwZ2ZDMFhhWldPT0tDYVNieUxVSVdlR2Z2ZjlFeklVR3Q1UGlTbV9l?oc=5",
+   "fonte": "Motonline",
+   "ig": "motonline",
+   "escopo": "Brasil",
+   "tier": "Brasil",
+   "dominio": "motonline.com.br",
+   "ts": "2026-08-01T21:00:28Z"
+  },
+  {
    "titulo": "GP1000, Corrida Sprint",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9iU19oazQ0bnZXcWQ3LXY5RWRtQ2k3UlJZRjVZVG04bEl5dzhRdzdOSEdzM1VOY0VWUjVoUTlFTmhtT3JaY0Jydmk3TTlOd3VCUy12UVNFRQ?oc=5",
    "fonte": "MOTO1000GP",
@@ -638,16 +678,6 @@
    "tier": "Corrida",
    "dominio": "m1gp.com.br",
    "ts": "2026-08-01T18:10:00Z"
-  },
-  {
-   "titulo": "Página 1256 de 1480 - Principais Notícias sobre Lançamentos de Motos, Testes, Avaliações, Eventos, Competições e Muito Mais. Desde 1999, o mais completo site de Motos do Brasil!",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xNlp1NG5mSjgwQXBRbmFZRWlMbE9xeFJISldJcWZxVExGWHNyN3Nvc2R6bk95SmpOUHFNWF8xaGRoVFR0UXlISVZzVHZZbzRrU0hvcTJB?oc=5",
-   "fonte": "Motonline",
-   "ig": "motonline",
-   "escopo": "Brasil",
-   "tier": "Brasil",
-   "dominio": "motonline.com.br",
-   "ts": "2026-08-01T12:52:20Z"
   },
   {
    "titulo": "Chegou o blusão Glandon Air da BMW para reforçar oferta de equipamento de verão",
@@ -998,16 +1028,6 @@
    "tier": "Mundo",
    "dominio": "revzilla.com",
    "ts": "2026-07-31T16:25:53Z"
-  },
-  {
-   "titulo": "‘Marc Marquez seems a bit like Lewis Hamilton’: Guenther Steiner compares MotoGP and F1 champions",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ2k2ZDg2bUhYc2hGSjgxcXkxNmIxa2FhR0w5UWNiQTIzalhCRGp3ODBwMjYxR2pDSlA4Z2dxTVhOMXBmRHI2XzlXS0Q5SXU3UkZSX2lTYWZEYkpFWDQxTmRNdlVGTTBSTU9KelUwbjdYVFNNX3JFUEtGSTlST0xxb0Y4dHhpV0NNeWVFdDVPdTc4REpfQldoQkQ1UVFKS3Z1bjhlWmZleXR3RTVVajhDS1ZlQUh1Y19YQlpOd1hR?oc=5",
-   "fonte": "Crash MotoGP",
-   "ig": "crashmotogp_",
-   "escopo": "Global",
-   "tier": "Corrida",
-   "dominio": "crash.net",
-   "ts": "2026-07-31T16:06:54Z"
   },
   {
    "titulo": "Ducati 899 Panigale (2014-2016) - Review & Buying Guide",
@@ -1408,6 +1428,16 @@
    "tier": "Mundo",
    "dominio": "bikeexif.com",
    "ts": "2026-07-30T03:37:51Z"
+  },
+  {
+   "titulo": "Grit and Grace: 8 of our Favorite Triumph Trackers",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA2N3lyVGszRm1vQUtmdlphQ081ZEZEZE5yV1ZQemdRYl8yUVNBeU00UHQ1ck9TZEt5SGhac3pRN1NCVE15RnJWSEl0a05pLUJMY0xqZ3ZXejgwMjQ0WXNxWmNB?oc=5",
+   "fonte": "Bike EXIF",
+   "ig": "bikeexif",
+   "escopo": "Global",
+   "tier": "Mundo",
+   "dominio": "bikeexif.com",
+   "ts": "2026-07-30T00:28:17Z"
   },
   {
    "titulo": "First Look: 2026 Harley-Davidson Deadwood",
@@ -1850,16 +1880,6 @@
    "ts": "2026-07-27T21:15:22Z"
   },
   {
-   "titulo": "Grit and Grace: 8 of our Favorite Triumph Trackers",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA2N3lyVGszRm1vQUtmdlphQ081ZEZEZE5yV1ZQemdRYl8yUVNBeU00UHQ1ck9TZEt5SGhac3pRN1NCVE15RnJWSEl0a05pLUJMY0xqZ3ZXejgwMjQ0WXNxWmNB?oc=5",
-   "fonte": "Bike EXIF",
-   "ig": "bikeexif",
-   "escopo": "Global",
-   "tier": "Mundo",
-   "dominio": "bikeexif.com",
-   "ts": "2026-07-27T18:00:00Z"
-  },
-  {
    "titulo": "Is this a new S1000RR? Heavily updated BMW superbike spotted at Nürburgring Germany",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZE42NzdnYkZKNngyODB0OVhJMXBsUjFzMHpXQzZnWENBUnlGMFBwVlBqWnRoeWJvYU5pWHktU1plUWhuMGEyZE1aQ1htbXBXN3A5dHlGRl9obVlaaWJ1YjRtQWdiQzV6ZnZHZFdESVJVRmJ3R2RpRDVmRzhNYjhtejh2TG8?oc=5",
    "fonte": "Motorcycle News (MCN)",
@@ -2220,16 +2240,6 @@
    "ts": "2026-07-25T00:31:58Z"
   },
   {
-   "titulo": "Fly Racing 2027 Collection",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBkSEZBUDNibEd1d0d2MU1MckcxN3kxcUg3NmpRLXpaTzM3amVEaHBQdWN6bDJFOXhEVWVjemVuaC13dW5hOG1PQkZkdHBOOG1venozRWlnQ3dRV3pkQmdGTzUxdnlHYU5icVh1VjFlY1h1TlRKNnY4Uw?oc=5",
-   "fonte": "Cycle News",
-   "ig": "",
-   "escopo": "Global",
-   "tier": "Mundo",
-   "dominio": "cyclenews.com",
-   "ts": "2026-07-24T20:57:40Z"
-  },
-  {
    "titulo": "Sebrae Móvel leva atendimento gratuito a empreendedores durante o Ruas das Motos, no Centro de São Paulo",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeTZmVEZyVDg3TG1JTFdLQk1oYTg3bGh5Z1FaZjZvbEQ2bm5KN2ljenpRU1pid1kyNTJFa1ZkREp4RVBta2g5MEpYb0ZNemtTaUpHajhBVnR0SmM2Q2hWYnB3eXhmR25DeWFzXzlKcDNHb0h5V3Zzdm9naVpwR01seS1sNzZ5OFRtalZVN0JycmFKSm1ZUnRHYzZiUXRMX3NYeklQbExtQ3dZdFpVWmRzbUdDU05HR0dNajdwd1pfWEZfYk1Rd20wRA?oc=5",
    "fonte": "MotoMundo",
@@ -2307,6 +2317,16 @@
    "escopo": "Global",
    "tier": "Mundo",
    "dominio": "bikeexif.com",
+   "ts": "2026-07-24T07:00:00Z"
+  },
+  {
+   "titulo": "Fly Racing 2027 Collection",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBkSEZBUDNibEd1d0d2MU1MckcxN3kxcUg3NmpRLXpaTzM3amVEaHBQdWN6bDJFOXhEVWVjemVuaC13dW5hOG1PQkZkdHBOOG1venozRWlnQ3dRV3pkQmdGTzUxdnlHYU5icVh1VjFlY1h1TlRKNnY4Uw?oc=5",
+   "fonte": "Cycle News",
+   "ig": "",
+   "escopo": "Global",
+   "tier": "Mundo",
+   "dominio": "cyclenews.com",
    "ts": "2026-07-24T07:00:00Z"
   },
   {
@@ -2500,14 +2520,24 @@
    "ts": "2017-01-14T21:54:48Z"
   }
  ],
- "total_materias": 209,
- "materias_24h": 23,
+ "total_materias": 211,
+ "materias_24h": 27,
  "reddit": [],
  "em_alta": [
   {
    "tema": "Motogp",
-   "mencoes": 22,
+   "mencoes": 23,
    "materias": [
+    {
+     "titulo": "Instant Vinales/KTM MotoGP split would be best all round",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTGVtMENIbFp1VFppR042VG5jUTBFSHNRTEVKbDE1dFI0VVZXNGpWandUX0xsQ0tmSlhWbzlyRDZYcWpNN3F3SDhqR1A5Z1RVOE1oTEZJZ2YybDQ2a29QVENoVVB2RExOMVY2V3QzMkhteXB4cXZqbHpvUHkwMnZaRjNkQmtDNURnMXI5aV9xX3RFb0k?oc=5",
+     "fonte": "The Race MotoGP"
+    },
+    {
+     "titulo": "KTM reportedly considering axing Maverick Vinales before British MotoGP",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUTVwaEtuMW5nejBxM0kzbDdGM3l3dk84WDk4QnNtV182bG5wdXN5UXV6V1FzbGxKWmdhdUR0SDd2SF9scFh3N0JZV0p6SFF1VnB0MWNUSzBzV09saC1GZzVCdF82blFxQnV4dTAwOXd4ZTM1TlBTeEN3YjBhVG5iaE44NXduV1pFU3c0UXE1eVpreGpXZVhPeEVkaDJDcFl6aVE4QlktOWlKaU5r?oc=5",
+     "fonte": "Crash MotoGP"
+    },
     {
      "titulo": "How a Jack Miller MotoGP departure could affect Alvaro Bautista",
      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOX1hPcklqSGR4OU80LVNMTmJWWlpmMWtXMGlOREJYck5RXy1MUFZGdUdCdzhNNlMzcXlsNEpqM1cwNHNoSkxNbXJsRm1SNWFrRmZWcDdkcldRRWhhY1QtLTRxNVVfOWNiNGlxQTl6QU5KMEJ0Vl9BZWkzUDlXSjVhalJzREdQSDc4b0hOQ3FVNEo5Q1FGTDFiRDhOemMxZ0NtVFlnS2lPdDQ?oc=5",
@@ -2517,16 +2547,6 @@
      "titulo": "MotoGP, Aleix Espargaró: \"Martín's rival? Márquez. But watch out for Ogura\"",
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQalV1MGVsM2JtSktGazZ1dHJlS29xa3RxMVRSR0I0OHItYXNrSFJsXzRMN05JVmRzeF9DbGE2NlFkWE9Zd0xrZXZ1UFFpTHhYeUhfb0Z4OFM3THg5MGZDbE1DU2FVc3JzbHppSTlLSkdvNkVrcWw4TjduQmxDbElWU0Q5aVpxWEtaalA2RndqdEhyRnN1allldEZDQ01jc0J3cTVEaVJYRFd0ZnQtcnc?oc=5",
      "fonte": "GPOne"
-    },
-    {
-     "titulo": "MotoGP - motonline.com.br",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5nR3ZWNkthd3dUZk9kY2xubkwyakx4VXQ4NDNfQV81OFltZklQY0UxTWl6UHpmWjdFOHluWXdjbUhOMG9ZdnpsYVRIYVRrbFRUVmdLcTZtVmlvWHMw?oc=5",
-     "fonte": "Motonline"
-    },
-    {
-     "titulo": "Casey Stoner’s MotoGP riding style considered “impossible” by Ducati veteran",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNS0JIbzRxYU4xZGl3XzdPVl9MVkpVUkNLcnA0cGc2WEFkX256X0RJU09kc21EZDJZOUNWX2dWLXB0M3RXbUItU0dPQ1FYM2pvRDdVNjU3MERnMXNmYkVuRFkxZ0hGbW0wN0ZvbUZDcS1ySXVVajhwU0JJLUJ4QUhPMU1tSmUxdEt5Z1RaQ19GWlR4QlAtTWVFN2k5VHhMTHlaSVBRVk4zajhGWWRJbkVLeERkVFY?oc=5",
-     "fonte": "Crash MotoGP"
     }
    ]
   },
@@ -2661,6 +2681,32 @@
    ]
   },
   {
+   "tema": "Ktm",
+   "mencoes": 6,
+   "materias": [
+    {
+     "titulo": "Instant Vinales/KTM MotoGP split would be best all round",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTGVtMENIbFp1VFppR042VG5jUTBFSHNRTEVKbDE1dFI0VVZXNGpWandUX0xsQ0tmSlhWbzlyRDZYcWpNN3F3SDhqR1A5Z1RVOE1oTEZJZ2YybDQ2a29QVENoVVB2RExOMVY2V3QzMkhteXB4cXZqbHpvUHkwMnZaRjNkQmtDNURnMXI5aV9xX3RFb0k?oc=5",
+     "fonte": "The Race MotoGP"
+    },
+    {
+     "titulo": "KTM reportedly considering axing Maverick Vinales before British MotoGP",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUTVwaEtuMW5nejBxM0kzbDdGM3l3dk84WDk4QnNtV182bG5wdXN5UXV6V1FzbGxKWmdhdUR0SDd2SF9scFh3N0JZV0p6SFF1VnB0MWNUSzBzV09saC1GZzVCdF82blFxQnV4dTAwOXd4ZTM1TlBTeEN3YjBhVG5iaE44NXduV1pFU3c0UXE1eVpreGpXZVhPeEVkaDJDcFl6aVE4QlktOWlKaU5r?oc=5",
+     "fonte": "Crash MotoGP"
+    },
+    {
+     "titulo": "KTM might drop Vinales with immediate effect",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSTFZWUs3WXp6T01qR05feE9nOTBzMHl0bE05clJLcVBld0Q4VEhFSUkwWkEwbEtFa1BlTDg0blhoUmw4OUd6M0prSWZ6aGJwMktRN0FhSWxCSml0WDNNNURoVS1qQTR2dGpwZGItZlFKeUxXcjF4d3RFUmxPc05lYkxxa25FSG5URUZVVlFvTkpLUUZyd29jdDhqVEZZaXo2NTJn?oc=5",
+     "fonte": "Autosport"
+    },
+    {
+     "titulo": "KTM making plans to drop Maverick Vinales with immediate effect",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeF9YOEhFc0M5cG94SGZHUXNhb1doYVNEZFh4enU5ZXFFN3llLVR4cGIzOTlTamhrMTlIZTR5bEtzRUpCZDRFTXByZGRWRlVQSnY3X2c4eHpNVUYwcUVweGktTlVUQUt4dlJ3S2l0NlY3aldEMWRtVGJWZmNOaHRoVGg1ek9GMUVmWDNkWDVmMjRwNlJlZEs0VDE4aWs3SDR3aEpVd0VEUDk0c1FHOGdHNDRB?oc=5",
+     "fonte": "Motorsport.com"
+    }
+   ]
+  },
+  {
    "tema": "Superbike",
    "mencoes": 6,
    "materias": [
@@ -2685,42 +2731,26 @@
      "fonte": "Motorcycle News (MCN)"
     }
    ]
-  },
-  {
-   "tema": "Harley",
-   "mencoes": 5,
-   "materias": [
-    {
-     "titulo": "Harley-Davidson Is Probably Going to Build That Awesome Cafe Racer Concept",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOelE2eS04bVNMczhCRFhIQTdlUnQ4dHpRdm84eHltQkk4Z1ByV3JaMWJRMG5tbDM4Z1cta3lUN0dpNkhTbFBvSkdGN1lEYnhXTUxwUEU0UnRtM2t5S0hMeHVkYTFzVmhHbThSUEtwd0ZlU2JRMXdtVHdMbThSUWYxMkEyNTMzRUloTFFOTi03ZmdOWF9KMkVDazBLTjB1dFl4ZWZ2RHBlNjZERXZLU3VHaWVBdw?oc=5",
-     "fonte": "RideApart"
-    },
-    {
-     "titulo": "Flashback Friday: Bike EXIF’s Top 10 Harley-Davidson Customs of 2024",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB0NFRPX2FuVnFYNFZ5TjRTMXJqeWRCYlNGbVh5OGZJRzBnb0d2QVhBM3BLNzJUTncxOVBYV0YzNFdFYTN4ZU9YbGdTUXpKdEc2b1lqMkNIZkdMVHZrdEhHcTZZbzlZd01ENDhtWg?oc=5",
-     "fonte": "Bike EXIF"
-    },
-    {
-     "titulo": "Throwback Thursday, Kinetic Art: A Handbuilt Board Tracker with a Harley Sportster Engine",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORG4tS2tGaXpxaDRWckVFVlJRQWdWWWUyTmFzTENCLW41LVRSa2tfbjVwVTY4TUZvRXl1RDBOVWlFSUM1akJzNDI4blp2WGVjQ3RkYzZwTVZZZDJyWlFUck5yOGtuQ0tEYm5YUHFERV9TdjhtcWlFVTlzSWcwRG14bXFKclhPNENNQTQweU56MXBvT0l4cVh3Qzg2djd1QVU?oc=5",
-     "fonte": "Bike EXIF"
-    },
-    {
-     "titulo": "Harley-Davidson announces exclusive ticket packages for British MotoGP",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNb2phRmx1V1RTeDFZSkl3a25aRDhvRE1tLS1HQVdDWUdFMTNxZDdPYmRTSDhrSUs0QUloUWV4TTN5U2JUMDVGTjdnUDZrMW5CQkg5MnNZVmh2QjViQ09GdVhsbHN6Y0dab3g2WllRRUQ3VnU0bTVZR3FIN3hPWC1BaHJMb1lpTko2T0daN0V1TTRQbXRlSzJvZE9uRUhxUQ?oc=5",
-     "fonte": "Visordown"
-    }
-   ]
   }
  ],
  "pautas": [
   {
    "pauta": "Motogp",
-   "urgencia": "3 fontes / 48h",
-   "porque": "3 fontes publicaram sobre isso nas ultimas 48h.",
+   "urgencia": "4 fontes / 48h",
+   "porque": "4 fontes publicaram sobre isso nas ultimas 48h.",
    "furo": false,
-   "fontes": 3,
+   "fontes": 4,
    "materias": [
+    {
+     "titulo": "Instant Vinales/KTM MotoGP split would be best all round",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTGVtMENIbFp1VFppR042VG5jUTBFSHNRTEVKbDE1dFI0VVZXNGpWandUX0xsQ0tmSlhWbzlyRDZYcWpNN3F3SDhqR1A5Z1RVOE1oTEZJZ2YybDQ2a29QVENoVVB2RExOMVY2V3QzMkhteXB4cXZqbHpvUHkwMnZaRjNkQmtDNURnMXI5aV9xX3RFb0k?oc=5",
+     "fonte": "The Race MotoGP"
+    },
+    {
+     "titulo": "KTM reportedly considering axing Maverick Vinales before British MotoGP",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUTVwaEtuMW5nejBxM0kzbDdGM3l3dk84WDk4QnNtV182bG5wdXN5UXV6V1FzbGxKWmdhdUR0SDd2SF9scFh3N0JZV0p6SFF1VnB0MWNUSzBzV09saC1GZzVCdF82blFxQnV4dTAwOXd4ZTM1TlBTeEN3YjBhVG5iaE44NXduV1pFU3c0UXE1eVpreGpXZVhPeEVkaDJDcFl6aVE4QlktOWlKaU5r?oc=5",
+     "fonte": "Crash MotoGP"
+    },
     {
      "titulo": "How a Jack Miller MotoGP departure could affect Alvaro Bautista",
      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOX1hPcklqSGR4OU80LVNMTmJWWlpmMWtXMGlOREJYck5RXy1MUFZGdUdCdzhNNlMzcXlsNEpqM1cwNHNoSkxNbXJsRm1SNWFrRmZWcDdkcldRRWhhY1QtLTRxNVVfOWNiNGlxQTl6QU5KMEJ0Vl9BZWkzUDlXSjVhalJzREdQSDc4b0hOQ3FVNEo5Q1FGTDFiRDhOemMxZ0NtVFlnS2lPdDQ?oc=5",
@@ -2730,25 +2760,73 @@
      "titulo": "MotoGP, Aleix Espargaró: \"Martín's rival? Márquez. But watch out for Ogura\"",
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQalV1MGVsM2JtSktGazZ1dHJlS29xa3RxMVRSR0I0OHItYXNrSFJsXzRMN05JVmRzeF9DbGE2NlFkWE9Zd0xrZXZ1UFFpTHhYeUhfb0Z4OFM3THg5MGZDbE1DU2FVc3JzbHppSTlLSkdvNkVrcWw4TjduQmxDbElWU0Q5aVpxWEtaalA2RndqdEhyRnN1allldEZDQ01jc0J3cTVEaVJYRFd0ZnQtcnc?oc=5",
      "fonte": "GPOne"
+    }
+   ]
+  },
+  {
+   "pauta": "Vinales",
+   "urgencia": "4 fontes / 48h",
+   "porque": "4 fontes publicaram sobre isso nas ultimas 48h.",
+   "furo": false,
+   "fontes": 4,
+   "materias": [
+    {
+     "titulo": "Instant Vinales/KTM MotoGP split would be best all round",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTGVtMENIbFp1VFppR042VG5jUTBFSHNRTEVKbDE1dFI0VVZXNGpWandUX0xsQ0tmSlhWbzlyRDZYcWpNN3F3SDhqR1A5Z1RVOE1oTEZJZ2YybDQ2a29QVENoVVB2RExOMVY2V3QzMkhteXB4cXZqbHpvUHkwMnZaRjNkQmtDNURnMXI5aV9xX3RFb0k?oc=5",
+     "fonte": "The Race MotoGP"
     },
     {
-     "titulo": "MotoGP - motonline.com.br",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5nR3ZWNkthd3dUZk9kY2xubkwyakx4VXQ4NDNfQV81OFltZklQY0UxTWl6UHpmWjdFOHluWXdjbUhOMG9ZdnpsYVRIYVRrbFRUVmdLcTZtVmlvWHMw?oc=5",
-     "fonte": "Motonline"
-    },
-    {
-     "titulo": "Casey Stoner’s MotoGP riding style considered “impossible” by Ducati veteran",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNS0JIbzRxYU4xZGl3XzdPVl9MVkpVUkNLcnA0cGc2WEFkX256X0RJU09kc21EZDJZOUNWX2dWLXB0M3RXbUItU0dPQ1FYM2pvRDdVNjU3MERnMXNmYkVuRFkxZ0hGbW0wN0ZvbUZDcS1ySXVVajhwU0JJLUJ4QUhPMU1tSmUxdEt5Z1RaQ19GWlR4QlAtTWVFN2k5VHhMTHlaSVBRVk4zajhGWWRJbkVLeERkVFY?oc=5",
+     "titulo": "KTM reportedly considering axing Maverick Vinales before British MotoGP",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUTVwaEtuMW5nejBxM0kzbDdGM3l3dk84WDk4QnNtV182bG5wdXN5UXV6V1FzbGxKWmdhdUR0SDd2SF9scFh3N0JZV0p6SFF1VnB0MWNUSzBzV09saC1GZzVCdF82blFxQnV4dTAwOXd4ZTM1TlBTeEN3YjBhVG5iaE44NXduV1pFU3c0UXE1eVpreGpXZVhPeEVkaDJDcFl6aVE4QlktOWlKaU5r?oc=5",
      "fonte": "Crash MotoGP"
+    },
+    {
+     "titulo": "KTM might drop Vinales with immediate effect",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSTFZWUs3WXp6T01qR05feE9nOTBzMHl0bE05clJLcVBld0Q4VEhFSUkwWkEwbEtFa1BlTDg0blhoUmw4OUd6M0prSWZ6aGJwMktRN0FhSWxCSml0WDNNNURoVS1qQTR2dGpwZGItZlFKeUxXcjF4d3RFUmxPc05lYkxxa25FSG5URUZVVlFvTkpLUUZyd29jdDhqVEZZaXo2NTJn?oc=5",
+     "fonte": "Autosport"
+    },
+    {
+     "titulo": "KTM making plans to drop Maverick Vinales with immediate effect",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeF9YOEhFc0M5cG94SGZHUXNhb1doYVNEZFh4enU5ZXFFN3llLVR4cGIzOTlTamhrMTlIZTR5bEtzRUpCZDRFTXByZGRWRlVQSnY3X2c4eHpNVUYwcUVweGktTlVUQUt4dlJ3S2l0NlY3aldEMWRtVGJWZmNOaHRoVGg1ek9GMUVmWDNkWDVmMjRwNlJlZEs0VDE4aWs3SDR3aEpVd0VEUDk0c1FHOGdHNDRB?oc=5",
+     "fonte": "Motorsport.com"
+    }
+   ]
+  },
+  {
+   "pauta": "Ktm",
+   "urgencia": "4 fontes / 48h",
+   "porque": "4 fontes publicaram sobre isso nas ultimas 48h.",
+   "furo": false,
+   "fontes": 4,
+   "materias": [
+    {
+     "titulo": "Instant Vinales/KTM MotoGP split would be best all round",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTGVtMENIbFp1VFppR042VG5jUTBFSHNRTEVKbDE1dFI0VVZXNGpWandUX0xsQ0tmSlhWbzlyRDZYcWpNN3F3SDhqR1A5Z1RVOE1oTEZJZ2YybDQ2a29QVENoVVB2RExOMVY2V3QzMkhteXB4cXZqbHpvUHkwMnZaRjNkQmtDNURnMXI5aV9xX3RFb0k?oc=5",
+     "fonte": "The Race MotoGP"
+    },
+    {
+     "titulo": "KTM reportedly considering axing Maverick Vinales before British MotoGP",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUTVwaEtuMW5nejBxM0kzbDdGM3l3dk84WDk4QnNtV182bG5wdXN5UXV6V1FzbGxKWmdhdUR0SDd2SF9scFh3N0JZV0p6SFF1VnB0MWNUSzBzV09saC1GZzVCdF82blFxQnV4dTAwOXd4ZTM1TlBTeEN3YjBhVG5iaE44NXduV1pFU3c0UXE1eVpreGpXZVhPeEVkaDJDcFl6aVE4QlktOWlKaU5r?oc=5",
+     "fonte": "Crash MotoGP"
+    },
+    {
+     "titulo": "KTM might drop Vinales with immediate effect",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSTFZWUs3WXp6T01qR05feE9nOTBzMHl0bE05clJLcVBld0Q4VEhFSUkwWkEwbEtFa1BlTDg0blhoUmw4OUd6M0prSWZ6aGJwMktRN0FhSWxCSml0WDNNNURoVS1qQTR2dGpwZGItZlFKeUxXcjF4d3RFUmxPc05lYkxxa25FSG5URUZVVlFvTkpLUUZyd29jdDhqVEZZaXo2NTJn?oc=5",
+     "fonte": "Autosport"
+    },
+    {
+     "titulo": "KTM making plans to drop Maverick Vinales with immediate effect",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeF9YOEhFc0M5cG94SGZHUXNhb1doYVNEZFh4enU5ZXFFN3llLVR4cGIzOTlTamhrMTlIZTR5bEtzRUpCZDRFTXByZGRWRlVQSnY3X2c4eHpNVUYwcUVweGktTlVUQUt4dlJ3S2l0NlY3aldEMWRtVGJWZmNOaHRoVGg1ek9GMUVmWDNkWDVmMjRwNlJlZEs0VDE4aWs3SDR3aEpVd0VEUDk0c1FHOGdHNDRB?oc=5",
+     "fonte": "Motorsport.com"
     }
    ]
   },
   {
    "pauta": "Ducati",
-   "urgencia": "3 fontes / 48h",
-   "porque": "3 fontes publicaram sobre isso nas ultimas 48h.",
+   "urgencia": "2 fontes / 48h",
+   "porque": "2 fontes publicaram sobre isso nas ultimas 48h.",
    "furo": false,
-   "fontes": 3,
+   "fontes": 2,
    "materias": [
     {
      "titulo": "Casey Stoner’s MotoGP riding style considered “impossible” by Ducati veteran",
@@ -2769,25 +2847,6 @@
      "titulo": "Bikes & Beyond - ducati.com",
      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBmOFpBRU42cFNqMW5FUXE1c0MzQUZYTXJtcWRFQXl2bTZwU2ZSYU85bmVyY2pFQ1I1cDhTdjlqM2x3YkdIRmRyQXFDTXYybnJ1cnU1c0pZRHYzM0hBZjhtalVsYw?oc=5",
      "fonte": "Ducati Corse"
-    }
-   ]
-  },
-  {
-   "pauta": "Ktm",
-   "urgencia": "2 fontes / 48h",
-   "porque": "2 fontes publicaram sobre isso nas ultimas 48h.",
-   "furo": false,
-   "fontes": 2,
-   "materias": [
-    {
-     "titulo": "KTM making plans to drop Maverick Vinales with immediate effect",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeF9YOEhFc0M5cG94SGZHUXNhb1doYVNEZFh4enU5ZXFFN3llLVR4cGIzOTlTamhrMTlIZTR5bEtzRUpCZDRFTXByZGRWRlVQSnY3X2c4eHpNVUYwcUVweGktTlVUQUt4dlJ3S2l0NlY3aldEMWRtVGJWZmNOaHRoVGg1ek9GMUVmWDNkWDVmMjRwNlJlZEs0VDE4aWs3SDR3aEpVd0VEUDk0c1FHOGdHNDRB?oc=5",
-     "fonte": "Motorsport.com"
-    },
-    {
-     "titulo": "KTM “pleased and happy” with 2027 MotoGP rider line-up",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdGViUXA4cGotbXBtM1JuZFVMVGdqU3pSbU9GWVNDblE1dnhkWXdxU2N0NVFmUEpkWlhQTHJkRWRfc29lUmdFX3NaOTZ4N0RXSHUxNFpHR1BTV3dqSS1PVnFFcmtZZ1E5RWJMZFROZnJMN0VrODZFa2stRkhoRTJ6SlVjckJfTWxodERQUXZBQTlvUQ?oc=5",
-     "fonte": "Crash MotoGP"
     }
    ]
   },
@@ -3124,9 +3183,9 @@
  ],
  "marca": {
   "ga4": {
-   "sessions": 147044,
-   "users": 141945,
-   "updated_at": "2026-08-02T11:43:58Z"
+   "sessions": 147053,
+   "users": 141953,
+   "updated_at": "2026-08-02T14:10:27Z"
   }
  },
  "pesado_em": "2026-08-02T07:04:18Z",
