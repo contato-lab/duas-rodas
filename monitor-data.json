@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-01T23:16:29Z",
+ "updated_at": "2026-08-02T00:16:38Z",
  "fontes_monitoradas": [
   {
    "nome": "Grid Motors",
@@ -410,6 +410,36 @@
  ],
  "materias": [
   {
+   "titulo": "Grand Prix of Flanders Round 14 MXGP 2026, Qualifying Race",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOM09rUUZhU0Y2R0ZlUF9JT0ZhVWUtR1VpLVFYUVlzenk5ZXhzelJWMlllMHZ6RHFaT1ZoSmVnTWhqTW1KX2RkVXQ4anVERGJEY0ppLTY3QU92emt5U21na2hrMEMtemN1SmhibXFVSGt2UzFOVEtTazNkcGZ5eGJBMW5JUFV2ME4wRVVSMzNUOUNRUV9WM3lMLTdBSVIyYy0yOC1SamxaRS05RGFyTWc?oc=5",
+   "fonte": "Ducati Corse",
+   "ig": "ducaticorse",
+   "escopo": "Global",
+   "tier": "Corrida",
+   "dominio": "ducati.com",
+   "ts": "2026-08-01T22:18:24Z"
+  },
+  {
+   "titulo": "Daytona 660 Cup, Sexta-feira",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4RzRwRmRoV01PSmUxcHZ4WXVhaWVMOFVVNTY4a1N1OWVCQjRMQ2taNFpDWFNrMXYwSEVKTEM4NDZDMDlQeWJ3WExxeXNyRFBPZWNram9aZGhUZThPUVJB?oc=5",
+   "fonte": "MOTO1000GP",
+   "ig": "moto1000gp",
+   "escopo": "Brasil",
+   "tier": "Corrida",
+   "dominio": "m1gp.com.br",
+   "ts": "2026-08-01T21:36:00Z"
+  },
+  {
+   "titulo": "GP Light, Sexta-feira",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKTld0UkNiUVlITzQwRzFmTjBHbURucTUxcEYzM2w2WHY3aTZ5YTIwejlWX2hYc1BBc0hLTDB3OGNHbDNwZG9nZGkwc0t1T0E2bWVvR2dR?oc=5",
+   "fonte": "MOTO1000GP",
+   "ig": "moto1000gp",
+   "escopo": "Brasil",
+   "tier": "Corrida",
+   "dominio": "m1gp.com.br",
+   "ts": "2026-08-01T21:35:00Z"
+  },
+  {
    "titulo": "GP1000, Sexta-feira",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04UlFxUFVuTHFZUkFwdHM0dW9qOC1rZERQQ3RkdU0yX2Uwc0xzajhmYy1oVE1CeXRsMXJMdEpHM2hSeHpCUUhzMUNhQXQwb0dFVjNn?oc=5",
    "fonte": "MOTO1000GP",
@@ -418,6 +448,16 @@
    "tier": "Corrida",
    "dominio": "m1gp.com.br",
    "ts": "2026-08-01T21:34:00Z"
+  },
+  {
+   "titulo": "GP600, Sexta-feira",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB3bjVHVVZMN3ZJN2xLQjR3UmVBVEZYWUhLenRfWlI5R2h4UUYwZEpwVXhaYkw4TTBsUld0eVpGaUg0LURUQWZQb1M2c2w4YWFmdUE?oc=5",
+   "fonte": "MOTO1000GP",
+   "ig": "moto1000gp",
+   "escopo": "Brasil",
+   "tier": "Corrida",
+   "dominio": "m1gp.com.br",
+   "ts": "2026-08-01T21:28:00Z"
   },
   {
    "titulo": "GP1000, Corrida Sprint",
@@ -438,46 +478,6 @@
    "tier": "Corrida",
    "dominio": "m1gp.com.br",
    "ts": "2026-08-01T18:10:00Z"
-  },
-  {
-   "titulo": "GP600: Mário Salles confirma o ritmo e conquista a pole em Cascavel",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNXk5dTU1TklhMWJfLWVoN3NTMm1tbmdvNFViMFloYzI3dzM4SzRaRTBkSFBMc01VbWRINjVvNnh2ZUx4X0dvTWRmY2xTM29NcmhESmFrYWJqTk9aWXhUSFRKYVdBTWFjclVzMGxVY05sSmxqai1vUHBDSGJDYlN4eDN2QnR1aUFPWkZrdlNMS1A?oc=5",
-   "fonte": "MOTO1000GP",
-   "ig": "moto1000gp",
-   "escopo": "Brasil",
-   "tier": "Corrida",
-   "dominio": "m1gp.com.br",
-   "ts": "2026-08-01T17:54:00Z"
-  },
-  {
-   "titulo": "Daytona 660 Cup: João Carneiro mantém a dianteira e conquista a pole em Cascavel",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRjVKeWJuMkFNMWdHRGJvR1JmTlRucllMVWpuVDd5VGRtM2laR1RUOVJWX3h2WW9xbTFFNVBlWEVBbkhMUm5Lek1lY2o3RlhUM3R2WjhOZGd1NEg4MFRqNURLaWZSX0otQi1ORWlsSlRIOFNHX1hnTmlKaU9MLXE4SjUxUGhvZ2RDOHpnSUdmN21vOHhOVXp5R3hVRlVpQ3dBOFE?oc=5",
-   "fonte": "MOTO1000GP",
-   "ig": "moto1000gp",
-   "escopo": "Brasil",
-   "tier": "Corrida",
-   "dominio": "m1gp.com.br",
-   "ts": "2026-08-01T17:46:00Z"
-  },
-  {
-   "titulo": "Super Pole - MOTO1000GP",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE41ZWFMaFBRMUVrZ2N0WGhTYUtzU00tR1pOckpQNW93ZzdVUWU4V2lHZHJkZzlfRWJ2YVVKeVg4VF9iVDg5U0hfaA?oc=5",
-   "fonte": "MOTO1000GP",
-   "ig": "moto1000gp",
-   "escopo": "Brasil",
-   "tier": "Corrida",
-   "dominio": "m1gp.com.br",
-   "ts": "2026-08-01T15:15:00Z"
-  },
-  {
-   "titulo": "Página 1256 de 1480 - Principais Notícias sobre Lançamentos de Motos, Testes, Avaliações, Eventos, Competições e Muito Mais. Desde 1999, o mais completo site de Motos do Brasil!",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xNlp1NG5mSjgwQXBRbmFZRWlMbE9xeFJISldJcWZxVExGWHNyN3Nvc2R6bk95SmpOUHFNWF8xaGRoVFR0UXlISVZzVHZZbzRrU0hvcTJB?oc=5",
-   "fonte": "Motonline",
-   "ig": "motonline",
-   "escopo": "Brasil",
-   "tier": "Brasil",
-   "dominio": "motonline.com.br",
-   "ts": "2026-08-01T12:52:20Z"
   },
   {
    "titulo": "Chegou o blusão Glandon Air da BMW para reforçar oferta de equipamento de verão",
@@ -530,6 +530,16 @@
    "ts": "2026-08-01T08:40:13Z"
   },
   {
+   "titulo": "News - Motonline",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBSdWk5SUFZeWt2V2FxVnIzblpzU0dVZVVDYldYYVQ5N1ljRjJBZ1RXbEc4OGpNREt4WXZHbTFOdXh4dFFCb0VXb2s2dGZKQ0tia1ZiWHUyOHM3SUktYlo3ZQ?oc=5",
+   "fonte": "Motonline",
+   "ig": "motonline",
+   "escopo": "Brasil",
+   "tier": "Brasil",
+   "dominio": "motonline.com.br",
+   "ts": "2026-08-01T08:23:29Z"
+  },
+  {
    "titulo": "Toto Wolff caveats McLaren's Hungary victory after Mercedes' performance dip",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRzVrYXpaWHhTbmIyQW0yYkZTdjR5XzJ2VEhCVy0yMENNbUcteGZPOF93dE41YXhGZngzdWtHT29HdlJxTGJrd2lXRHQza3dDY2F6MTdhQ2lkM196MVdNdlRrdUJMNm9ycHR1SnZSTGpranRBTUNJVUlsdnFPZkJNZ1llRUNFYlZVNVloQk11OVV6S2p4Wlh5c192ZFh0cGR2cEUweXpFMWQ3cU44bmREcnBzYks?oc=5",
    "fonte": "Crash MotoGP",
@@ -548,6 +558,16 @@
    "tier": "Corrida",
    "dominio": "crash.net",
    "ts": "2026-08-01T07:00:00Z"
+  },
+  {
+   "titulo": "Tuning - Motonline",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15NVhZYUoxNkZKRjNNOGRtQnFaU3RkNlpfdWRETHZoZ0djVXVyMGFmcHV1RDU4MXk0VGl0TklhSHc0ZDBHa3liUmdKVVhURng1MFBwSG1vVGV3Um8?oc=5",
+   "fonte": "Motonline",
+   "ig": "motonline",
+   "escopo": "Brasil",
+   "tier": "Brasil",
+   "dominio": "motonline.com.br",
+   "ts": "2026-08-01T06:59:06Z"
   },
   {
    "titulo": "12 Off-Road Riding Destinations Worth Loading the Truck For",
@@ -590,7 +610,7 @@
    "ts": "2026-08-01T02:43:00Z"
   },
   {
-   "titulo": "Competições - motonline.com.br",
+   "titulo": "Competições - Motonline",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4OGxsMXpjamhGS3d4WnJ6dG95aGxQQTRWaTVxZ1I4RzRNTlc0dFZGRWdsRG5SWDY5ZXNQdWM4S2VFNmI4ZkxDOFhJN2ZpQkhxTTRfeGUzY2tfcFhxV2ZZVGt1MkU?oc=5",
    "fonte": "Motonline",
    "ig": "motonline",
@@ -620,16 +640,6 @@
    "ts": "2026-07-31T23:49:49Z"
   },
   {
-   "titulo": "Rally Dakar - motonline.com.br",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE40YkZvUUs2RWEtQVVBcUpMVGxXb0hwTTRfZ2hxZTZXZkYySTRua1UycHBNNXFwTnYwQkNaekJ6aWhpRXdGY0pab1BrWmRONnJtd002emdxNWpzbG84U2RmRWFwcw?oc=5",
-   "fonte": "Motonline",
-   "ig": "motonline",
-   "escopo": "Brasil",
-   "tier": "Brasil",
-   "dominio": "motonline.com.br",
-   "ts": "2026-07-31T22:27:26Z"
-  },
-  {
    "titulo": "Cardo Beyond GT / GTS Replacement Battery Cover",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQ0lNTlBEVGxqWnhtUEUtR2lBQzZTQnNuQ1dsaWw5eFI3bmZnYXlJSlptODV2eHFRMldOX045NGxCTHR2aWNZcWUxV2FTQ0pxWktmNy1SUl80WVZndlBzb2ZnREtMSnYzY0NNUGJWVVdSUTYxMXl4cnZoQmE4dGF5c2ZfclQ0ZjZ2?oc=5",
    "fonte": "RevZilla Common Tread",
@@ -640,7 +650,7 @@
    "ts": "2026-07-31T22:22:27Z"
   },
   {
-   "titulo": "Offroad - motonline.com.br",
+   "titulo": "Offroad - Motonline",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Bb0lQcko5d2VhYVZQYkk5MDdFbWh0NG9ISnFmWndRU0ZRNmhQMEpRa3FuejJsSEVrb0RCRkctZzNMS3BiNEQzb1BTVkNkc3BlQWlBTVgxNDlIWHFLcm1B?oc=5",
    "fonte": "Motonline",
    "ig": "motonline",
@@ -808,16 +818,6 @@
    "tier": "Corrida",
    "dominio": "worldsbk.com",
    "ts": "2026-07-31T17:40:15Z"
-  },
-  {
-   "titulo": "Ducati Stories - Ducati",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1WaUx4VTluakFlZDNXbUVua1N1OU82WEhrZy1XXzZibVFZdzhLUGI1aUp3T2FyN2JjMEZqN2VwTHZjeVBVcmhNb29JTGVVWkRuQ3JWUVVuTm82U05YcHhHdC1hRURubG5UT2pBelMxZlJmc3AyQjk0?oc=5",
-   "fonte": "Ducati Corse",
-   "ig": "ducaticorse",
-   "escopo": "Global",
-   "tier": "Corrida",
-   "dominio": "ducati.com",
-   "ts": "2026-07-31T17:10:10Z"
   },
   {
    "titulo": "The Land of Lincoln, Springfield, IL",
@@ -1220,16 +1220,6 @@
    "ts": "2026-07-30T09:09:10Z"
   },
   {
-   "titulo": "Janus Motorcycles goes price-conscious with new Origin models",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBaSVg5VVBVaXhibUlTWGRnZWVPNWU2OFZDQmZhMDVlU1RUbWZBSk9VVG00ME5SZ1BXTDAyR21rUHhRR1ZkUnNuN1o4UklIS0lQSVhvcmFPUENBNHN3MU90OE9OTEFUREdRdzVGU25lbjNPLWNxMlE?oc=5",
-   "fonte": "RevZilla Common Tread",
-   "ig": "",
-   "escopo": "Global",
-   "tier": "Mundo",
-   "dominio": "revzilla.com",
-   "ts": "2026-07-30T09:03:02Z"
-  },
-  {
    "titulo": "WSBK, Morbidelli-Gonzalez: Red showdown for Bulega's Ducati V4!",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeXNrMDBpWGF0MUlWdW00YlVVdFlmRDMzdGZzSU9xMVh5ZEw0Tkt3clp3MFdZXzdOZ0ZUYmZYZnJCejBITmVKTDJ1RndXbmJoTmtzUzZvcjFfUEtGTTJCeDRVZTRPbUFoNUY3amprbW9fa0hQcnVWcXlEWkFzSHRsbEstWWdsWEg2bXJkejYxNE5neTZxWUR0bUw1NFAwZENlLXc?oc=5",
    "fonte": "GPOne",
@@ -1338,6 +1328,16 @@
    "tier": "Mundo",
    "dominio": "motorcyclenews.com",
    "ts": "2026-07-29T16:32:23Z"
+  },
+  {
+   "titulo": "Confira a programação do MOTO1000GP em Cascavel (PR) neste fim de semana",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVTN4Q2FUQUxMd1RheEZFOXA0N3FHNlY0MDN3MVBaclNaSGhPX2gzRk5iUDllSFlDbmZJOW5WSm9NUGpjY25lOWJPb1o1SENyNjVadG1kQ3h0YXRGSjdKeVFEU1N1anNoMUlrNFRXN0d6V0tRR0w0WkFXWGkzRUUxUG10TW5JcE5sby1SVWVKUktuckwzSHY5R0U0TVE?oc=5",
+   "fonte": "MotoMundo",
+   "ig": "motomundo.com.br",
+   "escopo": "Brasil",
+   "tier": "Criador",
+   "dominio": "motomundo.com.br",
+   "ts": "2026-07-29T16:19:43Z"
   },
   {
    "titulo": "Yamaha “excited” for MotoGP 2027 as new riders bring “fresh air”",
@@ -1640,26 +1640,6 @@
    "ts": "2026-07-28T05:36:17Z"
   },
   {
-   "titulo": "Honda Racing encara rodada dupla decisiva no MX1GP Brasil em Pernambuco",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONWtibWl2LWhmekN3S1A3YzFobTVQUVpvVG83YXBxUU1NemZ3V2xSV0dXNjhyZ0pXck9pSXotX3g0RnlQMjVjSEZjQi1aRmQ5c1E4clhob0NHLWE4S0I3dENuM2FSNElhWS1XOGNsUTEwUXJ2U0ZWU05aZ042Z2RYN3VpaktnMWttOGZLM1lKc2lzUUphWVpKOGlyRUNrdw?oc=5",
-   "fonte": "MotoMundo",
-   "ig": "motomundo.com.br",
-   "escopo": "Brasil",
-   "tier": "Criador",
-   "dominio": "motomundo.com.br",
-   "ts": "2026-07-28T01:27:01Z"
-  },
-  {
-   "titulo": "Cafe racer, bobber and scrambler motorcycles",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcUhZRUxkTFJXSUdXNVo4eTVJUlZYeDR3dnY4TzUzTXJBY25UaWt3TVFpTGZlZko4UGtydHRaYXJrR0dYZVM4YkdBZUNoR1g0clB0NWZyTnJnZlZqZzNOSjBpaWFiUm0zMnF2M0kzS2xnU29WZnNGeGE1T3FYNW5fWDlqRnNPZl9iaThZ?oc=5",
-   "fonte": "Bike EXIF",
-   "ig": "bikeexif",
-   "escopo": "Global",
-   "tier": "Mundo",
-   "dominio": "bikeexif.com",
-   "ts": "2026-07-27T23:54:23Z"
-  },
-  {
    "titulo": "Motorcycle News, Reviews, and Electric Bike Insights",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1WQzNtb1RRTWE1US1XVzNDbUYyeVhscVlyRzhuRFg2NHdqOFpaaFFiRWdnZ3F2empWdGhRVHBWaTdTWDdLa3BwbVF2cFViRE9VVmt4SWZpQUg3Y28?oc=5",
    "fonte": "IAMABIKER",
@@ -1690,7 +1670,7 @@
    "ts": "2026-07-27T18:00:00Z"
   },
   {
-   "titulo": "Is this the next BMW S1000RR?",
+   "titulo": "Is this a new S1000RR? Heavily updated BMW superbike spotted at Nürburgring Germany",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZE42NzdnYkZKNngyODB0OVhJMXBsUjFzMHpXQzZnWENBUnlGMFBwVlBqWnRoeWJvYU5pWHktU1plUWhuMGEyZE1aQ1htbXBXN3A5dHlGRl9obVlaaWJ1YjRtQWdiQzV6ZnZHZFdESVJVRmJ3R2RpRDVmRzhNYjhtejh2TG8?oc=5",
    "fonte": "Motorcycle News (MCN)",
    "ig": "motorcyclenews",
@@ -1778,6 +1758,16 @@
    "tier": "Brasil",
    "dominio": "andardemoto.com.br",
    "ts": "2026-07-27T10:05:59Z"
+  },
+  {
+   "titulo": "CSC Motorcycles shutting down: The end of the “bike in a box” era",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5aUXZhRVRxS1dkVmNnVnBvWkZVLTh6V1VZTFZPc0hDaG9OdUl0NUdZMEdDazNheGZ3cU80bnR6cHhZeVdfY0NWdzFFR0RobTFNcEdLUWNxbVBSQW9CSktNMllReG5EaVJidEdZUjF3a3hCZHJNZmc?oc=5",
+   "fonte": "RevZilla Common Tread",
+   "ig": "",
+   "escopo": "Global",
+   "tier": "Mundo",
+   "dominio": "revzilla.com",
+   "ts": "2026-07-27T08:19:13Z"
   },
   {
    "titulo": "2026 Maruti Brezza Detailed Price and Variant List | Automotive and Technology - News and Reviews",
@@ -2070,6 +2060,16 @@
    "ts": "2026-07-24T17:13:00Z"
   },
   {
+   "titulo": "New helmet hurts head?",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxON1hWWE5pc1JneWQ2aER2RGR1eHV5NnBldERxVXBIVGJUTlNPOEhBU1dlMzZPVmhRa01IVE1CRHVkeFpfRFN4Z1JtWkRQQjhzMEhjOTBwNE5STkFISm5laEZEMEo3N1c0TmE5MS1xMFdyVVBGWUp0NXYxaVE5NUpsTEdOd3MwTFJaYVZJSXFMNHdsb3U2LUE?oc=5",
+   "fonte": "Bennetts BikeSocial",
+   "ig": "bennetts_bike",
+   "escopo": "Global",
+   "tier": "Mundo",
+   "dominio": "bennetts.co.uk",
+   "ts": "2026-07-24T16:45:50Z"
+  },
+  {
    "titulo": "Semana do Motociclista do MOTO1000GP celebra a paixão pelas duas rodas pelo segundo ano consecutivo",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUTRtb0hVYmQwaDN3VThSa2xYZklwY2U2QmRqa1dkVjgzVjE4cXNxanpabW14MHFYQ2ZpT1RmRkxjSnVRb0JRZGxFb01FRjVVM1VEYlFsM2loQ3NHTlVZRlQwdlVSMjI2anRRdXBnMjN2MkdKZ2VYcm0xaVpxZ09UN3RJLWdpWHpxby10YzV4akx4QUdlQmVINjBkSm9qTkFoRlB1Mmk5bUMxN2hjcDVsSktlZjAwS3FibWhIUklYaDh1SFU?oc=5",
    "fonte": "MotoMundo",
@@ -2188,6 +2188,16 @@
    "tier": "Brasil",
    "dominio": "motociclismoonline.com.br",
    "ts": "2026-07-23T19:02:46Z"
+  },
+  {
+   "titulo": "Cafe racer, bobber and scrambler motorcycles",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9nNDJiWFJPbjN1b2JrcTFjcWUwSW9xVlJQSUVocjNzZlVwb3JPcGc3akdDWl9scmhyZ2tfNllNQUVpTlVDRGpRU2tQWXlJbngyTVNxaTlnU1lSeG5IdVE?oc=5",
+   "fonte": "Bike EXIF",
+   "ig": "bikeexif",
+   "escopo": "Global",
+   "tier": "Mundo",
+   "dominio": "bikeexif.com",
+   "ts": "2026-07-23T16:22:25Z"
   },
   {
    "titulo": "Honda GL1800 Gold Wing Tour 50th Anniversary, Veja Preço E Ficha Técnica",
@@ -2480,36 +2490,10 @@
    "ts": "2017-01-14T21:54:48Z"
   }
  ],
- "total_materias": 207,
- "materias_24h": 21,
+ "total_materias": 208,
+ "materias_24h": 20,
  "reddit": [],
  "em_alta": [
-  {
-   "tema": "Honda",
-   "mencoes": 21,
-   "materias": [
-    {
-     "titulo": "Honda reveal fresh 10-strong line-up in India amid increased production focus in the country",
-     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1EUlBWSnlVRk9KcVB2bjZ6QW1BaVUxeW90TEJaRGc4RHNXblZXV0VWS1VHQi1SYVliNkFZVGFuTFoxT3pKbUpyU3ZHZ2JHZHZYVHM5TnJ6MVByZ3hyclpEcnZYa2lfa2hkZGRrc2RXS2VQS0lNZU84?oc=5",
-     "fonte": "Motorcycle News (MCN)"
-    },
-    {
-     "titulo": "Nova Honda Tornado 2027 Na Cor Preta (Black), Veja Fotos E Preço Da XR300L",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xSmgxWDkyUUNlWWVUYmx1LUZHc29UZjFWZHN3NW1Cejh3VlpkMXNxQURpY0RLT2tWZWhkanVxX2hFVDNRcXN4M213ejBnUGNtTmVLcnloRnRzVEJ3SGxBZkZIN09VYkVVbVo0?oc=5",
-     "fonte": "MotoRede"
-    },
-    {
-     "titulo": "Review: 2026 Honda CBR500R, Not As It Seems",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1DTHZKOXlWTFJmRUFlSXNiVlNsdVZQLVpFMWUtM2ZCRTNlVGhic2FYd0FXWE15dGlaX3VOTmJQRGxLRVJUVFNKS3hfTXdBZmRRRDdTdmU2SXpKbUgtSTRvbklnY2xVVFV4NHBPU2h3UXM?oc=5",
-     "fonte": "Rider Magazine"
-    },
-    {
-     "titulo": "Honda, LS2, Royal Enfield, BMW e CFMoto escolhem o Capital Moto Week para lançar novidades no mercado brasileiro",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNY0FkUGYwNm5GdXRFRFczMnNvWFRXZ3k3R1cyaUtJYWpoSFlpNTYyNnozbjFYWnMxenpHY29oTk1xSjg2Qm5BVlY2Uy1helZreDJ6OHRxdWt0bkJMX2Y2OWRfMEJwd3o3SVlsZFJtUXVVLXpoSHVBVkMybndPYUp3TWRkWTNLX2k0WlZ6YW5CT1ZjbURVMEtmaF85am1SS19ZUjlWMVZINXNITjJEcHozQUVyRXVGX2hTYTdYczdwVV8ySmYxQmtGSjR4cjQwcm55Y1JkQm9R?oc=5",
-     "fonte": "Revista Moto Adventure"
-    }
-   ]
-  },
   {
    "tema": "Motogp",
    "mencoes": 20,
@@ -2537,8 +2521,34 @@
    ]
   },
   {
+   "tema": "Honda",
+   "mencoes": 20,
+   "materias": [
+    {
+     "titulo": "Honda reveal fresh 10-strong line-up in India amid increased production focus in the country",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1EUlBWSnlVRk9KcVB2bjZ6QW1BaVUxeW90TEJaRGc4RHNXblZXV0VWS1VHQi1SYVliNkFZVGFuTFoxT3pKbUpyU3ZHZ2JHZHZYVHM5TnJ6MVByZ3hyclpEcnZYa2lfa2hkZGRrc2RXS2VQS0lNZU84?oc=5",
+     "fonte": "Motorcycle News (MCN)"
+    },
+    {
+     "titulo": "Nova Honda Tornado 2027 Na Cor Preta (Black), Veja Fotos E Preço Da XR300L",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xSmgxWDkyUUNlWWVUYmx1LUZHc29UZjFWZHN3NW1Cejh3VlpkMXNxQURpY0RLT2tWZWhkanVxX2hFVDNRcXN4M213ejBnUGNtTmVLcnloRnRzVEJ3SGxBZkZIN09VYkVVbVo0?oc=5",
+     "fonte": "MotoRede"
+    },
+    {
+     "titulo": "Review: 2026 Honda CBR500R, Not As It Seems",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1DTHZKOXlWTFJmRUFlSXNiVlNsdVZQLVpFMWUtM2ZCRTNlVGhic2FYd0FXWE15dGlaX3VOTmJQRGxLRVJUVFNKS3hfTXdBZmRRRDdTdmU2SXpKbUgtSTRvbklnY2xVVFV4NHBPU2h3UXM?oc=5",
+     "fonte": "Rider Magazine"
+    },
+    {
+     "titulo": "Honda, LS2, Royal Enfield, BMW e CFMoto escolhem o Capital Moto Week para lançar novidades no mercado brasileiro",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNY0FkUGYwNm5GdXRFRFczMnNvWFRXZ3k3R1cyaUtJYWpoSFlpNTYyNnozbjFYWnMxenpHY29oTk1xSjg2Qm5BVlY2Uy1helZreDJ6OHRxdWt0bkJMX2Y2OWRfMEJwd3o3SVlsZFJtUXVVLXpoSHVBVkMybndPYUp3TWRkWTNLX2k0WlZ6YW5CT1ZjbURVMEtmaF85am1SS19ZUjlWMVZINXNITjJEcHozQUVyRXVGX2hTYTdYczdwVV8ySmYxQmtGSjR4cjQwcm55Y1JkQm9R?oc=5",
+     "fonte": "Revista Moto Adventure"
+    }
+   ]
+  },
+  {
    "tema": "Ducati",
-   "mencoes": 12,
+   "mencoes": 11,
    "materias": [
     {
      "titulo": "An Interview with Francesco Bagnaia and Marc Márquez. - Racing | Storie Ducati",
@@ -2668,12 +2678,17 @@
   },
   {
    "tema": "Superbike",
-   "mencoes": 4,
+   "mencoes": 5,
    "materias": [
     {
      "titulo": "WSBK, From MotoGP to Superbike: BMW chose Brad Binder for 2027",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaUZPRDZNaFVmbTJLdXZ4R3lfSC0tTmppVkVpWHJidTkwVm5qU1VmR2dCQzVkSlJCZVp4UzNOS29JQWVBbElsaTNGOC15NFFuZEV5YTBpVEh6UWJrcVRneDYwVFJyWUNJODI2dkdrUDhjWlNrRDc5RW94ckl2M1NSZThhSWdEQ3JyMW1DMmlRU01KdzNsa3RQWXZOUzViQlFqNS0w?oc=5",
      "fonte": "GPOne"
+    },
+    {
+     "titulo": "Is this a new S1000RR? Heavily updated BMW superbike spotted at Nürburgring Germany",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZE42NzdnYkZKNngyODB0OVhJMXBsUjFzMHpXQzZnWENBUnlGMFBwVlBqWnRoeWJvYU5pWHktU1plUWhuMGEyZE1aQ1htbXBXN3A5dHlGRl9obVlaaWJ1YjRtQWdiQzV6ZnZHZFdESVJVRmJ3R2RpRDVmRzhNYjhtejh2TG8?oc=5",
+     "fonte": "Motorcycle News (MCN)"
     },
     {
      "titulo": "Superbike Factory Employees Report Seeing Warning Signs But Not Realizing How Bad Things Were",
@@ -2684,11 +2699,6 @@
      "titulo": "WSBK, Superbike heads toward 2027: all the test dates",
      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYWVmaU50Q0w0bWRRa0pCTThNLW5TNEFEWFNpejJuRy1LNGppN2trQmpUejgycUJ2TXBTN3p0TGxTZWZ1OGFXbFduQjFxRXMxTUJMcXVmTlVMYnZiYWV3dnhVMlA0ODZIRVlDQzdzVnU3NzlFOEhJLUlEQ0VkV1RXM3QxN09WMjVpaGVkYWRiQ19yNHRmMXJN?oc=5",
      "fonte": "GPOne"
-    },
-    {
-     "titulo": "Homepage - Superbike",
-     "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE4tdEhXUlFaMjNpcHpKRzE3NkE1dUNPS2RKVUNDT29fY0N2YWhZTkwxc2FpNkZwTDRTMk1kUkJn?oc=5",
-     "fonte": "SuperBike Brasil"
     }
    ]
   }
@@ -3071,9 +3081,9 @@
  ],
  "marca": {
   "ga4": {
-   "sessions": 147729,
-   "users": 142638,
-   "updated_at": "2026-08-01T21:28:32Z"
+   "sessions": 147787,
+   "users": 142692,
+   "updated_at": "2026-08-01T23:32:18Z"
   }
  },
  "pesado_em": "2026-08-01T09:26:45Z",
