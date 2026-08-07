@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-08-07T05:57:32Z",
+ "updated_at": "2026-08-07T07:53:13Z",
  "property": "397973331",
  "totals": {
-  "sessions": 89242,
-  "users": 84222,
-  "pageviews": 126039
+  "sessions": 89322,
+  "users": 84299,
+  "pageviews": 126167
  },
  "daily": [
   {
@@ -632,24 +632,24 @@
   },
   {
    "date": "2026-08-06",
-   "sessions": 841,
-   "users": 779,
-   "new_users": 598,
-   "pageviews": 1173
+   "sessions": 921,
+   "users": 856,
+   "new_users": 661,
+   "pageviews": 1301
   }
  ],
  "canais": [
   {
    "canal": "Organic Search",
-   "sessions": 15680
+   "sessions": 15709
   },
   {
    "canal": "Direct",
-   "sessions": 12413
+   "sessions": 12436
   },
   {
    "canal": "Organic Social",
-   "sessions": 493
+   "sessions": 502
   },
   {
    "canal": "AI Assistant",
@@ -661,7 +661,7 @@
   },
   {
    "canal": "Unassigned",
-   "sessions": 17
+   "sessions": 18
   },
   {
    "canal": "Organic Video",
