@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-08T09:04:45Z",
+ "updated_at": "2026-08-08T09:58:11Z",
  "fontes_monitoradas": [
   {
    "nome": "Grid Motors",
@@ -420,16 +420,6 @@
    "ts": "2026-08-08T08:48:23Z"
   },
   {
-   "titulo": "Notícias Automotivas - Carros 2026 , motos e lançamentos",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE44MmtsR0NPbXJ3YkxUX0NFd2dCYWtDdk8xUy1CZS1WWi1SVExpOU9aS3NmaWpWV0Z5aHY5anFsdFhKSWZUbW8wMC12ZXhFSktMdm1ZNF9DRQ?oc=5",
-   "fonte": "Garagem 360",
-   "ig": "sitegaragem360",
-   "escopo": "Brasil",
-   "tier": "Generalista",
-   "dominio": "garagem360.com.br",
-   "ts": "2026-08-08T02:56:50Z"
-  },
-  {
    "titulo": "Marc Marquez: “I’m slower” in corners that used to be my strength at Silverstone",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVi1TOWZQY05FM0pEbnAyVk5tT3ZtZ0xfN3BMdHp6VDNMcTZEbVYwMW9rV04yTlROaG91bHZRNWtZbV9yZ2M3THpxTTUyTTJiMnQtN3VfZHZ2VllvbnI1WXEyVkxpS0NhSW1tV3RUZ0M0VWExMUt1NWNZWWkxZEhlR2RHOWF0VWo3YlAwY1I4X0NrTWxNV2NWaEZhWEhQNjZoVWgxYmdoTDV3d3hiNG1xa2h1Y210OFAtZzNJenl3U1VTNmlO?oc=5",
    "fonte": "Motorsport.com",
@@ -438,6 +428,16 @@
    "tier": "Generalista",
    "dominio": "motorsport.com",
    "ts": "2026-08-07T22:39:10Z"
+  },
+  {
+   "titulo": "Marco Bezzecchi reveals “disaster” injury ordeal after smashing Silverstone lap record",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSTAtRnhNRzJiWjRpekJlUkw5d1pZQ1dhb0dsVVNhSktTV3NNVEs2YzhWanBMRWdEdEdhOEs2aS05N1ZhanpVMUJWM0V6Q0RIMFFqb2ZLVHEzc1NqUTFHc3NncGNUYXR3WGg4eC0td2x6NzNfdEdrNlNOQm9KbDNXLWMxZnhaWGtMLUhCMjlQbXdyQWNzenVqdmtwR2tNUHNFNmwzTi13ZFR2bTg0SDZESHBJNnRXSjN3ck85ZWk5aUt2VFE0RF8xSW13dHJNdw?oc=5",
+   "fonte": "Motorsport.com",
+   "ig": "motorsportcom",
+   "escopo": "Global",
+   "tier": "Generalista",
+   "dominio": "motorsport.com",
+   "ts": "2026-08-07T22:37:58Z"
   },
   {
    "titulo": "MotoGP British GP: Returning Marco Bezzecchi tops Friday practice as Aprilia dominates",
@@ -520,6 +520,16 @@
    "ts": "2026-08-07T19:41:18Z"
   },
   {
+   "titulo": "Ducati Johannesburg",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE43X1c4YWFHeFg0dnNsSHZ0bWtaRFJSZHE3eGlmeWU4RjN0MkhkbnRET0h2aUczT3JSM3o2OThzekRyRE5xNVJqblBvV25ZRzI5RlJSaHJval9ST2o3WGltN2lxSldJRERWQVV2WmtnTVRnSGxQM0hDRw?oc=5",
+   "fonte": "Ducati Corse",
+   "ig": "ducaticorse",
+   "escopo": "Global",
+   "tier": "Corrida",
+   "dominio": "ducati.com",
+   "ts": "2026-08-07T19:10:02Z"
+  },
+  {
    "titulo": "Pedro Acosta plays down performance gain from KTM MotoGP engine fix",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNmZaLVdlNEJBNGN6UEEyYmxwTGNOTVNaa1FaYlBpblhoNF9DeG1LbE1lc0hEV2x6ZkRLLVd6bmYwRHp2Wnk3VlZZWDRKLUxGNnBTLWJ2czZvZmVzbmN6dUozT0laNm9femtEeFNoU0FSNjEwRUhaSGNNNTVpd190RGhRZS02aG96cjB6UnRRbXRsbEFOMk4xWm1ZLTk1WW1IY3RiNXNHaHhrUQ?oc=5",
    "fonte": "Crash MotoGP",
@@ -528,6 +538,16 @@
    "tier": "Corrida",
    "dominio": "crash.net",
    "ts": "2026-08-07T19:07:32Z"
+  },
+  {
+   "titulo": "Pecco Bagnaia’s core problem remains at Silverstone MotoGP",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRUx5bEMzS2txbjBNQUxNUW5xcmpiaEhrREdIOWhzYlF0a0pYYWMyV05PeFgyMW9lMzZ0UW5zUWtJSzdqM0RIZEhXbTlSMnFqRzdNdzlXcGoyRkxVdFVqRERxZ3ZnOXNtbzRiUFVQbDU2WEc5TXJRZkFyQmx3NE55b1dmMjdZM2R4LTNWQXpOaTZhREpUUHNDcDFUdVJZdGM?oc=5",
+   "fonte": "Crash MotoGP",
+   "ig": "crashmotogp_",
+   "escopo": "Global",
+   "tier": "Corrida",
+   "dominio": "crash.net",
+   "ts": "2026-08-07T19:03:11Z"
   },
   {
    "titulo": "Trackhouse eyeing Bezzecchi data in bid to become winner 12 at Silverstone",
@@ -600,7 +620,7 @@
    "ts": "2026-08-07T16:28:00Z"
   },
   {
-   "titulo": "Aprilia dominates practice, sets Silverstone MotoGP record",
+   "titulo": "Aprilia dominates practice, sets Silverstone MotoGP record - the",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNLU9MU19JSG50S0xCM1dDQzVlSzVzbnZ2M25oMVVSNFRvN2swdlREVGc2czN4VU1XOFR2X2hiQTdTSm1CRnl4ekRoZDNVUThxUEthbkNnSkY0R09URkZ4VHNLMW9KNDY5ckRZV0NIS2VNOEFFOTY1TWFuYUNicE5Oc3QyMDVUZGM0Skt4b0NDRm9zbWh4?oc=5",
    "fonte": "The Race MotoGP",
    "ig": "theracemoto",
@@ -650,7 +670,7 @@
    "ts": "2026-08-07T14:51:52Z"
   },
   {
-   "titulo": "Arquivo De SE2 - Motorede",
+   "titulo": "Arquivo De SE2 - motorede.com.br",
    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5pYmJldmpRTVFuOENkSnFVcmJrQllYQXp0OUh3NWdsZlNPMGlLSElmSFhVb2NNNmVZanRUMmZYX0RLNURvS2lqZ29taTQ?oc=5",
    "fonte": "MotoRede",
    "ig": "motorede",
@@ -710,7 +730,7 @@
    "ts": "2026-08-07T11:54:35Z"
   },
   {
-   "titulo": "British GP 2026: Silverstone MotoGP all session results",
+   "titulo": "British GP 2026: Silverstone MotoGP all session results - the",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQ09VdjZJTzZ5cnU3azJvUTZ3VTBVVWRJTjlvbUhaVUVWS2xTc1F2OUhEMXZCdWYtR1g1NE1XQXlFOTlvcWlyVHYzV2p5UTlPbkR2RzEtaGdwcE9sVExiNG5PeVlpSHNoQ1YwU01UZ3N6VjlqeUF6Z2NUN0U1OXZLYl9obHROMTlrU0NVdF9mS1k?oc=5",
    "fonte": "The Race MotoGP",
    "ig": "theracemoto",
@@ -880,14 +900,14 @@
    "ts": "2026-08-06T17:48:22Z"
   },
   {
-   "titulo": "Marc Marquez on championship hopes: “Another MotoGP title will not change my life”",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMGoxZklCVThsMEJzYlVPRTVPWFJ5RGhueTFTYmV6alVQRDlZa3lEZ2ZpSlRmX1B6TXE5ODR2Znp0V1V3NmVsb1lwNThHOFQ2a2NBekdfa1hvdWhLWHlHX3BNUjktX01MNW1uXzlNdEFhMC1BVmZvb0ZMVUlWdDF6N0FvdHdWdU5xYlF0OVlJZTVIRTBaV3dmZGhGWDdwS18wNGpucDdOSTc2V3E5MVVnT2JrdlVEQ0R1TjItLUVYbGFIeEx3LUdZ?oc=5",
-   "fonte": "Motorsport.com",
-   "ig": "motorsportcom",
+   "titulo": "Marquez expects rivals to risk more in hunt for MotoGP title",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOX3BfOGxvai1iVlhmS1JCbEZycGVMd3NSQzBuVmwwWGJTakhZdmF5SkVTZklBMEpJVHcwRWV5NWRITU42S1BRcXd4UXV3ZmxCNHdESzlmQWJXNk5UMHNjVC1vQ1VoVzI2amYtZ2JDQmZ6OFkwdjVZbkhHMVR6WVBTQkthTWJVb3hpUlAxSHg5OGJEQllIVlEyLWtBMDVQdFVweDBERXJaZ0VyM0VW?oc=5",
+   "fonte": "Autosport",
+   "ig": "autosport",
    "escopo": "Global",
    "tier": "Generalista",
-   "dominio": "motorsport.com",
-   "ts": "2026-08-06T17:07:51Z"
+   "dominio": "autosport.com",
+   "ts": "2026-08-06T17:14:14Z"
   },
   {
    "titulo": "Throwback Thursday, A Classic, Reborn: Marian Sell's Tasty Seeley Norton Commando 750",
@@ -940,7 +960,7 @@
    "ts": "2026-08-06T15:42:41Z"
   },
   {
-   "titulo": "Six things we learned from MotoGP's first day back",
+   "titulo": "Six things we learned from MotoGP's first day back - the",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQY2FQR2d2eGdYaDhKRVRNUDQwaV9mR3AwQTBHM3hjNUtTampCZzNYWTQzenU2bUZXUlhqSGs5T3g3VVhvcXdKWlQ4UDVBRUNPc0hFdzZIeFhoazlxVHQtalotRXNpNjAwWGtKZGNFb2xqQ0l2SldyRDhyemNKSWxNOXByMlgxZi1DMWVYMVd5Y1ROUQ?oc=5",
    "fonte": "The Race MotoGP",
    "ig": "theracemoto",
@@ -952,6 +972,16 @@
   {
    "titulo": "Quartararo on his move to Honda: \"It was time for a change... for a new challenge\"",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOU1A1cU9UWVZ2andpbFNPUU9rOXQtRk5mMWlSel9SUV9DVnd3NHJXWUNvbVRzZnNpYTBvMnZMT2pYOWlxVi1VejZHcW14Q3ZNVDlfWTl2Umxwb0FwN2NLMEhKMjNIVVE0MmUyQldIaGtXVWVZcHFhZk0xZ2FlWHVWQVdTcWxGeE1SX2xCTnc5ZXl0aTlVZkgwYXdtd1NGR04tV2Q2WDlvUktRNnpoZE1zbTJJcXdhUXVBb0h0Tk03RVE3U3ZVV3pJ?oc=5",
+   "fonte": "MotoGP",
+   "ig": "motogp",
+   "escopo": "Global",
+   "tier": "Corrida",
+   "dominio": "motogp.com",
+   "ts": "2026-08-06T15:01:00Z"
+  },
+  {
+   "titulo": "Quartararo en quête de nouveaux challenges avec Honda : « C'était le temps de changer »",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOWNtVGhLSlFVZlVydUFpcnRvUnVsZVhMYjg0R0w4UEltRW9QSXBQellHSU1ZbHhlVzB4WW5GX2Z1TnprRi1jdFFfSzAtSUxiSVBqcDBtUjg0eU5JaVc3WGxqM3J2TFNfSnJ0MXk3WFJVWFl0dWRzV2ZRQVBtSTZ5WHpIVDE5MTAyRndhUUdWZ0I0V2JBQ2V6NGRXTTlLYjV6ckl3ZlVONFV0SnRiMGlVTTFMT2VxdEc5Zm93WmhuRkpZdkpqdEsybE4taWk?oc=5",
    "fonte": "MotoGP",
    "ig": "motogp",
    "escopo": "Global",
@@ -1030,16 +1060,6 @@
    "ts": "2026-08-06T13:17:36Z"
   },
   {
-   "titulo": "“It is what it is” - Marc Marquez provides telling MotoGP injury update",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbUhYaVZaZkNVVzI1TUFoU3hxNkNsT0NIMFdoUm1feW1maHpaclNxZ1JqU0xzc21QNHZkNVNGZ0hJbmwyd0JpMVJ1Z1NxOWdEZmU1Um1mOVNhc1hzYlVFS1I1cnJ5YWpjSUxxVXNuTnlJVndzeldONm1uckpFdDZ2X0ZQQnNsM3FMb0RfeEx2aUdtSHdNRmEybkhram4xT05pdWc1eEdhajU?oc=5",
-   "fonte": "Crash MotoGP",
-   "ig": "crashmotogp_",
-   "escopo": "Global",
-   "tier": "Corrida",
-   "dominio": "crash.net",
-   "ts": "2026-08-06T12:32:44Z"
-  },
-  {
    "titulo": "Sidecars podem regressar ao Isle of Man TT em 2027 após revisão de segurança",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQTlkXzFSQk9ZbjN3WEFwUENHem1lRDlhbE9BNGoxSWFJcTNXRVpuSFlrX1BNZUE5MkpLNnhxR29XNEZWZkhiVFF5SDZlTHNfaXZKNFdUdnZDNjlEdS1QQThiSjhCRHJhaE80QWdsdzczRDFYLTZ5N3plOG9sMC10Y0J6bXJMdjFhM3AxRmxGeTJxTXhmQnFibnU1R0hTVFZGd0YwaTRRZUNFNU80SDNMWDlkaXhjdU1ERUxIOENhcw?oc=5",
    "fonte": "AndarDeMoto Brasil",
@@ -1088,16 +1108,6 @@
    "tier": "Mundo",
    "dominio": "motorcyclenews.com",
    "ts": "2026-08-06T11:03:51Z"
-  },
-  {
-   "titulo": "30 Motos Mais Roubadas E Furtadas Em SP, Veja Levantamento Completo De 2026",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBQZWhwRXU5WFZBS2FnaklueGNMLTl1VnVuZGljOUFDQ1R1X0E5SGVaZmQwb0lLVFV4OXpRSnJFWWlFeWRucTNLa1VrNXBwbEdieXNsa1l0SEh4MEVBTEVocHRjMFlqWFhQZFdZckdLZnE0VzA?oc=5",
-   "fonte": "MotoRede",
-   "ig": "motorede",
-   "escopo": "Brasil",
-   "tier": "Brasil",
-   "dominio": "motorede.com.br",
-   "ts": "2026-08-06T11:00:51Z"
   },
   {
    "titulo": "Throwback Thursday: Vets Still Charging at Loretta Lynn’s (2011)",
@@ -1270,16 +1280,6 @@
    "ts": "2026-08-05T21:22:35Z"
   },
   {
-   "titulo": "Mais bonitas? NC 750X e X-ADV ganham novas cores lá fora",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9PQ09qSjV6TmcwSEhjckRGdWdoZ3VwQWUwVndvMnQ0bGdscWY1bGZITWNnWDZSaF9jS1lVWU54eVBXQUtuT0xvTGp0TlpKM1dkSG9tV25makxZQlNsWTJ1Y1FnU09GUGEzV1ZINmVFSG1ubGZqYXpITQ?oc=5",
-   "fonte": "Motonline",
-   "ig": "motonline",
-   "escopo": "Brasil",
-   "tier": "Brasil",
-   "dominio": "motonline.com.br",
-   "ts": "2026-08-05T19:59:30Z"
-  },
-  {
    "titulo": "MotoGP: Horários do GP da Grã-Bretanha",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOODZOYk5kWEhzUTNRTEYzSjZkNGlUYUxIVVY1RVBMTnNjSXFSd2ljeTZTYmJKSXJydVVoQjRNQkRFMDdKalRJWkdGNU5qbkNJSG1mcEpQb3haSHdGempWVkJQc2NqcThtWkRGLWszeDNZdHR1Mkh5Zl9DNUpjWGxMbTdB?oc=5",
    "fonte": "Grid Motors",
@@ -1378,16 +1378,6 @@
    "tier": "Mundo",
    "dominio": "cyclenews.com",
    "ts": "2026-08-05T16:27:06Z"
-  },
-  {
-   "titulo": "USWE Returns as Official Hydration Pack Partner of the Red Bull Tennessee Knockout for 2026",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWDVDZUxuWXBtaFVWcFlDT0huSHNCMUh2NW9WbWVjTVRGbGtfeW5UZ0pCQWg1QVp1c21JZmNmVnpyR2JNcmNjNGFmRzFneVRNN0tpemVfblhoUU1ZSm5naXBiWkQ3R2ZRT1VoQWprU0Rxb05qZjI3QUZ2X0ZTeDVxQ09rWEF2LVZLeWJYUWk0U29tMnhLUW4xbnBfTENxdXFKVGNyUkxGMWZFODRvWmRWdUhSN2s4bjdpcjRscXJMemMtSHJDNlBVM3p4ZUpBLWM?oc=5",
-   "fonte": "Cycle News",
-   "ig": "",
-   "escopo": "Global",
-   "tier": "Mundo",
-   "dominio": "cyclenews.com",
-   "ts": "2026-08-05T16:17:00Z"
   },
   {
    "titulo": "Festival Interlagos 2026: datas, shows e ingressos",
@@ -1670,6 +1660,16 @@
    "ts": "2026-08-04T15:04:11Z"
   },
   {
+   "titulo": "Capital Moto Week bate público recorde com 863 mil pessoas em Brasília",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbzdSYUV1a3l0MmgxYkVyZHRnVlpRV1l3WTIzbG9rTXpZM0dybzV1dWE4MkFpcVEzTzRPemlRYk10SW53ZmlqbHVMZ21BdUx3YzFXVFJjd1VhWXFVcDFFYnpSOHZEMDk1UlpSRVk5RWJYYXpjUFRBMlpsdkl6UUQxMQ?oc=5",
+   "fonte": "Motonline",
+   "ig": "motonline",
+   "escopo": "Brasil",
+   "tier": "Brasil",
+   "dominio": "motonline.com.br",
+   "ts": "2026-08-04T14:55:48Z"
+  },
+  {
    "titulo": "Marco histórico: BMW Motorrad atinge a marca de 150 mil motocicletas produzidas no ano do 10º aniversário de sua planta",
    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNemU2OGJmYmZPUjc2ZlIwSTJ3em02VVM2dEdmajFKVmFMZXl5dkNDTkJrSzJBUEhwOTVGUDkxTTVSVG5kaXhsYmlad1ZaZGtJV05Ga2l0TC1qdEZMc003a2RPN19xZTZSNkN3anQ2MUFxT3QzeGZRZDhBYWZ2N2ZfX2JSSUNUSEx4WE1rX2tsWlhyWXV5elpmSG9ja2RqZ21VNG5kNHB6MkI2V3pVX0Y0dExLbHdrLVBkM0RnNkwtdE5VdmRVRmE1OGduUW9PVDZFY25LczVNZnNkMWluT1JwTkdB?oc=5",
    "fonte": "Revista Moto Adventure",
@@ -1770,16 +1770,6 @@
    "ts": "2026-08-04T07:00:00Z"
   },
   {
-   "titulo": "Ruby readies up: New British firm set to unveil production-ready single at this year's NEC show",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4zbzk0bVpDVXcyWV9VVnpWOVlkcHBUczF5V0NTa3BsUDRnSjJFTmdhTjVRd0x1WGEzbVMzNzZaRFF5Y1F2cDNMUGpZMGVmM3RBV09fZEtsWWJveFJOT2hBRGV2RDBqUXJyRURqOGcxb0lsUXFsZ2c?oc=5",
-   "fonte": "Motorcycle News (MCN)",
-   "ig": "motorcyclenews",
-   "escopo": "Global",
-   "tier": "Mundo",
-   "dominio": "motorcyclenews.com",
-   "ts": "2026-08-04T07:00:00Z"
-  },
-  {
    "titulo": "Prima Pramac Yamaha MotoGP Returns to Action at Silverstone After the Summer Break",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMExudzJYeVRlSG16WW4xX1VMMW96MVE5cU51NGJfWU5MUF84enJHZzIwdUVEMlR1Ni1OZmpveTRQenlHbC0zQ2paYVJZWXhlQklZQnlNYWtHbHh0dFYwVU1oeThvUDhCdnhXazYtN0p5N1dVR1hGM1g0cWtFS3V0V0FGbl8zVW5fMlc3T0ZXWXA3dEZzNkxJcktUc3ltTDlQQ3FhTHlEcVdDcWxfeGwwdk91enFpWVZ0bkU0UDF5SXpFTFk?oc=5",
    "fonte": "Yamaha Racing",
@@ -1820,14 +1810,14 @@
    "ts": "2026-08-04T07:00:00Z"
   },
   {
-   "titulo": "Crutchlow on Silverstone: Home truths from a British GP hero",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdlIzVE8xaW9WTVVXU3E4WmtKWGVyT2lzTUlUT0M2WUFXdG5OUHlsa2hYNHFONE9VMVZ2WkJVMjZ3LUlIdTU3QkU5a1BEWlJfeFBOaUZoRTRiNXEyMFQtaEpqTDNRQVF2ZnBGVkVuNlAxNWxGWENUTmhEMFBiMjhlZ09LVDJ4VFF6bUxPdzhsOTlUUFBqekNSaEdSVTlTOXZqVG1FVGJxSDEwOWQwbW9ydA?oc=5",
-   "fonte": "MotoGP",
-   "ig": "motogp",
+   "titulo": "Turner Announced as Wild-Card Entry",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQa1hMQzJrcDZENjlQM3BjcW12Tng1dnV3cjBsTVBmVmNzeFdyU24tcktqcmprbXVaOGVPd19qRFdqd282WTEwUWZEdEhXYzEwblFza21ZWjdRWkpHdFBxOE9KWDB0cTEycWhBMzZ3ektjb2l1M0FIOFdvajBWRHVzNkczOUE?oc=5",
+   "fonte": "Cycle News",
+   "ig": "",
    "escopo": "Global",
-   "tier": "Corrida",
-   "dominio": "motogp.com",
-   "ts": "2026-08-04T06:05:00Z"
+   "tier": "Mundo",
+   "dominio": "cyclenews.com",
+   "ts": "2026-08-04T03:06:34Z"
   },
   {
    "titulo": "2026 Red Bull Romaniacs Results",
@@ -1980,16 +1970,6 @@
    "ts": "2026-08-03T14:24:42Z"
   },
   {
-   "titulo": "Bikes & Beyond - Ducati",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBrM2ZWeHp5T0oxNGRKOTBvYkhqbDl6LUxwWmlOcE5FR1R5VFRFM3l1LXNKcEJxOU95aHpNYVJMY2JMZ2kwZ0hpQ2lETkFuTmtOcFJoWjRzcGNjdDAxRmlpdjA0RQ?oc=5",
-   "fonte": "Ducati Corse",
-   "ig": "ducaticorse",
-   "escopo": "Global",
-   "tier": "Corrida",
-   "dominio": "ducati.com",
-   "ts": "2026-08-03T13:20:31Z"
-  },
-  {
    "titulo": "Six Stories of Yellow - Lifestyle | Storie Ducati",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBNMFdjNk9OQVBuQkNqVl9VZkN6WmZkQ2tDRzJsYTFCU2k3bUZsV1VLTU11TnRFcmoxYTNJeTEyUjNoaHZfRXJZaUpUYkp1SWtEeXEtMUcydVVyV29XR1IwYzRyemlsSG15WERYcnpyd3ZqNjZLQkhZ?oc=5",
    "fonte": "Ducati Corse",
@@ -2068,16 +2048,6 @@
    "tier": "Mundo",
    "dominio": "webbikeworld.com",
    "ts": "2026-08-03T02:30:17Z"
-  },
-  {
-   "titulo": "Scheib registra melhor volta no fim e lidera warm-up da GP1000 by Motul",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMm90akNCQlhNNndUUVJFSFFFNHJTVnRPbWJhczZSYnUtb0tNb24wZ1hrUXVPRUZhU2k2SmhXNVVUejk0NkJDeUNnVHIwUWdNaHh1RWlQYWZVY2Jxam10N21LaVVZc3NuYzZLQUdxTUotaWpkTVA0RjZodHNNRjlpQUltSDFIS3pMT0FOTnBCT1ZSZW4tbk53?oc=5",
-   "fonte": "MOTO1000GP",
-   "ig": "moto1000gp",
-   "escopo": "Brasil",
-   "tier": "Corrida",
-   "dominio": "m1gp.com.br",
-   "ts": "2026-08-02T12:39:00Z"
   },
   {
    "titulo": "Foto- Nova Bajaj Novos Tempos Juazeiro do Norte, CE, divulgação Bajaj",
@@ -2178,6 +2148,16 @@
    "tier": "Corrida",
    "dominio": "ducati.com",
    "ts": "2026-08-02T00:35:11Z"
+  },
+  {
+   "titulo": "GP Light, Sexta-feira",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKTld0UkNiUVlITzQwRzFmTjBHbURucTUxcEYzM2w2WHY3aTZ5YTIwejlWX2hYc1BBc0hLTDB3OGNHbDNwZG9nZGkwc0t1T0E2bWVvR2dR?oc=5",
+   "fonte": "MOTO1000GP",
+   "ig": "moto1000gp",
+   "escopo": "Brasil",
+   "tier": "Corrida",
+   "dominio": "m1gp.com.br",
+   "ts": "2026-08-01T21:35:00Z"
   },
   {
    "titulo": "GP1000, Sexta-feira",
@@ -2298,6 +2278,16 @@
    "tier": "Mundo",
    "dominio": "bikeexif.com",
    "ts": "2026-08-01T03:43:19Z"
+  },
+  {
+   "titulo": "MCN | Author | Page 18",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9OVlJabzk1ZUZZdXU4MVdCT3RIWTAzeHVmZnRxdXZYRFdESzZkUFBQTkpKM3ZYWG9kbDV2UE1tNS11NVJ4VG50eEZGLVhaRllodFQ4UGZKc1dsV1NiRk1R?oc=5",
+   "fonte": "Motorcycle News (MCN)",
+   "ig": "motorcyclenews",
+   "escopo": "Global",
+   "tier": "Mundo",
+   "dominio": "motorcyclenews.com",
+   "ts": "2026-07-31T21:30:59Z"
   },
   {
    "titulo": "GP600: Mario Salles comanda os treinos da sexta, em Cascavel",
@@ -2570,6 +2560,16 @@
    "ts": "2026-07-29T12:10:06Z"
   },
   {
+   "titulo": "Rally Jalapão 2026 chega a Lizarda",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtRzQ0T2lBSHY5VFdSZmc2ODRWUDhFMnpBSXl6RTRVbEdLSkI4bWNWd0RIWUFWWFFHR2hHQXhiNTZ6SFEtdzU3LTVTOHFFeVhtQ3hWb2lnMHBVb3k5alFhZ3EtRHpGTFluZVprMw?oc=5",
+   "fonte": "MotoMundo",
+   "ig": "motomundo.com.br",
+   "escopo": "Brasil",
+   "tier": "Criador",
+   "dominio": "motomundo.com.br",
+   "ts": "2026-06-17T21:22:30Z"
+  },
+  {
    "titulo": "MotoGP News and Results",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSmtGQmJFUHZubkxBWjNvc3FZWlR2QkkzalVsYlBMMFZaOEhGRElVSU1raVAzX195X09TeklCeE9PVFhHZ2JmQmgzT0ZocjExam1VTFBuNlliaTU2Tk4tdjllZjBSUFZtNy0xaVA0TngzdE90bVpGNW5Zb2g2MjVRLXlSdnpFS1VxR05fWHJoNTVDNUk?oc=5",
    "fonte": "Cycle News",
@@ -2630,16 +2630,6 @@
    "ts": "2020-09-18T09:36:48Z"
   },
   {
-   "titulo": "Arquivo de RALLY - Página 33 de 246",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB3VDZnQ05oVHNsMGFwTWdlOUFVNE5Edzc1YXQ4cTVydDhtVTYyTlUyZml0czk1bGVXMnQwUVpCUjMzNmNnd19YX2FHUDVZVHFxTE1uVHhvcUJlOE9Q?oc=5",
-   "fonte": "MotoMundo",
-   "ig": "motomundo.com.br",
-   "escopo": "Brasil",
-   "tier": "Criador",
-   "dominio": "motomundo.com.br",
-   "ts": "2020-08-08T15:17:18Z"
-  },
-  {
    "titulo": "ensaio-tati-paze-quebrando-paradigmas-mulheres-no-mundo-das-duas-rodas-1",
    "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQQ215VGk2Szc2ZkZURC1aWXNYOUpJVktiVkl5N2V3cWROR1N1THY4T0wxV1BUNzgzWVFJQTQtYnJTTUtHLTM2ekxjaEFDYmRZUmhUZGNLbENyUUE2UDdjSngtSGwxRGxtZzN4TDh5ZTVPdlNCTnNlM09nelFERFZuWnFCNlRwRDhKRXR0U2JiTnp3bmh4bWhveHJfSXotbVVXLXJkVEFMLWstZ0g5R0RUeDdGc0NEU3ZjamlNUk02MW4yOUttb0VGeGY5Qk9LazZQZjU3MTMycGgxb3EzQzhfTExZOGxLN195OTJtNUk2R19hdGhPUWxPb2xwOXVHZW5HSXBB?oc=5",
    "fonte": "Revista Moto Adventure",
@@ -2698,6 +2688,16 @@
    "tier": "Brasil",
    "dominio": "motorede.com.br",
    "ts": "2017-09-03T18:19:00Z"
+  },
+  {
+   "titulo": "Arquivo De Abaixo De 599cc",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWX01DM2RsS2hkc21yNTNQdzNOV3RDUGRBMmVpdDRveHJ2YmFvTDFhM1pudU9Bd2JIYXJ0bDhyeVg3WUdxMm1UUDM1bnpRdXhFWXdmRkJFQXFKMmM?oc=5",
+   "fonte": "MotoRede",
+   "ig": "motorede",
+   "escopo": "Brasil",
+   "tier": "Brasil",
+   "dominio": "motorede.com.br",
+   "ts": "2017-09-03T18:17:31Z"
   },
   {
    "titulo": "Alpinestars Ramjet Air Pants",
@@ -2768,11 +2768,16 @@
   },
   {
    "tema": "Honda",
-   "mencoes": 14,
+   "mencoes": 15,
    "materias": [
     {
      "titulo": "Quartararo on his move to Honda: \"It was time for a change... for a new challenge\"",
      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOU1A1cU9UWVZ2andpbFNPUU9rOXQtRk5mMWlSel9SUV9DVnd3NHJXWUNvbVRzZnNpYTBvMnZMT2pYOWlxVi1VejZHcW14Q3ZNVDlfWTl2Umxwb0FwN2NLMEhKMjNIVVE0MmUyQldIaGtXVWVZcHFhZk0xZ2FlWHVWQVdTcWxGeE1SX2xCTnc5ZXl0aTlVZkgwYXdtd1NGR04tV2Q2WDlvUktRNnpoZE1zbTJJcXdhUXVBb0h0Tk03RVE3U3ZVV3pJ?oc=5",
+     "fonte": "MotoGP"
+    },
+    {
+     "titulo": "Quartararo en quête de nouveaux challenges avec Honda : « C'était le temps de changer »",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOWNtVGhLSlFVZlVydUFpcnRvUnVsZVhMYjg0R0w4UEltRW9QSXBQellHSU1ZbHhlVzB4WW5GX2Z1TnprRi1jdFFfSzAtSUxiSVBqcDBtUjg0eU5JaVc3WGxqM3J2TFNfSnJ0MXk3WFJVWFl0dWRzV2ZRQVBtSTZ5WHpIVDE5MTAyRndhUUdWZ0I0V2JBQ2V6NGRXTTlLYjV6ckl3ZlVONFV0SnRiMGlVTTFMT2VxdEc5Zm93WmhuRkpZdkpqdEsybE4taWk?oc=5",
      "fonte": "MotoGP"
     },
     {
@@ -2784,11 +2789,6 @@
      "titulo": "MotoGP, Nakagami and Honda surprise everyone at Mugello with the 850!",
      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQXZTOC03UXpubVZsYWcxWmRJb1BZbmd4UVQ2UUF4VXRwMENBcTJpc05jcGlhRjhNZC1WR1pJWTFlTFhEMmJtQUVXLVlVRWtrbXJ5WHp0M0ZHdlNhZW1YSmlFRmxFcUIyMjdmd2tGQ19vOU5yUk5TSjRtN0k5aU1jT1ZjeU94YjQwcmZseV9wRlFiT25hcXhlU1VlbTM4dDRnY2RLcEVsTmI4T1g3?oc=5",
      "fonte": "GPOne"
-    },
-    {
-     "titulo": "Honda Sahara 300 Adventure 2027, Veja Fotos E Preço Da Trail Topo Da Linha",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNXzZPMXpwZFZlQmZJQ09fVmhiRVlZYzZqeURGajNGT0hNSUZqZDJxU0NQRU0zYXJ2bEk5UEJFMUVJSEhuN2ZnbXBWRzNJMV9sRlpucno3RERnWVU0aldpQ0NRWXk0VW5FOTRoaQ?oc=5",
-     "fonte": "MotoRede"
     }
    ]
   },
@@ -2802,6 +2802,11 @@
      "fonte": "Ducati Corse"
     },
     {
+     "titulo": "Ducati Johannesburg",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE43X1c4YWFHeFg0dnNsSHZ0bWtaRFJSZHE3eGlmeWU4RjN0MkhkbnRET0h2aUczT3JSM3o2OThzekRyRE5xNVJqblBvV25ZRzI5RlJSaHJval9ST2o3WGltN2lxSldJRERWQVV2WmtnTVRnSGxQM0hDRw?oc=5",
+     "fonte": "Ducati Corse"
+    },
+    {
      "titulo": "‘Ducati is very fast’ - VR46 responds to Bulega’s 850cc MotoGP pace",
      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMUxvTUxJelM5c3dtaVZFdlRDLWpwWVQybkpXT2diXzRlYVBkMXl3eFhhZFZsS3VDZXpUWFZEZDhFWGsxYkphMmN5V1psSG85LW9ZcUprN1NtQ3F2VWo4YzdCdC02OWpuM1FZTVdfd09qbGJ6TjNjRFNtdHlISE9nVXUzZU15b3pCcDctNHR6YWNLa2UtaXUyQzEtVjZ5SUVrblE?oc=5",
      "fonte": "Crash MotoGP"
@@ -2810,18 +2815,18 @@
      "titulo": "Ducati announce £105m research and development project backed by the Italian Government",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQd19jN1ZEdDV1Um9SbFZnQ2IwWWwtYVZGUUFmS1FjbDNvRVZ5Y1ZRRjBJMUFCR2hNV0lEeFZTT21ockFhZjJOQ3dCR1dSQTdlTUdGZW0wZlFMbFEzNGVEMDZTRDhWMzJpdGNvcVdmdy1jQ0tmcnBBZzBNZDNSY2JDQ01ZY0YydmlKckc2bkFWS25MNWlKSWRXZUVZRU9UbnFkTWtz?oc=5",
      "fonte": "Motorcycle News (MCN)"
-    },
-    {
-     "titulo": "Franco Morbidelli responds to Ducati World Superbike links",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUkxYeTlTQlV3azk1YVJzVDV4YWdscGw2OEotanVYRnU3SV84M2VRbjBUVFJpeFJHV1FiMWJHYVZkSUh6SmNOTEUxRmRaYy1uMVZveGh3RnAzZ1JXS1pBblJNM1ZlUXJaMDRCcUVMcHVob3JYVHphZ20zYjdkVnl6U2dQR2ZpOFZyZUdTRTI3NXAwVHVSekZnZmpYVTFuNGs2?oc=5",
-     "fonte": "Crash MotoGP"
     }
    ]
   },
   {
    "tema": "Bezzecchi",
-   "mencoes": 9,
+   "mencoes": 10,
    "materias": [
+    {
+     "titulo": "Marco Bezzecchi reveals “disaster” injury ordeal after smashing Silverstone lap record",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSTAtRnhNRzJiWjRpekJlUkw5d1pZQ1dhb0dsVVNhSktTV3NNVEs2YzhWanBMRWdEdEdhOEs2aS05N1ZhanpVMUJWM0V6Q0RIMFFqb2ZLVHEzc1NqUTFHc3NncGNUYXR3WGg4eC0td2x6NzNfdEdrNlNOQm9KbDNXLWMxZnhaWGtMLUhCMjlQbXdyQWNzenVqdmtwR2tNUHNFNmwzTi13ZFR2bTg0SDZESHBJNnRXSjN3ck85ZWk5aUt2VFE0RF8xSW13dHJNdw?oc=5",
+     "fonte": "Motorsport.com"
+    },
     {
      "titulo": "MotoGP British GP: Returning Marco Bezzecchi tops Friday practice as Aprilia dominates",
      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQ0lSODVKQnJseEloZ0RJUjdHY2ZDUUs5N0lPNmNqN2NvVmdDSHNrX1dwYWZ2ZlNOVVFXVHBzYzUwYlREYlk3cXNmbExfbXBKT2djSWFJd1RxTXJEaXNET3RVQk1PamluQmVEel9NajBUZGhOUXBfaTEwYkFYQ3N6MkFya3JtX0dzVWpxRmUzcjB2a0swdjRXYkVhQTFiVUtLWlRGR285cldmbjVvYzBwcG9SUzc2aXVXcnR1ZE4wYTRfUE5aTEJRTXVDTUZZQnM?oc=5",
@@ -2836,11 +2841,6 @@
      "titulo": "Trackhouse eyeing Bezzecchi data in bid to become winner 12 at Silverstone",
      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcUt0akRGYlVOWTZCUEZyZ1dKRVpBOXI2am1aUk5pa0t6YVh4SFgyRG9JWUx0bDdJSFpHaDlkeHdQV05OUTQyWXNBVll2bDNaSmlTTjRwYWpVajNNdHVzcFFHQnB0S0lWSjVHQnFqRHNhZWFLeFc2bWhEM0cwVlVudUk2OU9aWmp4TGxlMktfd1dUa3U2aDVFbW0wRVdLVWdKUlhfNTBGVmtMb3NGbGxkRGdfNnhLVjZWOXJwTmRLb2ItRmdL?oc=5",
      "fonte": "MotoGP"
-    },
-    {
-     "titulo": "MotoGP, Bezzecchi: from record to 1,000 Euros fine for a false start",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMnI0QjhVcUlVVVRhcTkwclNQTmVIbmJPT0lBYnluVGZhM0p4NklFc0pPX2pjSkl1OVRjMmZGRXVueHRNNVVrSzFRcDNwTmt2ZDhyWUFSVFBqWklJam5vUm1TQ1FoNzVvdF9lWlNkVzdGYTBqMjMzNlhDdzZxNGFDeXNQR1lBUnA1dE5wRzdYVjdPeUJ2TXFzaDJPR1hqYlJrWk4tZXJMd1JDUQ?oc=5",
-     "fonte": "GPOne"
     }
    ]
   },
@@ -2961,6 +2961,11 @@
    "fontes": 5,
    "materias": [
     {
+     "titulo": "Marco Bezzecchi reveals “disaster” injury ordeal after smashing Silverstone lap record",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSTAtRnhNRzJiWjRpekJlUkw5d1pZQ1dhb0dsVVNhSktTV3NNVEs2YzhWanBMRWdEdEdhOEs2aS05N1ZhanpVMUJWM0V6Q0RIMFFqb2ZLVHEzc1NqUTFHc3NncGNUYXR3WGg4eC0td2x6NzNfdEdrNlNOQm9KbDNXLWMxZnhaWGtMLUhCMjlQbXdyQWNzenVqdmtwR2tNUHNFNmwzTi13ZFR2bTg0SDZESHBJNnRXSjN3ck85ZWk5aUt2VFE0RF8xSW13dHJNdw?oc=5",
+     "fonte": "Motorsport.com"
+    },
+    {
      "titulo": "MotoGP British GP: Returning Marco Bezzecchi tops Friday practice as Aprilia dominates",
      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQ0lSODVKQnJseEloZ0RJUjdHY2ZDUUs5N0lPNmNqN2NvVmdDSHNrX1dwYWZ2ZlNOVVFXVHBzYzUwYlREYlk3cXNmbExfbXBKT2djSWFJd1RxTXJEaXNET3RVQk1PamluQmVEel9NajBUZGhOUXBfaTEwYkFYQ3N6MkFya3JtX0dzVWpxRmUzcjB2a0swdjRXYkVhQTFiVUtLWlRGR285cldmbjVvYzBwcG9SUzc2aXVXcnR1ZE4wYTRfUE5aTEJRTXVDTUZZQnM?oc=5",
      "fonte": "Motorsport.com"
@@ -2974,11 +2979,6 @@
      "titulo": "Trackhouse eyeing Bezzecchi data in bid to become winner 12 at Silverstone",
      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcUt0akRGYlVOWTZCUEZyZ1dKRVpBOXI2am1aUk5pa0t6YVh4SFgyRG9JWUx0bDdJSFpHaDlkeHdQV05OUTQyWXNBVll2bDNaSmlTTjRwYWpVajNNdHVzcFFHQnB0S0lWSjVHQnFqRHNhZWFLeFc2bWhEM0cwVlVudUk2OU9aWmp4TGxlMktfd1dUa3U2aDVFbW0wRVdLVWdKUlhfNTBGVmtMb3NGbGxkRGdfNnhLVjZWOXJwTmRLb2ItRmdL?oc=5",
      "fonte": "MotoGP"
-    },
-    {
-     "titulo": "MotoGP, Bezzecchi: from record to 1,000 Euros fine for a false start",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMnI0QjhVcUlVVVRhcTkwclNQTmVIbmJPT0lBYnluVGZhM0p4NklFc0pPX2pjSkl1OVRjMmZGRXVueHRNNVVrSzFRcDNwTmt2ZDhyWUFSVFBqWklJam5vUm1TQ1FoNzVvdF9lWlNkVzdGYTBqMjMzNlhDdzZxNGFDeXNQR1lBUnA1dE5wRzdYVjdPeUJ2TXFzaDJPR1hqYlJrWk4tZXJMd1JDUQ?oc=5",
-     "fonte": "GPOne"
     }
    ]
   },
@@ -3029,7 +3029,7 @@
      "fonte": "Autosport"
     },
     {
-     "titulo": "Aprilia dominates practice, sets Silverstone MotoGP record",
+     "titulo": "Aprilia dominates practice, sets Silverstone MotoGP record - the",
      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNLU9MU19JSG50S0xCM1dDQzVlSzVzbnZ2M25oMVVSNFRvN2swdlREVGc2czN4VU1XOFR2X2hiQTdTSm1CRnl4ekRoZDNVUThxUEthbkNnSkY0R09URkZ4VHNLMW9KNDY5ckRZV0NIS2VNOEFFOTY1TWFuYUNicE5Oc3QyMDVUZGM0Skt4b0NDRm9zbWh4?oc=5",
      "fonte": "The Race MotoGP"
     }
@@ -3048,6 +3048,11 @@
      "fonte": "Ducati Corse"
     },
     {
+     "titulo": "Ducati Johannesburg",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE43X1c4YWFHeFg0dnNsSHZ0bWtaRFJSZHE3eGlmeWU4RjN0MkhkbnRET0h2aUczT3JSM3o2OThzekRyRE5xNVJqblBvV25ZRzI5RlJSaHJval9ST2o3WGltN2lxSldJRERWQVV2WmtnTVRnSGxQM0hDRw?oc=5",
+     "fonte": "Ducati Corse"
+    },
+    {
      "titulo": "‘Ducati is very fast’ - VR46 responds to Bulega’s 850cc MotoGP pace",
      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMUxvTUxJelM5c3dtaVZFdlRDLWpwWVQybkpXT2diXzRlYVBkMXl3eFhhZFZsS3VDZXpUWFZEZDhFWGsxYkphMmN5V1psSG85LW9ZcUprN1NtQ3F2VWo4YzdCdC02OWpuM1FZTVdfd09qbGJ6TjNjRFNtdHlISE9nVXUzZU15b3pCcDctNHR6YWNLa2UtaXUyQzEtVjZ5SUVrblE?oc=5",
      "fonte": "Crash MotoGP"
@@ -3056,11 +3061,6 @@
      "titulo": "Ducati announce £105m research and development project backed by the Italian Government",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQd19jN1ZEdDV1Um9SbFZnQ2IwWWwtYVZGUUFmS1FjbDNvRVZ5Y1ZRRjBJMUFCR2hNV0lEeFZTT21ockFhZjJOQ3dCR1dSQTdlTUdGZW0wZlFMbFEzNGVEMDZTRDhWMzJpdGNvcVdmdy1jQ0tmcnBBZzBNZDNSY2JDQ01ZY0YydmlKckc2bkFWS25MNWlKSWRXZUVZRU9UbnFkTWtz?oc=5",
      "fonte": "Motorcycle News (MCN)"
-    },
-    {
-     "titulo": "Franco Morbidelli responds to Ducati World Superbike links",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUkxYeTlTQlV3azk1YVJzVDV4YWdscGw2OEotanVYRnU3SV84M2VRbjBUVFJpeFJHV1FiMWJHYVZkSUh6SmNOTEUxRmRaYy1uMVZveGh3RnAzZ1JXS1pBblJNM1ZlUXJaMDRCcUVMcHVob3JYVHphZ20zYjdkVnl6U2dQR2ZpOFZyZUdTRTI3NXAwVHVSekZnZmpYVTFuNGs2?oc=5",
-     "fonte": "Crash MotoGP"
     }
    ]
   },
@@ -3089,6 +3089,30 @@
    ]
   },
   {
+   "pauta": "Marquez",
+   "urgencia": "3 fontes / 48h",
+   "porque": "3 fontes publicaram sobre isso nas ultimas 48h.",
+   "furo": false,
+   "fontes": 3,
+   "materias": [
+    {
+     "titulo": "Alex Marquez leads Bezzecchi in British GP FP1",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaHU5OFl2dXZ4WnJ6OTdRT2VBUXhvakx6ZHFJQlk4ajByZm4yYjJxVUpvZzFsMzJEYVpjcnB4VXBvdExYdzhRTjIzSXRPUjdXaFJGM1hxVlpZZWVwTWxTUThCRHlpV0pUeWhySWIyREpNS1RxOUpUSkZTVTRRSDN1b05HNXhkaXRJMi1FelM4X3R0eVFTcm1La0tBai0?oc=5",
+     "fonte": "MotoGP"
+    },
+    {
+     "titulo": "Alex Marquez leads Marco Bezzecchi in Silverstone MotoGP FP1",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPV3pZODZjZm56MlRJLUd4bTU4eUljOTNBU0FtVUhpblJXc0dBeXVMV1F6OTQxTDhOLVNZZ0s5MHFiSXhFVDJTRGRlX1FTY1BWTjVsOFFHV1lUZkloM054M3c3Y1gtM0w1bWZ0XzluVVNXbXltOVZQcGVieWV4dUdrSlNwR1NERUx3ekZwS1V6eUNTeFVIc2FEM2VNcXlkeWt2bEpv?oc=5",
+     "fonte": "Crash MotoGP"
+    },
+    {
+     "titulo": "Marquez expects rivals to risk more in hunt for MotoGP title",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOX3BfOGxvai1iVlhmS1JCbEZycGVMd3NSQzBuVmwwWGJTakhZdmF5SkVTZklBMEpJVHcwRWV5NWRITU42S1BRcXd4UXV3ZmxCNHdESzlmQWJXNk5UMHNjVC1vQ1VoVzI2amYtZ2JDQmZ6OFkwdjVZbkhHMVR6WVBTQkthTWJVb3hpUlAxSHg5OGJEQllIVlEyLWtBMDVQdFVweDBERXJaZ0VyM0VW?oc=5",
+     "fonte": "Autosport"
+    }
+   ]
+  },
+  {
    "pauta": "Marc Marquez",
    "urgencia": "2 fontes / 48h",
    "porque": "2 fontes publicaram sobre isso nas ultimas 48h.",
@@ -3103,35 +3127,6 @@
     {
      "titulo": "Marc Marquez “far from the podium” after Silverstone MotoGP practice",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOc1ZabU9OQkZnWTRJN2l3bUM4NG13UG9UNzczRkl5cWFsaXZOU0JLdWRqd2Vnc1FSOHRvMGZaSW1BTVVNVGRvcU1HZTFLMGd0OGs2QkdqX0ZkbFA1bmVTNkN2UkVCb1dCN2E1WUdzQVlERnJVT1o3NkxTMERWR3B2TjUyb3d2WHV6RXBvSTZQeERZTDR0azRwS2s5bmhqR0NOTDBV?oc=5",
-     "fonte": "Crash MotoGP"
-    },
-    {
-     "titulo": "Marc Marquez on championship hopes: “Another MotoGP title will not change my life”",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMGoxZklCVThsMEJzYlVPRTVPWFJ5RGhueTFTYmV6alVQRDlZa3lEZ2ZpSlRmX1B6TXE5ODR2Znp0V1V3NmVsb1lwNThHOFQ2a2NBekdfa1hvdWhLWHlHX3BNUjktX01MNW1uXzlNdEFhMC1BVmZvb0ZMVUlWdDF6N0FvdHdWdU5xYlF0OVlJZTVIRTBaV3dmZGhGWDdwS18wNGpucDdOSTc2V3E5MVVnT2JrdlVEQ0R1TjItLUVYbGFIeEx3LUdZ?oc=5",
-     "fonte": "Motorsport.com"
-    },
-    {
-     "titulo": "“It is what it is” - Marc Marquez provides telling MotoGP injury update",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbUhYaVZaZkNVVzI1TUFoU3hxNkNsT0NIMFdoUm1feW1maHpaclNxZ1JqU0xzc21QNHZkNVNGZ0hJbmwyd0JpMVJ1Z1NxOWdEZmU1Um1mOVNhc1hzYlVFS1I1cnJ5YWpjSUxxVXNuTnlJVndzeldONm1uckpFdDZ2X0ZQQnNsM3FMb0RfeEx2aUdtSHdNRmEybkhram4xT05pdWc1eEdhajU?oc=5",
-     "fonte": "Crash MotoGP"
-    }
-   ]
-  },
-  {
-   "pauta": "Bagnaia",
-   "urgencia": "2 fontes / 48h",
-   "porque": "2 fontes publicaram sobre isso nas ultimas 48h.",
-   "furo": false,
-   "fontes": 2,
-   "materias": [
-    {
-     "titulo": "Marc Márquez and the Ducati Lenovo Team secure a direct place in Q2 at Silverstone with the sixth quickest time. Francesco Bagnaia thirteenth",
-     "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQNEExMFBOYWx5X0YxZXRKMW0zQTJ3Znhwb3hFZzZ4XzVMZUpEUHJETWY2Q09oQ3plclZQZFE5VFVNREhQX2FZSUtJNFN6UXFBWDJzTmFXZm9IQmNSSDFSY0JFdnlTdnhoYy1pNFB3NmxwRmtwUHljRU9oME56U01ReU9hOHhveEN6S0J0U2dSc0lsT3JQbG8tMTBpN0M2OVNMd2FRVTE2YTlpLUtaVTF2SWJRTjQ5aEJfeThmV3FDMmtiRjk5WVVXOG1LemMzRDBjbkl5SWZ4SlFRYWt6R1pVT1RZeVY2TmozbHM5WUE0WnVtQVBwRGVpMGxsdDFkN0tDVGFlZ2Ewc1ktcTFwRVFZZlJ4LXhjcUNWWXM5cw?oc=5",
-     "fonte": "Ducati Corse"
-    },
-    {
-     "titulo": "Pecco Bagnaia makes calendar request amid Qatar MotoGP uncertainty",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUWhvcVdRUGJmeDZ6WVZLeVdGQU9wVlhDT1dkUlhSWkxhQk1iQ0l2QWJCOEtON04xcG1WLTIwVlBENC1Ga3VZdE1LVmJsMkRGM180RlF1UjViLVZydFFMcXdWdDdTZk5tQ1pmWEFVcVhtSTd1VGZwTVFrM0VNcVY2R29Pcm5wYXhfclkwcHdYcDM4cldKcVJwUkpLYThPQzdvZVBpblhYeURKbWZoS3JZ?oc=5",
      "fonte": "Crash MotoGP"
     }
    ]
@@ -3412,9 +3407,9 @@
  ],
  "marca": {
   "ga4": {
-   "sessions": 89830,
-   "users": 84773,
-   "updated_at": "2026-08-08T07:31:44Z"
+   "sessions": 89849,
+   "users": 84791,
+   "updated_at": "2026-08-08T09:18:57Z"
   }
  },
  "pesado_em": "2026-08-07T21:03:50Z",
