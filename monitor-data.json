@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-09T09:06:13Z",
+ "updated_at": "2026-08-09T10:00:04Z",
  "fontes_monitoradas": [
   {
    "nome": "Grid Motors",
@@ -520,7 +520,7 @@
    "ts": "2026-08-08T17:32:00Z"
   },
   {
-   "titulo": "MotoGP: Horários, clima e como ver ao domingo do GP da Inglaterra - Motorsport.com",
+   "titulo": "MotoGP: Horários, clima e como ver ao domingo do GP da Inglaterra",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOTF5RzJQLXdfNXdiUjNaWS1ZNTZZSTdzYUNwbkJfNVVfRHVpb3c4NnczWWFIcnFOOWw2VHpxZjBHSWtVd1U1T1FFU1NhVVdzT3Q3S3pYRFQ0OWU1NlVFNFkyZFFwU0NpQmFLbE5QSlU2LUthUkdvLWFMUS1GS0tPNk4wVUlOSHpLbmoxblRVTXZRVnZOaHdnbUVPY0c4anV6Tk1reHlvWXpuN0NaZU9acms4Zmpfd1pJVFZGVjBKUTRKQ3dOWTdfNmt3?oc=5",
    "fonte": "Motorsport.com Brasil",
    "ig": "motorsportcom.brasil",
@@ -810,16 +810,6 @@
    "ts": "2026-08-08T07:52:00Z"
   },
   {
-   "titulo": "Marc Marquez: “I’m slower” in corners that used to be my strength at Silverstone",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVi1TOWZQY05FM0pEbnAyVk5tT3ZtZ0xfN3BMdHp6VDNMcTZEbVYwMW9rV04yTlROaG91bHZRNWtZbV9yZ2M3THpxTTUyTTJiMnQtN3VfZHZ2VllvbnI1WXEyVkxpS0NhSW1tV3RUZ0M0VWExMUt1NWNZWWkxZEhlR2RHOWF0VWo3YlAwY1I4X0NrTWxNV2NWaEZhWEhQNjZoVWgxYmdoTDV3d3hiNG1xa2h1Y210OFAtZzNJenl3U1VTNmlO?oc=5",
-   "fonte": "Motorsport.com",
-   "ig": "motorsportcom",
-   "escopo": "Global",
-   "tier": "Generalista",
-   "dominio": "motorsport.com",
-   "ts": "2026-08-07T22:39:10Z"
-  },
-  {
    "titulo": "Marc Márquez and the Ducati Lenovo Team secure a direct place in Q2 at Silverstone with the sixth quickest time. Francesco Bagnaia thirteenth",
    "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQNEExMFBOYWx5X0YxZXRKMW0zQTJ3Znhwb3hFZzZ4XzVMZUpEUHJETWY2Q09oQ3plclZQZFE5VFVNREhQX2FZSUtJNFN6UXFBWDJzTmFXZm9IQmNSSDFSY0JFdnlTdnhoYy1pNFB3NmxwRmtwUHljRU9oME56U01ReU9hOHhveEN6S0J0U2dSc0lsT3JQbG8tMTBpN0M2OVNMd2FRVTE2YTlpLUtaVTF2SWJRTjQ5aEJfeThmV3FDMmtiRjk5WVVXOG1LemMzRDBjbkl5SWZ4SlFRYWt6R1pVT1RZeVY2TmozbHM5WUE0WnVtQVBwRGVpMGxsdDFkN0tDVGFlZ2Ewc1ktcTFwRVFZZlJ4LXhjcUNWWXM5cw?oc=5",
    "fonte": "Ducati Corse",
@@ -868,6 +858,16 @@
    "tier": "Mundo",
    "dominio": "revzilla.com",
    "ts": "2026-08-07T19:58:52Z"
+  },
+  {
+   "titulo": "Marc Marquez: “I’m slower” in corners that used to be my strength at Silverstone",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVi1TOWZQY05FM0pEbnAyVk5tT3ZtZ0xfN3BMdHp6VDNMcTZEbVYwMW9rV04yTlROaG91bHZRNWtZbV9yZ2M3THpxTTUyTTJiMnQtN3VfZHZ2VllvbnI1WXEyVkxpS0NhSW1tV3RUZ0M0VWExMUt1NWNZWWkxZEhlR2RHOWF0VWo3YlAwY1I4X0NrTWxNV2NWaEZhWEhQNjZoVWgxYmdoTDV3d3hiNG1xa2h1Y210OFAtZzNJenl3U1VTNmlO?oc=5",
+   "fonte": "Motorsport.com",
+   "ig": "motorsportcom",
+   "escopo": "Global",
+   "tier": "Generalista",
+   "dominio": "motorsport.com",
+   "ts": "2026-08-07T19:18:42Z"
   },
   {
    "titulo": "Ducati Johannesburg",
@@ -1170,16 +1170,6 @@
    "ts": "2026-08-06T15:07:05Z"
   },
   {
-   "titulo": "Quartararo on his move to Honda: \"It was time for a change... for a new challenge\"",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOU1A1cU9UWVZ2andpbFNPUU9rOXQtRk5mMWlSel9SUV9DVnd3NHJXWUNvbVRzZnNpYTBvMnZMT2pYOWlxVi1VejZHcW14Q3ZNVDlfWTl2Umxwb0FwN2NLMEhKMjNIVVE0MmUyQldIaGtXVWVZcHFhZk0xZ2FlWHVWQVdTcWxGeE1SX2xCTnc5ZXl0aTlVZkgwYXdtd1NGR04tV2Q2WDlvUktRNnpoZE1zbTJJcXdhUXVBb0h0Tk03RVE3U3ZVV3pJ?oc=5",
-   "fonte": "MotoGP",
-   "ig": "motogp",
-   "escopo": "Global",
-   "tier": "Corrida",
-   "dominio": "motogp.com",
-   "ts": "2026-08-06T15:01:00Z"
-  },
-  {
    "titulo": "Triumph Motorcycles Brasil inicia novo ciclo de crescimento",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQakN4dlpTLUJ1MmpNZDFjS21nbjAxY20xNzFIZVlPZU9LbW5mX2pWQnBrRWs5cW0zN2ZmUDdMck5JSXBEN3RxY1dHTndKa2JCSUFpNEM5YVJnV2VCSzVRYVEyemI1RjdVNmowemVzTEJiVE9JbXNSOXZocWRwd0I3Z1VKM2ZTbEtBbk9Hd0hReUV1N0U?oc=5",
    "fonte": "Revista Moto Adventure",
@@ -1248,6 +1238,16 @@
    "tier": "Brasil",
    "dominio": "andardemoto.com.br",
    "ts": "2026-08-06T12:25:25Z"
+  },
+  {
+   "titulo": "The best thing about Silverstone? \"How much passion the fans have for MotoGP\"",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcW5mV1c3OWJpaXkzT1VGNXdCeUZ0ZTFWVElCdVZaYnJYZEU0Mms3R0FDV0poaW9sVDlOam95NU5uRGRwM1h3d3hYc3BPWks4alRRaFRZMmNPSkc4Y0g3ZFJGRmZURFFjZlhOTG81MG1aUkxuRnpKTkQtbW5CV3NUcDZGN012SWFmZ2dCS2duUXpaQ3VWSzJfUjc4dTRlWW9ySkZPWDRUVFY0bFpqakNsVWVyeUJBc1dHNTFZLXExMmtOSHgt?oc=5",
+   "fonte": "MotoGP",
+   "ig": "motogp",
+   "escopo": "Global",
+   "tier": "Corrida",
+   "dominio": "motogp.com",
+   "ts": "2026-08-06T11:36:00Z"
   },
   {
    "titulo": "This EV Motorcycle Startup Shows That Substance Over Style Matters, Continues Profitability",
@@ -2050,7 +2050,7 @@
    "ts": "2026-08-03T18:00:00Z"
   },
   {
-   "titulo": "August 2026 - ridermagazine.com",
+   "titulo": "August 2026 - Rider Magazine",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBrWGpGbGpwRlNlcUxOYUIwTlVpdFF6d0pjeG1LdVhvNjMwVVJwcGt0S2lKN3ItWGR4eVpoVVlkWnI2ckhkUlZ6a19zTl8tX2FjdDJjN2dDc2F2eFVldWc?oc=5",
    "fonte": "Rider Magazine",
    "ig": "ridermag",
@@ -2130,14 +2130,14 @@
    "ts": "2026-08-03T14:36:34Z"
   },
   {
-   "titulo": "Six Stories of Yellow - Lifestyle | Storie Ducati",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBNMFdjNk9OQVBuQkNqVl9VZkN6WmZkQ2tDRzJsYTFCU2k3bUZsV1VLTU11TnRFcmoxYTNJeTEyUjNoaHZfRXJZaUpUYkp1SWtEeXEtMUcydVVyV29XR1IwYzRyemlsSG15WERYcnpyd3ZqNjZLQkhZ?oc=5",
+   "titulo": "An Interview with Francesco Bagnaia and Marc Márquez. - Racing | Storie Ducati",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUEltMlZCOHRTT2pYd3RscFA0eEtNeDVyeEo0N1VSeGkzY0ZMSGE4blJWZUVTVjNaU1FDQl81NTFaTUNETDhvS0h0UFFmb1FIY3FCV3pqMHdtZXZZb0g0d2xHelBRSzVBRVBHN1VPQnFJc0JjaFk5R2VzVUxCVnhKVDVLQXFXOVFQbmVwSGQtTjZYaTB2ZE1OMVZDN0Y?oc=5",
    "fonte": "Ducati Corse",
    "ig": "ducaticorse",
    "escopo": "Global",
    "tier": "Corrida",
    "dominio": "ducati.com",
-   "ts": "2026-08-03T13:20:30Z"
+   "ts": "2026-08-03T13:20:29Z"
   },
   {
    "titulo": "Honda Racing leva liderança para a decisão do MX1GP Brasil",
@@ -2340,6 +2340,16 @@
    "ts": "2026-08-01T18:00:00Z"
   },
   {
+   "titulo": "Super Pole - MOTO1000GP",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE41ZWFMaFBRMUVrZ2N0WGhTYUtzU00tR1pOckpQNW93ZzdVUWU4V2lHZHJkZzlfRWJ2YVVKeVg4VF9iVDg5U0hfaA?oc=5",
+   "fonte": "MOTO1000GP",
+   "ig": "moto1000gp",
+   "escopo": "Brasil",
+   "tier": "Corrida",
+   "dominio": "m1gp.com.br",
+   "ts": "2026-08-01T15:15:00Z"
+  },
+  {
    "titulo": "Chegou o blusão Glandon Air da BMW para reforçar oferta de equipamento de verão",
    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQMUNBa2JpckotdkdpeXVUX1VncnZWcWRrT3VBZ0Z4OXZWVGRMLXpYNklkbzFWYkV2LUJ3T2w2Y2prbHVPNUpNYjY3OXJUTHJPSG0zenZVcmxiaDFoWkpJenVDYlNNUzN4ZWg4X09SeHZQRERuNURpUXQzdVpHZXhJd2pQWEpTQmFKTDA0Mk9jMzBFNDVjVzFnbTVFTWdPdXZFdmFBMS1tckYyN3c0SUNkbHJ2aFhGMFZZNHVOdG1pUlZGY0I5ZTFJUjFuM0h2RURtbHppanRMQ043TklNa1d3MTMteHdNRU1tdmxyNHJKTUtuX1FNbkE?oc=5",
    "fonte": "AndarDeMoto Brasil",
@@ -2408,16 +2418,6 @@
    "tier": "Mundo",
    "dominio": "bikeexif.com",
    "ts": "2026-08-01T03:43:19Z"
-  },
-  {
-   "titulo": "GP600: Mario Salles comanda os treinos da sexta, em Cascavel",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOa2JtamtRdzk5bWVDcWl6cDJaM0s4V1BkdGpqZkZFc2YwZzdpeGpDLUp5RlJBMnlnY2NKUVpqMHVPbEpMX1Y1Z2o0QnUzdEtacGhTOUZZVGpEc0w2RWh1QmhNRWh3MW92RF9rWlpiLXlUOEFyVkFONDFTdHc5Y3pNVnZjdVFZQQ?oc=5",
-   "fonte": "MOTO1000GP",
-   "ig": "moto1000gp",
-   "escopo": "Brasil",
-   "tier": "Corrida",
-   "dominio": "m1gp.com.br",
-   "ts": "2026-07-31T19:37:00Z"
   },
   {
    "titulo": "Flashback Friday: Bike EXIF’s Top 10 Harley-Davidson Customs of 2024",
@@ -2580,16 +2580,6 @@
    "ts": "2025-11-19T21:46:36Z"
   },
   {
-   "titulo": "Hospedagem em Goiânia para a MotoGP 2026",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRnNrbmtxRVpRLVluYkw1MlBsMVU3TEFCM1VRakRnUmpRUnR5U1hsd2NUekM4b1JBc2JpdXZoN0hyaGswZHZNaThvLWpyalM5MFpYUHh6SFYzb0ZWRDhqQmd2V3VCVGVqWmdSY1FOcWR1Mm1fQzRYNzBUc2pPQVNUeS1jMFJCUQ?oc=5",
-   "fonte": "Grid Motors",
-   "ig": "gridmotors",
-   "escopo": "Brasil",
-   "tier": "Brasil",
-   "dominio": "gridmotors.com.br",
-   "ts": "2025-10-12T11:16:39Z"
-  },
-  {
    "titulo": "KTM 990 RC R 2026: nova supersport revelada",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdGhmMDlyYnpWU2EwNzJ5ejg2aER5ejVRaEZ6RF9JQ1Z0ejJCQjFXZTZJLWJ6cUdnUjNHSi0wNG1ZVWtlbk1DeWQwNUxweXdJcnZscnRIQkdIU2Y0X096S3VMWmxOWUE5SmV3aWdlWWlHcm5WdkV4ZnFiTFFVelFkc3VKY0hfaFNk?oc=5",
    "fonte": "Grid Motors",
@@ -2680,7 +2670,7 @@
    "ts": "2020-02-17T04:01:42Z"
   },
   {
-   "titulo": "Touring - ridermagazine.com",
+   "titulo": "Touring - Rider Magazine",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB2LVNiUzJlZ3AxdlRzM0FaU2p2dTE1REc3bTZTTzFHUFpiQjZNS09lbzF6REJOZy1xa3B5ZEk0SnF6WWxWU1d2WFVMeWplTUNQcHU1TnFn?oc=5",
    "fonte": "Rider Magazine",
    "ig": "ridermag",
@@ -2730,8 +2720,8 @@
    "ts": "2011-11-10T08:55:33Z"
   }
  ],
- "total_materias": 232,
- "materias_24h": 38,
+ "total_materias": 231,
+ "materias_24h": 36,
  "reddit": [],
  "em_alta": [
   {
@@ -2762,7 +2752,7 @@
   },
   {
    "tema": "Honda",
-   "mencoes": 16,
+   "mencoes": 15,
    "materias": [
     {
      "titulo": "Honda atualiza café racer elétrica, mas não vem pro Brasil",
@@ -2775,13 +2765,13 @@
      "fonte": "MotoGP"
     },
     {
-     "titulo": "Quartararo on his move to Honda: \"It was time for a change... for a new challenge\"",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOU1A1cU9UWVZ2andpbFNPUU9rOXQtRk5mMWlSel9SUV9DVnd3NHJXWUNvbVRzZnNpYTBvMnZMT2pYOWlxVi1VejZHcW14Q3ZNVDlfWTl2Umxwb0FwN2NLMEhKMjNIVVE0MmUyQldIaGtXVWVZcHFhZk0xZ2FlWHVWQVdTcWxGeE1SX2xCTnc5ZXl0aTlVZkgwYXdtd1NGR04tV2Q2WDlvUktRNnpoZE1zbTJJcXdhUXVBb0h0Tk03RVE3U3ZVV3pJ?oc=5",
-     "fonte": "MotoGP"
-    },
-    {
      "titulo": "MotoGP, Dixon gave it a shot: wanted Crutchlow's LCR Honda at Silverstone",
      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTEY3V2NxRm1lUnExWVNOZktVUzBOYTZwUm8xMy1oVlNhS20tTEVNU3dyeklVVV9wYVUxYmJhczM0Y2k0UDRhTGIwb3BNUUluaFpjaGhiS0l1TkRCNUFha2NFZXhyWU9rTUxnaS0yYXBHWlZVWDdSUGpobUhLOU1oYk84b2o3bG1LN2JpNEJrcUZFVkU2aGFqRF83U2EzeEpjMUhDcWFoYW9OREtSMnVGdg?oc=5",
+     "fonte": "GPOne"
+    },
+    {
+     "titulo": "MotoGP, Nakagami and Honda surprise everyone at Mugello with the 850!",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQXZTOC03UXpubVZsYWcxWmRJb1BZbmd4UVQ2UUF4VXRwMENBcTJpc05jcGlhRjhNZC1WR1pJWTFlTFhEMmJtQUVXLVlVRWtrbXJ5WHp0M0ZHdlNhZW1YSmlFRmxFcUIyMjdmd2tGQ19vOU5yUk5TSjRtN0k5aU1jT1ZjeU94YjQwcmZseV9wRlFiT25hcXhlU1VlbTM4dDRnY2RLcEVsTmI4T1g3?oc=5",
      "fonte": "GPOne"
     }
    ]
@@ -3412,9 +3402,9 @@
  ],
  "marca": {
   "ga4": {
-   "sessions": 89926,
-   "users": 84841,
-   "updated_at": "2026-08-09T07:36:48Z"
+   "sessions": 89947,
+   "users": 84861,
+   "updated_at": "2026-08-09T09:20:02Z"
   }
  },
  "pesado_em": "2026-08-08T17:51:00Z",
