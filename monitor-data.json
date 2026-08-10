@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-10T10:39:11Z",
+ "updated_at": "2026-08-10T12:03:44Z",
  "fontes_monitoradas": [
   {
    "nome": "Grid Motors",
@@ -410,6 +410,16 @@
  ],
  "materias": [
   {
+   "titulo": "Results - motogp.com",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAxZUlULWZSVTNEdFRyeVJCS1NESU1fbkdnNzNTaS1rTmhPOWt5OWZIT3ZRdlc1Ui1uQVRDbWg4WXRPMnA5cjBOWFl6b0xlR2Z5X0x0Y1ZjRzlVTk5BRDFIUzQ0LXgzV0tObFhMQ2NSTktJNHQ4S1dmSTdR?oc=5",
+   "fonte": "MotoGP",
+   "ig": "motogp",
+   "escopo": "Global",
+   "tier": "Corrida",
+   "dominio": "motogp.com",
+   "ts": "2026-08-10T11:25:53Z"
+  },
+  {
    "titulo": "“Second power” - Fabio Di Giannantonio makes worrying Ducati MotoGP claim",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZHcxcnE1MlBNVU9pdUFnbW9GT1lHeUUwbDNzTUlUSzkyUkZpVTNzUDJzV25JMFloS2l0cDJHZ19ZVjZyam82d3hDdnhKU0NLU0x4ZGVQek9ERVMzc1lhRHY2UkdESUZJWF9uV05xVHgzdnpQM2ZMZDBVSnlyQ0Y5YjlaQWlNNFZlNmZHeEtvSlJWNlcyeThaQkNlaEEteGxGU0UtelNfRFlPck5xcy1hdzdKQQ?oc=5",
    "fonte": "Crash MotoGP",
@@ -418,6 +428,16 @@
    "tier": "Corrida",
    "dominio": "crash.net",
    "ts": "2026-08-10T09:56:37Z"
+  },
+  {
+   "titulo": "368G turbina vendas e Zontes alcança melhor resultado da história",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPM0JuWk5Xc1NLdWRHM3RpYUlJRGxvQTNEVmRmcVd5eGFHS2QxRVJqcWc4S0M2RHlPRmJEQUFSVWI2VWM4VUp0ckM3eHplUk12OWJUWlBFTGZnVDhnWWo4MUlCUVdwOWM5V0oyWk9iTWsxdDJpcmFSdTFnQ0FnSWlUMVJwUzJDWWpMQ29GVjl4R1h2VllybjJDLQ?oc=5",
+   "fonte": "MotoNews Brasil",
+   "ig": "motonewsbrasil",
+   "escopo": "Brasil",
+   "tier": "Criador",
+   "dominio": "motonewsbrasil.com",
+   "ts": "2026-08-10T09:28:43Z"
   },
   {
    "titulo": "Marc Márquez finishes seventh at Silverstone with the Ducati Lenovo Team. Francesco Bagnaia crashes out",
@@ -500,7 +520,17 @@
    "ts": "2026-08-09T17:00:58Z"
   },
   {
-   "titulo": "Why factory Ducati was so weak at Silverstone",
+   "titulo": "“Painful” for Alex Marquez to lose Silverstone MotoGP podium to “unacceptable” error",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcTVMNFpSRHpTVlZDQnd2Wm1uSnNXb1BjZVRFU0ItcFpVQWc4VDM1eW85RFdEZTlPYUE4MnROdThHcjVqV3hlMDcyYlRra1MtSWQ0Zl9DOVRqWXdKVE52b0RfMy1yelc2bG1mTGRBNHlyRjIxUDNfNXlsck5oVF9OYTZpb0NraVRLU3BPWjRXMENnQThTcEpDeFFhcnpHdXVhbUJ1MUZSaGJnVVVvcmRmRldBYmc?oc=5",
+   "fonte": "Crash MotoGP",
+   "ig": "crashmotogp_",
+   "escopo": "Global",
+   "tier": "Corrida",
+   "dominio": "crash.net",
+   "ts": "2026-08-09T16:39:00Z"
+  },
+  {
+   "titulo": "Why factory Ducati was so weak at Silverstone - the",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObjBzV1lSTFpGUnhSWUhrUTYxd3ZkUlptcE1fYmRIeGdZUFFJYVB3cWQybkVhN0pwOE9lWEVSTVZuZnBqR2ZZSGh2N0FhYlJ2Umd5SS14cUpiLVRCMnd0d3FOOTAyUV9KUmZXWTVCYUQyU1I2SzBtVUVJYVpHSU0wYjhqdXpXcGFGX0hQZVY3cVRuUjJ1eU4yUWZCaDI?oc=5",
    "fonte": "The Race MotoGP",
    "ig": "theracemoto",
@@ -568,16 +598,6 @@
    "tier": "Corrida",
    "dominio": "crash.net",
    "ts": "2026-08-09T15:06:26Z"
-  },
-  {
-   "titulo": "Pedro Acosta asked “uncomfortable questions” of KTM before British MotoGP",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONnc2Yl8tWkFvOEZNZmR2V0FDOHdld2FGWk5aaGNWdmZyS0MyaG9MZlJsU1RCTVQ5N2ZhQXEwb1NHZDFOaU1TZ3pHRDRMUXV3cTlGdXdUbW8tRE41T2djWnpGWkZ4dFc5bUg2WTVuVW9zTFg4YWhqN1lNYlJUVVVLbzVyUWROajFJWUlYd09iZ2l4dGdycm5FTzdXN0d2WnIwRVBoMHo5eHI?oc=5",
-   "fonte": "Crash MotoGP",
-   "ig": "crashmotogp_",
-   "escopo": "Global",
-   "tier": "Corrida",
-   "dominio": "crash.net",
-   "ts": "2026-08-09T15:04:09Z"
   },
   {
    "titulo": "X-ADV: Honda lança novas cores pra sua scooter crossover",
@@ -670,6 +690,16 @@
    "ts": "2026-08-09T12:24:43Z"
   },
   {
+   "titulo": "Zontes bate novo recorde de emplacamentos impulsionada pela 368G",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZERIR3hqQnRuLXZoYlc0ZEhRMV9XTXZaV3pkbzd1N1VCYWQwNVJWM2hYSnlnbkcxa1A1dFE0SjhpRC1UQXo1c0ViNWh5VDNzZnhabWVGTEdPTXQ0TFpJY1gycm1naEtBS2V4SkFVNVpiVnBGLTdTZTY1b2EtVm1yTFk4LW53SmpPMi00d3hCSDFIZk9CbWwtSUJn?oc=5",
+   "fonte": "Revista Moto Adventure",
+   "ig": "revistamotoadventure",
+   "escopo": "Brasil",
+   "tier": "Brasil",
+   "dominio": "motoadventure.com.br",
+   "ts": "2026-08-09T12:00:00Z"
+  },
+  {
    "titulo": "Marc Márquez and the Ducati Lenovo Team ninth in the Silverstone Sprint. Francesco Bagnaia seventeenth",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVEt1bVRjaF8zeUs0aFZCRkY4MXF6dTA1U3g1M0JlN1NCSHJMWGZnSVRoTEdrbW13TnNsTXBPUWszaktsZEluLU5FbVJuQ3pNZ3hEQm02dUUwVXdFNl8xcThzdjV3enZqNDZVWVlLMmJCVjkyUGJsZVY1TzFwSGxZY0xmWS1wcmw2dEJZMHRkclNKN0YwcUpmWVBSeGxvOTJMZjJBNjg1Y3JpaEJFQ2MzNEFPUWJtVkhSOGExM1paNUhqbmRqQVI3UUZoWG8?oc=5",
    "fonte": "Ducati Corse",
@@ -708,6 +738,16 @@
    "tier": "Brasil",
    "dominio": "motonline.com.br",
    "ts": "2026-08-09T03:30:06Z"
+  },
+  {
+   "titulo": "Capacete LS2 FF358 Tribal - Rosa/Cinza",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0dGR5cEtUVVk5bWRjenpRcVlQNUxtSDVMemt1VTBqY0t0Wm5hLXBGLUlMZ096WDUtT2JyU2xONEhPc05IaWtpVl9YRy1nVUlfMldwbWVLaTVNdTF2cW1PcVM1SkZzZFp3T2tLa2lSWUU0RzU4bjdfNnJ3aXppc0k?oc=5",
+   "fonte": "Grid Motors",
+   "ig": "gridmotors",
+   "escopo": "Brasil",
+   "tier": "Brasil",
+   "dominio": "gridmotors.com.br",
+   "ts": "2026-08-09T02:59:00Z"
   },
   {
    "titulo": "Soft tank bag Streetfighter V2",
@@ -750,6 +790,16 @@
    "ts": "2026-08-08T21:33:53Z"
   },
   {
+   "titulo": "MotoGP, Marc Marquez: \"I'm disappointed; I risk finishing out of the points tomorrow.\"",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdURxOHFic3B0UDMzaWFKbnE1bjVDQm1VYXpTdmE5RVVReWV3ZjV5cWdhR1pNM1FjUExkSUpkZm5nVFVZZm9JcHFsY3hOVkl6OWVIWll2b1hKdXhzSXVJdUxQQzE5emplVHJGd2N2OU1rYUlSRkdyU29xeGtJaUtkNGVSMkdod1E5SWN0b0o3T1FIaUJDSXpHSi10c21FZDFnLVBJaXhKa1dTcHdLME90UDhPQ0hKd3JWRlMxNw?oc=5",
+   "fonte": "GPOne",
+   "ig": "gponedotcom",
+   "escopo": "Global",
+   "tier": "Corrida",
+   "dominio": "gpone.com",
+   "ts": "2026-08-08T19:35:05Z"
+  },
+  {
    "titulo": "KTM RC 490: nova esportiva com motor inédito chega em 2027",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8tQU5mazAwVy1URmJJWDJSVWllcDEtVjBLLU5ENnp4bk9pVDZtNWxYUXhCM1NfTzN4d3o5ejY4M2s1ZExlWVphS2daY3FlaWNjVVhkSnhLX181MnFjeXo5SDRzcjk0aXpxbGI0V1pxNnFBcTVoQ1Mw?oc=5",
    "fonte": "Motonline",
@@ -760,7 +810,7 @@
    "ts": "2026-08-08T18:40:40Z"
   },
   {
-   "titulo": "Winners and losers from MotoGP's British GP sprint",
+   "titulo": "Winners and losers from MotoGP's British GP sprint - the",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNblVZXzZpSU15LThYWUJ2X09yV1JGNzRRdHFsQ2MwWUFDZ1dhckFDRnpkLURyem0xQmlaOFJiZUxzRzlyOXJvQmotWXFpWXJKb3dFRWhPdjRkeGZIOUpwYmlsLWFrRkhQSEp1NUJQSFhXMDFQemQ0cDhUVzVBMnpOX1BMT29KOVpiOTlSMQ?oc=5",
    "fonte": "The Race MotoGP",
    "ig": "theracemoto",
@@ -808,16 +858,6 @@
    "tier": "Mundo",
    "dominio": "bikeexif.com",
    "ts": "2026-08-08T17:00:00Z"
-  },
-  {
-   "titulo": "Martin soars to Silverstone Saturday gold as Aprilia clinch first Sprint 1-2-3",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPU2Jqei11djY1NEZuRHliS0JOZTI1Rk52LUNRak1lVERNd0tMdWpXb1FUYWxTcW1EdU9QdVNPN2xGQW4wbnp4Si1mSV9qRzVLY2xlRXdkaVFUSHVGM0ZEcWUwVzhHM1Atc2ZaRFNUWU9XSmJmWm91WlMtdHBoS2pJSkJzb2RfTURTeldUVmo3cl9xclR2SUQ5Rmd4NUNPekxwWXFpeDhKV3hmUG95bl9SZUdBdElXMnhkTWwxSEY0YkhibXd5NG9V?oc=5",
-   "fonte": "MotoGP",
-   "ig": "motogp",
-   "escopo": "Global",
-   "tier": "Corrida",
-   "dominio": "motogp.com",
-   "ts": "2026-08-08T16:38:21Z"
   },
   {
    "titulo": "O que muda na nova Dominar 400, flagrada em testes no Brasil",
@@ -1200,7 +1240,7 @@
    "ts": "2026-08-06T15:42:41Z"
   },
   {
-   "titulo": "Six things we learned from MotoGP's first day back",
+   "titulo": "Six things we learned from MotoGP's first day back - the",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQY2FQR2d2eGdYaDhKRVRNUDQwaV9mR3AwQTBHM3hjNUtTampCZzNYWTQzenU2bUZXUlhqSGs5T3g3VVhvcXdKWlQ4UDVBRUNPc0hFdzZIeFhoazlxVHQtalotRXNpNjAwWGtKZGNFb2xqQ0l2SldyRDhyemNKSWxNOXByMlgxZi1DMWVYMVd5Y1ROUQ?oc=5",
    "fonte": "The Race MotoGP",
    "ig": "theracemoto",
@@ -2070,7 +2110,7 @@
    "ts": "2026-08-03T18:00:00Z"
   },
   {
-   "titulo": "August 2026 - Rider Magazine",
+   "titulo": "August 2026 - ridermagazine.com",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBrWGpGbGpwRlNlcUxOYUIwTlVpdFF6d0pjeG1LdVhvNjMwVVJwcGt0S2lKN3ItWGR4eVpoVVlkWnI2ckhkUlZ6a19zTl8tX2FjdDJjN2dDc2F2eFVldWc?oc=5",
    "fonte": "Rider Magazine",
    "ig": "ridermag",
@@ -2160,6 +2200,16 @@
    "ts": "2026-08-03T10:39:32Z"
   },
   {
+   "titulo": "Patritalia doubles down on €2.5bn Ducati bid as Ai MotoGP bikes and bold Italian-only rider pledge emerge",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNUdjVG10bzVVbFRTWnk2V0ppRnFzWThRSEtuS2VKQlVPZzBid21zMUVTQVVobmNKWHRja2tybGY0OXBUZW9rYzZLUEVaR2FGYVZOblZDbmt1bWs4ZGEyTkw3VzdBRUh1dXZmamZkX1ZaRTdTUDdjMTRDUjJFN0pxeEZ1TWh5ZjkxcVdWTkx0Sk1zSnZQdy1uZHVDOE5jLWJFQ21OZmdONG0wcmpld052c01FOXlfWW14cXNfQnpFelFsZw?oc=5",
+   "fonte": "Visordown",
+   "ig": "visordown",
+   "escopo": "Global",
+   "tier": "Mundo",
+   "dominio": "visordown.com",
+   "ts": "2026-08-03T09:30:00Z"
+  },
+  {
    "titulo": "Dealers call for change in motorcycle pricing system nobody likes",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaFFoTnVEeS1fVHpEVlIxdzBEVWlJUVdiV3N4UVJNcWV5ZDZNQ3pGM2VYeGUyN1Z5RXBERHloRk9OVFRCUzNXTTY5VlJLNG1kQm95eFN3NEhoN0NCOVVhQ2F2eDREQ0p1YVUtWko0Rk9xLWRsSUlMQk5GVk5Oek5jS1lSdmhHVWRfVmkwUy1sanF2bDZUZnlsS1FiZHdHcWVCUktweGln?oc=5",
    "fonte": "RevZilla Common Tread",
@@ -2188,16 +2238,6 @@
    "tier": "Mundo",
    "dominio": "webbikeworld.com",
    "ts": "2026-08-03T02:30:17Z"
-  },
-  {
-   "titulo": "MotoGP, Earthquake at Tech3: KTM is considering dropping Viñales from the team!",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUnFWeUxSV21DQlh5OVo4enMxVUdmSXFpRENqMy03cGFodHR3dGNUMW02Nno3V0dnZ2VLbzdmOWZqT1pfT19DY25DRGFVdXVrenVlWmFxZzhFSnZFVnRXdW5walcyYzdvUXY5VEVmQ2x3cHJOM3BpN0hEcEM0UzN5VjgxNDlJSjN1bThNRnRpREx5MEN3Zjgta1czZFRRZHpEOS1QMi16ZDVOZS13TjhTRlpjWjh0OXRt?oc=5",
-   "fonte": "GPOne",
-   "ig": "gponedotcom",
-   "escopo": "Global",
-   "tier": "Corrida",
-   "dominio": "gpone.com",
-   "ts": "2026-08-02T14:07:04Z"
   },
   {
    "titulo": "Scheib registra melhor volta no fim e lidera warm-up da GP1000 by Motul",
@@ -2277,16 +2317,6 @@
    "escopo": "Global",
    "tier": "Mundo",
    "dominio": "moto.it",
-   "ts": "2026-08-02T07:00:00Z"
-  },
-  {
-   "titulo": "Brits say Skyfall has the greatest motorcycle movie scene of the 21st century, but did they get it right?",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOU1hPaW1pUnNHZ0JLTEZrZW1Ta1VMajJXTHlaT1JoQ3VoTV9RRS1JLUtRa0FJOUl5XzI5X2pOQlJ1am5EWngwbk41WUlVOTFyc21rWXhQejZjOUczSmNYWHlUZnpoYWpOd0xpVU56YmNZVnVlQ3FOVC11bkM1Ym5mWWswcGJOd1RIb1JjVW5fLU1VUUJadlRPd1l6dXA2aHhwRk9LdjIwck5FWTN6VHpUOTROM09UcWt0bUZN?oc=5",
-   "fonte": "Visordown",
-   "ig": "visordown",
-   "escopo": "Global",
-   "tier": "Mundo",
-   "dominio": "visordown.com",
    "ts": "2026-08-02T07:00:00Z"
   },
   {
@@ -2450,6 +2480,16 @@
    "ts": "2025-11-17T03:17:42Z"
   },
   {
+   "titulo": "Yamaha revela Ténéré 700 World Raid 2026 mais leve",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORW1GeUZiTkxLeFQ2cThjUTJnMTJJc1dlazFlQW5Uam56OHdoMUI0TWZlVm9xQUVNMS1wRlRQRllFQlRFMFRGVmN4QUdFd1h0bmVyOU9BeHVQb3BOQUhEOWloVXlhOHc1Zzduellxdk5OMzlUS1k5LTE2QkJRajNyMjJEYkYwTk90SmVDa1J5dGxOd1U?oc=5",
+   "fonte": "Grid Motors",
+   "ig": "gridmotors",
+   "escopo": "Brasil",
+   "tier": "Brasil",
+   "dominio": "gridmotors.com.br",
+   "ts": "2025-11-07T03:46:25Z"
+  },
+  {
    "titulo": "Ducati Nightshift 2026 estreia cor Verde Esmeralda",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdUJLeGRHZTdpc1dFU2tqQUNpRndpOU5meVdHLXVMRzBsMnZKVWVJQlF0b1VVUDNjaUxKYm9CQzdtQWVUSEdzZW4wbWNTWjV0emhKQmNkckZCUjNhMTkzUTd5MFdzTHNlbFFzMTgybmtWQS1abVJid2U4RkxwOUdoOHdCT0FCd0xLQW5TSUZiRS01VTg?oc=5",
    "fonte": "Grid Motors",
@@ -2590,7 +2630,7 @@
    "ts": "2020-02-17T04:01:42Z"
   },
   {
-   "titulo": "Touring - Rider Magazine",
+   "titulo": "Touring - ridermagazine.com",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB2LVNiUzJlZ3AxdlRzM0FaU2p2dTE1REc3bTZTTzFHUFpiQjZNS09lbzF6REJOZy1xa3B5ZEk0SnF6WWxWU1d2WFVMeWplTUNQcHU1TnFn?oc=5",
    "fonte": "Rider Magazine",
    "ig": "ridermag",
@@ -2660,14 +2700,19 @@
    "ts": "2017-02-20T05:07:57Z"
   }
  ],
- "total_materias": 225,
- "materias_24h": 26,
+ "total_materias": 229,
+ "materias_24h": 28,
  "reddit": [],
  "em_alta": [
   {
    "tema": "Motogp",
-   "mencoes": 36,
+   "mencoes": 38,
    "materias": [
+    {
+     "titulo": "Results - motogp.com",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAxZUlULWZSVTNEdFRyeVJCS1NESU1fbkdnNzNTaS1rTmhPOWt5OWZIT3ZRdlc1Ui1uQVRDbWg4WXRPMnA5cjBOWFl6b0xlR2Z5X0x0Y1ZjRzlVTk5BRDFIUzQ0LXgzV0tObFhMQ2NSTktJNHQ4S1dmSTdR?oc=5",
+     "fonte": "MotoGP"
+    },
     {
      "titulo": "“Second power” - Fabio Di Giannantonio makes worrying Ducati MotoGP claim",
      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZHcxcnE1MlBNVU9pdUFnbW9GT1lHeUUwbDNzTUlUSzkyUkZpVTNzUDJzV25JMFloS2l0cDJHZ19ZVjZyam82d3hDdnhKU0NLU0x4ZGVQek9ERVMzc1lhRHY2UkdESUZJWF9uV05xVHgzdnpQM2ZMZDBVSnlyQ0Y5YjlaQWlNNFZlNmZHeEtvSlJWNlcyeThaQkNlaEEteGxGU0UtelNfRFlPck5xcy1hdzdKQQ?oc=5",
@@ -2682,17 +2727,12 @@
      "titulo": "Silverstone: New 2026 MotoGP World Championship standings",
      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMUwtLUdxY0pYenBWTDlqQ09uZlJVMzZ0aUFGZzM5RnF3WGFrVngxaWRZeTZ0VUpFWEdlNHJFT3RSWG95YktaYXdZS3JkZ1lkMDk3SEpSOUpQbmRrQklxWWVsMEZKTjEwaTJ0UU04czhwUmJ2ZUt1MjRtMW1haTR0aXFxZkNCcGNUQlR5UmN4aEZFSWJjT2ZGSG4yMXEtREtmanZpdHVB?oc=5",
      "fonte": "Crash MotoGP"
-    },
-    {
-     "titulo": "High Silverstone MotoGP attrition attributed to several factors",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS28xRHhzblV3QXNtQzE2aWViQ0JfSjBlQS1jUng1TnZtU2kwWjlIbHhLcjNwSFlHSHJzWEt4VXpvVVpLNnVtd2J4ejVhR0w5VWxMWnZsU1JocEgtbHJzZWVpY1JiZ3pzQVhwYjNMbzJaRURPMTRYMlhMU2pMbVpjTHJZS09XVXNyN0tkeFJBSk5Vb1A3TW5aNmdGd2hTRDNYZDdKS0hzQQ?oc=5",
-     "fonte": "Crash MotoGP"
     }
    ]
   },
   {
    "tema": "Ducati",
-   "mencoes": 14,
+   "mencoes": 15,
    "materias": [
     {
      "titulo": "“Second power” - Fabio Di Giannantonio makes worrying Ducati MotoGP claim",
@@ -2705,7 +2745,7 @@
      "fonte": "Ducati Corse"
     },
     {
-     "titulo": "Why factory Ducati was so weak at Silverstone",
+     "titulo": "Why factory Ducati was so weak at Silverstone - the",
      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObjBzV1lSTFpGUnhSWUhrUTYxd3ZkUlptcE1fYmRIeGdZUFFJYVB3cWQybkVhN0pwOE9lWEVSTVZuZnBqR2ZZSGh2N0FhYlJ2Umd5SS14cUpiLVRCMnd0d3FOOTAyUV9KUmZXWTVCYUQyU1I2SzBtVUVJYVpHSU0wYjhqdXpXcGFGX0hQZVY3cVRuUjJ1eU4yUWZCaDI?oc=5",
      "fonte": "The Race MotoGP"
     },
@@ -2718,7 +2758,7 @@
   },
   {
    "tema": "Yamaha",
-   "mencoes": 11,
+   "mencoes": 12,
    "materias": [
     {
      "titulo": "Prima Pramac Yamaha MotoGP Leaves Silverstone Determined to Close the Gap",
@@ -2795,14 +2835,35 @@
    ]
   },
   {
-   "tema": "Ktm",
-   "mencoes": 7,
+   "tema": "Marc Marquez",
+   "mencoes": 5,
    "materias": [
     {
-     "titulo": "Pedro Acosta asked “uncomfortable questions” of KTM before British MotoGP",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONnc2Yl8tWkFvOEZNZmR2V0FDOHdld2FGWk5aaGNWdmZyS0MyaG9MZlJsU1RCTVQ5N2ZhQXEwb1NHZDFOaU1TZ3pHRDRMUXV3cTlGdXdUbW8tRE41T2djWnpGWkZ4dFc5bUg2WTVuVW9zTFg4YWhqN1lNYlJUVVVLbzVyUWROajFJWUlYd09iZ2l4dGdycm5FTzdXN0d2WnIwRVBoMHo5eHI?oc=5",
+     "titulo": "Marc Marquez owns up to British GP struggles but refuses to panic",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWnA0c09XOHBGSG9FN1FhM0R6WjlJeFZCMlE4b0tZaFEzeGtjd0RrUElTd3RUOVRnTjZMSVFDWmtYbzJHdzV0WW5pMGhKaURmY0tFdDVxSi1meDlobDRhZXJzQl9FVUZ5VDNwalg4aW5xdlYtUTd5UXYyUkYzZ2xWcTJ2UUlpNTJNdnVDaWgxZUI0M3ZraWFxQmVVQVJGY0JaS24yVXNDaXNPaHJpYUl4R0RBdE5MWW1YZVROZm1hWGtVZHlkVUx6cWRrNkFXQQ?oc=5",
+     "fonte": "Motorsport.com"
+    },
+    {
+     "titulo": "Marc Marquez: \"The bike worked, the tyre worked... I couldn't go faster\"",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcWlmU1dBOGZuemM5endzQnYwYlJ2QUN0RFNSWG1tVjFza0ttcVMwbGEzdENpRmlHSkUzQ1B3TUlnYjJ3RUxybHhUQld0dS1kdTJvbU9kd1k5QnRGTzhncmpjQ3RJaFVkSWs3TnBreGVHR2p6WlRmbEdVWTRhRklPSnpVRzF4ZFN4dDlCdXE5Z1Y5b1lXOXZGbHZmdll4LUs3VWZ0cUVqT1dTcjRGT0tBdEJyLXAwT3c?oc=5",
+     "fonte": "MotoGP"
+    },
+    {
+     "titulo": "Marc Marquez concedes “not possible to fight” in Silverstone MotoGP",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONlV4S21WcEI0VWhYM1dsSnExbzAyMkJjM3BNa0FDdzZ4eGVnNEo2bFpOekVheHVkQ2M4eF9lTTNWRGo4TFZfOTJkQVdVWGkwQTY5UVNNUUktV3VNYzFBVHJMZmF3MFctMHdyR291NThJTlR0dmlyVFUwcFF6cGZlaUxidXV2cW9xOFpzenhLbnJqMUdqVFUwU2wzcG5ONWpxWFBRT3h3?oc=5",
      "fonte": "Crash MotoGP"
     },
+    {
+     "titulo": "Raul Fernandez cruises to Silverstone MotoGP win, Marc Marquez seventh",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbS0tNldiNEJlanBvMnVVWTNLVU1oeFllWDFhaUNIWG9kM3NpaHFOaDI1Rk92MTdST0V0Zk9PNlNEQ0MyQS12N1hCNFZUOGdiQWEwalhHdGpIZ2lNZVN6VGxudk9wdTRVbWRxYkhKWnFuTzI1aW81bkhyLWo2OGVtOXdBT1UzZ2NzakwtSGtfc0tjU2FoTU9Kbk90RjBvalUtTWRLLTFCYmNHNFpxQUpB?oc=5",
+     "fonte": "Crash MotoGP"
+    }
+   ]
+  },
+  {
+   "tema": "Ktm",
+   "mencoes": 5,
+   "materias": [
     {
      "titulo": "KTM RC 490: nova esportiva com motor inédito chega em 2027",
      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8tQU5mazAwVy1URmJJWDJSVWllcDEtVjBLLU5ENnp4bk9pVDZtNWxYUXhCM1NfTzN4d3o5ejY4M2s1ZExlWVphS2daY3FlaWNjVVhkSnhLX181MnFjeXo5SDRzcjk0aXpxbGI0V1pxNnFBcTVoQ1Mw?oc=5",
@@ -2817,6 +2878,11 @@
      "titulo": "MotoGP, KTM lands a major coup: Luca Marini to ride for Tech 3 starting in 2027!",
      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQlVtSmxsWUhjbDh1WmJnWThxenV4LXJfdklvdkJBSXRURHU0S0F0bHlsSTV6ekV3MVhLNS1KVWJKSDM3aEhWM2VPU3RDX09Oa0E1TEZZY1JpN2xzM0dnNFdfQmRZZl8wSUJmdndOZlpXZTNLWHRxSm55OHJ5QjAwR2ZvRFlvZnNTZEt4WmlkeWlkUWVkOEUwQ0pTaUR5Nzk3OG1ySlhHUWZ3MkxsRFA0NndTNFRiczFCZ1E?oc=5",
      "fonte": "GPOne"
+    },
+    {
+     "titulo": "KTM RC 490: confirmada a nova Supersport bicilíndrica desenvolvida para dominar as pistas e as ruas",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOS0tmNjRYenJTZGZDczQ4VExvd3N6TlhhU2I4NHNNTENWUWRtR3B3cnJjYVBWTkhvV201cV9WXzE3Nzh3RUNBS01BSEdBY0kxUXBzVDc2MUJuQlVDbGhYSEtLTFN0RG5FSlBhU2FZV0VxNVRac1BtVjU2ZURQSGY5NHIxSmg3YjNIaTAwbnZ3YjFFTms?oc=5",
+     "fonte": "Motociclismo"
     }
    ]
   },
@@ -2845,162 +2911,36 @@
      "fonte": "Cycle News"
     }
    ]
-  },
-  {
-   "tema": "Harley",
-   "mencoes": 4,
-   "materias": [
-    {
-     "titulo": "Archives Column | Harley-Davidson SX 250",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQX2U5dTVadG1femt5enh2Zl83N2xWU1VrVWpsR20tbFhCQjdxT1FfWHdKS2VTNW9qRUdublBZX3h4VUFpZ0RvQzJxY244YXk5TlllU0Zadk43Y2cyYkxHYWswckMzRUtqVDRqWVE5LXVwTm5ydzNyVFhsUndXajEyMEtvVzlEMFlr?oc=5",
-     "fonte": "Cycle News"
-    },
-    {
-     "titulo": "Café racer da Harley pode sair do conceito e ir à produção",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE94TUR0Q05JYkhid2JpNmp4RWh3UXF0STBJV0hucXh1RXh2RGdvTm1KSm9UbC15WEVIWi1WbGd3dGdvRG9wRldoeG5MUjQ0SmZYYUtxSkRUbllWRENoX3hqQ213Z0FzbUpEMWRxUUFqSk8?oc=5",
-     "fonte": "Motonline"
-    },
-    {
-     "titulo": "Harley-Davidson registra nome RMCR e reforça rumores sobre nova café racer",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaEdjYkt4Y3NlVGRldUxMQVRrTlFkR1VfWEI1YUkwRE1EYmVkcVI4clAxandTZ3RXQ1ZtX0s2V0YxcHNDM2M1aDc4bGJud0J4Y00wZUNKVUcyeWhJazk2anExMmU5cFgyY1A3RU5fQVVobV9mUnktUXRoN0ZTakNnUjFWQmc0aGd3a013YXAzbm5tQlNUMFBGcUZKU0V2dXhXZ2tqMmtVR0R0a3Q3VmhsWjdQRkJ6RklFb2c?oc=5",
-     "fonte": "Motociclismo"
-    },
-    {
-     "titulo": "Siberian Blacksmith: Hammerbike’s Harley-Davidson WLA Flathead Bobber",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBmcEt6OUdBMDlBd0NqMksxUkE3Wnoxcng1NUNnY3BDWUNUQTQ1T0RMSUdmRGIwTWg4cGJoSVNLTE54Wjk5LW1aWDB2cDJxblpnQlBjSTlWT3dsYWRCa1NsdUlaZEZkVjV2UzlUV2RBQnY0OGZYdzd4LXNvang?oc=5",
-     "fonte": "Bike EXIF"
-    }
-   ]
   }
  ],
  "pautas": [
   {
-   "pauta": "Motogp",
-   "urgencia": "5 fontes / 48h",
-   "porque": "5 fontes publicaram sobre isso nas ultimas 48h.",
-   "furo": false,
-   "fontes": 5,
-   "materias": [
-    {
-     "titulo": "“Second power” - Fabio Di Giannantonio makes worrying Ducati MotoGP claim",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZHcxcnE1MlBNVU9pdUFnbW9GT1lHeUUwbDNzTUlUSzkyUkZpVTNzUDJzV25JMFloS2l0cDJHZ19ZVjZyam82d3hDdnhKU0NLU0x4ZGVQek9ERVMzc1lhRHY2UkdESUZJWF9uV05xVHgzdnpQM2ZMZDBVSnlyQ0Y5YjlaQWlNNFZlNmZHeEtvSlJWNlcyeThaQkNlaEEteGxGU0UtelNfRFlPck5xcy1hdzdKQQ?oc=5",
-     "fonte": "Crash MotoGP"
-    },
-    {
-     "titulo": "MotoGP e F1 juntas? GP de Austin pode unir as categorias; entenda",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1nRFRXWnYyM1BHVnFDNEl2cDZsSXNZdzNsTWgzV21sNzROQ0duMUwzZlQtV1E2WE9mMzY5blB2SURKU0NqcG1Sc1V1THRXWUJlZHpESkJKRXlFUkpkZjlJWE0tRmFPUC14OHJPWFFxQ2tfNXc?oc=5",
-     "fonte": "Motonline"
-    },
-    {
-     "titulo": "Silverstone: New 2026 MotoGP World Championship standings",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMUwtLUdxY0pYenBWTDlqQ09uZlJVMzZ0aUFGZzM5RnF3WGFrVngxaWRZeTZ0VUpFWEdlNHJFT3RSWG95YktaYXdZS3JkZ1lkMDk3SEpSOUpQbmRrQklxWWVsMEZKTjEwaTJ0UU04czhwUmJ2ZUt1MjRtMW1haTR0aXFxZkNCcGNUQlR5UmN4aEZFSWJjT2ZGSG4yMXEtREtmanZpdHVB?oc=5",
-     "fonte": "Crash MotoGP"
-    },
-    {
-     "titulo": "High Silverstone MotoGP attrition attributed to several factors",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS28xRHhzblV3QXNtQzE2aWViQ0JfSjBlQS1jUng1TnZtU2kwWjlIbHhLcjNwSFlHSHJzWEt4VXpvVVpLNnVtd2J4ejVhR0w5VWxMWnZsU1JocEgtbHJzZWVpY1JiZ3pzQVhwYjNMbzJaRURPMTRYMlhMU2pMbVpjTHJZS09XVXNyN0tkeFJBSk5Vb1A3TW5aNmdGd2hTRDNYZDdKS0hzQQ?oc=5",
-     "fonte": "Crash MotoGP"
-    }
-   ]
+   "pauta": "Raul Fernández domina Silverstone: análise da vitória e ascensão do piloto na MotoGP",
+   "porque": "Resultado fresco de prova principal com piloto em destaque e Jorge Martin aumentando liderança no campeonato.",
+   "urgencia": "Agora"
   },
   {
-   "pauta": "Ducati",
-   "urgencia": "4 fontes / 48h",
-   "porque": "4 fontes publicaram sobre isso nas ultimas 48h.",
-   "furo": false,
-   "fontes": 4,
-   "materias": [
-    {
-     "titulo": "“Second power” - Fabio Di Giannantonio makes worrying Ducati MotoGP claim",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZHcxcnE1MlBNVU9pdUFnbW9GT1lHeUUwbDNzTUlUSzkyUkZpVTNzUDJzV25JMFloS2l0cDJHZ19ZVjZyam82d3hDdnhKU0NLU0x4ZGVQek9ERVMzc1lhRHY2UkdESUZJWF9uV05xVHgzdnpQM2ZMZDBVSnlyQ0Y5YjlaQWlNNFZlNmZHeEtvSlJWNlcyeThaQkNlaEEteGxGU0UtelNfRFlPck5xcy1hdzdKQQ?oc=5",
-     "fonte": "Crash MotoGP"
-    },
-    {
-     "titulo": "Marc Márquez finishes seventh at Silverstone with the Ducati Lenovo Team. Francesco Bagnaia crashes out",
-     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNa0ctV2pYQWtpdUpKV1dLVzVza0Zmd3JlUlFUSEE2UWlLVjVmVk9yaTJNdkhaM19Ick9IaE9XZ1hKOFlGdkFGRTlTSjVmbHRjRWhyZF9lWEpXaUlwVG5VQWxJSXVoeldxNk5Nb0EwaHVaU2ozY2FMT0UtWkNfM04wa0xGWG1Fc205WXI3QXU0ZVFsYnlNOXhLb1Z5NXl5aGRYeDNZM1J1UGRPLTlVWEtYLThhS253bTlpWjJkTjhuU091SUQ2M3BBVVVmb3BoX0Nqcno2b29pYVF4M2diVFhwaERncnFoWk0x?oc=5",
-     "fonte": "Ducati Corse"
-    },
-    {
-     "titulo": "Why factory Ducati was so weak at Silverstone",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObjBzV1lSTFpGUnhSWUhrUTYxd3ZkUlptcE1fYmRIeGdZUFFJYVB3cWQybkVhN0pwOE9lWEVSTVZuZnBqR2ZZSGh2N0FhYlJ2Umd5SS14cUpiLVRCMnd0d3FOOTAyUV9KUmZXWTVCYUQyU1I2SzBtVUVJYVpHSU0wYjhqdXpXcGFGX0hQZVY3cVRuUjJ1eU4yUWZCaDI?oc=5",
-     "fonte": "The Race MotoGP"
-    },
-    {
-     "titulo": "Ducati Monster distinguida com Red Dot Design Award 2026",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZTZ0aG1LdU5ZNFN6ZU1yYV9fbm43V2N0c3hSeGtPVkNRcVo1UUwyU2I3bU1lcUhMVGJOaUFaT0hfTDFoWGg2S0o5YWlqZF9sR3kwWDhMN1NKTm15RDBHaHhqZXhPMnRrdFk2NW8xakx0V2hiMHFJVXQ3bnF6a3lEVEZIaElraTdYU1RaQ2VWbHpBZTJqc2lteURoSjB1d2Z6aE03TkVaMA?oc=5",
-     "fonte": "AndarDeMoto Brasil"
-    }
-   ]
+   "pauta": "Por que Ducati factory patinou em Silverstone: investigação técnica da maior fabricante italiana",
+   "porque": "Desempenho inesperado da Ducati com Marc Márquez sétimo e Bagnaia fora dos pontos merece análise profunda.",
+   "urgencia": "Hoje"
   },
   {
-   "pauta": "Marc Marquez",
-   "urgencia": "3 fontes / 48h",
-   "porque": "3 fontes publicaram sobre isso nas ultimas 48h.",
-   "furo": false,
-   "fontes": 3,
-   "materias": [
-    {
-     "titulo": "Marc Marquez owns up to British GP struggles but refuses to panic",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWnA0c09XOHBGSG9FN1FhM0R6WjlJeFZCMlE4b0tZaFEzeGtjd0RrUElTd3RUOVRnTjZMSVFDWmtYbzJHdzV0WW5pMGhKaURmY0tFdDVxSi1meDlobDRhZXJzQl9FVUZ5VDNwalg4aW5xdlYtUTd5UXYyUkYzZ2xWcTJ2UUlpNTJNdnVDaWgxZUI0M3ZraWFxQmVVQVJGY0JaS24yVXNDaXNPaHJpYUl4R0RBdE5MWW1YZVROZm1hWGtVZHlkVUx6cWRrNkFXQQ?oc=5",
-     "fonte": "Motorsport.com"
-    },
-    {
-     "titulo": "Marc Marquez: \"The bike worked, the tyre worked... I couldn't go faster\"",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcWlmU1dBOGZuemM5endzQnYwYlJ2QUN0RFNSWG1tVjFza0ttcVMwbGEzdENpRmlHSkUzQ1B3TUlnYjJ3RUxybHhUQld0dS1kdTJvbU9kd1k5QnRGTzhncmpjQ3RJaFVkSWs3TnBreGVHR2p6WlRmbEdVWTRhRklPSnpVRzF4ZFN4dDlCdXE5Z1Y5b1lXOXZGbHZmdll4LUs3VWZ0cUVqT1dTcjRGT0tBdEJyLXAwT3c?oc=5",
-     "fonte": "MotoGP"
-    },
-    {
-     "titulo": "Marc Marquez concedes “not possible to fight” in Silverstone MotoGP",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONlV4S21WcEI0VWhYM1dsSnExbzAyMkJjM3BNa0FDdzZ4eGVnNEo2bFpOekVheHVkQ2M4eF9lTTNWRGo4TFZfOTJkQVdVWGkwQTY5UVNNUUktV3VNYzFBVHJMZmF3MFctMHdyR291NThJTlR0dmlyVFUwcFF6cGZlaUxidXV2cW9xOFpzenhLbnJqMUdqVFUwU2wzcG5ONWpxWFBRT3h3?oc=5",
-     "fonte": "Crash MotoGP"
-    },
-    {
-     "titulo": "Raul Fernandez cruises to Silverstone MotoGP win, Marc Marquez seventh",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbS0tNldiNEJlanBvMnVVWTNLVU1oeFllWDFhaUNIWG9kM3NpaHFOaDI1Rk92MTdST0V0Zk9PNlNEQ0MyQS12N1hCNFZUOGdiQWEwalhHdGpIZ2lNZVN6VGxudk9wdTRVbWRxYkhKWnFuTzI1aW81bkhyLWo2OGVtOXdBT1UzZ2NzakwtSGtfc0tjU2FoTU9Kbk90RjBvalUtTWRLLTFCYmNHNFpxQUpB?oc=5",
-     "fonte": "Crash MotoGP"
-    }
-   ]
+   "pauta": "Zontes 368G quebra recorde brasileiro: como a chinesa conquistou o mercado nacional",
+   "porque": "Fabricante asiática alcança melhor resultado histórico com modelo acessível e relevante para Brasil.",
+   "urgencia": "Esta semana"
   },
   {
-   "pauta": "Harley",
-   "urgencia": "2 fontes / 48h",
-   "porque": "2 fontes publicaram sobre isso nas ultimas 48h.",
-   "furo": false,
-   "fontes": 2,
-   "materias": [
-    {
-     "titulo": "Archives Column | Harley-Davidson SX 250",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQX2U5dTVadG1femt5enh2Zl83N2xWU1VrVWpsR20tbFhCQjdxT1FfWHdKS2VTNW9qRUdublBZX3h4VUFpZ0RvQzJxY244YXk5TlllU0Zadk43Y2cyYkxHYWswckMzRUtqVDRqWVE5LXVwTm5ydzNyVFhsUndXajEyMEtvVzlEMFlr?oc=5",
-     "fonte": "Cycle News"
-    },
-    {
-     "titulo": "Café racer da Harley pode sair do conceito e ir à produção",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE94TUR0Q05JYkhid2JpNmp4RWh3UXF0STBJV0hucXh1RXh2RGdvTm1KSm9UbC15WEVIWi1WbGd3dGdvRG9wRldoeG5MUjQ0SmZYYUtxSkRUbllWRENoX3hqQ213Z0FzbUpEMWRxUUFqSk8?oc=5",
-     "fonte": "Motonline"
-    }
-   ]
+   "pauta": "Harley-Davidson café racer saindo do conceito: o que esperar da RMCR em produção",
+   "porque": "Marca registra nome oficial e intensifica sinais de novo segmento café racer que interessa ao público brasileiro.",
+   "urgencia": "Esta semana"
   },
   {
-   "pauta": "Ktm",
-   "urgencia": "2 fontes / 48h",
-   "porque": "2 fontes publicaram sobre isso nas ultimas 48h.",
-   "furo": false,
-   "fontes": 2,
-   "materias": [
-    {
-     "titulo": "Pedro Acosta asked “uncomfortable questions” of KTM before British MotoGP",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONnc2Yl8tWkFvOEZNZmR2V0FDOHdld2FGWk5aaGNWdmZyS0MyaG9MZlJsU1RCTVQ5N2ZhQXEwb1NHZDFOaU1TZ3pHRDRMUXV3cTlGdXdUbW8tRE41T2djWnpGWkZ4dFc5bUg2WTVuVW9zTFg4YWhqN1lNYlJUVVVLbzVyUWROajFJWUlYd09iZ2l4dGdycm5FTzdXN0d2WnIwRVBoMHo5eHI?oc=5",
-     "fonte": "Crash MotoGP"
-    },
-    {
-     "titulo": "KTM RC 490: nova esportiva com motor inédito chega em 2027",
-     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8tQU5mazAwVy1URmJJWDJSVWllcDEtVjBLLU5ENnp4bk9pVDZtNWxYUXhCM1NfTzN4d3o5ejY4M2s1ZExlWVphS2daY3FlaWNjVVhkSnhLX181MnFjeXo5SDRzcjk0aXpxbGI0V1pxNnFBcTVoQ1Mw?oc=5",
-     "fonte": "Motonline"
-    }
-   ]
+   "pauta": "Novos lançamentos 2026 2027: BMW 1300 GS, KTM RC 490 e Himalayan atualizada resumem o que vem por aí",
+   "porque": "Múltiplos modelos flagrados em testes ou confirmados oficialmente indicam ciclo intenso de inovação no mercado.",
+   "urgencia": "Esta semana"
   }
  ],
- "resumo_ia": "O GP Britanico de MotoGP 2026 em Silverstone marca dominio historico da Aprilia com primeira dobradinha 1-2-3 liderada por Jorge Martin, enquanto Ducati e Marc Marquez enfrentam dificuldades tecnicas graves que impactam suas posicoes no campeonato. Paralelamente, a industria de motos anuncia lancamentos importantes para 2026-2027 como KTM RC 490 e novos sportbikes, enquanto marcas como Ducati e Triumph apostam em investimentos pesados para consolidar suas posicoes globais.",
+ "resumo_ia": "O MotoGP de Silverstone fecha com vitória convincente de Raul Fernández enquanto a Ducati factory decepcionam, deixando Marc Márquez em sétimo lugar; no mercado brasileiro, Zontes comemora recorde histórico e fabricantes globais anunciam pipeline robusto de lançamentos para 2026 2027.",
  "instagram": [
   {
    "perfil": "superbikebrasil",
@@ -3275,18 +3215,206 @@
  ],
  "marca": {
   "ga4": {
-   "sessions": 90110,
-   "users": 85024,
-   "updated_at": "2026-08-10T09:59:28Z"
+   "sessions": 90114,
+   "users": 85028,
+   "updated_at": "2026-08-10T11:31:50Z"
   }
  },
- "pesado_em": "2026-08-09T14:56:10Z",
+ "tendencias_ia": [
+  {
+   "tema": "MotoGP Silverstone 2026",
+   "resumo": "Raul Fernández vence a prova principal enquanto Ducati factory enfrenta dificuldades significativas e Marc Márquez luta com desempenho e pneus.",
+   "calor": "alto",
+   "mencoes": 23,
+   "materias": [
+    {
+     "titulo": "Results - motogp.com",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAxZUlULWZSVTNEdFRyeVJCS1NESU1fbkdnNzNTaS1rTmhPOWt5OWZIT3ZRdlc1Ui1uQVRDbWg4WXRPMnA5cjBOWFl6b0xlR2Z5X0x0Y1ZjRzlVTk5BRDFIUzQ0LXgzV0tObFhMQ2NSTktJNHQ4S1dmSTdR?oc=5",
+     "fonte": "MotoGP"
+    },
+    {
+     "titulo": "“Second power” - Fabio Di Giannantonio makes worrying Ducati MotoGP claim",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZHcxcnE1MlBNVU9pdUFnbW9GT1lHeUUwbDNzTUlUSzkyUkZpVTNzUDJzV25JMFloS2l0cDJHZ19ZVjZyam82d3hDdnhKU0NLU0x4ZGVQek9ERVMzc1lhRHY2UkdESUZJWF9uV05xVHgzdnpQM2ZMZDBVSnlyQ0Y5YjlaQWlNNFZlNmZHeEtvSlJWNlcyeThaQkNlaEEteGxGU0UtelNfRFlPck5xcy1hdzdKQQ?oc=5",
+     "fonte": "Crash MotoGP"
+    },
+    {
+     "titulo": "Marc Márquez finishes seventh at Silverstone with the Ducati Lenovo Team. Francesco Bagnaia crashes out",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNa0ctV2pYQWtpdUpKV1dLVzVza0Zmd3JlUlFUSEE2UWlLVjVmVk9yaTJNdkhaM19Ick9IaE9XZ1hKOFlGdkFGRTlTSjVmbHRjRWhyZF9lWEpXaUlwVG5VQWxJSXVoeldxNk5Nb0EwaHVaU2ozY2FMT0UtWkNfM04wa0xGWG1Fc205WXI3QXU0ZVFsYnlNOXhLb1Z5NXl5aGRYeDNZM1J1UGRPLTlVWEtYLThhS253bTlpWjJkTjhuU091SUQ2M3BBVVVmb3BoX0Nqcno2b29pYVF4M2diVFhwaERncnFoWk0x?oc=5",
+     "fonte": "Ducati Corse"
+    },
+    {
+     "titulo": "Silverstone: New 2026 MotoGP World Championship standings",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMUwtLUdxY0pYenBWTDlqQ09uZlJVMzZ0aUFGZzM5RnF3WGFrVngxaWRZeTZ0VUpFWEdlNHJFT3RSWG95YktaYXdZS3JkZ1lkMDk3SEpSOUpQbmRrQklxWWVsMEZKTjEwaTJ0UU04czhwUmJ2ZUt1MjRtMW1haTR0aXFxZkNCcGNUQlR5UmN4aEZFSWJjT2ZGSG4yMXEtREtmanZpdHVB?oc=5",
+     "fonte": "Crash MotoGP"
+    },
+    {
+     "titulo": "High Silverstone MotoGP attrition attributed to several factors",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS28xRHhzblV3QXNtQzE2aWViQ0JfSjBlQS1jUng1TnZtU2kwWjlIbHhLcjNwSFlHSHJzWEt4VXpvVVpLNnVtd2J4ejVhR0w5VWxMWnZsU1JocEgtbHJzZWVpY1JiZ3pzQVhwYjNMbzJaRURPMTRYMlhMU2pMbVpjTHJZS09XVXNyN0tkeFJBSk5Vb1A3TW5aNmdGd2hTRDNYZDdKS0hzQQ?oc=5",
+     "fonte": "Crash MotoGP"
+    }
+   ]
+  },
+  {
+   "tema": "Lançamentos e Atualizações de Motos",
+   "resumo": "Fabricantes anunciam novos modelos e atualizações de linhas existentes para 2026 e 2027.",
+   "calor": "alto",
+   "mencoes": 10,
+   "materias": [
+    {
+     "titulo": "368G turbina vendas e Zontes alcança melhor resultado da história",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPM0JuWk5Xc1NLdWRHM3RpYUlJRGxvQTNEVmRmcVd5eGFHS2QxRVJqcWc4S0M2RHlPRmJEQUFSVWI2VWM4VUp0ckM3eHplUk12OWJUWlBFTGZnVDhnWWo4MUlCUVdwOWM5V0oyWk9iTWsxdDJpcmFSdTFnQ0FnSWlUMVJwUzJDWWpMQ29GVjl4R1h2VllybjJDLQ?oc=5",
+     "fonte": "MotoNews Brasil"
+    },
+    {
+     "titulo": "Café racer da Harley pode sair do conceito e ir à produção",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE94TUR0Q05JYkhid2JpNmp4RWh3UXF0STBJV0hucXh1RXh2RGdvTm1KSm9UbC15WEVIWi1WbGd3dGdvRG9wRldoeG5MUjQ0SmZYYUtxSkRUbllWRENoX3hqQ213Z0FzbUpEMWRxUUFqSk8?oc=5",
+     "fonte": "Motonline"
+    },
+    {
+     "titulo": "Flagrada! Nova BMW 1300 GS é vista em testes lá fora",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA4UklzRm1wSTc5V1FCcjZyRkJKOVV1NVkwcTJpVEpkXzdyNjcxWktDR0pyZVFvdWhRRXd3bXRsbUw0ZlgwbHNPT1BpMTZiNkl4aTBvMkV5eURRRzJDanhwbmFMVUVJWEEya2FwUUxadGtOeEZqTlotSHRGekM?oc=5",
+     "fonte": "Motonline"
+    },
+    {
+     "titulo": "Já tem data: antiga Himalayan voltará com mais potência",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9QcmRvX0xmSGpiZi03NjFwdmh2TGRQQjRPRXJpeVBRTl9XU3BwLTYzeXpNS0txSWctdTVKMnV5VDljbG5yY29rMmxGR0dtM0wtMEZkRkJMNXFiUVBvbmEySjVJQzJFSThPMHkyV2UxOTVMRWpnLTAyMmRTeTE?oc=5",
+     "fonte": "Motonline"
+    },
+    {
+     "titulo": "X-ADV: Honda lança novas cores pra sua scooter crossover",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOXd4RlZXYkpici0wd1pQN0pHbmhVMUludHd5Z1I1RjJRM1hXOWRiRU05R2g4ZlhNTXJzandHYktibmNRUlpQQ0tOa3VxNmtQaW9fampwX3cyUlVvV1lEUXhmWEdHZVBheUdDUHJvQUxWcnNIeGZFVHBCMDhrVzB6MA?oc=5",
+     "fonte": "Motonline"
+    }
+   ]
+  },
+  {
+   "tema": "Marcas Brasileiras em Crescimento",
+   "resumo": "Zontes bate recorde de emplacamentos e CFMOTO obtém vitória histórica no Red Bull Romaniacs.",
+   "calor": "medio",
+   "mencoes": 4,
+   "materias": [
+    {
+     "titulo": "368G turbina vendas e Zontes alcança melhor resultado da história",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPM0JuWk5Xc1NLdWRHM3RpYUlJRGxvQTNEVmRmcVd5eGFHS2QxRVJqcWc4S0M2RHlPRmJEQUFSVWI2VWM4VUp0ckM3eHplUk12OWJUWlBFTGZnVDhnWWo4MUlCUVdwOWM5V0oyWk9iTWsxdDJpcmFSdTFnQ0FnSWlUMVJwUzJDWWpMQ29GVjl4R1h2VllybjJDLQ?oc=5",
+     "fonte": "MotoNews Brasil"
+    },
+    {
+     "titulo": "Zontes bate novo recorde de emplacamentos impulsionada pela 368G",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZERIR3hqQnRuLXZoYlc0ZEhRMV9XTXZaV3pkbzd1N1VCYWQwNVJWM2hYSnlnbkcxa1A1dFE0SjhpRC1UQXo1c0ViNWh5VDNzZnhabWVGTEdPTXQ0TFpJY1gycm1naEtBS2V4SkFVNVpiVnBGLTdTZTY1b2EtVm1yTFk4LW53SmpPMi00d3hCSDFIZk9CbWwtSUJn?oc=5",
+     "fonte": "Revista Moto Adventure"
+    },
+    {
+     "titulo": "CFMoto 450MT vence 23.ª edição do Red Bull Romaniacs nas 3 Categorias Adventure - Vitória na Ultimate, Core e Lite",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMmY0eTZxbGpvdGY1WHV3aW9SM2hWU2pZNXNHc1VSdUtEQ2JCS09VdURpNVV0RGtLeWJpVnhEbEFXc1NrbWJaUTBLQk52T0tIWFFjc0pOYnlYTFZyalRnaXlYZ29Kc1lLdzh4Qk1oTENaMHV3aG1qazN0QkpIaG9JSG54NENkRzE0RmxybEFkel9NUW9xeDJNWVFmdk5wTkQ4bXdubk1keHJRUERfc0w3ZFk5bjJIQms4Tml4a3RDaVRCdXc?oc=5",
+     "fonte": "AndarDeMoto Brasil"
+    },
+    {
+     "titulo": "CFMOTO Ibex 450 faz história no Red Bull Romaniacs 2026: Mario Roman vence na categoria Adventure Ultimate",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOHZKMmtHZE5kQW9XbUZueHJlNEhDdGxHUWFLQmVKWHRnd3pYbVZPN24tbURldU5GckJLX3p6Z3dHSE5VZVFuZ2d5NUZvTGFPZTR3a19OTVZwYmZrb3dGYkVVUkNTWnRKZHczLVJ2ODRyZlg4aEI0c196UmRqdUVUUkdOYWlKSFNkenptQkdFblVaUmpCemJkUFRvUFBSdG8wOVE?oc=5",
+     "fonte": "Motociclismo"
+    }
+   ]
+  },
+  {
+   "tema": "Harley-Davidson Novidades",
+   "resumo": "Harley-Davidson explora produção de café racer e reforça presença no segmento com registro de marca RMCR.",
+   "calor": "medio",
+   "mencoes": 4,
+   "materias": [
+    {
+     "titulo": "Archives Column | Harley-Davidson SX 250",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQX2U5dTVadG1femt5enh2Zl83N2xWU1VrVWpsR20tbFhCQjdxT1FfWHdKS2VTNW9qRUdublBZX3h4VUFpZ0RvQzJxY244YXk5TlllU0Zadk43Y2cyYkxHYWswckMzRUtqVDRqWVE5LXVwTm5ydzNyVFhsUndXajEyMEtvVzlEMFlr?oc=5",
+     "fonte": "Cycle News"
+    },
+    {
+     "titulo": "SX 250 Archives",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9kMGJaX096WFpqVmFLNHlxZC1qbDl4LVlSYTVxNUFkRGtmbVI4RjJCanJ4Tld3STktYnNacE92Q252V1BsNGZLc1g5WmFlT1Ew?oc=5",
+     "fonte": "Cycle News"
+    },
+    {
+     "titulo": "Café racer da Harley pode sair do conceito e ir à produção",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE94TUR0Q05JYkhid2JpNmp4RWh3UXF0STBJV0hucXh1RXh2RGdvTm1KSm9UbC15WEVIWi1WbGd3dGdvRG9wRldoeG5MUjQ0SmZYYUtxSkRUbllWRENoX3hqQ213Z0FzbUpEMWRxUUFqSk8?oc=5",
+     "fonte": "Motonline"
+    },
+    {
+     "titulo": "Harley-Davidson registra nome RMCR e reforça rumores sobre nova café racer",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaEdjYkt4Y3NlVGRldUxMQVRrTlFkR1VfWEI1YUkwRE1EYmVkcVI4clAxandTZ3RXQ1ZtX0s2V0YxcHNDM2M1aDc4bGJud0J4Y00wZUNKVUcyeWhJazk2anExMmU5cFgyY1A3RU5fQVVobV9mUnktUXRoN0ZTakNnUjFWQmc0aGd3a013YXAzbm5tQlNUMFBGcUZKU0V2dXhXZ2tqMmtVR0R0a3Q3VmhsWjdQRkJ6RklFb2c?oc=5",
+     "fonte": "Motociclismo"
+    }
+   ]
+  },
+  {
+   "tema": "Supercross Mundial Canadá",
+   "resumo": "Primeira etapa do Mundial de Supercross acontece em Calgary com transmissão de resultados e análise da pista.",
+   "calor": "medio",
+   "mencoes": 3,
+   "materias": [
+    {
+     "titulo": "RESULTADOS: MUNDIAL DE SUPERCROSS, 1ª Etapa, Canadá",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMHJkODhRUmtxTUJDQlAtajBESV9UaTB3c3dNTjVCV1Ridjl3M1R3Ym9vSHp0M1hSaGNZal9LWWYyd1RvTmpzd1Etd3R4YWpfQWpJTzRkeHNIRWdxRUk3enhMc1pCalRfMVJ0RVV4RFFQU2V5QVlNcTRieEdNa1NCSzhB?oc=5",
+     "fonte": "MotoMundo"
+    },
+    {
+     "titulo": "VÍDEO: Conheça a pista de Calgary no Canadá, 1ª etapa do Mundial de Supercross",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaVZmcTlJTENZQThXMTc1T2VlX1BiQ1I5MUp2bk90NUtqUlc0T3B3MVFnMDI0QndESm91WEUzajJHczZOM0tUX05jUk5oWlp4ZjFFRFVNTVFORFpPaWVNemo2eXV3SndlWnFMY21rbEZUZXNMSG90T2lTY2lyalZpMkU1TVdfb1Bia1kxREZZQmpzWEVEOXc1MzNZek5tRWE1aEtkbA?oc=5",
+     "fonte": "MotoMundo"
+    },
+    {
+     "titulo": "MUNDIAL DE SUPERCROSS: Confira os horários da 1ª etapa no Canadá",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUkg4XzBFSkxWd2ppUW5xZE1tbW1qUWZ0XzRuMkxtaFNHeFZtSTJJVjVoMmtFNlI3X2tyVFRMM1lxdUdrbmptWHBXVUVzeUo0cVRMWTZqVGhUR1pTenhyVDhxcWstV0FkR0s2OWlUUFdHNkFwaWR1OFRQSEg0WTBkT2J1N3JYektaMHUxSy1MM2Fna3c?oc=5",
+     "fonte": "MotoMundo"
+    }
+   ]
+  },
+  {
+   "tema": "Prêmios e Reconhecimento Design",
+   "resumo": "Ducati Monster recebe Red Dot Design Award 2026 destacando destaque em design da indústria.",
+   "calor": "medio",
+   "mencoes": 1,
+   "materias": [
+    {
+     "titulo": "Ducati Monster distinguida com Red Dot Design Award 2026",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZTZ0aG1LdU5ZNFN6ZU1yYV9fbm43V2N0c3hSeGtPVkNRcVo1UUwyU2I3bU1lcUhMVGJOaUFaT0hfTDFoWGg2S0o5YWlqZF9sR3kwWDhMN1NKTm15RDBHaHhqZXhPMnRrdFk2NW8xakx0V2hiMHFJVXQ3bnF6a3lEVEZIaElraTdYU1RaQ2VWbHpBZTJqc2lteURoSjB1d2Z6aE03TkVaMA?oc=5",
+     "fonte": "AndarDeMoto Brasil"
+    }
+   ]
+  },
+  {
+   "tema": "Eventos e Cúpulas Motociclísticas",
+   "resumo": "Sturgis Motorcycle Rally e EICMA fortalecem partnerships e recebem especiais edições de marcas globais.",
+   "calor": "medio",
+   "mencoes": 4,
+   "materias": [
+    {
+     "titulo": "Indian Motorcycle launch special edition Chief Vintage cruiser at the Sturgis Motorcycle Rally",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOR0VEYk9Ba292T3pWdUU3VTVfak1RRWZpQjQybzhTSlU4Ry1qRU4tRlFxRlBxczVSeDlYeDZzTGJsY2F5X2gwYi15QzlrWDZEZkpxc2JlaE9QMzVpSWQ0d2xLRjRjMzVkVVg5Yms3d0lQenhhT2xtcWVIbXE4UkZtUWZLZmxKR3gtV004QXl6c24tSHVFa2lVTm5ycFJTUXFUdUZJVUd3?oc=5",
+     "fonte": "Motorcycle News (MCN)"
+    },
+    {
+     "titulo": "2026 Indian Chief Vintage Sturgis SD Edition to Debut at 86th Annual Sturgis Rally",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWDFmd0hPVTFmYjJ0dzlWcFJvamhpakE4WnkwSXpybEZzSV9yUlRvNHJJSmFnQVBKNHVoYnhrRDFTcXQwVjdHTWl5Qm5VVXA1S085Nmo3TVg2eTVSTURaVl9QS2dDa01XV0JZRUVWZWNlSUlSeEwyM0VfNUtiUkhmSkQzV2IxLUM3S3MtRVE1M3B3YzdycUdoQmR2MWg5bV8xOGJMclJCZndoLUR2YTc5SkZURHVjZXdLTURjOQ?oc=5",
+     "fonte": "Rider Magazine"
+    },
+    {
+     "titulo": "Indian celebrates Sturgis roots with 125-bike Chief Vintage special edition",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWW5XZEtPaV9HQWh6SmdVM1JoU1NXTlc1N1N5QU5TRTAtZnVScWhYN2xMNUFqM1hOdGw2OWp2UU9ENmdiUTBwQXJWcXFpWXc4QmctbVVtc1hsNHltcTB5Z1BacTRSd2hYb3hDY1IwdE5OUXFCU3NTQ09tYmRRUFJFN1doUXdWNFFoWnpNV1UtWVV6Z05lSVM1WnZnSGw0ajJqRWdF?oc=5",
+     "fonte": "Visordown"
+    },
+    {
+     "titulo": "EICMA and WorldSBK strengthen their partnership with the EICMA Italian Round and a landmark presence at the 2026 exhibition",
+     "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQMkxsUC1UZXlTM09ncl9KUmVySlBxU0ZqMGVoTDdhMnZ2MUhrTjZGQ1Zwa1QzNEpRUXY5Sjh2UVE1Y1ZnU3RObjZ2U1Zjb21uUVpyRmFEUEZMZXJ0NXotdC1aNjg2VXJQUmJMUlJDeFZKM096aERid1UyU2ZBUnNXSGZnNnFKbjVvRlZUb09fRk9ha0hsNGxFLTNlMUtRUkVoT3ZFckVFWThNYUNIY2dWNnVRUUdIdG5ISjBQTk4tTm5Xb182TmhuVU9Xc2c3QmZJclhZb3RkdmVDNDIxU2Fyc25zLXVTNjZaLXJUU3ZOQ3ZyYVE1cXZyeUhNTzRuaHYxUU15eU1B?oc=5",
+     "fonte": "WorldSBK (Superbike)"
+    }
+   ]
+  }
+ ],
+ "pesado_em": "2026-08-10T12:03:44Z",
  "integracoes": {
   "google_news": true,
   "reddit": false,
   "claude": true,
   "apify": true,
   "ga4": true,
-  "janela_pesada": false
+  "janela_pesada": true
  }
 }
