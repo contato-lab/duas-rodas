@@ -1,19 +1,12 @@
 {
- "updated_at": "2026-08-11T23:20:46Z",
+ "updated_at": "2026-08-12T03:06:35Z",
  "property": "397973331",
  "totals": {
-  "sessions": 91860,
-  "users": 86674,
-  "pageviews": 129696
+  "sessions": 92062,
+  "users": 86863,
+  "pageviews": 129777
  },
  "daily": [
-  {
-   "date": "2026-05-13",
-   "sessions": 586,
-   "users": 546,
-   "new_users": 436,
-   "pageviews": 958
-  },
   {
    "date": "2026-05-14",
    "sessions": 662,
@@ -639,32 +632,32 @@
   },
   {
    "date": "2026-08-11",
-   "sessions": 1162,
-   "users": 1119,
-   "new_users": 894,
-   "pageviews": 1582
+   "sessions": 1950,
+   "users": 1854,
+   "new_users": 1521,
+   "pageviews": 2621
   }
  ],
  "canais": [
   {
    "canal": "Organic Search",
-   "sessions": 17051
+   "sessions": 16861
   },
   {
    "canal": "Direct",
-   "sessions": 13229
+   "sessions": 13304
   },
   {
    "canal": "Organic Social",
-   "sessions": 521
+   "sessions": 470
   },
   {
    "canal": "AI Assistant",
-   "sessions": 108
+   "sessions": 103
   },
   {
    "canal": "Referral",
-   "sessions": 70
+   "sessions": 67
   },
   {
    "canal": "Unassigned",
