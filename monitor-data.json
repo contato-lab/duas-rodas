@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-14T10:27:43Z",
+ "updated_at": "2026-08-14T12:00:40Z",
  "fontes_monitoradas": [
   {
    "nome": "Grid Motors",
@@ -410,14 +410,24 @@
  ],
  "materias": [
   {
-   "titulo": "SBK 2027, Michelin revolution: No qualifying tyres, asymmetric tyres allowed",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY1R2bnRycUROaU1YWXMtV09HSlpKdHNyRFFTZnRLZWlyNDViN0thTHdPQ0E3ODkzNzM1aG5iMUwtZEEtUEQtOE9keEJwY1ZRWjQyYU1mNFlEOEw0OEZHYjdGVVMyQ2NneVMxQ0NJNnBIMWp0Ync1M0FFeWpKaGVRTVlJdml4QXphamNIUzZMS2F3dnczMkxSVjVMM29JMkRzb0t2T2ZQUnU5QnBZVWNmRU9fNlVVS2l0QXJv?oc=5",
-   "fonte": "GPOne",
-   "ig": "gponedotcom",
+   "titulo": "Roberto Garcia to Remain with GMT94 Yamaha for 2027 WorldSSP Campaign",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdHdsemRVMkE2ZnlndVE0akFIVWRtcEc1a2ZnYU5aVHB2QnFNeEc4S1l2YnZ0QVZjSzF1Ulk3SkV4VDM1Ty1XMVFDSjRwOEU0U1p5ZVplaXpxR0F4YmU3MXE0bEF2MWd2WEl0VHhyMWJ6bm9vUXFHaEUxckxpZW41TWhwN0Z6SERPUmNjS2VmUFhoTHk2SlJweTR3OGhiY2pw?oc=5",
+   "fonte": "Yamaha Racing",
+   "ig": "yamaharacingcomofficial",
    "escopo": "Global",
    "tier": "Corrida",
-   "dominio": "gpone.com",
-   "ts": "2026-08-14T08:34:14Z"
+   "dominio": "yamaha-racing.com",
+   "ts": "2026-08-14T09:46:02Z"
+  },
+  {
+   "titulo": "Max Verstappen reveals special helmet design for Zandvoort F1 farewell",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNa2xaay1xd0pmUHd4U0dQVTFYWGRybXZJQkYxRjdmTW94b2FDMGp6RGo0TERmXzF2T2hEczV4SE1keXA4QVJUSkhoRDYwZ1FJZkM4dkRYUXl3dEd2b3dsWDlKSXBoU0I0LVl2bzdLV0xwYnVrVkdkNVBEYkRhWmp2ZjJ1Z3hxbmlZSUdDRDllcWdkckg0bmE0VzZ4TlBReTdPTWdHc2tZQjBHQQ?oc=5",
+   "fonte": "Crash MotoGP",
+   "ig": "crashmotogp_",
+   "escopo": "Global",
+   "tier": "Corrida",
+   "dominio": "crash.net",
+   "ts": "2026-08-14T09:46:00Z"
   },
   {
    "titulo": "KTM 390 Adventure ganha duas versões no Brasil",
@@ -438,16 +448,6 @@
    "tier": "Brasil",
    "dominio": "gridmotors.com.br",
    "ts": "2026-08-13T21:49:00Z"
-  },
-  {
-   "titulo": "Moto Morini AlltrHike abre pré-venda por R$ 35.990 e fica R$ 6.000 acima da Himalayan 450",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZ3daTFFKNFdZekZOOXdiZzBPc2JPMWJIN2dKYXViLUY5SG1Leno5QjgtZk9rdnUxcnNXQS1zcEFtaC1UT0tXdTBpYXlCV1RHRGxQMDZnbXJ0WWxHNS1OMlNzX0RMbzFXS21oNElVWDB6N3BremdXdzM0eEJzVDgzWlZDNTdheWJTZHdCcTBpWWI5ZUR4QUw4YVJiY1pYTmNZWUVCaXNnckNueUNEcjVCTVBWV09BOFpRYW1SZVl3NTN4SlItVEhFQTJhRG80bFdwZUVTWnhXN0tFUFpCbkM5dkpsYWo?oc=5",
-   "fonte": "Garagem 360",
-   "ig": "sitegaragem360",
-   "escopo": "Brasil",
-   "tier": "Generalista",
-   "dominio": "garagem360.com.br",
-   "ts": "2026-08-13T21:48:23Z"
   },
   {
    "titulo": "MotoGP: Lançamento de 2027 no Rio “será ainda maior” que anos anteriores, aponta Ezpeleta - Motorsport.com",
@@ -498,6 +498,16 @@
    "tier": "Corrida",
    "dominio": "br.motorsport.com",
    "ts": "2026-08-13T20:51:29Z"
+  },
+  {
+   "titulo": "MotoGP, Quartararo: \"I'm not really having fun. I decided to leave Yamaha last year at Valencia.\"",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdVN0QUhkam1ISktxRmkwNU5FQk0xcWhBUTVlOGdJSjR3NVNRWDZlZEdtQ2xwVFdaSnl2aWUyT0dPWXdQcEN5aUpwR1RCNmY0SUZDRThva0d3Y2loOHhxRTU4aUpzN3RVZzhOQnp4cFhVTEV5VURISU5UdmpwanBOanBHLVpWd0dTUFoxWHBtWS12WnRodmxIQTZGUlZHZ2R5RDI1a3FRcmptRkFwY21kNWRicC1sMU81?oc=5",
+   "fonte": "GPOne",
+   "ig": "gponedotcom",
+   "escopo": "Global",
+   "tier": "Corrida",
+   "dominio": "gpone.com",
+   "ts": "2026-08-13T20:27:25Z"
   },
   {
    "titulo": "Banda Os aBando’nados vai gravar música ‘Ser Motard’ ao vivo",
@@ -558,16 +568,6 @@
    "tier": "Mundo",
    "dominio": "bikeexif.com",
    "ts": "2026-08-13T17:00:00Z"
-  },
-  {
-   "titulo": "Brad Binder “a bit too kind” in Silverstone MotoGP race, explains “floating”",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeHJKbEE3d2hPUDVtRVZWcjdSVzV4MnZ0YUtSNWxrTnhudWZTRmVYdHJwRXJwWC1tb1lqbXE3cUh2Nko1SDF2YUhBRUVuVWZnUzR1VV96ZVZnbEd5WFFJWW9KdVY5Zjl5emdKRGJIbjNORGhPTE9TZTgzQmJhSEdFTXRsSkhQeEFYbl9TVHowenMtSzFpblNrWkZiLTBacTRNSEdFWU0zU2ZzYS1fZ0Zn?oc=5",
-   "fonte": "Crash MotoGP",
-   "ig": "crashmotogp_",
-   "escopo": "Global",
-   "tier": "Corrida",
-   "dominio": "crash.net",
-   "ts": "2026-08-13T16:47:51Z"
   },
   {
    "titulo": "Festival Interlagos 2026: Bajaj anuncia pacote de atualizações da Dominar 250",
@@ -730,6 +730,16 @@
    "ts": "2026-08-13T12:02:54Z"
   },
   {
+   "titulo": "Arctic Cat Finally Built A UTV That Won't Break The Bank",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE85dmRZMG90M2FhUXpLTU5jbkFtTXQ3YTU3WkFRNWFIdjN6RFdWX0tmQkxWc3l3S3lOMzNldjM0SFNDVDF4bE9TbEp6cUQ5dVpxaUlHMktodXNTZ2JQdjRhbUU5RnRXTVRRRFlMUlRhVDhkQkVCTTcyQQ?oc=5",
+   "fonte": "RideApart",
+   "ig": "rideapart",
+   "escopo": "Global",
+   "tier": "Mundo",
+   "dominio": "rideapart.com",
+   "ts": "2026-08-13T11:54:00Z"
+  },
+  {
    "titulo": "Hyundai EXTER Knight Launched in India: New Blacked-Out Edition | Automotive and Technology - News and Reviews",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRW44cDdMdDc1TDd4QXlmdTByV0FKM3dfcmpZbzBOaW5vX2pGam9lNnJQNG1yekNTNEpoVldmcnpQM3NtWEs0cnhOUzJwOTRTOG5jSnZuRlhXUFV4WjFrak05OGNzS3pzNXF1cTc4aXprU2UyU2tPNFN5YWJHNWloZzUzWVlUcnpIYV9ZbkpWNHhFanlZaTVEX2ZZcw?oc=5",
    "fonte": "IAMABIKER",
@@ -838,6 +848,16 @@
    "tier": "Corrida",
    "dominio": "crash.net",
    "ts": "2026-08-13T09:06:36Z"
+  },
+  {
+   "titulo": "\"Crucial\" - New Cadillac boss determined not to lose Sergio Perez",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYjRSVDRZeC1XNzVpZmlWdlBmbVdUVHRPcHJTNXJ2TmJ3ZFFqTmdveThXNFBKOU41d1NNY2JWUnBtSWd6N3hGbG5DejE2ZHM5SHUtX0lmRzRObkRKc0RKZ01RNzlfT09paXk4THlqOHN4bWd2RUV2aWhiLVFZa2J1LTVLNlpXeVppSGlqT3JqUmNxYnVPMDFkeENyclFZYkE?oc=5",
+   "fonte": "Crash MotoGP",
+   "ig": "crashmotogp_",
+   "escopo": "Global",
+   "tier": "Corrida",
+   "dominio": "crash.net",
+   "ts": "2026-08-13T08:38:00Z"
   },
   {
    "titulo": "A physical therapist, a broken leg, and a lesson about gear",
@@ -960,6 +980,16 @@
    "ts": "2026-08-12T20:07:45Z"
   },
   {
+   "titulo": "Festival Interlagos 2026: KTM lança 390 Adventure por R$ 33.990",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBTNHRwemg1RF9UUEhvMmhqNWpMRExzd3hJOHgzRWZucE9TU0U4ZDNnRlpFRVNqSDhPNWpDSEVxV2RYSXUyX282SjJ0SEVMdkZOb2xMc0N4RXRsTi1rZVRRV3EyVWprR1YzMXlwQnNjZ2p5UE5iUTNrc0hUcw?oc=5",
+   "fonte": "Motonline",
+   "ig": "motonline",
+   "escopo": "Brasil",
+   "tier": "Brasil",
+   "dominio": "motonline.com.br",
+   "ts": "2026-08-12T19:24:43Z"
+  },
+  {
    "titulo": "Festival Interlagos 2026: Yamaha lança a nova Tracer 7 por R$ 59.990",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBZR1BnTkY0TWc5eDM0M05zSVRyUEd6dTlvcWVJaDhiUEpYQlFDbllhY2N4c1l2cGtEb1RCZG5MRlZMQU9KVE1aR1ZiaDlWTUhZYXhFM1h4WFhVaHFXNEZFQlZsSWhERURHT3RsWFd0MkZNR3FnQ1AxYg?oc=5",
    "fonte": "Motonline",
@@ -978,16 +1008,6 @@
    "tier": "Brasil",
    "dominio": "motonline.com.br",
    "ts": "2026-08-12T18:09:49Z"
-  },
-  {
-   "titulo": "Festival Interlagos 2026: BMW apresenta GS450, mas sem preço ou data de vir ao Brasil",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBFSnBnb09CTnhOajdTUDNKLVRBbWctZjljV3gzY29GbUNra2s2UVpVZHNuR2U3N3lkY25JYWdMZ2EzeVZBLXIzSUk4SFR5cXBIV3lpYm1PWXpCOGFITUloTGZBdVl5RElmLWhGS1YtQXZocVAtM2c?oc=5",
-   "fonte": "Motonline",
-   "ig": "motonline",
-   "escopo": "Brasil",
-   "tier": "Brasil",
-   "dominio": "motonline.com.br",
-   "ts": "2026-08-12T18:08:38Z"
   },
   {
    "titulo": "Eastern Americana: Rez Industries’ Honda CB400 Chopper",
@@ -1560,16 +1580,6 @@
    "ts": "2026-08-10T16:35:53Z"
   },
   {
-   "titulo": "Liners for aluminium side panniers Multistrada 1260/1200 Enduro",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNal9VQmJJc1N6SzZBSWZtOUZiWV9zXzNPcklxZEVvcXl1RDFrVGp1NXVHMnhySmU3UlRrUGFXNzZXanlERDVCeXB4RlNGdTJqZUx5UUNJbnNYT2xjdFVIMzhVTDFWaEJETHlrYVZaaU1wLUd3cHlzSC12eTVMVDBfMFFteU10bUp0RXVyRTJtVUlXZkJWWFpYTDVXLXJLUzQ?oc=5",
-   "fonte": "Ducati Corse",
-   "ig": "ducaticorse",
-   "escopo": "Global",
-   "tier": "Corrida",
-   "dominio": "ducati.com",
-   "ts": "2026-08-10T15:35:56Z"
-  },
-  {
    "titulo": "Royal Enfield Hymalayan 750: Flagrada na Inglaterra!",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPOWxmTjZHOUUtSk9lUnlkaXFTN3F1WGt0NGFkbHZGTEdUTzY2Q242V2JVcjhPMmJnQm1UZ2tPWTNvdTNvUEM5aXM4dzRacFYzVXFocFUwelhFMlhEZjg3b0twbjlsMTc3WmlFZVVfS1NIaXhETUYwekZ6QjFNMDNXclpsT1EyNE0?oc=5",
    "fonte": "Revista Moto Adventure",
@@ -1618,16 +1628,6 @@
    "tier": "Mundo",
    "dominio": "rideapart.com",
    "ts": "2026-08-10T12:49:00Z"
-  },
-  {
-   "titulo": "GoPro's CEO Lent the Company $20M, NASDAQ Threatened Delisting, and More",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcmV6Rko5dXVRX2oyckpISzhha0VacE5YbkxkdDlWNWIwREE5dUEzWHhkSzJXSTZuNUFZWTFreF9PSzlkdDNtSGpwNDBvUVowbWlvTGtxX1h3SWgtSXBtblVFZGd1MWF2NmkyMkJsd3FXWF9FT2J0QXpvZ0FtQmV6ekM1VFUta05SbUtuVXBQSQ?oc=5",
-   "fonte": "RideApart",
-   "ig": "rideapart",
-   "escopo": "Global",
-   "tier": "Mundo",
-   "dominio": "rideapart.com",
-   "ts": "2026-08-10T12:20:00Z"
   },
   {
    "titulo": "368G_ACTION2 - Revista Moto Adventure",
@@ -1760,16 +1760,6 @@
    "ts": "2026-08-09T16:55:18Z"
   },
   {
-   "titulo": "Why factory Ducati was so weak at Silverstone",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObjBzV1lSTFpGUnhSWUhrUTYxd3ZkUlptcE1fYmRIeGdZUFFJYVB3cWQybkVhN0pwOE9lWEVSTVZuZnBqR2ZZSGh2N0FhYlJ2Umd5SS14cUpiLVRCMnd0d3FOOTAyUV9KUmZXWTVCYUQyU1I2SzBtVUVJYVpHSU0wYjhqdXpXcGFGX0hQZVY3cVRuUjJ1eU4yUWZCaDI?oc=5",
-   "fonte": "The Race MotoGP",
-   "ig": "theracemoto",
-   "escopo": "Global",
-   "tier": "Corrida",
-   "dominio": "the-race.com",
-   "ts": "2026-08-09T16:24:20Z"
-  },
-  {
    "titulo": "The Birthplace of Route 66, Missouri",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBER1JFeXAtNF9VSWNBcWZTeldBVlUyUWp4TEpxeVlKZllDWXV1U1ljZnBhWWxpb0Y2QUpEZFN6RlhDT3RoR29LSU9MazNxZGNGcFAzTGw5TWVTbjFJVTk4ZWo3U3VqVDV0V3kwcnpvcDJacG4wQnFYQ3ZlNDdSUQ?oc=5",
    "fonte": "Rider Magazine",
@@ -1808,16 +1798,6 @@
    "tier": "Brasil",
    "dominio": "andardemoto.com.br",
    "ts": "2026-08-09T14:11:14Z"
-  },
-  {
-   "titulo": "Marc Marquez concedes “not possible to fight” in Silverstone MotoGP",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONlV4S21WcEI0VWhYM1dsSnExbzAyMkJjM3BNa0FDdzZ4eGVnNEo2bFpOekVheHVkQ2M4eF9lTTNWRGo4TFZfOTJkQVdVWGkwQTY5UVNNUUktV3VNYzFBVHJMZmF3MFctMHdyR291NThJTlR0dmlyVFUwcFF6cGZlaUxidXV2cW9xOFpzenhLbnJqMUdqVFUwU2wzcG5ONWpxWFBRT3h3?oc=5",
-   "fonte": "Crash MotoGP",
-   "ig": "crashmotogp_",
-   "escopo": "Global",
-   "tier": "Corrida",
-   "dominio": "crash.net",
-   "ts": "2026-08-09T14:08:37Z"
   },
   {
    "titulo": "Fernandez on how Sprint frustration fuelled GP domination",
@@ -2300,16 +2280,6 @@
    "ts": "2026-08-06T06:07:00Z"
   },
   {
-   "titulo": "Ton Kawakami - stats, results and biography",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1GRG5fUk5Lb0lyVmZNVWdDbDhYQzQwdmI2bzBnNEhfQ3dVWXFkRUZQMUdIZW9aSWxFbUhmZHNDR2JUODF0R2FkajVGUFcxeFJ4QTRkdkRRWVFiampUVVNFekxn?oc=5",
-   "fonte": "WorldSBK (Superbike)",
-   "ig": "worldsbk",
-   "escopo": "Global",
-   "tier": "Corrida",
-   "dominio": "worldsbk.com",
-   "ts": "2026-08-06T02:14:17Z"
-  },
-  {
    "titulo": "Braeden Ortt - stats, results and biography",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1zMFBlY1ZjQ2JMYXdHYW43WlF5UTFfbGFzYkdpYXBUYTdGWnVLd2lrZmM4eGlfeWNxSGFGSE9TU3hKdDBIRXB0enpsUXI3MXJiTnpRM1RMbExZNDdUcklBWGZR?oc=5",
    "fonte": "WorldSBK (Superbike)",
@@ -2330,14 +2300,24 @@
    "ts": "2026-08-06T01:06:01Z"
   },
   {
-   "titulo": "Hugo De Cancellis - stats, results and biography",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5McUNNMk1Ta29WQzR6cGgzQUIyR2xXcUdsUDBiMk0yeTlvSTVkY0FIenliS2FsaEdHbVo4djBSUElWM1YyelZ4TmpPNkdrWkpjR2lieEl2Q2R0Q2o0aEFVcENGSDc5WjZS?oc=5",
+   "titulo": "Jonas Kocourek - stats, results and biography",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ncUNEVkJJZFZPRjFBU29CX0dWZGpkVGFsRzJVdzJDYUpPYWt3ZVQ4YzIwbTVLRUhGcmVMa1p0VlhzTzhOcXZCN1FUeDRIS3ZzVzRidmRZZFJLV1dKWkNmZTBBaTc?oc=5",
    "fonte": "WorldSBK (Superbike)",
    "ig": "worldsbk",
    "escopo": "Global",
    "tier": "Corrida",
    "dominio": "worldsbk.com",
-   "ts": "2026-08-06T00:13:56Z"
+   "ts": "2026-08-06T00:46:33Z"
+  },
+  {
+   "titulo": "Meikon Kawakami - stats, results and biography",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBOOG9uUkhrczhPQ2NTcFowdVE4YWluR2p0eV9RdkV3clJ1WHA4Z2JtdGw4VlZISzFIM05EY3pOdWt2VFBjYjkyTUV6U01hNHhQNVRWMmEyXzlMXzRzMWFHS0ZSZldpUQ?oc=5",
+   "fonte": "WorldSBK (Superbike)",
+   "ig": "worldsbk",
+   "escopo": "Global",
+   "tier": "Corrida",
+   "dominio": "worldsbk.com",
+   "ts": "2026-08-06T00:14:40Z"
   },
   {
    "titulo": "Alex Murley - stats, results and biography",
@@ -2348,6 +2328,16 @@
    "tier": "Corrida",
    "dominio": "worldsbk.com",
    "ts": "2026-08-06T00:12:39Z"
+  },
+  {
+   "titulo": "Rider lowered seat Desert X",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA0VlptS3BxODJNWXhObzBNNGhrcW9ucG15TFJjMHMyR1NHWnliS0ZIUDY0V1ljNHg3WkVRbHFyU0E5ZDZSUlh6OEMtZWJiSEpDbzlKX2Z3MWhmQXktWEhUSkZ4V1o5c0RoM21UWDJRUQ?oc=5",
+   "fonte": "Ducati Corse",
+   "ig": "ducaticorse",
+   "escopo": "Global",
+   "tier": "Corrida",
+   "dominio": "ducati.com",
+   "ts": "2026-08-05T23:05:32Z"
   },
   {
    "titulo": "2026 Mahindra Scorpio-N Variants, Features and Prices | Automotive and Technology - News and Reviews",
@@ -2640,7 +2630,7 @@
    "ts": "2020-06-08T10:33:00Z"
   },
   {
-   "titulo": "Touring - ridermagazine.com",
+   "titulo": "Touring - Rider Magazine",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB2LVNiUzJlZ3AxdlRzM0FaU2p2dTE1REc3bTZTTzFHUFpiQjZNS09lbzF6REJOZy1xa3B5ZEk0SnF6WWxWU1d2WFVMeWplTUNQcHU1TnFn?oc=5",
    "fonte": "Rider Magazine",
    "ig": "ridermag",
@@ -2700,13 +2690,13 @@
    "ts": "2017-01-10T14:14:41Z"
   }
  ],
- "total_materias": 229,
- "materias_24h": 40,
+ "total_materias": 228,
+ "materias_24h": 32,
  "reddit": [],
  "em_alta": [
   {
    "tema": "Motogp",
-   "mencoes": 26,
+   "mencoes": 25,
    "materias": [
     {
      "titulo": "MotoGP: Lançamento de 2027 no Rio “será ainda maior” que anos anteriores, aponta Ezpeleta - Motorsport.com",
@@ -2714,9 +2704,9 @@
      "fonte": "Motorsport.com Brasil"
     },
     {
-     "titulo": "Brad Binder “a bit too kind” in Silverstone MotoGP race, explains “floating”",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeHJKbEE3d2hPUDVtRVZWcjdSVzV4MnZ0YUtSNWxrTnhudWZTRmVYdHJwRXJwWC1tb1lqbXE3cUh2Nko1SDF2YUhBRUVuVWZnUzR1VV96ZVZnbEd5WFFJWW9KdVY5Zjl5emdKRGJIbjNORGhPTE9TZTgzQmJhSEdFTXRsSkhQeEFYbl9TVHowenMtSzFpblNrWkZiLTBacTRNSEdFWU0zU2ZzYS1fZ0Zn?oc=5",
-     "fonte": "Crash MotoGP"
+     "titulo": "MotoGP, Quartararo: \"I'm not really having fun. I decided to leave Yamaha last year at Valencia.\"",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdVN0QUhkam1ISktxRmkwNU5FQk0xcWhBUTVlOGdJSjR3NVNRWDZlZEdtQ2xwVFdaSnl2aWUyT0dPWXdQcEN5aUpwR1RCNmY0SUZDRThva0d3Y2loOHhxRTU4aUpzN3RVZzhOQnp4cFhVTEV5VURISU5UdmpwanBOanBHLVpWd0dTUFoxWHBtWS12WnRodmxIQTZGUlZHZ2R5RDI1a3FRcmptRkFwY21kNWRicC1sMU81?oc=5",
+     "fonte": "GPOne"
     },
     {
      "titulo": "‘I’m not having fun’ - Fabio Quartararo talks Yamaha MotoGP exit and Honda move",
@@ -2727,6 +2717,32 @@
      "titulo": "Seven and counting: MotoGP’s 2026 winners list keeps growing",
      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNkN3RFZZdWh4cjNZdjlEWWRQNmVfVnBGOHlRQzRSSXQ4YVU3WWlqemxsUlRXWFpWYTVIeS1HQlZWZHVrTWx3SnRNWHpXQndxX2x2ZTRSN2NjTXpSYTNmck80SVFQU1dVWV9CRDFhVFJwQ1hGeWJIU2lLanVjWXBrakZsaUtvcVE1OXdRWmF2c1JYdXE4WGlGcFM2eXNYUUphaVVhSnYwTmZ0T3Fr?oc=5",
      "fonte": "MotoGP"
+    }
+   ]
+  },
+  {
+   "tema": "Yamaha",
+   "mencoes": 20,
+   "materias": [
+    {
+     "titulo": "Roberto Garcia to Remain with GMT94 Yamaha for 2027 WorldSSP Campaign",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdHdsemRVMkE2ZnlndVE0akFIVWRtcEc1a2ZnYU5aVHB2QnFNeEc4S1l2YnZ0QVZjSzF1Ulk3SkV4VDM1Ty1XMVFDSjRwOEU0U1p5ZVplaXpxR0F4YmU3MXE0bEF2MWd2WEl0VHhyMWJ6bm9vUXFHaEUxckxpZW41TWhwN0Z6SERPUmNjS2VmUFhoTHk2SlJweTR3OGhiY2pw?oc=5",
+     "fonte": "Yamaha Racing"
+    },
+    {
+     "titulo": "Yamaha Racing Brasil chega à Super Final do Arena Cross em busca de vitórias e título em Interlagos",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZVJtSUZTYmJTVTRSbTF2WkdlZlE0RHhQNDc4dDI1UkJBNkhfcTBCNUxsWmZzcjR5X0IyZFMxWXF3dU5kRGJ1Y2REemFOMWlFUjdWRE4yRDJmRmF4eFFsdXc0cmRvYVVSTkF5ODhIb2g1NjNfUDBLOXI3MVhGdWFOVmNqcXlGNlFjelFXTVNvSXlveHMtVlJ4eDJudmJ6Z01lMjVMMzFJdnZRdVJ6ZGV2WWE4Qm5vMmNVUDZTT3FmQ3pqdWc?oc=5",
+     "fonte": "MotoMundo"
+    },
+    {
+     "titulo": "MotoGP, Quartararo: \"I'm not really having fun. I decided to leave Yamaha last year at Valencia.\"",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdVN0QUhkam1ISktxRmkwNU5FQk0xcWhBUTVlOGdJSjR3NVNRWDZlZEdtQ2xwVFdaSnl2aWUyT0dPWXdQcEN5aUpwR1RCNmY0SUZDRThva0d3Y2loOHhxRTU4aUpzN3RVZzhOQnp4cFhVTEV5VURISU5UdmpwanBOanBHLVpWd0dTUFoxWHBtWS12WnRodmxIQTZGUlZHZ2R5RDI1a3FRcmptRkFwY21kNWRicC1sMU81?oc=5",
+     "fonte": "GPOne"
+    },
+    {
+     "titulo": "Yamaha Tracer 7 chega ao Brasil por R$ 59.990",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVkJkZkVDOGJmR25aLWVsOWp3b2dERE1uY2JTY2NuaUJZTzlIdVRWTWFNTkk4MmdaNjZkU1NWamVMMUg3NDhld1ZtYk9IWml4X0lydXJZRWRtSGFLOXlXdUg1ak1HYlpvYndVN1lWMDJldTRpTTFZb01zTUlCd1M0bmtPNFludjZTRTJV?oc=5",
+     "fonte": "Grid Motors"
     }
    ]
   },
@@ -2757,34 +2773,8 @@
    ]
   },
   {
-   "tema": "Yamaha",
-   "mencoes": 18,
-   "materias": [
-    {
-     "titulo": "Yamaha Racing Brasil chega à Super Final do Arena Cross em busca de vitórias e título em Interlagos",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZVJtSUZTYmJTVTRSbTF2WkdlZlE0RHhQNDc4dDI1UkJBNkhfcTBCNUxsWmZzcjR5X0IyZFMxWXF3dU5kRGJ1Y2REemFOMWlFUjdWRE4yRDJmRmF4eFFsdXc0cmRvYVVSTkF5ODhIb2g1NjNfUDBLOXI3MVhGdWFOVmNqcXlGNlFjelFXTVNvSXlveHMtVlJ4eDJudmJ6Z01lMjVMMzFJdnZRdVJ6ZGV2WWE4Qm5vMmNVUDZTT3FmQ3pqdWc?oc=5",
-     "fonte": "MotoMundo"
-    },
-    {
-     "titulo": "Yamaha Tracer 7 chega ao Brasil por R$ 59.990",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVkJkZkVDOGJmR25aLWVsOWp3b2dERE1uY2JTY2NuaUJZTzlIdVRWTWFNTkk4MmdaNjZkU1NWamVMMUg3NDhld1ZtYk9IWml4X0lydXJZRWRtSGFLOXlXdUg1ak1HYlpvYndVN1lWMDJldTRpTTFZb01zTUlCd1M0bmtPNFludjZTRTJV?oc=5",
-     "fonte": "Grid Motors"
-    },
-    {
-     "titulo": "‘I’m not having fun’ - Fabio Quartararo talks Yamaha MotoGP exit and Honda move",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWXlHUmdkZ2VzZkNGNFRoRk9Udk1wZEtjV0s5clVVRGdlWmJpYlBkYXdob1lmVGRuVm9tWER6TjNGQjREa3Q5VXNtWVFIZ2xLZkRwcjN1WmVld0xXSl9QMGowR2tqdnRHY01TeVVqcmUxRUV3QWstLTBCdmRVdjloT25ZUmRwZElUaHlDNDhhUmVidzB3TDdWWDJaLVc1akZESzB6clUtSkxibG80ZGRxMnJvQzJVRjJ6QmhOWHp3?oc=5",
-     "fonte": "Crash MotoGP"
-    },
-    {
-     "titulo": "Nova Tracer 7: Yamaha eleva o padrão das sport-touring no Brasil",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcTd6N2VXZkw3QXl1RHR2MjBzNFJycW5WQ01ELTVLaHdnczA5UDg0T0tkSFlVZXdjVWFrSjQ1SlN1bHJoZXJMLXJqdVZzaGFYQk94V2JUU2NCbGh3Q2YzZG9Xc2VBUlJWbDhyeXMtbExuZmZ3eDQ0VE1seWFSeUtOcUJzdFUtTWNwNmZnaWFiUGNseFVIZUE?oc=5",
-     "fonte": "MotoNews Brasil"
-    }
-   ]
-  },
-  {
    "tema": "Ducati",
-   "mencoes": 15,
+   "mencoes": 14,
    "materias": [
     {
      "titulo": "2026 Ducati Monster launched in India - Pricing and Variants | Automotive and Technology - News and Reviews",
@@ -2809,34 +2799,8 @@
    ]
   },
   {
-   "tema": "Bmw",
-   "mencoes": 6,
-   "materias": [
-    {
-     "titulo": "BMW F 450 GS será vendida no Brasil em 2027",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRzl3QU1aTUwyZmU0WnlKNmxUUEJEMDlnenJSZjdRc2UtNmc4ZXdqR0tRMW1vWWxpNVJxMUU3Tm1Wak5kS2hrQjFNTjlLY3FsYlk2WUlBN1hqTlo3NW03TDhYajljVE9jeExCMTdOOEZWQVVZNld0WjRjanRNTmtZQ2xNWS1QWUUwX2c?oc=5",
-     "fonte": "Grid Motors"
-    },
-    {
-     "titulo": "Festival Interlagos 2026: BMW apresenta GS450, mas sem preço ou data de vir ao Brasil",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBFSnBnb09CTnhOajdTUDNKLVRBbWctZjljV3gzY29GbUNra2s2UVpVZHNuR2U3N3lkY25JYWdMZ2EzeVZBLXIzSUk4SFR5cXBIV3lpYm1PWXpCOGFITUloTGZBdVl5RElmLWhGS1YtQXZocVAtM2c?oc=5",
-     "fonte": "Motonline"
-    },
-    {
-     "titulo": "This all-new BMW roadster could be the firm's new 2.0-litre beast!",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaE12U3FPU2ZDeXFRSnFKb0t6ei1XUDN3N1B3NFhQbEtoUUdpTndmbHU5VGlqTGhaNDNEa0xxUzZlZHk5YnJzd05mY1dNRG02bmFmekI1QVVXNHhFM0I1a1Utd3JaX09XX04zYW9JMzNwa2psQVJwdVRyaTJOU3ExSFlB?oc=5",
-     "fonte": "Motorcycle News (MCN)"
-    },
-    {
-     "titulo": "BMW’s Upcoming R20 Spied. The 2-Liter Monster Went From Concept to Near-Production-Ready",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRF9uSnpySFlnTE9KeE9obzgwbmV3X25JVms3Q2RjNWFyUFllOEdmSlkySFNMbm5VRE9fR05yTVk0LWlsUFFhWTRfamU5LWoyUVZ3RWUtRnJFRU5yeUdhejZLZ3htXzRnMUppZEI2X0Z6UXdTNnBkYVVRR3RmbG5ZSmUtMUNVeVRGT1gtWllBTUM0RUlvekZqZnQxM215cUV4alZXSGQ5cXNtMnVuWm1sdzJZcXFZdjA?oc=5",
-     "fonte": "RideApart"
-    }
-   ]
-  },
-  {
    "tema": "Ktm",
-   "mencoes": 5,
+   "mencoes": 6,
    "materias": [
     {
      "titulo": "KTM 390 Adventure ganha duas versões no Brasil",
@@ -2887,6 +2851,32 @@
    ]
   },
   {
+   "tema": "Bmw",
+   "mencoes": 5,
+   "materias": [
+    {
+     "titulo": "BMW F 450 GS será vendida no Brasil em 2027",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRzl3QU1aTUwyZmU0WnlKNmxUUEJEMDlnenJSZjdRc2UtNmc4ZXdqR0tRMW1vWWxpNVJxMUU3Tm1Wak5kS2hrQjFNTjlLY3FsYlk2WUlBN1hqTlo3NW03TDhYajljVE9jeExCMTdOOEZWQVVZNld0WjRjanRNTmtZQ2xNWS1QWUUwX2c?oc=5",
+     "fonte": "Grid Motors"
+    },
+    {
+     "titulo": "This all-new BMW roadster could be the firm's new 2.0-litre beast!",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaE12U3FPU2ZDeXFRSnFKb0t6ei1XUDN3N1B3NFhQbEtoUUdpTndmbHU5VGlqTGhaNDNEa0xxUzZlZHk5YnJzd05mY1dNRG02bmFmekI1QVVXNHhFM0I1a1Utd3JaX09XX04zYW9JMzNwa2psQVJwdVRyaTJOU3ExSFlB?oc=5",
+     "fonte": "Motorcycle News (MCN)"
+    },
+    {
+     "titulo": "BMW’s Upcoming R20 Spied. The 2-Liter Monster Went From Concept to Near-Production-Ready",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRF9uSnpySFlnTE9KeE9obzgwbmV3X25JVms3Q2RjNWFyUFllOEdmSlkySFNMbm5VRE9fR05yTVk0LWlsUFFhWTRfamU5LWoyUVZ3RWUtRnJFRU5yeUdhejZLZ3htXzRnMUppZEI2X0Z6UXdTNnBkYVVRR3RmbG5ZSmUtMUNVeVRGT1gtWllBTUM0RUlvekZqZnQxM215cUV4alZXSGQ5cXNtMnVuWm1sdzJZcXFZdjA?oc=5",
+     "fonte": "RideApart"
+    },
+    {
+     "titulo": "Marco histórico: BMW Motorrad atinge a marca de 150 mil motocicletas produzidas no ano do 10º aniversário de sua planta",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNemU2OGJmYmZPUjc2ZlIwSTJ3em02VVM2dEdmajFKVmFMZXl5dkNDTkJrSzJBUEhwOTVGUDkxTTVSVG5kaXhsYmlad1ZaZGtJV05Ga2l0TC1qdEZMc003a2RPN19xZTZSNkN3anQ2MUFxT3QzeGZRZDhBYWZ2N2ZfX2JSSUNUSEx4WE1rX2tsWlhyWXV5elpmSG9ja2RqZ21VNG5kNHB6MkI2V3pVX0Y0dExLbHdrLVBkM0RnNkwtdE5VdmRVRmE1OGduUW9PVDZFY25LczVNZnNkMWluT1JwTkdB?oc=5",
+     "fonte": "Revista Moto Adventure"
+    }
+   ]
+  },
+  {
    "tema": "Kawasaki",
    "mencoes": 5,
    "materias": [
@@ -2916,68 +2906,39 @@
  "pautas": [
   {
    "pauta": "Yamaha",
-   "urgencia": "6 fontes / 48h",
-   "porque": "6 fontes publicaram sobre isso nas ultimas 48h.",
+   "urgencia": "8 fontes / 48h",
+   "porque": "8 fontes publicaram sobre isso nas ultimas 48h.",
    "furo": false,
-   "fontes": 6,
+   "fontes": 8,
    "materias": [
+    {
+     "titulo": "Roberto Garcia to Remain with GMT94 Yamaha for 2027 WorldSSP Campaign",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdHdsemRVMkE2ZnlndVE0akFIVWRtcEc1a2ZnYU5aVHB2QnFNeEc4S1l2YnZ0QVZjSzF1Ulk3SkV4VDM1Ty1XMVFDSjRwOEU0U1p5ZVplaXpxR0F4YmU3MXE0bEF2MWd2WEl0VHhyMWJ6bm9vUXFHaEUxckxpZW41TWhwN0Z6SERPUmNjS2VmUFhoTHk2SlJweTR3OGhiY2pw?oc=5",
+     "fonte": "Yamaha Racing"
+    },
     {
      "titulo": "Yamaha Racing Brasil chega à Super Final do Arena Cross em busca de vitórias e título em Interlagos",
      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZVJtSUZTYmJTVTRSbTF2WkdlZlE0RHhQNDc4dDI1UkJBNkhfcTBCNUxsWmZzcjR5X0IyZFMxWXF3dU5kRGJ1Y2REemFOMWlFUjdWRE4yRDJmRmF4eFFsdXc0cmRvYVVSTkF5ODhIb2g1NjNfUDBLOXI3MVhGdWFOVmNqcXlGNlFjelFXTVNvSXlveHMtVlJ4eDJudmJ6Z01lMjVMMzFJdnZRdVJ6ZGV2WWE4Qm5vMmNVUDZTT3FmQ3pqdWc?oc=5",
      "fonte": "MotoMundo"
     },
     {
+     "titulo": "MotoGP, Quartararo: \"I'm not really having fun. I decided to leave Yamaha last year at Valencia.\"",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdVN0QUhkam1ISktxRmkwNU5FQk0xcWhBUTVlOGdJSjR3NVNRWDZlZEdtQ2xwVFdaSnl2aWUyT0dPWXdQcEN5aUpwR1RCNmY0SUZDRThva0d3Y2loOHhxRTU4aUpzN3RVZzhOQnp4cFhVTEV5VURISU5UdmpwanBOanBHLVpWd0dTUFoxWHBtWS12WnRodmxIQTZGUlZHZ2R5RDI1a3FRcmptRkFwY21kNWRicC1sMU81?oc=5",
+     "fonte": "GPOne"
+    },
+    {
      "titulo": "Yamaha Tracer 7 chega ao Brasil por R$ 59.990",
      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVkJkZkVDOGJmR25aLWVsOWp3b2dERE1uY2JTY2NuaUJZTzlIdVRWTWFNTkk4MmdaNjZkU1NWamVMMUg3NDhld1ZtYk9IWml4X0lydXJZRWRtSGFLOXlXdUg1ak1HYlpvYndVN1lWMDJldTRpTTFZb01zTUlCd1M0bmtPNFludjZTRTJV?oc=5",
      "fonte": "Grid Motors"
-    },
-    {
-     "titulo": "‘I’m not having fun’ - Fabio Quartararo talks Yamaha MotoGP exit and Honda move",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWXlHUmdkZ2VzZkNGNFRoRk9Udk1wZEtjV0s5clVVRGdlWmJpYlBkYXdob1lmVGRuVm9tWER6TjNGQjREa3Q5VXNtWVFIZ2xLZkRwcjN1WmVld0xXSl9QMGowR2tqdnRHY01TeVVqcmUxRUV3QWstLTBCdmRVdjloT25ZUmRwZElUaHlDNDhhUmVidzB3TDdWWDJaLVc1akZESzB6clUtSkxibG80ZGRxMnJvQzJVRjJ6QmhOWHp3?oc=5",
-     "fonte": "Crash MotoGP"
-    },
-    {
-     "titulo": "Nova Tracer 7: Yamaha eleva o padrão das sport-touring no Brasil",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcTd6N2VXZkw3QXl1RHR2MjBzNFJycW5WQ01ELTVLaHdnczA5UDg0T0tkSFlVZXdjVWFrSjQ1SlN1bHJoZXJMLXJqdVZzaGFYQk94V2JUU2NCbGh3Q2YzZG9Xc2VBUlJWbDhyeXMtbExuZmZ3eDQ0VE1seWFSeUtOcUJzdFUtTWNwNmZnaWFiUGNseFVIZUE?oc=5",
-     "fonte": "MotoNews Brasil"
-    }
-   ]
-  },
-  {
-   "pauta": "Motogp",
-   "urgencia": "5 fontes / 48h",
-   "porque": "5 fontes publicaram sobre isso nas ultimas 48h.",
-   "furo": false,
-   "fontes": 5,
-   "materias": [
-    {
-     "titulo": "MotoGP: Lançamento de 2027 no Rio “será ainda maior” que anos anteriores, aponta Ezpeleta - Motorsport.com",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdWVfV3N2QXlid0Jra3RRdzNHMDFkX3ExbzllQkZaMldSdng5NGU5d2daTGZ5eEpid1hqNlRKUkVOUFM5SFFCSXFCUkh6cnZva3J0V2lQWTU1d05PbDhfUjNlbzg2X25YVEtPQ01KeXBJdUpmb2FHS2Nmd2NtRUdqT3lPYjNRVmdsalpPMmRBMG5iYlpOSjI2N3p2SkdsRnVUYVNoc3ZxSTV5aDR0UEJ0WWlKendNZFRPTG0ycGZkTXBjZnpCcTdnZWJmZzdJSVlvei1HYWZzVUxnY1d2?oc=5",
-     "fonte": "Motorsport.com Brasil"
-    },
-    {
-     "titulo": "Brad Binder “a bit too kind” in Silverstone MotoGP race, explains “floating”",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeHJKbEE3d2hPUDVtRVZWcjdSVzV4MnZ0YUtSNWxrTnhudWZTRmVYdHJwRXJwWC1tb1lqbXE3cUh2Nko1SDF2YUhBRUVuVWZnUzR1VV96ZVZnbEd5WFFJWW9KdVY5Zjl5emdKRGJIbjNORGhPTE9TZTgzQmJhSEdFTXRsSkhQeEFYbl9TVHowenMtSzFpblNrWkZiLTBacTRNSEdFWU0zU2ZzYS1fZ0Zn?oc=5",
-     "fonte": "Crash MotoGP"
-    },
-    {
-     "titulo": "‘I’m not having fun’ - Fabio Quartararo talks Yamaha MotoGP exit and Honda move",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWXlHUmdkZ2VzZkNGNFRoRk9Udk1wZEtjV0s5clVVRGdlWmJpYlBkYXdob1lmVGRuVm9tWER6TjNGQjREa3Q5VXNtWVFIZ2xLZkRwcjN1WmVld0xXSl9QMGowR2tqdnRHY01TeVVqcmUxRUV3QWstLTBCdmRVdjloT25ZUmRwZElUaHlDNDhhUmVidzB3TDdWWDJaLVc1akZESzB6clUtSkxibG80ZGRxMnJvQzJVRjJ6QmhOWHp3?oc=5",
-     "fonte": "Crash MotoGP"
-    },
-    {
-     "titulo": "Seven and counting: MotoGP’s 2026 winners list keeps growing",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNkN3RFZZdWh4cjNZdjlEWWRQNmVfVnBGOHlRQzRSSXQ4YVU3WWlqemxsUlRXWFpWYTVIeS1HQlZWZHVrTWx3SnRNWHpXQndxX2x2ZTRSN2NjTXpSYTNmck80SVFQU1dVWV9CRDFhVFJwQ1hGeWJIU2lLanVjWXBrakZsaUtvcVE1OXdRWmF2c1JYdXE4WGlGcFM2eXNYUUphaVVhSnYwTmZ0T3Fr?oc=5",
-     "fonte": "MotoGP"
     }
    ]
   },
   {
    "pauta": "Ktm",
-   "urgencia": "4 fontes / 48h",
-   "porque": "4 fontes publicaram sobre isso nas ultimas 48h.",
+   "urgencia": "5 fontes / 48h",
+   "porque": "5 fontes publicaram sobre isso nas ultimas 48h.",
    "furo": false,
-   "fontes": 4,
+   "fontes": 5,
    "materias": [
     {
      "titulo": "KTM 390 Adventure ganha duas versões no Brasil",
@@ -2998,6 +2959,35 @@
      "titulo": "KTM confirma preços e abre pré-venda das novas 390 Adventure R e X",
      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMnhsYWFWUS1qaEhDMnlsLS1tazJIUUtUOVdPdHgwYWxyM3g4X3FzS0NLZDk3ZDdiS1IzOXdIYkI3ZnNLcXRKYThURUlCRU5jT0NzaWdfaTdfanBlVkdPQzlaTE9Val9TV0hFSjhKTE1menFXblI2RXlNeDdZV2JZMmE2ZV9YS291bDMyTzdueTZmSWdjVU1tclZob0tmVEMxQk9sNWE0MHdXNVJRODBz?oc=5",
      "fonte": "Motociclismo"
+    }
+   ]
+  },
+  {
+   "pauta": "Motogp",
+   "urgencia": "5 fontes / 48h",
+   "porque": "5 fontes publicaram sobre isso nas ultimas 48h.",
+   "furo": false,
+   "fontes": 5,
+   "materias": [
+    {
+     "titulo": "MotoGP: Lançamento de 2027 no Rio “será ainda maior” que anos anteriores, aponta Ezpeleta - Motorsport.com",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdWVfV3N2QXlid0Jra3RRdzNHMDFkX3ExbzllQkZaMldSdng5NGU5d2daTGZ5eEpid1hqNlRKUkVOUFM5SFFCSXFCUkh6cnZva3J0V2lQWTU1d05PbDhfUjNlbzg2X25YVEtPQ01KeXBJdUpmb2FHS2Nmd2NtRUdqT3lPYjNRVmdsalpPMmRBMG5iYlpOSjI2N3p2SkdsRnVUYVNoc3ZxSTV5aDR0UEJ0WWlKendNZFRPTG0ycGZkTXBjZnpCcTdnZWJmZzdJSVlvei1HYWZzVUxnY1d2?oc=5",
+     "fonte": "Motorsport.com Brasil"
+    },
+    {
+     "titulo": "MotoGP, Quartararo: \"I'm not really having fun. I decided to leave Yamaha last year at Valencia.\"",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdVN0QUhkam1ISktxRmkwNU5FQk0xcWhBUTVlOGdJSjR3NVNRWDZlZEdtQ2xwVFdaSnl2aWUyT0dPWXdQcEN5aUpwR1RCNmY0SUZDRThva0d3Y2loOHhxRTU4aUpzN3RVZzhOQnp4cFhVTEV5VURISU5UdmpwanBOanBHLVpWd0dTUFoxWHBtWS12WnRodmxIQTZGUlZHZ2R5RDI1a3FRcmptRkFwY21kNWRicC1sMU81?oc=5",
+     "fonte": "GPOne"
+    },
+    {
+     "titulo": "‘I’m not having fun’ - Fabio Quartararo talks Yamaha MotoGP exit and Honda move",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWXlHUmdkZ2VzZkNGNFRoRk9Udk1wZEtjV0s5clVVRGdlWmJpYlBkYXdob1lmVGRuVm9tWER6TjNGQjREa3Q5VXNtWVFIZ2xLZkRwcjN1WmVld0xXSl9QMGowR2tqdnRHY01TeVVqcmUxRUV3QWstLTBCdmRVdjloT25ZUmRwZElUaHlDNDhhUmVidzB3TDdWWDJaLVc1akZESzB6clUtSkxibG80ZGRxMnJvQzJVRjJ6QmhOWHp3?oc=5",
+     "fonte": "Crash MotoGP"
+    },
+    {
+     "titulo": "Seven and counting: MotoGP’s 2026 winners list keeps growing",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNkN3RFZZdWh4cjNZdjlEWWRQNmVfVnBGOHlRQzRSSXQ4YVU3WWlqemxsUlRXWFpWYTVIeS1HQlZWZHVrTWx3SnRNWHpXQndxX2x2ZTRSN2NjTXpSYTNmck80SVFQU1dVWV9CRDFhVFJwQ1hGeWJIU2lLanVjWXBrakZsaUtvcVE1OXdRWmF2c1JYdXE4WGlGcFM2eXNYUUphaVVhSnYwTmZ0T3Fr?oc=5",
+     "fonte": "MotoGP"
     }
    ]
   },
@@ -3089,21 +3079,21 @@
    ]
   },
   {
-   "pauta": "Bmw",
+   "pauta": "Quartararo",
    "urgencia": "2 fontes / 48h",
    "porque": "2 fontes publicaram sobre isso nas ultimas 48h.",
    "furo": false,
    "fontes": 2,
    "materias": [
     {
-     "titulo": "BMW F 450 GS será vendida no Brasil em 2027",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRzl3QU1aTUwyZmU0WnlKNmxUUEJEMDlnenJSZjdRc2UtNmc4ZXdqR0tRMW1vWWxpNVJxMUU3Tm1Wak5kS2hrQjFNTjlLY3FsYlk2WUlBN1hqTlo3NW03TDhYajljVE9jeExCMTdOOEZWQVVZNld0WjRjanRNTmtZQ2xNWS1QWUUwX2c?oc=5",
-     "fonte": "Grid Motors"
+     "titulo": "MotoGP, Quartararo: \"I'm not really having fun. I decided to leave Yamaha last year at Valencia.\"",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdVN0QUhkam1ISktxRmkwNU5FQk0xcWhBUTVlOGdJSjR3NVNRWDZlZEdtQ2xwVFdaSnl2aWUyT0dPWXdQcEN5aUpwR1RCNmY0SUZDRThva0d3Y2loOHhxRTU4aUpzN3RVZzhOQnp4cFhVTEV5VURISU5UdmpwanBOanBHLVpWd0dTUFoxWHBtWS12WnRodmxIQTZGUlZHZ2R5RDI1a3FRcmptRkFwY21kNWRicC1sMU81?oc=5",
+     "fonte": "GPOne"
     },
     {
-     "titulo": "Festival Interlagos 2026: BMW apresenta GS450, mas sem preço ou data de vir ao Brasil",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBFSnBnb09CTnhOajdTUDNKLVRBbWctZjljV3gzY29GbUNra2s2UVpVZHNuR2U3N3lkY25JYWdMZ2EzeVZBLXIzSUk4SFR5cXBIV3lpYm1PWXpCOGFITUloTGZBdVl5RElmLWhGS1YtQXZocVAtM2c?oc=5",
-     "fonte": "Motonline"
+     "titulo": "‘I’m not having fun’ - Fabio Quartararo talks Yamaha MotoGP exit and Honda move",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWXlHUmdkZ2VzZkNGNFRoRk9Udk1wZEtjV0s5clVVRGdlWmJpYlBkYXdob1lmVGRuVm9tWER6TjNGQjREa3Q5VXNtWVFIZ2xLZkRwcjN1WmVld0xXSl9QMGowR2tqdnRHY01TeVVqcmUxRUV3QWstLTBCdmRVdjloT25ZUmRwZElUaHlDNDhhUmVidzB3TDdWWDJaLVc1akZESzB6clUtSkxibG80ZGRxMnJvQzJVRjJ6QmhOWHp3?oc=5",
+     "fonte": "Crash MotoGP"
     }
    ]
   },
@@ -4446,9 +4436,9 @@
  ],
  "marca": {
   "ga4": {
-   "sessions": 96648,
-   "users": 91169,
-   "updated_at": "2026-08-14T09:37:57Z"
+   "sessions": 96767,
+   "users": 91305,
+   "updated_at": "2026-08-14T11:21:36Z"
   }
  },
  "pesado_em": "2026-08-13T23:06:38Z",
