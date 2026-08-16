@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-16T20:42:14Z",
+ "updated_at": "2026-08-16T21:38:44Z",
  "fontes_monitoradas": [
   {
    "nome": "Grid Motors",
@@ -410,6 +410,16 @@
  ],
  "materias": [
   {
+   "titulo": "Grand Prix of Sweden MXGP R15 2026 Race Day",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeHhfVlFHRUJqRWZnSzJsZ2ZURGlHSFQ1eU1RY1ZhaXdEQzQ1Vm50OTdXSXRzQ1IyNUh0UUJBNzF6WkJkbnZtdlhBYUEyRE5ROG9RM3FuS1hrcGZkSmpuZDZQTktFakxPaUFVcVlPSGpXQ05KNHMzdkpVOGlleUVLZmNhZw?oc=5",
+   "fonte": "Ducati Corse",
+   "ig": "ducaticorse",
+   "escopo": "Global",
+   "tier": "Corrida",
+   "dominio": "ducati.com",
+   "ts": "2026-08-16T20:04:30Z"
+  },
+  {
    "titulo": "Reisulis Brothers Score Vital Championship Points with Janis Fifth and Karlis Seventh in Sweden",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcU95OWN4amxESW82NkxEbzB0YzVxYjROUUIzU2ZJWnpYcEhhMjJUTjVYcWRuVHZVSDgzTG5vc3VXSm1PT3pYVWp1V2RjSjZqT1BJVlhrQjZ5aGp2WTQtUDFDSDlyQVRhWWRIQ1I0MlBVWDFZZ2xUUnN3aTNneTE2aXphcFlrSFk3UE1OcExDcW4xY3g4SXVscWtJQWVqWEx5dVZTckYtNEhPTGNmOUVr?oc=5",
    "fonte": "Yamaha Racing",
@@ -570,7 +580,7 @@
    "ts": "2026-08-15T14:16:42Z"
   },
   {
-   "titulo": "Pilotos da F1 ficaram \"babando\" na nova geração de carros da F-E",
+   "titulo": "Pilotos da F1 ficaram \"babando\" na nova geração de carros da F-E - Motorsport.com",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUjhaSWpNTlk3Tmw0MExiNGtXRENZVnMwVktGQWhib1pXaTZ3b0wyMXJKd1ZJeGViT3JFTjZTN1BFM3NmQ0FWRVZacms1R2h1YU9uZUpQMnRUV1JvRU83cEtIQWJTZURZM2pFZGlPSTduRmZXQ1V0YkR6eTJUME45NjZPN2gwVm43QkQteFV2ZXlETjk1MWFlRVZ5YmRtR0VOek9vazdGemtiOFlabVJtZnFJcw?oc=5",
    "fonte": "Motorsport.com Brasil",
    "ig": "motorsportcom.brasil",
@@ -928,16 +938,6 @@
    "tier": "Corrida",
    "dominio": "yamaha-racing.com",
    "ts": "2026-08-14T07:00:00Z"
-  },
-  {
-   "titulo": "DSO Bali Sprint",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYUNqaS1oYlV0N3RybVN6Sm1fYmdXaWRtMG1VM01LX1hmTGRtNWRoeDVpbFd0NlVTdmI4SUU2aVFCR3ZZeFdOOGJmdFlXWlg0YjdDZm9FTTU4bXRTV2Zramx1NDdsbWdHTkRhMXFGUGJtVUFDTWRlVGlwcXRiNkktS3V6S0MwSnBiWXFuWDB4OA?oc=5",
-   "fonte": "Ducati Corse",
-   "ig": "ducaticorse",
-   "escopo": "Global",
-   "tier": "Corrida",
-   "dominio": "ducati.com",
-   "ts": "2026-08-13T22:41:13Z"
   },
   {
    "titulo": "KTM 390 Adventure ganha duas versões no Brasil",
@@ -2601,7 +2601,7 @@
   }
  ],
  "total_materias": 219,
- "materias_24h": 8,
+ "materias_24h": 9,
  "reddit": [],
  "em_alta": [
   {
@@ -4211,9 +4211,9 @@
  ],
  "marca": {
   "ga4": {
-   "sessions": 98405,
-   "users": 92819,
-   "updated_at": "2026-08-16T18:58:21Z"
+   "sessions": 98463,
+   "users": 92872,
+   "updated_at": "2026-08-16T20:51:35Z"
   }
  },
  "pesado_em": "2026-08-16T11:39:15Z",
