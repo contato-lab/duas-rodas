@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-17T05:01:59Z",
+ "updated_at": "2026-08-17T05:54:01Z",
  "fontes_monitoradas": [
   {
    "nome": "Grid Motors",
@@ -2160,14 +2160,14 @@
    "ts": "2026-08-09T13:30:00Z"
   },
   {
-   "titulo": "Salač wins Silverstone Moto2 stunner as Gonzalez makes costly error",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVUxpalU4XzRhV2RSMEU5ckxyenZYdDI1SnBIRTFmcFlKVHBmTnRNVUd2bWFrSWp0SHdOaC1Udkk5NzBTalVvQ0NjcXI0bVFkYTdBdHdqYzdYTzNoTlFUMHJiblBxc1o1aEhOVlFIT2lvcGpSN1ZuNnZ5eWl1WGJoVWIzWkY0MDEybDllNFdDVWc1X2VlcWY3T1o5a3pWQ3RRT3ZpYk1ZMkRTVk4zaGZTTVdUSXN2cG1q?oc=5",
-   "fonte": "MotoGP",
-   "ig": "motogp",
-   "escopo": "Global",
-   "tier": "Corrida",
-   "dominio": "motogp.com",
-   "ts": "2026-08-09T12:24:43Z"
+   "titulo": "Zontes bate novo recorde de emplacamentos impulsionada pela 368G",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZERIR3hqQnRuLXZoYlc0ZEhRMV9XTXZaV3pkbzd1N1VCYWQwNVJWM2hYSnlnbkcxa1A1dFE0SjhpRC1UQXo1c0ViNWh5VDNzZnhabWVGTEdPTXQ0TFpJY1gycm1naEtBS2V4SkFVNVpiVnBGLTdTZTY1b2EtVm1yTFk4LW53SmpPMi00d3hCSDFIZk9CbWwtSUJn?oc=5",
+   "fonte": "Revista Moto Adventure",
+   "ig": "revistamotoadventure",
+   "escopo": "Brasil",
+   "tier": "Brasil",
+   "dominio": "motoadventure.com.br",
+   "ts": "2026-08-09T12:00:00Z"
   },
   {
    "titulo": "Marc Márquez and the Ducati Lenovo Team ninth in the Silverstone Sprint. Francesco Bagnaia seventeenth",
@@ -2178,6 +2178,16 @@
    "tier": "Corrida",
    "dominio": "ducati.com",
    "ts": "2026-08-09T09:23:21Z"
+  },
+  {
+   "titulo": "Latest News of Moto2™ | The official website of MotoGP™",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB3NmFPUkttem45LVpKY3ZkbnRRTmExNG5OTzcyanAydlMzc0x2cXJTZHRPTDVaWlNXTXlOUzVBWFJXWWxWQjhDc1BfeWo?oc=5",
+   "fonte": "MotoGP",
+   "ig": "motogp",
+   "escopo": "Global",
+   "tier": "Corrida",
+   "dominio": "motogp.com",
+   "ts": "2026-08-09T07:00:00Z"
   },
   {
    "titulo": "Paulo Leandro Rodrigues Leal - Storytelling - Multistrada V4 Voyagers 2026 | contest",
@@ -2218,16 +2228,6 @@
    "tier": "Corrida",
    "dominio": "gpone.com",
    "ts": "2026-08-08T19:35:05Z"
-  },
-  {
-   "titulo": "YAMAHA XMAX 300 CONNECTED 2027: O QUE MUDOU E PREÇOS",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWUdpR3FQczMzREYwR29YelU3MU4xN2VMUkRYcUZCT3hwcG5ldWZySlVYRnh6YWFqOE1NM1AxMEdkRkEyZmJxaklkTU1RNzU3V19reUJNUDY1UG04TktRMzIza0xwSU56MWtSMWpZazVWTU5oWFdnc3U5MndzTExlRUIyM29DVk5M?oc=5",
-   "fonte": "Revista Moto Adventure",
-   "ig": "revistamotoadventure",
-   "escopo": "Brasil",
-   "tier": "Brasil",
-   "dominio": "motoadventure.com.br",
-   "ts": "2026-08-08T12:00:00Z"
   },
   {
    "titulo": "CFMoto 450MT vence 23.ª edição do Red Bull Romaniacs nas 3 Categorias Adventure - Vitória na Ultimate, Core e Lite",
@@ -2576,7 +2576,7 @@
  "em_alta": [
   {
    "tema": "Motogp",
-   "mencoes": 29,
+   "mencoes": 30,
    "materias": [
     {
      "titulo": "MotoGP continua em Goiânia, mas terá outro evento no Brasil",
@@ -2602,7 +2602,7 @@
   },
   {
    "tema": "Yamaha",
-   "mencoes": 17,
+   "mencoes": 16,
    "materias": [
     {
      "titulo": "Roberto Garcia to Remain with GMT94 Yamaha for 2027 WorldSSP Campaign",
@@ -4152,9 +4152,9 @@
  ],
  "marca": {
   "ga4": {
-   "sessions": 97989,
-   "users": 92433,
-   "updated_at": "2026-08-17T03:29:03Z"
+   "sessions": 98101,
+   "users": 92531,
+   "updated_at": "2026-08-17T05:18:06Z"
   }
  },
  "pesado_em": "2026-08-16T11:39:15Z",
