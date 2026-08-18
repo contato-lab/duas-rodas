@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-18T16:53:12Z",
+ "updated_at": "2026-08-18T17:48:09Z",
  "fontes_monitoradas": [
   {
    "nome": "Grid Motors",
@@ -410,14 +410,24 @@
  ],
  "materias": [
   {
-   "titulo": "Arquivo De Honda Twister S",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5pLTVvUDVWdFJ4STFxY2xwdTh6ekRqeDJNa2FwTmpLVWQweWs5TlItTXB5RUlVYXZZUzdlUnItRGhQMWg2cUFUVUdNa3JkOFA5dzZUMUZzSE1LNTly?oc=5",
+   "titulo": "September 2026 - Rider Magazine",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0tUWFKVkRLbGdpUW1FV1d1Y0FoTmJkSFVPNlo2S3R2TE5lU3RXQUlrcldhTGZCSEgzT0VYYzRfc2lielI0cFlCM1VxT2Ywc211Ui1iQThwMkNOOGlhZUY5MF93?oc=5",
+   "fonte": "Rider Magazine",
+   "ig": "ridermag",
+   "escopo": "Global",
+   "tier": "Generalista",
+   "dominio": "ridermagazine.com",
+   "ts": "2026-08-18T17:15:00Z"
+  },
+  {
+   "titulo": "Arquivo De Twister S",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92MGV2LWw0VktoeEQ1czByZUFqLW9JTHFRbG82TFhzOW5ITzVtcjd0ck1HZFc1WnpsWHdUOEFsTmRaYmxIX1lrRmR2X2R3RzJUT2pZYw?oc=5",
    "fonte": "MotoRede",
    "ig": "motorede",
    "escopo": "Brasil",
    "tier": "Brasil",
    "dominio": "motorede.com.br",
-   "ts": "2026-08-18T15:50:07Z"
+   "ts": "2026-08-18T15:49:59Z"
   },
   {
    "titulo": "BMW's next M-bike could be a 215bhp sports-tourer, and it could be coming soon",
@@ -578,6 +588,16 @@
    "tier": "Mundo",
    "dominio": "visordown.com",
    "ts": "2026-08-18T07:19:50Z"
+  },
+  {
+   "titulo": "Teste QJMotor SRK 800 - Ambiciosamente simples",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeVlvMWM5Snk1OW1ZaTJnRlkxRV9iXzY4Mmh6WnUwNURIN1Iwc3p0RzlhUkE0TkR3NXBsQ3l4dEYwSDZ1R0lPTU15RVk2Y0FEQWplTmNPLUFXbGdDcDNHXzZ4QzU0c2RtdkVLRGtoVmxDeDB4bFdnWkc1ZFdVeFlNa3I5Ym1MSFRaamxJRjFnLXY0amJWaF81dDBR?oc=5",
+   "fonte": "AndarDeMoto Brasil",
+   "ig": "andardemoto",
+   "escopo": "Brasil",
+   "tier": "Brasil",
+   "dominio": "andardemoto.com.br",
+   "ts": "2026-08-18T06:28:12Z"
   },
   {
    "titulo": "Who is David Alonso? Meet MotoGP’s next superstar",
@@ -850,16 +870,6 @@
    "ts": "2026-08-17T12:35:00Z"
   },
   {
-   "titulo": "India’s EV Motorcycle Startup Is Already Selling More Bikes Than Harley-Davidson's LiveWire",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMFZnNEY5bUJfdGp0NVREM0ZYODE5M1JQNmJSVy13bXd3eklqMi1vbUpYZjdUdXpmSDRva3Y0WHlNWUYtZk84RFlxa2pEUVA2V0RfRHU3aVF2dloxWEgtbFhBb1N3dGQ1SWptYXR4dDRrTEtsanlzU3haTlAwUmZtZWdjclpGU0E?oc=5",
-   "fonte": "RideApart",
-   "ig": "rideapart",
-   "escopo": "Global",
-   "tier": "Mundo",
-   "dominio": "rideapart.com",
-   "ts": "2026-08-17T12:22:00Z"
-  },
-  {
    "titulo": "Yamaha R1 GYTR chega ao Brasil por R$ 278 mil",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdkRLTVRGRktTbnkwbFQxVW1BNmFDUDZMbXQ5ZmsxRnJIWnBZUTlURk56ZGMyOWhESWhycHgzNmZyd21SSjNIeGFjT0RkQ3QxWTZramJrY2VNU3ctckhEamo1OV9yOWtJRkdRb0tYdFlGRGQ2cXdqaFR6R2JYaFczM3R4bmVKcC10eEc0?oc=5",
    "fonte": "Grid Motors",
@@ -1098,6 +1108,16 @@
    "tier": "Corrida",
    "dominio": "crash.net",
    "ts": "2026-08-16T10:06:14Z"
+  },
+  {
+   "titulo": "Insta360 launches new flagship X6 camera with dedicated motorcycle set",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMjc2aVZyYVJKb0dxU2dlcGk2VDIwNFVDcnU3NW1xQi1ZMExmNm83UFdJNDhsVlFMN0ExRnhBSkkyMDNsbzdCWU82UWozU2lnMzB2ZjNIcDhuM0RySXpsS0tqcGVkd2FhMk1MNGFqNnQ0YWVMSjhQMEk4MnA0SjJIX0ZXM2JmMHVObFdwQmxXNmw0X0Rxd3dLQmxSQWM?oc=5",
+   "fonte": "Visordown",
+   "ig": "visordown",
+   "escopo": "Global",
+   "tier": "Mundo",
+   "dominio": "visordown.com",
+   "ts": "2026-08-16T08:00:00Z"
   },
   {
    "titulo": "KTM: Four years with no MotoGP victory",
@@ -1390,6 +1410,16 @@
    "ts": "2026-08-14T09:50:00Z"
   },
   {
+   "titulo": "REWIND: The Silverstone Showdown",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORW9GSnhnVGRrWHhrYjE3aWd3NlRSUk1NLUowUjN2WmJIYTAwczkxSTZYRE8zdDRvV19Zc3pDOHkyVzRpZV9wdFExT04wUWRINGhTWGsybmdLZXZyal80emRsMjhxbGt2cXpXVFBJamJVVHJUc05qLUdJUlIxdHRXd25fT0paZG5USVNv?oc=5",
+   "fonte": "MotoGP",
+   "ig": "motogp",
+   "escopo": "Global",
+   "tier": "Corrida",
+   "dominio": "motogp.com",
+   "ts": "2026-08-14T09:00:00Z"
+  },
+  {
    "titulo": "SBK 2027, Michelin revolution: No qualifying tyres, asymmetric tyres allowed",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY1R2bnRycUROaU1YWXMtV09HSlpKdHNyRFFTZnRLZWlyNDViN0thTHdPQ0E3ODkzNzM1aG5iMUwtZEEtUEQtOE9keEJwY1ZRWjQyYU1mNFlEOEw0OEZHYjdGVVMyQ2NneVMxQ0NJNnBIMWp0Ync1M0FFeWpKaGVRTVlJdml4QXphamNIUzZMS2F3dnczMkxSVjVMM29JMkRzb0t2T2ZQUnU5QnBZVWNmRU9fNlVVS2l0QXJv?oc=5",
    "fonte": "GPOne",
@@ -1608,6 +1638,16 @@
    "tier": "Mundo",
    "dominio": "iamabiker.com",
    "ts": "2026-08-13T11:10:58Z"
+  },
+  {
+   "titulo": "We Just Found Kawasaki's Robot Horse Patent Drawings. They're Full Of Insane Details",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdldIcGc4TVdqS3U0cm5ydVJCenhFdk9LVzlUMENvSjM2bEVXM0ZuSmUtM2VNczN0by1ocTMtNlRReXIyckZaOE81YUdKTlJEU2s3TjFzX3YzcGJaVkZBVUVQTjhzak8tWkgxUk9qc1oxcS1EdDRIb3VRQ2oxN1hrNEFEbzlhczR5SGFHQjdmUWlIM2NYY3lMc29UaEVRbms5WG1kUTVqTHpSNTA?oc=5",
+   "fonte": "RideApart",
+   "ig": "rideapart",
+   "escopo": "Global",
+   "tier": "Mundo",
+   "dominio": "rideapart.com",
+   "ts": "2026-08-13T11:02:00Z"
   },
   {
    "titulo": "Aprilia Dominates British GP with Historic Podium Lockout at Silverstone",
@@ -2270,16 +2310,6 @@
    "ts": "2026-08-10T14:47:24Z"
   },
   {
-   "titulo": "Kawasaki Versys 650 2027: versatilidade é apelido",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOc0lfOWlVTjBwTENqOFpsa0RfNURRTXIxN2lRZU5LOU5rYkJwV0o3bG9vVE5QTnU0WC1UbDFWelc4SmlhQTdhM0JKMjVicTVicHU0aG9GSnBCQWthX1dTdFVqVVlMN25vVWZFZEZVMHdlTGxxYWVBbUY3X3dRYU5md2h0N0VFMVg1cDczTjlVX3NUVGFCOTVuSTB0UnQ?oc=5",
-   "fonte": "AndarDeMoto Brasil",
-   "ig": "andardemoto",
-   "escopo": "Brasil",
-   "tier": "Brasil",
-   "dominio": "andardemoto.com.br",
-   "ts": "2026-08-10T14:22:05Z"
-  },
-  {
    "titulo": "MotoGP discussing football-style rider transfer window",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNS03dFhnUTA5SG85YVVQTHNrc1BsdUJVejZhb2M1akhmb0tmN1NlY0VfYUhhVHhsWVh3elNCN0FjTTkzTVgzMDdQN3NJRlZlZEFCTHgtSkRaaWgxUmhWeEZuLWU1UVhkNmZ5MVp5TF9DVDFzcHdjMHRrVVpXZXY5amlyZGZPVEtEM2FWOVdMMGxhRnpUa1N2TUtxbFFEaVJOb3JPeg?oc=5",
    "fonte": "Autosport",
@@ -2288,16 +2318,6 @@
    "tier": "Generalista",
    "dominio": "autosport.com",
    "ts": "2026-08-10T14:04:44Z"
-  },
-  {
-   "titulo": "2026 Ducati Monster wins Red Dot Product Design award",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQR3Q1dFBHYjVreTJENW8yY2ZZczR2U3V0ZU9xU3p1VEhtTm10ZFRFY21xZW1wNXpodEsxcGRraFZsM1I4cFFLNEVCU09rUTY1dzJTQTA5MUd5bVJMR1lGMnFYaXU4eU5oVjdiYWZqSTVMNnN2NE5OcVVnTV9ZcXVwZDdzMGo1dnZuRi1mVw?oc=5",
-   "fonte": "Visordown",
-   "ig": "visordown",
-   "escopo": "Global",
-   "tier": "Mundo",
-   "dominio": "visordown.com",
-   "ts": "2026-08-10T09:10:00Z"
   },
   {
    "titulo": "Bike thief busted for Crocs",
@@ -2338,16 +2358,6 @@
    "tier": "Generalista",
    "dominio": "ridermagazine.com",
    "ts": "2026-08-09T15:31:04Z"
-  },
-  {
-   "titulo": "Flawless Fernandez flies to victory at Silverstone",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcHdBa0VQemYteWl2ZTQ0V0JoRmttQTI5Ml9hakR0Z0VqZHlObW1pZmp5QUE0aGJDWXVaM1dZcko4V2JmN0w4WHBYaEZqRndyOVQ3MjRfRkdDdEtXMkp0ZkZCM0U5Tm8taUNDWVhRZ1dPMHZ2dWNHdzd1YjNzak5Fa0U1X1MyZ1NiMDc5U193TFFfSUV2Uk1ManhxRkZxbEdqQVE?oc=5",
-   "fonte": "MotoGP",
-   "ig": "motogp",
-   "escopo": "Global",
-   "tier": "Corrida",
-   "dominio": "motogp.com",
-   "ts": "2026-08-09T14:41:16Z"
   },
   {
    "titulo": "2026 Loretta Lynn’s Amateur National Results (Updated)",
@@ -2418,16 +2428,6 @@
    "tier": "Corrida",
    "dominio": "motogp.com",
    "ts": "2026-08-07T17:19:29Z"
-  },
-  {
-   "titulo": "Alan Paulsen - Rider Magazine",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9TZEJmaDlBX1pKd3A3azBfS3loWl9SRlNUamJpS2g4a0NvSEQxcGpHLWllYWdSNUxFUzlocXhfdGpaeVc1UkNjUTFoRDdfc2VVcXllcA?oc=5",
-   "fonte": "Rider Magazine",
-   "ig": "ridermag",
-   "escopo": "Global",
-   "tier": "Generalista",
-   "dominio": "ridermagazine.com",
-   "ts": "2026-05-09T00:15:55Z"
   },
   {
    "titulo": "MotoGP News and Results",
@@ -2568,13 +2568,8 @@
   },
   {
    "tema": "Honda",
-   "mencoes": 10,
+   "mencoes": 9,
    "materias": [
-    {
-     "titulo": "Arquivo De Honda Twister S",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5pLTVvUDVWdFJ4STFxY2xwdTh6ekRqeDJNa2FwTmpLVWQweWs5TlItTXB5RUlVYXZZUzdlUnItRGhQMWg2cUFUVUdNa3JkOFA5dzZUMUZzSE1LNTly?oc=5",
-     "fonte": "MotoRede"
-    },
     {
      "titulo": "Honda close to MotoGP rider development deal with leading Moto2 team?",
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOU96V3JkYi1XeHcxbVo5cGp5TVVmMm56cGs0cUlpNzMySVdvRUw3ZERucFk4aXhES3VCSEp3TXNLalVwamhTMlBSSDExaTNXT2YtcGpneW96ZTJrUVNmcUZQLUZSU1V1VTFFTVJ0VkdBaU5aWUtyOTZ5MUNEbzZIZktaRjMwOVRLeUlNNmJUV3pmbU1BOHZfSDFMNXZzZlBFOVNGUzl1WQ?oc=5",
@@ -2589,12 +2584,17 @@
      "titulo": "Honda lança nova CB1000 Hornet no Brasil",
      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNN3ZVcm1Ia3pXNThZUGZRMzZPLXM2bGtDUlk5TjJHZG94bmR5S2otLTBFcW1WQkVlRlE5dEsxV1FCUHhMdldILW83SFFkTkZha284VTZ1bGN4VWpsQXJPQjRqR0lZN3Vqd281RW8ySFRjaU1ObnNlSmh3bVhWV25ITFVLejV3Zw?oc=5",
      "fonte": "Grid Motors"
+    },
+    {
+     "titulo": "Com Enzo Lopes, Honda Racing é campeã do Arena Cross 2026",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUmlTQzdLRXRNT3VBUEI3ZTRDLVdWeXo4ZVlQZlk2aGs5eGd6Qm1IdWIzOTVCcVlyTEktRDdncWUzRS1vUjNRTFdkX1F5VnVFMWsyOERuc2YtVW43ZEpaZ3JEdURGcEtINmJ3RnB0OThPOU02Q3J6Ymgxa1lpOFZ2b0w5cEF3QjFvLWc?oc=5",
+     "fonte": "MotoMundo"
     }
    ]
   },
   {
    "tema": "Ducati",
-   "mencoes": 10,
+   "mencoes": 9,
    "materias": [
     {
      "titulo": "Road to Off-Road Adventure at the Ducati DRE Adventure Academy",
@@ -2725,35 +2725,6 @@
  ],
  "pautas": [
   {
-   "pauta": "Motogp",
-   "urgencia": "4 fontes / 48h",
-   "porque": "4 fontes publicaram sobre isso nas ultimas 48h.",
-   "furo": false,
-   "fontes": 4,
-   "materias": [
-    {
-     "titulo": "Honda close to MotoGP rider development deal with leading Moto2 team?",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOU96V3JkYi1XeHcxbVo5cGp5TVVmMm56cGs0cUlpNzMySVdvRUw3ZERucFk4aXhES3VCSEp3TXNLalVwamhTMlBSSDExaTNXT2YtcGpneW96ZTJrUVNmcUZQLUZSU1V1VTFFTVJ0VkdBaU5aWUtyOTZ5MUNEbzZIZktaRjMwOVRLeUlNNmJUV3pmbU1BOHZfSDFMNXZzZlBFOVNGUzl1WQ?oc=5",
-     "fonte": "Crash MotoGP"
-    },
-    {
-     "titulo": "MotoGP teams need saving from themselves",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9zOVhHZ2dBaGlOWFBhMnRuTWdNRldUeURmVEdmbUYxQnRENFY2Y213Rm5TTnRWNEJHdW1sRWtfbnBlc2RNNUNIZ21HU1FYdnIzTDZ0emhQa0pob2J5aXluRkZwQ3BmUHkxcHZfR2NuT1ZlMHM5UGlhN1J5WXEzUQ?oc=5",
-     "fonte": "The Race MotoGP"
-    },
-    {
-     "titulo": "“Countdown is on” - Aleix Espargaro targets Honda MotoGP return after surgery",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNEZUbm1RdUhUOUJpazJXa1h6aXl2SHJMTTUyQXMzaUZLX0k3eVRtUlI3U0w2dDZaSVlzUnVRUnIwWHFoVkNRMGtCbnRxNHF4c0hqWVZUMUZ0WDVlU2hqN1dLSlY1S2ZjMzNmQi04aGZRNmZvZENJUmRCNXBzckxkQnBQS0hrZGhzc0pOY2lzb0QtNnBQWWpyRldzZVRYYjdCMTBQVTlaemtSVEU3ZFppWA?oc=5",
-     "fonte": "Crash MotoGP"
-    },
-    {
-     "titulo": "Who is David Alonso? Meet MotoGP’s next superstar",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPczU3blE4WlpSaEMzUU00Ymw3VGN4Tmx4aDZMWHNjbnFDODNIOVVuTFBvVjJEd2hiSFJFdzZIOXZPMWIwUldsVnN2Xy1nVnV3UWFoYjlqdE5fUHg1S2VUTEJMZ3VmOWZ5YzZ6anh5LVF2c19sQjZiSk1CSnJJWktNYWRZSXBBSlBQN25pS3drejhjb1UwT3o1OGlsX2xZMTQ?oc=5",
-     "fonte": "MotoGP"
-    }
-   ]
-  },
-  {
    "pauta": "Ducati",
    "urgencia": "4 fontes / 48h",
    "porque": "4 fontes publicaram sobre isso nas ultimas 48h.",
@@ -2783,17 +2754,41 @@
    ]
   },
   {
-   "pauta": "Honda",
+   "pauta": "Motogp",
    "urgencia": "3 fontes / 48h",
    "porque": "3 fontes publicaram sobre isso nas ultimas 48h.",
    "furo": false,
    "fontes": 3,
    "materias": [
     {
-     "titulo": "Arquivo De Honda Twister S",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5pLTVvUDVWdFJ4STFxY2xwdTh6ekRqeDJNa2FwTmpLVWQweWs5TlItTXB5RUlVYXZZUzdlUnItRGhQMWg2cUFUVUdNa3JkOFA5dzZUMUZzSE1LNTly?oc=5",
-     "fonte": "MotoRede"
+     "titulo": "Honda close to MotoGP rider development deal with leading Moto2 team?",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOU96V3JkYi1XeHcxbVo5cGp5TVVmMm56cGs0cUlpNzMySVdvRUw3ZERucFk4aXhES3VCSEp3TXNLalVwamhTMlBSSDExaTNXT2YtcGpneW96ZTJrUVNmcUZQLUZSU1V1VTFFTVJ0VkdBaU5aWUtyOTZ5MUNEbzZIZktaRjMwOVRLeUlNNmJUV3pmbU1BOHZfSDFMNXZzZlBFOVNGUzl1WQ?oc=5",
+     "fonte": "Crash MotoGP"
     },
+    {
+     "titulo": "MotoGP teams need saving from themselves",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9zOVhHZ2dBaGlOWFBhMnRuTWdNRldUeURmVEdmbUYxQnRENFY2Y213Rm5TTnRWNEJHdW1sRWtfbnBlc2RNNUNIZ21HU1FYdnIzTDZ0emhQa0pob2J5aXluRkZwQ3BmUHkxcHZfR2NuT1ZlMHM5UGlhN1J5WXEzUQ?oc=5",
+     "fonte": "The Race MotoGP"
+    },
+    {
+     "titulo": "“Countdown is on” - Aleix Espargaro targets Honda MotoGP return after surgery",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNEZUbm1RdUhUOUJpazJXa1h6aXl2SHJMTTUyQXMzaUZLX0k3eVRtUlI3U0w2dDZaSVlzUnVRUnIwWHFoVkNRMGtCbnRxNHF4c0hqWVZUMUZ0WDVlU2hqN1dLSlY1S2ZjMzNmQi04aGZRNmZvZENJUmRCNXBzckxkQnBQS0hrZGhzc0pOY2lzb0QtNnBQWWpyRldzZVRYYjdCMTBQVTlaemtSVEU3ZFppWA?oc=5",
+     "fonte": "Crash MotoGP"
+    },
+    {
+     "titulo": "Who is David Alonso? Meet MotoGP’s next superstar",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPczU3blE4WlpSaEMzUU00Ymw3VGN4Tmx4aDZMWHNjbnFDODNIOVVuTFBvVjJEd2hiSFJFdzZIOXZPMWIwUldsVnN2Xy1nVnV3UWFoYjlqdE5fUHg1S2VUTEJMZ3VmOWZ5YzZ6anh5LVF2c19sQjZiSk1CSnJJWktNYWRZSXBBSlBQN25pS3drejhjb1UwT3o1OGlsX2xZMTQ?oc=5",
+     "fonte": "MotoGP"
+    }
+   ]
+  },
+  {
+   "pauta": "Honda",
+   "urgencia": "2 fontes / 48h",
+   "porque": "2 fontes publicaram sobre isso nas ultimas 48h.",
+   "furo": false,
+   "fontes": 2,
+   "materias": [
     {
      "titulo": "Honda close to MotoGP rider development deal with leading Moto2 team?",
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOU96V3JkYi1XeHcxbVo5cGp5TVVmMm56cGs0cUlpNzMySVdvRUw3ZERucFk4aXhES3VCSEp3TXNLalVwamhTMlBSSDExaTNXT2YtcGpneW96ZTJrUVNmcUZQLUZSU1V1VTFFTVJ0VkdBaU5aWUtyOTZ5MUNEbzZIZktaRjMwOVRLeUlNNmJUV3pmbU1BOHZfSDFMNXZzZlBFOVNGUzl1WQ?oc=5",
@@ -2808,30 +2803,6 @@
      "titulo": "Honda lança nova CB1000 Hornet no Brasil",
      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNN3ZVcm1Ia3pXNThZUGZRMzZPLXM2bGtDUlk5TjJHZG94bmR5S2otLTBFcW1WQkVlRlE5dEsxV1FCUHhMdldILW83SFFkTkZha284VTZ1bGN4VWpsQXJPQjRqR0lZN3Vqd281RW8ySFRjaU1ObnNlSmh3bVhWV25ITFVLejV3Zw?oc=5",
      "fonte": "Grid Motors"
-    }
-   ]
-  },
-  {
-   "pauta": "Harley",
-   "urgencia": "3 fontes / 48h",
-   "porque": "3 fontes publicaram sobre isso nas ultimas 48h.",
-   "furo": false,
-   "fontes": 3,
-   "materias": [
-    {
-     "titulo": "Harley Davidson Pan America Limited (2026), Long term review",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdlBhXzFfUkJ6b205QlYxMlRxekE0bjczd0VuNTZDRXBuLWZWa3ZKeDZLVEtZRTlsRUJBcVJLdENBNGdTSGxLTHMtVGFJYnRja1JNUGp2M2RfZUJfTEJIb0oyMTVBQVNBRkh0V2xoT2JQNTZjWTJ4eUpkczNXVnA3SnJPT0Jfdm9WMXJNdV9aNFJEay1zYmlPd2hNdG9EN1d2MTkyQ241YzJhNXZUcGYyTV9EZlBmckJERTAxWGw0MzdjSFR1a2F4UEE2aWhYUQ?oc=5",
-     "fonte": "Bennetts BikeSocial"
-    },
-    {
-     "titulo": "India’s EV Motorcycle Startup Is Already Selling More Bikes Than Harley-Davidson's LiveWire",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMFZnNEY5bUJfdGp0NVREM0ZYODE5M1JQNmJSVy13bXd3eklqMi1vbUpYZjdUdXpmSDRva3Y0WHlNWUYtZk84RFlxa2pEUVA2V0RfRHU3aVF2dloxWEgtbFhBb1N3dGQ1SWptYXR4dDRrTEtsanlzU3haTlAwUmZtZWdjclpGU0E?oc=5",
-     "fonte": "RideApart"
-    },
-    {
-     "titulo": "Harley-Davidson lançou o \"Back to the Bricks\": um plano de Artie Starrs para relançar a marca de Milwaukee - Parte 2: Os mais recentes gestores da Harley-Davidson",
-     "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPRV83WHFQTWlidGFRbXBaNkJKY0l3Um9ENGpPbGZsR2RPVkpjUlBJb0I1dHc2dkJtek1BU2xDSDRXeFB5ZnYzQlUxdUpsaUpFUTJLelZ1RXNfbzhpU2pFRnp4am0zQ1BuVjRpR3lWSnBNUkVYU1c4aEhaQS1fUnpMTDZTbFhINHJTWXVqX21WbTVueHl5Q2I0NUktdTFISGdmWnhOMjdPZ1RxdDhzRXp3T2pTVy1lc0drbWF0bmpBOUtlLWpOY3RBUUg2WkxnbFdxOHBQeWRScGVZNzNTLUIyMWxlWlJjSFFhWXg5bWhwNlFRaU0yeVoybW1FOVVjSG8zLXpHNnV3?oc=5",
-     "fonte": "AndarDeMoto Brasil"
     }
    ]
   },
@@ -2889,6 +2860,25 @@
      "titulo": "Kawasaki Versys 900: moto flagrada em testes revela motor da Z900 de 125 cv",
      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRjFiWHB5MmpjaW0yZ3RVYWlESXdiRFgxVm1GSExxeFM5REhobXVZX240UmJ6VXp3VEhCRXhZMHpPb1JBS3F1VXNJOWtMd0FVRWkyVUwzemotXzhTNlZrTS1BbzlCZnRULVRvZGtiZG9kMEw4VkRXRzU1QnctczZWSzdPbS04NDZIVnlTTlFOTU9DeUhrMDk0TUMxTkc?oc=5",
      "fonte": "Motociclismo"
+    }
+   ]
+  },
+  {
+   "pauta": "Harley",
+   "urgencia": "2 fontes / 48h",
+   "porque": "2 fontes publicaram sobre isso nas ultimas 48h.",
+   "furo": false,
+   "fontes": 2,
+   "materias": [
+    {
+     "titulo": "Harley Davidson Pan America Limited (2026), Long term review",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdlBhXzFfUkJ6b205QlYxMlRxekE0bjczd0VuNTZDRXBuLWZWa3ZKeDZLVEtZRTlsRUJBcVJLdENBNGdTSGxLTHMtVGFJYnRja1JNUGp2M2RfZUJfTEJIb0oyMTVBQVNBRkh0V2xoT2JQNTZjWTJ4eUpkczNXVnA3SnJPT0Jfdm9WMXJNdV9aNFJEay1zYmlPd2hNdG9EN1d2MTkyQ241YzJhNXZUcGYyTV9EZlBmckJERTAxWGw0MzdjSFR1a2F4UEE2aWhYUQ?oc=5",
+     "fonte": "Bennetts BikeSocial"
+    },
+    {
+     "titulo": "Harley-Davidson lançou o \"Back to the Bricks\": um plano de Artie Starrs para relançar a marca de Milwaukee - Parte 2: Os mais recentes gestores da Harley-Davidson",
+     "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPRV83WHFQTWlidGFRbXBaNkJKY0l3Um9ENGpPbGZsR2RPVkpjUlBJb0I1dHc2dkJtek1BU2xDSDRXeFB5ZnYzQlUxdUpsaUpFUTJLelZ1RXNfbzhpU2pFRnp4am0zQ1BuVjRpR3lWSnBNUkVYU1c4aEhaQS1fUnpMTDZTbFhINHJTWXVqX21WbTVueHl5Q2I0NUktdTFISGdmWnhOMjdPZ1RxdDhzRXp3T2pTVy1lc0drbWF0bmpBOUtlLWpOY3RBUUg2WkxnbFdxOHBQeWRScGVZNzNTLUIyMWxlWlJjSFFhWXg5bWhwNlFRaU0yeVoybW1FOVVjSG8zLXpHNnV3?oc=5",
+     "fonte": "AndarDeMoto Brasil"
     }
    ]
   },
@@ -4231,9 +4221,9 @@
  ],
  "marca": {
   "ga4": {
-   "sessions": 98366,
-   "users": 92775,
-   "updated_at": "2026-08-18T15:04:12Z"
+   "sessions": 98405,
+   "users": 92814,
+   "updated_at": "2026-08-18T16:59:47Z"
   }
  },
  "pesado_em": "2026-08-18T05:49:25Z",
