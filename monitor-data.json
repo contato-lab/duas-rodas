@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-20T13:16:17Z",
+ "updated_at": "2026-08-20T14:04:32Z",
  "fontes_monitoradas": [
   {
    "nome": "Grid Motors",
@@ -440,16 +440,6 @@
    "ts": "2026-08-20T11:01:17Z"
   },
   {
-   "titulo": "Latest motorcycle news",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBzcFM4SWpoWVdSa3RUUGNKUFIwNFhkaE4yS1FtMF9vN2xYWVdPSXpQeTQ0QldqZEMzTllaVFNoWEVFNnZGZWIxMHdMVjQ?oc=5",
-   "fonte": "Motorcycle News (MCN)",
-   "ig": "motorcyclenews",
-   "escopo": "Global",
-   "tier": "Mundo",
-   "dominio": "motorcyclenews.com",
-   "ts": "2026-08-20T10:54:39Z"
-  },
-  {
    "titulo": "Win 12 wines worth over £150 with BikeSocial Membership",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcktFWjJDSGFvS09PaVlpSnlnMUtNTV9FdTNaSnZXTkZzNk54U3pLZ19IdGZPZHNMV1pmMmVnM195bE1IVTN1VzYyeUk0RHRETFlBN3JkS0ZRVUIwY1lIRWt0MGFYM080RlQ0NFljV1lTNlVla2JRdGNpYmVFaW9nTTRtME5rWnprX0FnXy04MDlfaUNVR0IyWXdYcHI?oc=5",
    "fonte": "Bennetts BikeSocial",
@@ -468,6 +458,16 @@
    "tier": "Corrida",
    "dominio": "crash.net",
    "ts": "2026-08-20T10:01:30Z"
+  },
+  {
+   "titulo": "Richard Hammond stunned by Chinese sportsbike after Ducati Panigale V2 showdown",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPS09rcGtvVm5GSjB5bVlfVDB6clU4Z01kdjFpMG4xQmx4V0JhUWxXeGx3LWlvWEhSbHA1V1JSSUdZakhuUmJzaVNrV3dTMC1CZm5vNEtyTVUxUkJpT0lQRlhUcTdFY0JfTFVCWmRZMHVLeVZHQmVod1VvdEtqSVJXUkdNckNjR09ZUFNtQTVRRUIzSmhpWGxYN0xrTWQyZlprNFJhRjNQVXZZN1U?oc=5",
+   "fonte": "Visordown",
+   "ig": "visordown",
+   "escopo": "Global",
+   "tier": "Mundo",
+   "dominio": "visordown.com",
+   "ts": "2026-08-20T09:24:32Z"
   },
   {
    "titulo": "fullsize-proom_Biz-3_4 TD- Roxa 2",
@@ -498,6 +498,16 @@
    "tier": "Corrida",
    "dominio": "crash.net",
    "ts": "2026-08-20T08:55:00Z"
+  },
+  {
+   "titulo": "Manx Grand Prix issues statement after second rider dies",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYUhtY2FXQjlELTVuWWdST1E2TFpZc192TlZQLWNwYTQ4UjlYTF9pUDBTU2hpZEVQSkJVeTlCUDl2U255OWdoNDNsaTVZTTJCdWFpbC0wUm5zbTIwX1JIMk85Q3pITkowVTNnbEl4bUl3Rjd1QkkxRDdDa1FHMWlCeG5oRXN2SzZ3VVhpRjM1b1Y?oc=5",
+   "fonte": "Visordown",
+   "ig": "visordown",
+   "escopo": "Global",
+   "tier": "Mundo",
+   "dominio": "visordown.com",
+   "ts": "2026-08-20T08:10:06Z"
   },
   {
    "titulo": "fullsize-proom_Biz-Lateral- Roxa 2",
@@ -568,26 +578,6 @@
    "tier": "Brasil",
    "dominio": "motonline.com.br",
    "ts": "2026-08-19T22:58:23Z"
-  },
-  {
-   "titulo": "Niko Ramos reencontra competitividade no Superbike e mira evolução para disputar o título em 2027.",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxON1dXSFNESEJzSUtEWFdqdXZBc29fVngtYkQtTmNqeGt0ZnpjUzNNVEpPazlyWEFIc2JzX0pGMmFhQU9zdzBYYzdMam4wc3lYTVoxMXAyUW5SejhiSS1GOU5TMm9MSC1aWWxSRTRoT2xDZjI0cTR4SDd3Xy1iV2Fna3N1SXBfdloxWUYycjg1VkRTbVVVb3lFbi1QY3ZmZjdYaGJNcEpJVjNLczVLQkZmaUZnanZ0VF8zX09LSlk0X0U?oc=5",
-   "fonte": "SuperBike Brasil",
-   "ig": "superbikebrasil",
-   "escopo": "Brasil",
-   "tier": "Corrida",
-   "dominio": "superbike.com.br",
-   "ts": "2026-08-19T21:00:00Z"
-  },
-  {
-   "titulo": "Comprar \"SUZUKI GS 120 2016\"",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9sOUl4Ri1DdURqSjNsNXNJMjV3aUdkSWx6ajEyUHZ4akVJSEFSYXVPYU5Yb3QybUZycFZGc1RQM19nZDlEdlpYQ2oxdU9nQ1lmRDVuTS1GcXRpYm9XRFdrTGpKVmRKZ0xodWljWTZDQWNYUldfV2E0aE51M2c?oc=5",
-   "fonte": "Motonline",
-   "ig": "motonline",
-   "escopo": "Brasil",
-   "tier": "Brasil",
-   "dominio": "motonline.com.br",
-   "ts": "2026-08-19T19:50:31Z"
   },
   {
    "titulo": "Conheça a Dual 250, trail que a CFMOTO pode trazer ao Brasil no futuro para enfrentar Sahara e Lander",
@@ -678,6 +668,16 @@
    "tier": "Corrida",
    "dominio": "crash.net",
    "ts": "2026-08-19T14:57:14Z"
+  },
+  {
+   "titulo": "Latest motorcycle news",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBzcFM4SWpoWVdSa3RUUGNKUFIwNFhkaE4yS1FtMF9vN2xYWVdPSXpQeTQ0QldqZEMzTllaVFNoWEVFNnZGZWIxMHdMVjQ?oc=5",
+   "fonte": "Motorcycle News (MCN)",
+   "ig": "motorcyclenews",
+   "escopo": "Global",
+   "tier": "Mundo",
+   "dominio": "motorcyclenews.com",
+   "ts": "2026-08-19T13:58:40Z"
   },
   {
    "titulo": "Skoda Superb Archives | Automotive and Technology - News and Reviews",
@@ -790,16 +790,6 @@
    "ts": "2026-08-19T10:45:05Z"
   },
   {
-   "titulo": "“Without trying to win every time” - Aprilia explains Marco Bezzecchi’s new MotoGP approach",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZXlzX1JfaHJxOUc5aEVENWlfbnZVNUpMUDFaVnVIUUxtUE9SOU5UMHowaW5KX1piYnJYSkNLNlVsMk5uMFJuSHA0NDBEcUZndVRvUHBkY2xkMThqSWg4bUpwakxuRzl6b1dUZW5RSk1ETDYwdFNyZ3h2ejRzU1JCdW9uVHJ4ay1nTU9HMk5aUmk3d0RvdUtsUkQ1TUlsWnlOS3ZoSEVySFR5dFBSNjM2YlV3cHFuanEyQmc?oc=5",
-   "fonte": "Crash MotoGP",
-   "ig": "crashmotogp_",
-   "escopo": "Global",
-   "tier": "Corrida",
-   "dominio": "crash.net",
-   "ts": "2026-08-19T10:10:05Z"
-  },
-  {
    "titulo": "McLaren continues F1 development push with upgrades confirmed for Dutch GP",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYjdIazFEVE1PUHpNTG0zcGM5d2VkazhqRnc4S0hJY0hydWdSY3VNVVBtSGQ4eW5ZZG0zY1UwejNBRnAzU3N3QUVPNG1KbC1LN0RVclJpYkpCcmxGdDZtek81bm9YRm91RFp6ajJsLXc4RUR2NWRHbHhvOHhBOTRFSjhvSEp3amZlUGpyOGUyTC01Mlk3WTFqQ1Z1LU1rN00yZTZYc3RUMnQ?oc=5",
    "fonte": "Crash MotoGP",
@@ -868,6 +858,16 @@
    "tier": "Mundo",
    "dominio": "cyclenews.com",
    "ts": "2026-08-18T23:54:55Z"
+  },
+  {
+   "titulo": "Duelo pesado! Honda CB 1000 Hornet precisará superar duas rivais no Brasil",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82MHRSSEhBczdFTXo2d1F2QnptYTJfcW44UXJCejBhbVFjeVZKSFVsZUZwekxLN0hkbVdjNUt0NWpaS3dOMExGN2Z5ZTIyX09mLXhBNQ?oc=5",
+   "fonte": "Motonline",
+   "ig": "motonline",
+   "escopo": "Brasil",
+   "tier": "Brasil",
+   "dominio": "motonline.com.br",
+   "ts": "2026-08-18T18:11:58Z"
   },
   {
    "titulo": "Comprar \"HONDA CG 125 FAN / FAN KS / 125 i FAN 2012\"",
@@ -990,16 +990,6 @@
    "ts": "2026-08-18T10:59:25Z"
   },
   {
-   "titulo": "400bhp Buell Leviathan falls short of 250mph Bonneville target",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYmpIbGRDQjd1RHRkano1c3R1d25SaHo5UVR4QWRWdHhFSDBtaVFxcUlaNDRBOThLcXQzZ3loTGdseE9MNTJUTVhOdzNndW5rUGI0ZEVla3JydWo0S2xnMzBIUGdmVFZhanM2eF83Ymg3MzBnb2ZGTmVmbVI2MGd6SkpaZ0I3UnlFMmNqNktyUG5fVUdi?oc=5",
-   "fonte": "Visordown",
-   "ig": "visordown",
-   "escopo": "Global",
-   "tier": "Mundo",
-   "dominio": "visordown.com",
-   "ts": "2026-08-18T07:19:50Z"
-  },
-  {
    "titulo": "2027 Yamaha YZ250F First Look And Specs (Updated)",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPazN6eW9iWlVjVHptRjBTUktJX2M1ajhYYjVOaC00bWluY2I4TkpFVHBzTE92QUk5eGlITDFjN2s0R0ZSLUxwQUpEY0dGWVl4UEw5RHdhWVBPUHRQZTVvSmY1QmlEOUt5NlRHcmlKSUVLbG9uV2h0blc0QldCeTdRV2xyaHE3ZTE4dlE?oc=5",
    "fonte": "Cycle News",
@@ -1078,16 +1068,6 @@
    "tier": "Mundo",
    "dominio": "cyclenews.com",
    "ts": "2026-08-18T01:26:25Z"
-  },
-  {
-   "titulo": "De Santa Catarina para o Superbike: Peterson Pet lidera movimento de formação de novos pilotos",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONUJ3TGViNXVBX1BrenR5ejBOVXNfTUpfX1dYYUVtVldKMFFYZ21nWW9KMmVHazlqZGNIQy00Z2JNQlJzbXE1MWJlTUdzNWFtZGpKb2luVnFocTJrYzZ6dXppR3VGMk9yU2pqejRVOE1nNXpkRzNsS3lRRm1GbVhqNGlWQ2FULW9ySUtmdVJPTXEzeU1rSnhPMm1PZ20wd0dYVFQ3bWRNVklYTElmMG9ZYkxTd054TEZZVThF?oc=5",
-   "fonte": "SuperBike Brasil",
-   "ig": "superbikebrasil",
-   "escopo": "Brasil",
-   "tier": "Corrida",
-   "dominio": "superbike.com.br",
-   "ts": "2026-08-17T21:00:00Z"
   },
   {
    "titulo": "Honda CB1000 Hornet chega por R$ 68.800",
@@ -1860,6 +1840,16 @@
    "ts": "2026-08-13T15:30:30Z"
   },
   {
+   "titulo": "Após etapa paranaense, Team Rinaldi segue na liderança do Brasileiro de Enduro, na Elite e Open",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbEZCQi1UNXg0M09fRGJUUUJtZ3I1b2V0Sm5mTTUwRG90Q3VjTEh4VnhBNmhsUnhJSWJXZ1BHcWhaZV9fc2NyTmdnQnRfcXZEeUIzZlJjcjlQQnY3Ti0tWjVoVXJZV3ExU0QyUmJNbERvTTBsRHhuenJYem5ndkNhbXhmN2NGM0sxNk1senYtSEh1dzVyS3pEcF9IUk9reGh0djM5MHVmQXdoM2pvaDJVZjE1MUVNdlA0c2RR?oc=5",
+   "fonte": "MotoMundo",
+   "ig": "motomundo.com.br",
+   "escopo": "Brasil",
+   "tier": "Criador",
+   "dominio": "motomundo.com.br",
+   "ts": "2026-08-13T13:52:40Z"
+  },
+  {
    "titulo": "KTM lança 390 Adventure R e X no Brasil com foco em diferentes tipos de uso",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTWdESlprR093eDBLOVVvM2dwQzQ5RERGODl3clNmd1d5UkdaSEFhYS1xTWFxaUtOejFUaUVtRGt4Z25aQldSU29lMzljS2ZtRGZJRnBjZGdPYzd4TWNDR2JNVEN4SVpmTVI2NlYzVjdJUGxBMjcxWDdkcGx0ZVFZbGwwbXRJNXBYLXB0UFM1V19mQ1QwSUVEYnJMUkptUk9BLVVqWXdR?oc=5",
    "fonte": "MotoNews Brasil",
@@ -2300,16 +2290,6 @@
    "ts": "2026-08-11T07:00:00Z"
   },
   {
-   "titulo": "Five Harley-Davidson motorcycles and 20 frames seized by Indonesian authorities",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaDJWRnRralVPcFY0cjhzRDZiLWVnMGtZY3NQLW9ZTVMxWGhaRUlFOVY1dkgtSlJGeTVPZ09xeWhROHNEX1hyQTdSaWdRcC1vRHhhS3NoTXJRbXhjS1pNdFI0VF9GcndYUU1sak1aT09nRWdsSkFyZnhnY0JEZ1R4YmFaZVh6bjVPc284TExKYURDWFNRb1FicUYybS1LS3U4WGRNWWctcG9FUVU?oc=5",
-   "fonte": "Visordown",
-   "ig": "visordown",
-   "escopo": "Global",
-   "tier": "Mundo",
-   "dominio": "visordown.com",
-   "ts": "2026-08-11T07:00:00Z"
-  },
-  {
    "titulo": "Rio de Janeiro selected to host MotoGP 2027 Season Launch",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNGZyMzlrNURSTThkQkExXzdwbmM2YlBMcnBoMWFtc3VQcjd1SFJNZ0dYRHkxRjYzOWctbTJweTNkNzNsSVpGNjI3SU93Y0ZMTndoTE9ReG5YT3o4SzA1eVpsUjN4T1hEcmw0OWFBR3ZhemxtdDJVRVQxeV9DM1ZmS2F3UXkzYWhJblhLb2ZtenRucUtDWDQwc2xyY3l3SlFyVmI2bU9FSWFhZWc?oc=5",
    "fonte": "MotoGP",
@@ -2420,16 +2400,6 @@
    "ts": "2026-05-09T00:15:55Z"
   },
   {
-   "titulo": "Moto4 Latin Cup 2026 inicia novo capítulo na motovelocidade",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYTFpVXNiRkFJZnhEVWdQV2lXYUw2TF9uclM5TlczWkU3N1ZnOGhsanZiYTljMVdjaWtDTzNENGsxUnhCRUtMVnotZExJQ2lnZkxLMnB0MFg3blN1dWo1U3lqTUZva01QLTBKdm9xRWNZVFlrVC11SmUxQjBhUGtFRFFhZ1JFQUtlN1ZUbExn?oc=5",
-   "fonte": "MotoMundo",
-   "ig": "motomundo.com.br",
-   "escopo": "Brasil",
-   "tier": "Criador",
-   "dominio": "motomundo.com.br",
-   "ts": "2026-03-19T23:54:30Z"
-  },
-  {
    "titulo": "MotoGP News and Results",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSmtGQmJFUHZubkxBWjNvc3FZWlR2QkkzalVsYlBMMFZaOEhGRElVSU1raVAzX195X09TeklCeE9PVFhHZ2JmQmgzT0ZocjExam1VTFBuNlliaTU2Tk4tdjllZjBSUFZtNy0xaVA0TngzdE90bVpGNW5Zb2g2MjVRLXlSdnpFS1VxR05fWHJoNTVDNUk?oc=5",
    "fonte": "Cycle News",
@@ -2468,6 +2438,16 @@
    "tier": "Mundo",
    "dominio": "revzilla.com",
    "ts": "2025-04-03T01:31:21Z"
+  },
+  {
+   "titulo": "Motorcycle & Dirt Bike Plastics | Repair & Refresh Your Ride",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSW9nUEVuSFREVE9MOEh5ZFp3TzVQVjZ1TnUzUmJYOG1IdUFxc2o5VE1FRzZwN3hSUTZkVWRMUkV4azNodjIwUHZmTGhtZ2ZVazdscDZOSDZTZ2lrLWhnRjRlYWg5azZPUFpwQ0ZlZWt3TVFNSUJEbGZTS0ZZekZ2TA?oc=5",
+   "fonte": "RevZilla Common Tread",
+   "ig": "",
+   "escopo": "Global",
+   "tier": "Mundo",
+   "dominio": "revzilla.com",
+   "ts": "2024-10-24T14:34:09Z"
   },
   {
    "titulo": "Clement Salvadori",
@@ -2540,16 +2520,6 @@
    "ts": "2017-07-05T09:18:19Z"
   },
   {
-   "titulo": "Klim Tactical Pro Jersey",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80aVBMcUtaZmN1YWZab2NudzJZMmNqUy1FQ21qdUszUzhJRUc0WWpoWG01SlFPcDlqSGZGLWhaSWpRYTltTTkxd2tzVW5FVUx1bU1ZU080eHk3YmVwVVNCY0hFSlVMcHR1R2Z0NQ?oc=5",
-   "fonte": "RevZilla Common Tread",
-   "ig": "",
-   "escopo": "Global",
-   "tier": "Mundo",
-   "dominio": "revzilla.com",
-   "ts": "2017-01-10T14:14:41Z"
-  },
-  {
    "titulo": "Shoei Helmets - Buy Your Shoei Motorcycle Helmet",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1QQmNTTUtwV25tQmoyV0VLM09nTFYwNnpFZXhnNTNJU3JVa2dUSG5kbDM0YkZ3R0tkSWNoUlUyZVpNU29MSFhJbGx3TGJULWM?oc=5",
    "fonte": "RevZilla Common Tread",
@@ -2560,13 +2530,13 @@
    "ts": "2010-10-12T23:18:47Z"
   }
  ],
- "total_materias": 215,
- "materias_24h": 28,
+ "total_materias": 212,
+ "materias_24h": 26,
  "reddit": [],
  "em_alta": [
   {
    "tema": "Motogp",
-   "mencoes": 21,
+   "mencoes": 20,
    "materias": [
     {
      "titulo": "“That accident was the turning point” - How Simon Crafar found his way back to MotoGP",
@@ -2592,12 +2562,17 @@
   },
   {
    "tema": "Honda",
-   "mencoes": 13,
+   "mencoes": 14,
    "materias": [
     {
      "titulo": "Aston Martin's saviour? What to expect from Honda's new F1 engine",
      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNmE0Q19YMk9OSHlLcmcwVVJZREd6UHB3UURtYllJbFFZeUtHOG9BMm1hcjZXcXlwYkpVN3JjQnhQSjZTMmxtSmo0cDVhTG50S2VxdEZ1dTdqOGxmbENERi1GYXVfVjFjRFB2dlY0N2p3ZWNqdkYwWEY0V1VHY2ZGVzFuZWFOVEZYMmVjRmdQaFJGOHhOdHhCd3BB?oc=5",
      "fonte": "Crash MotoGP"
+    },
+    {
+     "titulo": "Duelo pesado! Honda CB 1000 Hornet precisará superar duas rivais no Brasil",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82MHRSSEhBczdFTXo2d1F2QnptYTJfcW44UXJCejBhbVFjeVZKSFVsZUZwekxLN0hkbVdjNUt0NWpaS3dOMExGN2Z5ZTIyX09mLXhBNQ?oc=5",
+     "fonte": "Motonline"
     },
     {
      "titulo": "Comprar \"HONDA CG 125 FAN / FAN KS / 125 i FAN 2012\"",
@@ -2608,11 +2583,6 @@
      "titulo": "Arquivo De Honda Twister S",
      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5pLTVvUDVWdFJ4STFxY2xwdTh6ekRqeDJNa2FwTmpLVWQweWs5TlItTXB5RUlVYXZZUzdlUnItRGhQMWg2cUFUVUdNa3JkOFA5dzZUMUZzSE1LNTly?oc=5",
      "fonte": "MotoRede"
-    },
-    {
-     "titulo": "Honda CB1000 Hornet chega por R$ 68.800",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSHlURDBNaGw4dFYzMmdJVmRMSklrZE5RcGhWVThlSDBvT3RWZjNSUWpsOFJId19Cd004clJxQ1NhVnBzbk5oenVidzJMVDBLSzh2SnFSaXJoUnhHNDNnRG16WW5ZbEdRWi10ZFVVY0paMHNkUGRHc084LWZBZjhrYXpIdw?oc=5",
-     "fonte": "Grid Motors"
     }
    ]
   },
@@ -2639,6 +2609,32 @@
      "titulo": "No MOTO1000GP, GP Interlagos by Diálogo fortalece conexão da Diálogo Engenharia e JD House com a cidade de São Paulo",
      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZTY2eTlNUGFvaEROdlJMRnBETGYwbTZRcGFnWG54ZUI2TEwwSmtPOHBoVTh3OWxfclpJaEhTRlR0VlFTUjRLMzY2MmZfcHN4cVZnSHBRTnUtMUNyVWhvSUJ1ZTl1LVRydUhhZG9MdVZsanhldEtCajlHV2dQOEd4ZHJKNnMtd0s3VzZ4RVlOWEFvR0J5S2k5Nmw4b3lBZDV1NlE5UGRCZENrRlNwWkdkMjZIRkpTT0JMRW5QNm9QN2hmQ1Y4cDh1T2dwcUpRMVJEM2c?oc=5",
      "fonte": "MOTO1000GP"
+    }
+   ]
+  },
+  {
+   "tema": "Ducati",
+   "mencoes": 10,
+   "materias": [
+    {
+     "titulo": "Richard Hammond stunned by Chinese sportsbike after Ducati Panigale V2 showdown",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPS09rcGtvVm5GSjB5bVlfVDB6clU4Z01kdjFpMG4xQmx4V0JhUWxXeGx3LWlvWEhSbHA1V1JSSUdZakhuUmJzaVNrV3dTMC1CZm5vNEtyTVUxUkJpT0lQRlhUcTdFY0JfTFVCWmRZMHVLeVZHQmVod1VvdEtqSVJXUkdNckNjR09ZUFNtQTVRRUIzSmhpWGxYN0xrTWQyZlprNFJhRjNQVXZZN1U?oc=5",
+     "fonte": "Visordown"
+    },
+    {
+     "titulo": "Ducati DRE Adventure Academy: New Desmo450 EDS Try Out Days",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdHJBMWZ3SUd3X0FWb3pJWEZVYXBZVXNzVldzUjdkVU1ibVJfVGdJTVVTUjcxWDRwN2otN0tsTFViTjJ1Ymh3RVBUbmo2TFZSdUxPWkFYM043d0NibWFxdkRSdEI5RmlRRGN2RUk5dkhCNlJ5WkxUQjQxUTJuTW5NeUhhY0FtQ0NZOFBYbFA5ekpPM1FwRkdj?oc=5",
+     "fonte": "Ducati Corse"
+    },
+    {
+     "titulo": "Track-Ready Nostalgia: Purpose Built Moto’s Street-Legal Ducati TT1 Replica",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5vYkRFUnVVbThnbUFWUFVaSzVHaVZLZGtZRWdNLTNPR3RJYkxuYzlUWi00YzdRX1hrYjRUUTJ2cEphUWNDQThFMTQtRlZLRklPOTJsYkdodTRfYTAwWmxsbTg3RjJXQQ?oc=5",
+     "fonte": "Bike EXIF"
+    },
+    {
+     "titulo": "Ducati Fills Gap in Panigale Range With V4 SP for 2027",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRHViU052QWV3cDdDblhCRUU3Mkw1MGVyUEd6aml0eHRTMjlteHVYVjgyQnBjTVNjeDFvM0VDZ0Ewa0VqTFJ1b2RsQmdxQ29MbFV6emJ6cmpUY0ppLVNTM0NjMGVmNWR2QUtsY2RYMUdoUW0wSGpIMVI5VmpGdFZ6UEF3QTVTQnBlNE9zWUNwNnYxYW40MkNrTw?oc=5",
+     "fonte": "RideApart"
     }
    ]
   },
@@ -2721,40 +2717,9 @@
    ]
   },
   {
-   "tema": "Ducati",
-   "mencoes": 9,
-   "materias": [
-    {
-     "titulo": "Ducati DRE Adventure Academy: New Desmo450 EDS Try Out Days",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdHJBMWZ3SUd3X0FWb3pJWEZVYXBZVXNzVldzUjdkVU1ibVJfVGdJTVVTUjcxWDRwN2otN0tsTFViTjJ1Ymh3RVBUbmo2TFZSdUxPWkFYM043d0NibWFxdkRSdEI5RmlRRGN2RUk5dkhCNlJ5WkxUQjQxUTJuTW5NeUhhY0FtQ0NZOFBYbFA5ekpPM1FwRkdj?oc=5",
-     "fonte": "Ducati Corse"
-    },
-    {
-     "titulo": "Track-Ready Nostalgia: Purpose Built Moto’s Street-Legal Ducati TT1 Replica",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5vYkRFUnVVbThnbUFWUFVaSzVHaVZLZGtZRWdNLTNPR3RJYkxuYzlUWi00YzdRX1hrYjRUUTJ2cEphUWNDQThFMTQtRlZLRklPOTJsYkdodTRfYTAwWmxsbTg3RjJXQQ?oc=5",
-     "fonte": "Bike EXIF"
-    },
-    {
-     "titulo": "Ducati Fills Gap in Panigale Range With V4 SP for 2027",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRHViU052QWV3cDdDblhCRUU3Mkw1MGVyUEd6aml0eHRTMjlteHVYVjgyQnBjTVNjeDFvM0VDZ0Ewa0VqTFJ1b2RsQmdxQ29MbFV6emJ6cmpUY0ppLVNTM0NjMGVmNWR2QUtsY2RYMUdoUW0wSGpIMVI5VmpGdFZ6UEF3QTVTQnBlNE9zWUNwNnYxYW40MkNrTw?oc=5",
-     "fonte": "RideApart"
-    },
-    {
-     "titulo": "Bikes & Beyond - Categoria | Storie Ducati",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE14WXJwVTRfWWtQbTFCN2JDd1ZwUDQ2eWhlOGNQQnkteDZQTzVWTTByRFJOVERlMmpfZGhmM3IwTzloa3hNcGs4QjlmZFU1bEZFTGltNUxYVE1jdUhmeHREMXpkUQ?oc=5",
-     "fonte": "Ducati Corse"
-    }
-   ]
-  },
-  {
    "tema": "Suzuki",
-   "mencoes": 7,
+   "mencoes": 6,
    "materias": [
-    {
-     "titulo": "Comprar \"SUZUKI GS 120 2016\"",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9sOUl4Ri1DdURqSjNsNXNJMjV3aUdkSWx6ajEyUHZ4akVJSEFSYXVPYU5Yb3QybUZycFZGc1RQM19nZDlEdlpYQ2oxdU9nQ1lmRDVuTS1GcXRpYm9XRFdrTGpKVmRKZ0xodWljWTZDQWNYUldfV2E0aE51M2c?oc=5",
-     "fonte": "Motonline"
-    },
     {
      "titulo": "Fowlers celebra centenário com evento gratuito em Bristol e oferece Suzuki GSX-8S em sorteio",
      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNS0xXTGtra1NYVXNsTlNHMHN4bVJIZF9PZlNoeDNMczA0YTUyREpaYWVLM0xhRE43SS1TMkFSQ2o3b3VUZ3JDX29rX2lGVE5tbEdOb2JDV1VkZnpyeldaNWo0NUlfMFRfa0pKVUxOWkt5eG45UzhocXlBME51NFliMUtOcnVOR1ZWUDVOck9ZZ1otS0ExQm0wVlZYeTNCNVRqY0p5YUpOaXhmVVVpanVmaDNtWkMwSDZnQklNOC10bWFhbGtOU2F3?oc=5",
@@ -2769,6 +2734,11 @@
      "titulo": "Suzuki GSX-8T 2027 chega ao Brasil para unir passado e futuro",
      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWDFmNzJsLTNNeGJNdHZFbU9GTGRpRmxJVkNkejA2QWNNa2N5Z29USnE0eTMxekttLWJvV2hubWl0VWllZ3VXZlBVazdLbHVPRkktaGxKRDA0dFlYMWg3SnFOT3dqTGg0SVJYcVZWMGhsNl9ISXZfS2NGVWV6LUR2LTBoZkt4VEc5TkV0b3NOVEVzc1U?oc=5",
      "fonte": "MotoNews Brasil"
+    },
+    {
+     "titulo": "Lançamento da Suzuki para o Brasil tem design premiado; saiba mais",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObDZRUHdQdnAzLUs1R0ZkbWI5V25Qd1dTZElSeWZjejludlFPN1VoQjY0bk5GRzdkeWNzRE4zVUE4YlN2cXZrMHFFWEQ4Zmo3NnJ0b1R0WTVkaUR2UjVmSEl3dWVmSzhfZDdBNlYyTmd0bnQ2cDZ6ZUtrS01uckxWQUxUQzJmaFo1RHdybzBQU200RWdmUXZBX0w1X09rNkRIT05UVElaSUVONF8xU3c?oc=5",
+     "fonte": "Motociclismo"
     }
    ]
   }
@@ -2785,6 +2755,11 @@
      "titulo": "Aston Martin's saviour? What to expect from Honda's new F1 engine",
      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNmE0Q19YMk9OSHlLcmcwVVJZREd6UHB3UURtYllJbFFZeUtHOG9BMm1hcjZXcXlwYkpVN3JjQnhQSjZTMmxtSmo0cDVhTG50S2VxdEZ1dTdqOGxmbENERi1GYXVfVjFjRFB2dlY0N2p3ZWNqdkYwWEY0V1VHY2ZGVzFuZWFOVEZYMmVjRmdQaFJGOHhOdHhCd3BB?oc=5",
      "fonte": "Crash MotoGP"
+    },
+    {
+     "titulo": "Duelo pesado! Honda CB 1000 Hornet precisará superar duas rivais no Brasil",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82MHRSSEhBczdFTXo2d1F2QnptYTJfcW44UXJCejBhbVFjeVZKSFVsZUZwekxLN0hkbVdjNUt0NWpaS3dOMExGN2Z5ZTIyX09mLXhBNQ?oc=5",
+     "fonte": "Motonline"
     },
     {
      "titulo": "Comprar \"HONDA CG 125 FAN / FAN KS / 125 i FAN 2012\"",
@@ -3451,9 +3426,9 @@
  ],
  "marca": {
   "ga4": {
-   "sessions": 98293,
-   "users": 92667,
-   "updated_at": "2026-08-20T11:00:11Z"
+   "sessions": 98314,
+   "users": 92687,
+   "updated_at": "2026-08-20T13:28:53Z"
   }
  },
  "pesado_em": "2026-08-19T22:45:27Z",
