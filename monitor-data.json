@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-20T10:51:42Z",
+ "updated_at": "2026-08-20T11:47:28Z",
  "fontes_monitoradas": [
   {
    "nome": "Grid Motors",
@@ -410,6 +410,16 @@
  ],
  "materias": [
   {
+   "titulo": "Latest motorcycle news",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBzcFM4SWpoWVdSa3RUUGNKUFIwNFhkaE4yS1FtMF9vN2xYWVdPSXpQeTQ0QldqZEMzTllaVFNoWEVFNnZGZWIxMHdMVjQ?oc=5",
+   "fonte": "Motorcycle News (MCN)",
+   "ig": "motorcyclenews",
+   "escopo": "Global",
+   "tier": "Mundo",
+   "dominio": "motorcyclenews.com",
+   "ts": "2026-08-20T10:54:39Z"
+  },
+  {
    "titulo": "fullsize-proom_Biz-3_4 TD- Roxa 2",
    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQenR3Q3VvLXp2ZkxXVkkzckRPR2x4bzhuLVdWaURfLXBLVkU3QUo3Q3lqZEFXR2xSZEszZU5YdnRYSEJ5NFBocXBoSGdrSE5FSHVWT3BGZHh0Y0lkSUNEdkJtcWtPRld0dEhQckNHSkhXdS1mal9ISW9kWnphNG1URWZnb2c0bzNPaXRVbl9PRFhxaXlVQVBLNGE0TDNxZXgzZzd4UWZYT0FRbXFrVVNSam9ncmVmWEJWTTBDaTlDbWx5dlAwWGpDMFk3Wk1zbXptSTY4RDNpNV9BWHFKZ2o4RXRTQ0phVjJyVG9WeHVYUQ?oc=5",
    "fonte": "Revista Moto Adventure",
@@ -428,16 +438,6 @@
    "tier": "Corrida",
    "dominio": "crash.net",
    "ts": "2026-08-20T08:55:00Z"
-  },
-  {
-   "titulo": "Who is Daniel Holgado? Meet Gresini’s 2027 rookie",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYzN6blZvcW4tY0JfNm5pV3lpRkpUMldtdUFUdFBESjBBTUVHMFh2amZxUEVITjBZUWgwWWtSMktFQWY5Uk13a0twaDB5bGFTMVN3elBMVUNnMlhqcmUxZFN3em5jNHdJblZHVUFzdDJkVzlmcGZhUi1uMU5jbUtOVFpfZGJ4RlRDR0tvZmdnT2FFNHVmcHFJazduQlpCZw?oc=5",
-   "fonte": "MotoGP",
-   "ig": "motogp",
-   "escopo": "Global",
-   "tier": "Corrida",
-   "dominio": "motogp.com",
-   "ts": "2026-08-20T08:50:00Z"
   },
   {
    "titulo": "fullsize-proom_Biz-Lateral- Roxa 2",
@@ -608,6 +608,16 @@
    "tier": "Corrida",
    "dominio": "crash.net",
    "ts": "2026-08-19T14:57:14Z"
+  },
+  {
+   "titulo": "Skoda Superb Archives | Automotive and Technology - News and Reviews",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBKU1gyMDVhQ3ZXTDF3T1RfOVUxWS1FM2duWFZ5LVhzQkVwVThPVDlyVHcxbGNoRXhDYmdZTEZzVFFrZUdCX2I4aTRDWnJLWVZk?oc=5",
+   "fonte": "IAMABIKER",
+   "ig": "",
+   "escopo": "Global",
+   "tier": "Mundo",
+   "dominio": "iamabiker.com",
+   "ts": "2026-08-19T13:35:32Z"
   },
   {
    "titulo": "Carlos Sainz signs new \"multi-year\" F1 contract extension with Williams",
@@ -1130,26 +1140,6 @@
    "ts": "2026-08-17T17:00:00Z"
   },
   {
-   "titulo": "Limited-Run Jeep Compass 85th Anniversary Edition Launched in India at Rs 26.70 Lakh",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQS3I0WHF4MFNlVmJDVTByMnJHNDBwakZSbk4yYmFpSXVhQTRIcGlTQkpyLWw5T1R1TFh5Qk5zdmdMU25WY01Lek5vd0lrS3pQYmdPbnhaLU5iVkNua21NVG92MUMyTllMOUtWclhTeUVOSzhSbHZmV1ZKVkVHLXlHRlotMGxUM3NMU3VHYWluTXRoWGFiZjNhbFIySU42RjRZY0xlM1FnQ1BaZ0tPNVJXTk9lckk5aGd2?oc=5",
-   "fonte": "IAMABIKER",
-   "ig": "",
-   "escopo": "Global",
-   "tier": "Mundo",
-   "dominio": "iamabiker.com",
-   "ts": "2026-08-17T16:49:20Z"
-  },
-  {
-   "titulo": "Harley Davidson Pan America Limited (2026), Long term review",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdlBhXzFfUkJ6b205QlYxMlRxekE0bjczd0VuNTZDRXBuLWZWa3ZKeDZLVEtZRTlsRUJBcVJLdENBNGdTSGxLTHMtVGFJYnRja1JNUGp2M2RfZUJfTEJIb0oyMTVBQVNBRkh0V2xoT2JQNTZjWTJ4eUpkczNXVnA3SnJPT0Jfdm9WMXJNdV9aNFJEay1zYmlPd2hNdG9EN1d2MTkyQ241YzJhNXZUcGYyTV9EZlBmckJERTAxWGw0MzdjSFR1a2F4UEE2aWhYUQ?oc=5",
-   "fonte": "Bennetts BikeSocial",
-   "ig": "bennetts_bike",
-   "escopo": "Global",
-   "tier": "Mundo",
-   "dominio": "bennetts.co.uk",
-   "ts": "2026-08-17T16:25:14Z"
-  },
-  {
    "titulo": "Bagging Passes in the Colorado Rockies, Riding Denver to Durango",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTXhYWnhGNEFlOFJsTUIxa21DTDB6UzF0aWpkTHdRWkl5aHQ3VTc2TWYtUUplWEdQNXo0bm9lWWJjZVRKbFg0WkVRT29vdHlLZVVOeURrajA5M1gwazBVdDhybEhvZ3dvM2tqMXdDUlVxOU9GaWJMOE12T2RndGk5TDZZYnFjaGZxalFPWk4wWVFLTGdVOGJqS1Z3?oc=5",
    "fonte": "Rider Magazine",
@@ -1610,16 +1600,6 @@
    "ts": "2026-08-15T00:29:11Z"
   },
   {
-   "titulo": "Ben Clarke | Author | Page 49",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xRGhmUEs0OGVtTFcxVjIyU05aTnJzLTQ1bTU2TGxfajNuSlhTSXVKTThZT3JJa25iY0pBOEc3a2d6X0NieWNiUldtZmhoZVNvanJVQWk1R2dTS1VlMlNxZjZaZjFpeFY4?oc=5",
-   "fonte": "Motorcycle News (MCN)",
-   "ig": "motorcyclenews",
-   "escopo": "Global",
-   "tier": "Mundo",
-   "dominio": "motorcyclenews.com",
-   "ts": "2026-08-14T21:28:26Z"
-  },
-  {
    "titulo": "Todos Os Lançamentos Do Festival Interlagos 2026",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9xSk1EQkxfMnBXM2F0em5sY29wck13aEFpdDJCc1JnMkNNV0pram1KckhWNnJndU1CdldSUlJjOFlTbVF1NlBaWE9UbzdnWTRhX0ZVTFotaktDX09JRzNWUFp0UlJVYmFMbzlxdjRDVVRua21iR2tB?oc=5",
    "fonte": "MotoRede",
@@ -1960,6 +1940,16 @@
    "ts": "2026-08-13T07:08:51Z"
   },
   {
+   "titulo": "Seven and counting: MotoGP’s 2026 winners list keeps growing",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5pamJDSERpVURRRDU3ek5MbWkxVHVTbFhqeUhTbkdHR0xLMW52SFdGeVVwaS1QTzhFT1NwcFVBdXVUMURzOUQ3UWNFMXFNdk9uUUdkZkt3RWhGVF9sTjZ3?oc=5",
+   "fonte": "MotoGP",
+   "ig": "motogp",
+   "escopo": "Global",
+   "tier": "Corrida",
+   "dominio": "motogp.com",
+   "ts": "2026-08-13T07:00:00Z"
+  },
+  {
    "titulo": "TECH GALLERY: Get closer than ever to the Honda CBR1000RR-R SP bike!",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xN0cyV2R3S1lqU3JHdHpDajZoMnN3WXVJYUVpaFVOU3ZQUjJDRlJDc0EySVZlaUYtZEx4LS11NVhuNzZXZDdCdDczOG91TXp0cTZMcGxvYTAwbUx5MVdoY0RrZG16VnM4eTl6SWpfWlpLZGNvLUR6SmVMOGlUN1U?oc=5",
    "fonte": "WorldSBK (Superbike)",
@@ -1968,16 +1958,6 @@
    "tier": "Corrida",
    "dominio": "worldsbk.com",
    "ts": "2026-08-13T07:00:00Z"
-  },
-  {
-   "titulo": "Seven and counting: MotoGP’s 2026 winners list keeps growing",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNkN3RFZZdWh4cjNZdjlEWWRQNmVfVnBGOHlRQzRSSXQ4YVU3WWlqemxsUlRXWFpWYTVIeS1HQlZWZHVrTWx3SnRNWHpXQndxX2x2ZTRSN2NjTXpSYTNmck80SVFQU1dVWV9CRDFhVFJwQ1hGeWJIU2lLanVjWXBrakZsaUtvcVE1OXdRWmF2c1JYdXE4WGlGcFM2eXNYUUphaVVhSnYwTmZ0T3Fr?oc=5",
-   "fonte": "MotoGP",
-   "ig": "motogp",
-   "escopo": "Global",
-   "tier": "Corrida",
-   "dominio": "motogp.com",
-   "ts": "2026-08-13T06:31:35Z"
   },
   {
    "titulo": "Tag: Motorcycle Waterfall Ride",
@@ -2088,6 +2068,16 @@
    "tier": "Corrida",
    "dominio": "motogp.com",
    "ts": "2026-08-12T14:16:45Z"
+  },
+  {
+   "titulo": "Rider - MotoGP ™ Premier",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9uWjdCTDhEckdFNDFMUWJwM1ZpSHNxaEpjSzljSklHaUFKWXpBQWJGa3drbGlpbGpJdkw3NUJDOU1xclZick53SXhRUzFnR2t0UFhPOGpPWllIQkFLV3JZdENBT1JLYms3QzJ4LXB1NE5tSjY1WXc?oc=5",
+   "fonte": "MotoGP",
+   "ig": "motogp",
+   "escopo": "Global",
+   "tier": "Corrida",
+   "dominio": "motogp.com",
+   "ts": "2026-08-12T14:14:39Z"
   },
   {
    "titulo": "Two US Lawmakers Want to Revoke Motorcycle Helmet Laws For People They Don't Represent",
@@ -2260,16 +2250,6 @@
    "ts": "2026-08-11T13:12:09Z"
   },
   {
-   "titulo": "Rio de Janeiro selected to host MotoGP 2027 Season Launch",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNGZyMzlrNURSTThkQkExXzdwbmM2YlBMcnBoMWFtc3VQcjd1SFJNZ0dYRHkxRjYzOWctbTJweTNkNzNsSVpGNjI3SU93Y0ZMTndoTE9ReG5YT3o4SzA1eVpsUjN4T1hEcmw0OWFBR3ZhemxtdDJVRVQxeV9DM1ZmS2F3UXkzYWhJblhLb2ZtenRucUtDWDQwc2xyY3l3SlFyVmI2bU9FSWFhZWc?oc=5",
-   "fonte": "MotoGP",
-   "ig": "motogp",
-   "escopo": "Global",
-   "tier": "Corrida",
-   "dominio": "motogp.com",
-   "ts": "2026-08-11T12:13:02Z"
-  },
-  {
    "titulo": "Royal Enfield Meteor 350 2027: Descubra as novidades",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSnBNa280a1dCOE1nUWtGeEpfbXFuclhNNXRDb3EwWjE3S05mZFhacUtiZHd2WFhiY1FPd3dWUnhJUDFIdjRyaDVpTEVuSXFaSzVRbmFmc3NNeC1VLWw2US10OHBtM3lad2hoaTJkVEpKOGNQc1B5aXhzR2dTaVRsZDRWM1BwQmJw?oc=5",
    "fonte": "Revista Moto Adventure",
@@ -2350,6 +2330,16 @@
    "ts": "2026-08-11T07:00:00Z"
   },
   {
+   "titulo": "Rio de Janeiro selected to host MotoGP 2027 Season Launch",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNGZyMzlrNURSTThkQkExXzdwbmM2YlBMcnBoMWFtc3VQcjd1SFJNZ0dYRHkxRjYzOWctbTJweTNkNzNsSVpGNjI3SU93Y0ZMTndoTE9ReG5YT3o4SzA1eVpsUjN4T1hEcmw0OWFBR3ZhemxtdDJVRVQxeV9DM1ZmS2F3UXkzYWhJblhLb2ZtenRucUtDWDQwc2xyY3l3SlFyVmI2bU9FSWFhZWc?oc=5",
+   "fonte": "MotoGP",
+   "ig": "motogp",
+   "escopo": "Global",
+   "tier": "Corrida",
+   "dominio": "motogp.com",
+   "ts": "2026-08-11T07:00:00Z"
+  },
+  {
    "titulo": "TECH GALLERY: The intricacies of the 2026 Kawasaki ZX-10RR!",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOGdmaUcxdGNTNVNwc09oaHhFQTVhS0VqbmlGX0hfaFpya2NJYWcxOFBXYmhrbkI4ZzZNZHdXWVlwMGhEdTU0YXE5NU54TEZWcWlCSUktTzVSRFNWWkNXRTlDLXVSX09jOW44eXh5R1Jqa2dhYS1nRDZmZnNqMTRqaXlLMnFlTHBpQ0NQcDJod2duYWRWZWVzRTRCbHpJTks1MTN4RzZiQVUxcTQ1d3c?oc=5",
    "fonte": "WorldSBK (Superbike)",
@@ -2388,16 +2378,6 @@
    "tier": "Corrida",
    "dominio": "ducati.com",
    "ts": "2026-08-10T18:53:13Z"
-  },
-  {
-   "titulo": "British MotoGP Sprint and Full Race Results",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNanFFU3R2NmxzcTZVdVg5QXdSZERUYUNIRFpjVDZQWWNkXzdZZjI1WklNcFc2QjVyRDFaak5KS1hIZVhtZkYzRXBnSTJZdk92SkJPSlp6M0g3NmljSE4yeHN3RXZUbHg5cWV0NTNxbF9FUVpwOGV6SEw4VkYwbkg2V01XWThsLUhOWkEybA?oc=5",
-   "fonte": "Motorcycle Daily",
-   "ig": "",
-   "escopo": "Global",
-   "tier": "Mundo",
-   "dominio": "motorcycledaily.com",
-   "ts": "2026-08-10T16:35:53Z"
   },
   {
    "titulo": "Royal Enfield Hymalayan 750: Flagrada na Inglaterra!",
@@ -2560,14 +2540,14 @@
    "ts": "2017-07-05T09:18:19Z"
   },
   {
-   "titulo": "Klim Tactical Pro Jersey",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80aVBMcUtaZmN1YWZab2NudzJZMmNqUy1FQ21qdUszUzhJRUc0WWpoWG01SlFPcDlqSGZGLWhaSWpRYTltTTkxd2tzVW5FVUx1bU1ZU080eHk3YmVwVVNCY0hFSlVMcHR1R2Z0NQ?oc=5",
+   "titulo": "Nelson Rigg Size Chart",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sX2xlNGpaUzJKTjl3aWMxQUQ5ei1pVk5qcHFObEtySHVSTHhYY3RUcS1XQWtBUUx2R25qZnVSRW8zYzVfM3EyZnBUdnF1VDhjdlVnYU1ud2lJclE?oc=5",
    "fonte": "RevZilla Common Tread",
    "ig": "",
    "escopo": "Global",
    "tier": "Mundo",
    "dominio": "revzilla.com",
-   "ts": "2017-01-10T14:14:41Z"
+   "ts": "2017-01-10T13:47:47Z"
   },
   {
    "titulo": "Shoei Helmets - Buy Your Shoei Motorcycle Helmet",
@@ -2580,8 +2560,8 @@
    "ts": "2010-10-12T23:18:47Z"
   }
  ],
- "total_materias": 217,
- "materias_24h": 28,
+ "total_materias": 215,
+ "materias_24h": 26,
  "reddit": [],
  "em_alta": [
   {
@@ -2844,25 +2824,6 @@
      "titulo": "No MOTO1000GP, GP Interlagos by Diálogo fortalece conexão da Diálogo Engenharia e JD House com a cidade de São Paulo",
      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZTY2eTlNUGFvaEROdlJMRnBETGYwbTZRcGFnWG54ZUI2TEwwSmtPOHBoVTh3OWxfclpJaEhTRlR0VlFTUjRLMzY2MmZfcHN4cVZnSHBRTnUtMUNyVWhvSUJ1ZTl1LVRydUhhZG9MdVZsanhldEtCajlHV2dQOEd4ZHJKNnMtd0s3VzZ4RVlOWEFvR0J5S2k5Nmw4b3lBZDV1NlE5UGRCZENrRlNwWkdkMjZIRkpTT0JMRW5QNm9QN2hmQ1Y4cDh1T2dwcUpRMVJEM2c?oc=5",
      "fonte": "MOTO1000GP"
-    }
-   ]
-  },
-  {
-   "pauta": "Yamaha",
-   "urgencia": "2 fontes / 48h",
-   "porque": "2 fontes publicaram sobre isso nas ultimas 48h.",
-   "furo": false,
-   "fontes": 2,
-   "materias": [
-    {
-     "titulo": "Híbrida e painel TFT: Yamaha Ray ZR 125 é a scooter dos sonhos para quem foge do trânsito",
-     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5IaDdqLXFJTzhrM1J5WnhpZXRlbm9SNUpNTnJJZVBzMDZXUEh2aElDaTNlQmtSTGJ6UEVWWkFVRTZnaUxScVNLYXpjSW1kS1VSOEhkUQ?oc=5",
-     "fonte": "Motonline"
-    },
-    {
-     "titulo": "2026 Yamaha 125cc Fi Hybrid Scooters Launched: New Colours, Fresh Styling and TFT Tech Upgrade",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObE1meXVHQVhEaGZLZ3NQaDFrRTg5ekYwV0ZmU1Azem1jZEFBakk0UkZMUXpYU2tPMXBLc2U5b3lvUlVGNFhfS1VlUXladFlRak5Ic2pPZkJta0xvbnlrTllEZk00SEo5SlVRN25Ec3dpMEVoYkRoeDBuVmFJd3FybTlsSUp3cWtoSFpPTzc0UDU3cmxrdjJMSXltNGtGbTVXSUJERjljdW04dWR1Q1JIUktmTGRpVFUtRDZ5YzlsSnlyTms?oc=5",
-     "fonte": "IAMABIKER"
     }
    ]
   },
@@ -3466,9 +3427,9 @@
  ],
  "marca": {
   "ga4": {
-   "sessions": 98277,
-   "users": 92651,
-   "updated_at": "2026-08-20T09:07:48Z"
+   "sessions": 98293,
+   "users": 92667,
+   "updated_at": "2026-08-20T11:00:11Z"
   }
  },
  "pesado_em": "2026-08-19T22:45:27Z",
