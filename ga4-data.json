@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-08-21T13:28:10Z",
+ "updated_at": "2026-08-21T15:05:39Z",
  "property": "397973331",
  "totals": {
-  "sessions": 98142,
-  "users": 92503,
-  "pageviews": 139245
+  "sessions": 98144,
+  "users": 92510,
+  "pageviews": 139252
  },
  "daily": [
   {
@@ -632,27 +632,27 @@
   },
   {
    "date": "2026-08-20",
-   "sessions": 883,
+   "sessions": 878,
    "users": 809,
    "new_users": 631,
    "pageviews": 1406
   },
   {
    "date": "2026-08-21",
-   "sessions": 62,
-   "users": 62,
-   "new_users": 56,
-   "pageviews": 83
+   "sessions": 69,
+   "users": 69,
+   "new_users": 61,
+   "pageviews": 90
   }
  ],
  "canais": [
   {
    "canal": "Organic Search",
-   "sessions": 20028
+   "sessions": 19780
   },
   {
    "canal": "Direct",
-   "sessions": 14145
+   "sessions": 14069
   },
   {
    "canal": "Organic Social",
@@ -672,7 +672,7 @@
   },
   {
    "canal": "Unassigned",
-   "sessions": 13
+   "sessions": 11
   }
  ]
 }
