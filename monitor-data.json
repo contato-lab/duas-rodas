@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-22T07:49:21Z",
+ "updated_at": "2026-08-22T08:52:06Z",
  "fontes_monitoradas": [
   {
    "nome": "Grid Motors",
@@ -410,6 +410,16 @@
  ],
  "materias": [
   {
+   "titulo": "Feature Georgia",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9YR2YwcVVSQU9KZTEzblZJOGl4Ynd6aDZsLXZsVk10RlhGOXVnakxRNW83TVBDWVFiWm9DLVR0cFhOYU1LdGliaGJqZkJZUGFHNEFkNC1NaUJrcHM3MklqdGhnd2VGWllRWnJkREdNU1ZjdDNH?oc=5",
+   "fonte": "Rider Magazine",
+   "ig": "ridermag",
+   "escopo": "Global",
+   "tier": "Generalista",
+   "dominio": "ridermagazine.com",
+   "ts": "2026-08-22T05:18:35Z"
+  },
+  {
    "titulo": "Feature Oregon - Rider Magazine",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBOUmZpMGVtYkFncTgyOHVwNVMtQ3pJOTlGdzVkWWhIWXFjdS1oVUd6ZDNnT1ZqUXZjVWNwbXpRUTlVX2Q0ZlZ3azBGTWozQWNwQ2NDVWl0eFBTNUVDM1FfQ3VMb2ZETzJ6WHRoVWpBX0dGU3M?oc=5",
    "fonte": "Rider Magazine",
@@ -428,16 +438,6 @@
    "tier": "Corrida",
    "dominio": "m1gp.com.br",
    "ts": "2026-08-21T21:53:00Z"
-  },
-  {
-   "titulo": "Tag: AFT Production Twins and Singles",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYM2VwRmtkX0RDS2xoU1pYd3dfSVhEbExLTXFLbE9wT09yQkV2Z1BKRnRNODJSVlBEaVVJZU8yN0dNblQ4ZkNNaU1vVDUtelNvRDE0cE1FME5yQ19kTXJ5VWpiMWtDSG0tMGc3VmFHXzc?oc=5",
-   "fonte": "Rider Magazine",
-   "ig": "ridermag",
-   "escopo": "Global",
-   "tier": "Generalista",
-   "dominio": "ridermagazine.com",
-   "ts": "2026-08-21T20:52:26Z"
   },
   {
    "titulo": "Tag: AdventureTrackers",
@@ -590,16 +590,6 @@
    "ts": "2026-08-21T16:16:18Z"
   },
   {
-   "titulo": "Kimi Antonelli reveals Dutch GP sprint qualifying off left him with \"holes in the floor\"",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOXdTbzZMdFl2dnlLMXQ1N1J0VG9rcXlwRFcydlQwTFV6Sk1GellSTHprUWxpUDIzMHJYbzg4MEI0OWpwYXJOSm9mM1Rsd18wNGRqWDFDeVdaQUFsNnlDTjB6MmxMUzdiWmdkNzJlYXZFLXh2OV9Vcnd4YmRMMXFaRDRhbHJKaVc4VTQtWEVoYmJJQkRHMVpla2dBNHVsUkc3Z2V1M195ZkdkSEV5QzdJ?oc=5",
-   "fonte": "Crash MotoGP",
-   "ig": "crashmotogp_",
-   "escopo": "Global",
-   "tier": "Corrida",
-   "dominio": "crash.net",
-   "ts": "2026-08-21T16:00:00Z"
-  },
-  {
    "titulo": "A Brain Surgeon Says Wear A Motorcycle Helmet. So Wear A Damn Helmet",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQX1NzbGZrTTNjUklnT1dST2xSOUdxc0l2NWdybzBSWElsZXYwT1NHalBaUUpsSGVGNFZ4Wll3czZDdVNseENsaXhueXJKaHdXemZ3V3pOQUJ6WTdyYVdmcWhnYmpkeXBHMC11UXo4bWI3YldwNUFZdjI1alNFQWFvZkxMQi1wdFFweEM2TTBuUjhlcFpkVXdr?oc=5",
    "fonte": "RideApart",
@@ -718,6 +708,16 @@
    "tier": "Mundo",
    "dominio": "visordown.com",
    "ts": "2026-08-21T08:44:35Z"
+  },
+  {
+   "titulo": "Ferrari and McLaren unleash Zandvoort upgrades in F1 development war",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeFRHNGR0ZjhWXzBKYU9VTFJNcmJ2RnZXc0ozTDFpZW5GX0J3ZEZZM0FmeExCQ3RuTlotVHFEM0xQREJQd2FTbG9DQVd3WHdjZ1BYbnlqNzJldkV0ZFpST0xRZUt6X3hSaFcydXBiY2VRWXFueXBub184VktDMnlsZm5rSmU5ZnZYaUxoQmRnbVRZZ05YUTV0QWx5ajF5Ym81UTZ0NnU5eWM?oc=5",
+   "fonte": "Crash MotoGP",
+   "ig": "crashmotogp_",
+   "escopo": "Global",
+   "tier": "Corrida",
+   "dominio": "crash.net",
+   "ts": "2026-08-21T08:29:06Z"
   },
   {
    "titulo": "Workshop: How to beat the heat in MotoGP",
@@ -1098,16 +1098,6 @@
    "tier": "Mundo",
    "dominio": "revzilla.com",
    "ts": "2026-08-20T08:26:49Z"
-  },
-  {
-   "titulo": "Manx Grand Prix issues statement after second rider dies",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYUhtY2FXQjlELTVuWWdST1E2TFpZc192TlZQLWNwYTQ4UjlYTF9pUDBTU2hpZEVQSkJVeTlCUDl2U255OWdoNDNsaTVZTTJCdWFpbC0wUm5zbTIwX1JIMk85Q3pITkowVTNnbEl4bUl3Rjd1QkkxRDdDa1FHMWlCeG5oRXN2SzZ3VVhpRjM1b1Y?oc=5",
-   "fonte": "Visordown",
-   "ig": "visordown",
-   "escopo": "Global",
-   "tier": "Mundo",
-   "dominio": "visordown.com",
-   "ts": "2026-08-20T08:10:06Z"
   },
   {
    "titulo": "fullsize-proom_Biz-Lateral- Roxa 2",
@@ -2000,16 +1990,6 @@
    "ts": "2026-08-15T14:44:52Z"
   },
   {
-   "titulo": "Luca Scassa - stats, results and biography",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5UbGZBaUlMOTJsTFhBYnM5N01pV1lwY2Y3eng5eVV1MWdOWDRyMkNtTjVqYnQ5aHQ2cXVhV1lHVnlWdmE2YTVOeFJDeU54c0NVUXgtVG1JNTZXVURLcm1kbw?oc=5",
-   "fonte": "WorldSBK (Superbike)",
-   "ig": "worldsbk",
-   "escopo": "Global",
-   "tier": "Corrida",
-   "dominio": "worldsbk.com",
-   "ts": "2026-08-15T12:56:56Z"
-  },
-  {
    "titulo": "Suzuki GSX-8T 2027 chega ao Brasil para unir passado e futuro",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWDFmNzJsLTNNeGJNdHZFbU9GTGRpRmxJVkNkejA2QWNNa2N5Z29USnE0eTMxekttLWJvV2hubWl0VWllZ3VXZlBVazdLbHVPRkktaGxKRDA0dFlYMWg3SnFOT3dqTGg0SVJYcVZWMGhsNl9ISXZfS2NGVWV6LUR2LTBoZkt4VEc5TkV0b3NOVEVzc1U?oc=5",
    "fonte": "MotoNews Brasil",
@@ -2290,6 +2270,16 @@
    "ts": "2026-08-13T09:35:04Z"
   },
   {
+   "titulo": "2027 Ducati Panigale V4 SP revealed in CARB filing",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQkZuck43MUVBRHZkOGh0NElOd0FSTGd2WTZBZ0J0bGdteGdodzVSaGxQQnphY3RFNnhIV1d4elk4aHoyQVpra19DdTNPVTdTY25oanJhOEFxdFh3T0p1ZmlybFYxSEpDRS1YTWM0TGtoU3FtZFhQcUZoRl92ZWIwNXVTanM?oc=5",
+   "fonte": "Visordown",
+   "ig": "visordown",
+   "escopo": "Global",
+   "tier": "Mundo",
+   "dominio": "visordown.com",
+   "ts": "2026-08-13T08:40:00Z"
+  },
+  {
    "titulo": "Out of MotoGP: What Does the Future Hold for Binder, Morbidelli, Miller, Viñales, and Rins?",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObGwzWkFHZWZWbkM0dXoycFpnejRzVDlyRjlFZnlEd25fNmxHSnVBc3dldFJjbWxzWVVweUpQX1VfVUtEMUFTUjh5bU1JYzBqb1hWRDctNXZnTFdpY0cxWlpTTTZGWHQ3U2xySkx6WkNMTF8zTkFyalhJV01JYXRoU2h4SlF4b0tRUFFyZGVwSjhZRkRLWVhDQ0dHR2llN3FpWVFMNUl5WGhlQkdyeTVQTEZ3VjI1LVMyQzV2ODZGZjI?oc=5",
    "fonte": "GPOne",
@@ -2318,6 +2308,16 @@
    "tier": "Corrida",
    "dominio": "worldsbk.com",
    "ts": "2026-08-13T07:00:00Z"
+  },
+  {
+   "titulo": "Andrew Pitt - stats, results and biography",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBZ2g1enBWVDlzU0IzSXJmWEtuVnVOdHczZUhYYzhPSEtXWTM0Q3B4ZU1WbjNlYm8wTktZNFBoQm1aazB4RlZOTEJSZm0xNHdPeDZ4eWxUam9zdEo5dGRB?oc=5",
+   "fonte": "WorldSBK (Superbike)",
+   "ig": "worldsbk",
+   "escopo": "Global",
+   "tier": "Corrida",
+   "dominio": "worldsbk.com",
+   "ts": "2026-08-13T02:48:36Z"
   },
   {
    "titulo": "Steven Odendaal - stats, results and biography",
@@ -2641,7 +2641,7 @@
   }
  ],
  "total_materias": 223,
- "materias_24h": 31,
+ "materias_24h": 29,
  "reddit": [],
  "em_alta": [
   {
@@ -2698,7 +2698,7 @@
   },
   {
    "tema": "Ducati",
-   "mencoes": 12,
+   "mencoes": 13,
    "materias": [
     {
      "titulo": "“Aprilia and Ducati circuits” - Davide Tardozzi predicts fluctuating MotoGP balance",
@@ -2908,30 +2908,6 @@
    ]
   },
   {
-   "pauta": "Ducati",
-   "urgencia": "3 fontes / 48h",
-   "porque": "3 fontes publicaram sobre isso nas ultimas 48h.",
-   "furo": false,
-   "fontes": 3,
-   "materias": [
-    {
-     "titulo": "“Aprilia and Ducati circuits” - Davide Tardozzi predicts fluctuating MotoGP balance",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPM3BvYXh4amtWZlYyVHpMOEw0SUFXVUZ5Z2oxVW5MRWNjdlJiVER5dzVudnNMS3JQbmktdC00S0tuNm16MjVOUG15VDZmWVVHS0dDX1VPeF9wa3R4LWtvamJrWTVoUUZNZTlta2R2UXAtUFZ5dmZMNVhKekVVUkxJVi1SOEtWLVRyRGw5WU5vNkoySmtISXNYX0hzMjN2RnFwbWwyOHNHMWtIX3BpSzFNZTU3cXlRcVlPVXZocQ?oc=5",
-     "fonte": "Crash MotoGP"
-    },
-    {
-     "titulo": "Throwback Thursday, Living Legend: A Meticulously Restored 1972 Ducati 750 Sport 'Z Stripe'",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNW9QY2U5T0h6RHdRSnpwTmhmejJPTGFxQzgyTGNHeGs5cUdBTUxtRjFIYmxjX2xTU0ZfQUpWaGNtQzl5OFJIWERoMUdVWlN3cldaZFNObUdYbUlyTEp0TENhUWlhTmczWUljUXM0N1ZTQlRzMXVZcWcxQm9TQTlack1PR25YM3NDZC1YRl8xVEVIU09tNlN3bkNYMVI?oc=5",
-     "fonte": "Bike EXIF"
-    },
-    {
-     "titulo": "Kenny Roberts: “I like Márquez because he’s aggressive, but that Ducati doesn’t seem like a good fit for him.”",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYy1yZHpxTkZYbE1RdmFNM01sbXBsRTJzWklRVUxqZnN4am5Ub0laQUdSXzhYc0J3MW9TTi04dUgzQXdLdmtMZDRfeW5MZGh5WGI3TTVWVzlpSzY5MGtLM1oxVHZTRi1PYXFjTVM0SXRCeGs0M1E3REZEVGZsRjF2ZUhldVNlNWI2WU9aQUgxeVBjeTBzUGF1Y0J5MlVpOWhGTVA0QzR1REVaZ2dVTGFqOEs1R0dzX0Jwa05BUGVSYw?oc=5",
-     "fonte": "GPOne"
-    }
-   ]
-  },
-  {
    "pauta": "Bmw",
    "urgencia": "3 fontes / 48h",
    "porque": "3 fontes publicaram sobre isso nas ultimas 48h.",
@@ -2971,6 +2947,25 @@
      "titulo": "Kawasaki Changed Almost Nothing On Its Electric Ninja This Year",
      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdjBDd1RHMVd5QlBNd0NuM2t6ZlFNWm1ETVdSZlgyRldySVM1cUUtZEN4UVliekxjbHcwU250cmx6blpBUlhJNW5feU5mQmZtSTJGOXlzX2lHR2hzU0xzcmZMcHYzaDh1STh4Y2JzckpxYTlrNlFhQXBLZWQtSENmdmpuNGl4VnM?oc=5",
      "fonte": "RideApart"
+    }
+   ]
+  },
+  {
+   "pauta": "Ducati",
+   "urgencia": "2 fontes / 48h",
+   "porque": "2 fontes publicaram sobre isso nas ultimas 48h.",
+   "furo": false,
+   "fontes": 2,
+   "materias": [
+    {
+     "titulo": "“Aprilia and Ducati circuits” - Davide Tardozzi predicts fluctuating MotoGP balance",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPM3BvYXh4amtWZlYyVHpMOEw0SUFXVUZ5Z2oxVW5MRWNjdlJiVER5dzVudnNMS3JQbmktdC00S0tuNm16MjVOUG15VDZmWVVHS0dDX1VPeF9wa3R4LWtvamJrWTVoUUZNZTlta2R2UXAtUFZ5dmZMNVhKekVVUkxJVi1SOEtWLVRyRGw5WU5vNkoySmtISXNYX0hzMjN2RnFwbWwyOHNHMWtIX3BpSzFNZTU3cXlRcVlPVXZocQ?oc=5",
+     "fonte": "Crash MotoGP"
+    },
+    {
+     "titulo": "Throwback Thursday, Living Legend: A Meticulously Restored 1972 Ducati 750 Sport 'Z Stripe'",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNW9QY2U5T0h6RHdRSnpwTmhmejJPTGFxQzgyTGNHeGs5cUdBTUxtRjFIYmxjX2xTU0ZfQUpWaGNtQzl5OFJIWERoMUdVWlN3cldaZFNObUdYbUlyTEp0TENhUWlhTmczWUljUXM0N1ZTQlRzMXVZcWcxQm9TQTlack1PR25YM3NDZC1YRl8xVEVIU09tNlN3bkNYMVI?oc=5",
+     "fonte": "Bike EXIF"
     }
    ]
   },
