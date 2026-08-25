@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-25T09:55:12Z",
+ "updated_at": "2026-08-25T10:54:28Z",
  "fontes_monitoradas": [
   {
    "nome": "Grid Motors",
@@ -410,6 +410,16 @@
  ],
  "materias": [
   {
+   "titulo": "Latest motorcycle news",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBzcFM4SWpoWVdSa3RUUGNKUFIwNFhkaE4yS1FtMF9vN2xYWVdPSXpQeTQ0QldqZEMzTllaVFNoWEVFNnZGZWIxMHdMVjQ?oc=5",
+   "fonte": "Motorcycle News (MCN)",
+   "ig": "motorcyclenews",
+   "escopo": "Global",
+   "tier": "Mundo",
+   "dominio": "motorcyclenews.com",
+   "ts": "2026-08-25T10:39:04Z"
+  },
+  {
    "titulo": "Pol Espargaro continues to sub for Viñales in Aragon",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSkUtd0sxVk5QX2F5U3E4VkY1QnFfeDNNR1AwME9EVFVWN1daSU42czhHRDBJd0l5WkdKOU1xd3ZFSEJPUUYwT0JiMFNyRkZCWTlPR2dhaXl3dUZaRElzWW5OZV9vTGl6UFN2R21CRDFjZFA0N04zcmRFSkRPbW9TQkg2OVJRc0VrdzRVLUppODVmVjNKXzdNeFFCMTVMdjdVMmFKdQ?oc=5",
    "fonte": "MotoGP",
@@ -538,16 +548,6 @@
    "tier": "Mundo",
    "dominio": "bikeexif.com",
    "ts": "2026-08-24T17:00:00Z"
-  },
-  {
-   "titulo": "Apex | Grid 2-Days",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQUFQbjdSdk1zdS1jNm5wajdjRVhOeDRJd1gxTDljTjFaamVZQ0ZaQTlLaDhraTM1enFfQmpVdGVHTzJvT2hlRFNXVGh0TE9aR0xsTEdNaHB4ckpQRVVzeUFrTURjNHRlRFpXSUdlaUM4Nm80UE5pa2haTFR2bXdjNg?oc=5",
-   "fonte": "MotoGP",
-   "ig": "motogp",
-   "escopo": "Global",
-   "tier": "Corrida",
-   "dominio": "motogp.com",
-   "ts": "2026-08-24T16:07:39Z"
   },
   {
    "titulo": "“Perfect time” - Johann Zarco surprised by speed of MotoGP recovery",
@@ -1460,16 +1460,6 @@
    "ts": "2026-08-21T06:58:59Z"
   },
   {
-   "titulo": "Zarco set to return for Aragon GP",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBhM2NaU0NtYUdfQmpKeHk4SjhkQlpJZWJLRUJNVTU1TVgwWDV0dmJsUE15ZmFxdGVTeVowNjE4ODdESkdxekNSMFhOZGpFeFB5a1ptWWxaNlIzMEwtYXc?oc=5",
-   "fonte": "MotoGP",
-   "ig": "motogp",
-   "escopo": "Global",
-   "tier": "Corrida",
-   "dominio": "motogp.com",
-   "ts": "2026-08-21T03:32:51Z"
-  },
-  {
    "titulo": "Honda Racing leva Kuromi para trilhas e pistas do Brasil",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZ2tqWEdRelNESFRWQ1JRUHZLelFvM054ZFZKVjRFQTM2WG1YbkxJdUxudHBKRjVKX3JORlc1SEMxU3h4M3k3NUduMVJFYkJRVHdBQVZTNGwyeUp6SzNFdnVvNFNiVHotaUxYZUpqY3dYRGg1YVlqY01OUGpTcEJxQzhpLVVhS0pORFE?oc=5",
    "fonte": "MotoMundo",
@@ -1518,6 +1508,16 @@
    "tier": "Corrida",
    "dominio": "gpone.com",
    "ts": "2026-08-20T15:43:01Z"
+  },
+  {
+   "titulo": "Zarco set to return for Aragon GP",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8zX2hHUDdnZ0E4SFQ2d201Sm5NRmRsblg1Z1VpOEowWEJsLVBaUEVWQlAtN0lOeXp6d3lmQ3NLNjBMYkF4a2w1VmVCREtmTXhyMXBkaXRBQkNWU2pRZDVR?oc=5",
+   "fonte": "MotoGP",
+   "ig": "motogp",
+   "escopo": "Global",
+   "tier": "Corrida",
+   "dominio": "motogp.com",
+   "ts": "2026-08-20T15:40:40Z"
   },
   {
    "titulo": "Arquivo De KTM 390 Adventure R",
@@ -1730,16 +1730,6 @@
    "ts": "2026-08-20T06:57:00Z"
   },
   {
-   "titulo": "Motorcycle Brands That Start With the Letter X",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XTkJlUENYYWNtQUdiNlJTekJjSS0yWW1xbDFIdVhuVllaX0pzNFJjNjgyMXB2X0c1ME55ajFCNGE1cUg4cXhxUjd2TE5GM0tMRFE4aUFrVXBZTjJsOHc?oc=5",
-   "fonte": "WebBikeWorld",
-   "ig": "",
-   "escopo": "Global",
-   "tier": "Mundo",
-   "dominio": "webbikeworld.com",
-   "ts": "2026-08-20T02:30:09Z"
-  },
-  {
    "titulo": "Denni Schiavoni - stats, results and biography",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hTFBoWjd3MVpST3BXYkVUa1FkcjdSYmw3V1FSclBfWVJlc3JnV3FqQmxvXzM3UDg5dnpBWGF0Z1gxOHdFcGFVVG0xcDlpbVJKdnpERDFDMW8ybkQxQ0FnbXduU2MyUQ?oc=5",
    "fonte": "WorldSBK (Superbike)",
@@ -1858,6 +1848,16 @@
    "tier": "Corrida",
    "dominio": "worldsbk.com",
    "ts": "2026-08-19T14:52:31Z"
+  },
+  {
+   "titulo": "2027 Honda CB300F Twister Revealed: Technical Refinements, Fresh Styling & Enhanced Safety Features",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNM1p6ckE0VTdYRERFWHY3ZWl5ZU5uajQxQkhHYmtHazZTY0NMVEtnZWtJaDBOVllyRkVNMUtGQkZWQWczdXNGR0pJUjVHTDJfcWVzQzYyZURxQU9Cb1VpS1o4bGhQeE5jRFlXaWo3ZllraV9yOFZscDBwMy1PQzBQaTlrT0xZc1ZyQnp2MVVRX2JwamRFaF94WExOWUYxVWVzcUdVVmtrTlR4YmRSVkdmZ0QxeGNnUTJPN1lDWkw0MGJHd2tEbFBF?oc=5",
+   "fonte": "IAMABIKER",
+   "ig": "",
+   "escopo": "Global",
+   "tier": "Mundo",
+   "dominio": "iamabiker.com",
+   "ts": "2026-08-19T13:29:55Z"
   },
   {
    "titulo": "MotoGP 2027 no Rio de Janeiro: cidade maravilhosa sediará lançamento global da temporada",
@@ -2038,16 +2038,6 @@
    "tier": "Brasil",
    "dominio": "motorede.com.br",
    "ts": "2026-08-18T11:00:41Z"
-  },
-  {
-   "titulo": "2026 Yamaha 125cc Fi Hybrid Scooters Launched: New Colours, Fresh Styling and TFT Tech Upgrade",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObE1meXVHQVhEaGZLZ3NQaDFrRTg5ekYwV0ZmU1Azem1jZEFBakk0UkZMUXpYU2tPMXBLc2U5b3lvUlVGNFhfS1VlUXladFlRak5Ic2pPZkJta0xvbnlrTllEZk00SEo5SlVRN25Ec3dpMEVoYkRoeDBuVmFJd3FybTlsSUp3cWtoSFpPTzc0UDU3cmxrdjJMSXltNGtGbTVXSUJERjljdW04dWR1Q1JIUktmTGRpVFUtRDZ5YzlsSnlyTms?oc=5",
-   "fonte": "IAMABIKER",
-   "ig": "",
-   "escopo": "Global",
-   "tier": "Mundo",
-   "dominio": "iamabiker.com",
-   "ts": "2026-08-18T10:59:25Z"
   },
   {
    "titulo": "O retorno do mito: Honda lança CB1000 Hornet 2027 com motor de superesportiva",
@@ -2360,6 +2350,16 @@
    "ts": "2026-08-17T08:18:47Z"
   },
   {
+   "titulo": "What does MotoGP mean to you?",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRWUtQTE2Um16X1VSRUVlaXBJRUVQNng4bzlDa09GT1FLdHg4M0w1eHFydG9QX1o2VWc3bmxwd1VKTlZfbDlsUzBOZ2dHUXFsdXB1MldVUHFQNnNVNzBRamJFSU5aVFZNWWcxSkhQaldnbWlWSUktWVJpMTZfRkMwbDI3Sjc3M3Y5dHZBMW5QYlZRVkE?oc=5",
+   "fonte": "MotoGP",
+   "ig": "motogp",
+   "escopo": "Global",
+   "tier": "Corrida",
+   "dominio": "motogp.com",
+   "ts": "2026-08-17T08:00:00Z"
+  },
+  {
    "titulo": "Bikes & Beyond - Categoria | Storie Ducati",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE14WXJwVTRfWWtQbTFCN2JDd1ZwUDQ2eWhlOGNQQnkteDZQTzVWTTByRFJOVERlMmpfZGhmM3IwTzloa3hNcGs4QjlmZFU1bEZFTGltNUxYVE1jdUhmeHREMXpkUQ?oc=5",
    "fonte": "Ducati Corse",
@@ -2501,6 +2501,16 @@
   },
   {
    "titulo": "Motorcycle & Dirt Bike Plastics | Repair & Refresh Your Ride",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSW9nUEVuSFREVE9MOEh5ZFp3TzVQVjZ1TnUzUmJYOG1IdUFxc2o5VE1FRzZwN3hSUTZkVWRMUkV4azNodjIwUHZmTGhtZ2ZVazdscDZOSDZTZ2lrLWhnRjRlYWg5azZPUFpwQ0ZlZWt3TVFNSUJEbGZTS0ZZekZ2TA?oc=5",
+   "fonte": "RevZilla Common Tread",
+   "ig": "",
+   "escopo": "Global",
+   "tier": "Mundo",
+   "dominio": "revzilla.com",
+   "ts": "2024-10-24T14:34:09Z"
+  },
+  {
+   "titulo": "Motorcycle & Dirt Bike Plastics | Repair & Refresh Your Ride",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE83OUlrZ0ItMk9CUTFUYURwUHh0ZG5VTkNzUEdFR21nWUVJSTdZZ2Zhc1BEbWtiVHdjdmw2WThLLUt3M0c4TnpoN203OWx3NUtOcDRzanQ3NVpoOGNTWkJLTUZJSGtESDAya09RSnByd1hhM25Wakp3?oc=5",
    "fonte": "RevZilla Common Tread",
    "ig": "",
@@ -2510,14 +2520,14 @@
    "ts": "2024-10-23T11:39:28Z"
   },
   {
-   "titulo": "Page 196 - webBikeWorld",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9pTC15SDJjN0FPckg0clFILXNWbUpDcWUxZE9TNFdGZHdqYlIxNFVELVNxRDhkR0dQVktRVzEyYTZ6blpaTkVKeGt3TF9SMzdMOXBkVkV5dDFubVY5ZlVvVWRB?oc=5",
-   "fonte": "WebBikeWorld",
-   "ig": "",
-   "escopo": "Global",
-   "tier": "Mundo",
-   "dominio": "webbikeworld.com",
-   "ts": "2024-07-27T16:03:25Z"
+   "titulo": "Arquivo de Copa Kawasaki Ninja 300",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5UTU1IbEN6dDRVdC1PSkdOU1VaV1MzQm5ZVmU3RnUwa1NMY1dpdDAwUVRZNmk2bmJIOC0tZWdNMi1uZDBuLXkwRFBlVGRtSmQ4ZG90b1FielBTbzBKZXlvZnF6TXgzMG83VlE?oc=5",
+   "fonte": "SuperBike Brasil",
+   "ig": "superbikebrasil",
+   "escopo": "Brasil",
+   "tier": "Corrida",
+   "dominio": "superbike.com.br",
+   "ts": "2024-10-11T20:25:37Z"
   },
   {
    "titulo": "Conheça o Capacete LS2 Stream 2 FF808",
@@ -2540,14 +2550,14 @@
    "ts": "2024-01-17T12:08:17Z"
   },
   {
-   "titulo": "KLIM Has Redesigned their Off-Roading Gear",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1zTEFsenB1aVFObmxBWHpsLTVxVGtYZk5EN19XUnp3SHl2YlYyRFBxbGRmR0JKUUtyaFlmRkVvay13MU5Hc0UybUFKU3cwX2loUDhDTGY1ZG9GWnh2ekJZTDhuRWgtNUF5ME00RlNQQWVrcWR1V3RScjRqSVg?oc=5",
+   "titulo": "Retro Kawasaki Z900RS coming to Australia",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE40bTJjUEdmY3Jsakw2OUxUNUFOYXBuZ08zaFBuLXdmY1NMZjJyak1UUDN6a2RCWHJBNDFvM1Y1amtDdzBjN3pWSlc0LVVROE9JSy00Q1c5V3AzYTc2TExWcmlaeDBRaVBFVjNab0poTUlUbG1xNGFHdFByRQ?oc=5",
    "fonte": "WebBikeWorld",
    "ig": "",
    "escopo": "Global",
    "tier": "Mundo",
    "dominio": "webbikeworld.com",
-   "ts": "2022-06-10T23:35:07Z"
+   "ts": "2023-02-10T10:02:32Z"
   },
   {
    "titulo": "The Best Full Face Motorcycle Helmets You Can Buy for 2026",
@@ -2600,6 +2610,16 @@
    "ts": "2019-03-21T03:18:58Z"
   },
   {
+   "titulo": "Elf Moto Chain Lube",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9rY1FQektQUkJYNXQ4RzlBX1o0THNDWG1rUWdOSkxlZXQ0ZUpDWjNyUHNCMHNrRF9ZZmRUclZKN0k4ZjJuNGNEclFZcjZRWDhVcW1mLU5ZN3FCamlzeVE?oc=5",
+   "fonte": "WebBikeWorld",
+   "ig": "",
+   "escopo": "Global",
+   "tier": "Mundo",
+   "dominio": "webbikeworld.com",
+   "ts": "2017-11-30T14:32:42Z"
+  },
+  {
    "titulo": "Stebel Nautilus Horn Review",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4wWU00THRTTUFaN1VqVVpMZV9oZ1VKVzZjNTI3LUkzazBXOUh5MVFhdW5XZFZnOHYtUjIteWxxaWpsZFNnS290cTIwZ0dZTXNYVTI4bXdmelpPSU50dlYtMEJsc2luOFlu?oc=5",
    "fonte": "WebBikeWorld",
@@ -2620,6 +2640,16 @@
    "ts": "2017-11-30T08:06:11Z"
   },
   {
+   "titulo": "Discount Motorcycle Parts | Closeouts & Clearance Sales",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBGQ2dEanN1V2tKNWszWFBHYi1lQUxzLWFMRzgtZ0Nld1dfSmZ3b3NHMmhVSkxSa2tMRVVWWFRkcHNpbEZENXlTR2lXXy1KMjhnMkdkbUpsTXNkYk5WNWw4?oc=5",
+   "fonte": "RevZilla Common Tread",
+   "ig": "",
+   "escopo": "Global",
+   "tier": "Mundo",
+   "dominio": "revzilla.com",
+   "ts": "2017-11-07T11:45:52Z"
+  },
+  {
    "titulo": "Helmets With Internal Sun Visor",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ka05XWnd6SXFDbk04bFNWcTZ1OUxsQjQwMXZlS1I0SUNCcDNxVmRQcWotOW41ZFYyckE5czNEQUkzN1dtNDJmenBVZEV1V055YWtHNHZkam94SHJrSEI0UE9PeVlKU2xuT21GTkE4MA?oc=5",
    "fonte": "RevZilla Common Tread",
@@ -2628,26 +2658,6 @@
    "tier": "Mundo",
    "dominio": "revzilla.com",
    "ts": "2017-11-07T11:10:09Z"
-  },
-  {
-   "titulo": "Motorcycle Chaps | Leather Riding Chaps For Blocking The Elements",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5XZ0tYSU1GQWZIUkpQTDJOcWxZN0FLOG1NLWQwOVhEZWtxanIzZzl4TjBXS1JBMkQ3VWxSdHU3NW5SeW5rbFhhZFg2TDJPRkZLTUow?oc=5",
-   "fonte": "RevZilla Common Tread",
-   "ig": "",
-   "escopo": "Global",
-   "tier": "Mundo",
-   "dominio": "revzilla.com",
-   "ts": "2017-11-07T11:05:34Z"
-  },
-  {
-   "titulo": "Pirelli Sport Demon Sport Touring Tires",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPT0lhMlY4eHh1Tzh6Y00tTFdxQzBmdHB0b0tGeV9ZMldzTTMxMGdILXV6VnpqMVJzMkZQZ09SOVg4cERBLXBzcmttQUdoOGQxXzY4TFlId09mX2NJbWpNUloxLVZVVC1hSVBoVTFLWmNmdjNheU8yU2xJeFV2UlY3TQ?oc=5",
-   "fonte": "RevZilla Common Tread",
-   "ig": "",
-   "escopo": "Global",
-   "tier": "Mundo",
-   "dominio": "revzilla.com",
-   "ts": "2017-07-05T09:18:19Z"
   },
   {
    "titulo": "Shop Textile Motorcycle Pants Online",
@@ -2670,13 +2680,13 @@
    "ts": "2006-06-22T14:40:20Z"
   }
  ],
- "total_materias": 226,
+ "total_materias": 227,
  "materias_24h": 32,
  "reddit": [],
  "em_alta": [
   {
    "tema": "Motogp",
-   "mencoes": 25,
+   "mencoes": 26,
    "materias": [
     {
      "titulo": "MotoGP, Márquez against everyone, but his real rival is Aprilia",
@@ -2702,7 +2712,7 @@
   },
   {
    "tema": "Honda",
-   "mencoes": 12,
+   "mencoes": 13,
    "materias": [
     {
      "titulo": "Pilotos Honda dominam Top 3 das motos no Sertões 2026",
@@ -2753,6 +2763,32 @@
    ]
   },
   {
+   "tema": "Kawasaki",
+   "mencoes": 8,
+   "materias": [
+    {
+     "titulo": "Archives Column | 1976 Kawasaki KZ750",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQM1FRUHVleG9xeUdGVWhYNTgxd1Zhb25udFRCby1kSUsxT0hwTkxtWHNsOUtESEF6Y053Ri1icU5aei01cGN0Y0xyZFhJaXhkeV9OOVlmT0YyenBNNERudVR1bkY1VFFUdlVCOVluRmJieThVeWZ4RUlQVVpXbU02bllrOWo?oc=5",
+     "fonte": "Cycle News"
+    },
+    {
+     "titulo": "Kawasaki Changed Almost Nothing On Its Electric Ninja This Year",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdjBDd1RHMVd5QlBNd0NuM2t6ZlFNWm1ETVdSZlgyRldySVM1cUUtZEN4UVliekxjbHcwU250cmx6blpBUlhJNW5feU5mQmZtSTJGOXlzX2lHR2hzU0xzcmZMcHYzaDh1STh4Y2JzckpxYTlrNlFhQXBLZWQtSENmdmpuNGl4VnM?oc=5",
+     "fonte": "RideApart"
+    },
+    {
+     "titulo": "Kawasaki KLX 230, Veja Preço E Ficha Técnica",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqT2oyaGxVRnp3QU1CeUprTWJSMFc0QXQyaWc1YW1QMHhpY1pYaVpTVGJWVjRuaDNmRTl6ZWR0Z25PWDJIeU83dU5IYXl5RzNUUDhJeDJDVVc0cWsxWnNoVmlzM1dlUzlxZ21HZFJpRlc3aWs?oc=5",
+     "fonte": "MotoRede"
+    },
+    {
+     "titulo": "Kawasaki apresenta a nova Ninja ZX-10R 2027 no Festival Interlagos",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMjdsTWpKc0taN0tQd2RZMmkzM1gwdFlQNV80WHZkWnNBbDlBTmxPWUNnbjhvdjZrb3BuS2xxWlczV1dka2RlZVoydGZKbWxHNElCQzhCSjRidG9Bb1NIejZ0VmJJQW5qTXU1N3pFbFh6cnhuejNaOUs3SFJmLTBLWUo5cWh3LWphSnBTZHpxYXY1M0V3YTI4?oc=5",
+     "fonte": "MotoMundo"
+    }
+   ]
+  },
+  {
    "tema": "Superbike",
    "mencoes": 7,
    "materias": [
@@ -2775,32 +2811,6 @@
      "titulo": "Niko Ramos reencontra competitividade no Superbike e mira evolução para disputar o título em 2027.",
      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxON1dXSFNESEJzSUtEWFdqdXZBc29fVngtYkQtTmNqeGt0ZnpjUzNNVEpPazlyWEFIc2JzX0pGMmFhQU9zdzBYYzdMam4wc3lYTVoxMXAyUW5SejhiSS1GOU5TMm9MSC1aWWxSRTRoT2xDZjI0cTR4SDd3Xy1iV2Fna3N1SXBfdloxWUYycjg1VkRTbVVVb3lFbi1QY3ZmZjdYaGJNcEpJVjNLczVLQkZmaUZnanZ0VF8zX09LSlk0X0U?oc=5",
      "fonte": "SuperBike Brasil"
-    }
-   ]
-  },
-  {
-   "tema": "Yamaha",
-   "mencoes": 7,
-   "materias": [
-    {
-     "titulo": "Yamaha R7 vs Triumph Daytona 660: Vale a pena esperar a esportiva japonesa?",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1RcTdfdVBEX09EV0hxMng4MlVYeTNxekVBS2pINDhVWFF6OXN1YzR4bDRKRFo0S0k1STlib1pVNkY5c2ZuUWtNaHpNWkRpSTltWVotanFBQ0VtTGoyUTg4UmtKNlZJdUlzLW16MnM3Q3BRcDd1?oc=5",
-     "fonte": "Motonline"
-    },
-    {
-     "titulo": "‘Decisive week’ as Yamaha MotoGP rider closes on Ducati WorldSBK seat",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPc1RzRzIzVTRuNkR1YnRFakZPLTcyeVdRbG9IMW1KdmFfWjM3ejZFVFdUdWh3MWlDU1J1QjNPLTk4RDRPSlYxQUtiMzVURWdnUmFNQkY5cVRLODl4VzRTaHlyNV9haEpWZjVfZFdZZDN4NnUtc1VtTE5HS1pZMFFJQ0pTOUJEZVBWWjktWTYyVXZFYTVDYWlQSDZGSkRaNndkLXpobVBiWWw?oc=5",
-     "fonte": "Crash MotoGP"
-    },
-    {
-     "titulo": "MotoGP, Kenny Roberts: “I paid $100,000 to ride the worst Yamaha of my life”",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQXladWVRdHlfVDR4bkVYWkgxQ3BzeGYwSjktVkhjM1hpbWN5LXgxWU5ucDRLeGpyTHNwTGxvd0haNGZFeE82ckgyUURRc2Z4dFAwRHJCaEZGRHZrblgzRkxBX2ppU0Z3dFJrOVVTRFZFTHJqX3duZnFQODZ5aTIzUXl4Y052dnhPX2ZHazdWblE3LW9IUWNXVHFXVmdYSEctT21FNTBicEhoMWJ2b2dTQw?oc=5",
-     "fonte": "GPOne"
-    },
-    {
-     "titulo": "Monster Energy Yamaha Factory MXGP and MX2 Teams Ready to Duke it Out at the Dutch Grand Prix",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOb2RpSTNPX1BwSG1RU01EQ2dEOFVFbDVBTzRDa0JjYmZCVkNUUUxydGpjY3VqXzNpLWV6blM3VDM5N24tekJibzhwTmVxS01zTFlkM1VMVUZQeEtBUzh3YmtYbnEzd0RmSGVoN0ZBeVBydUVxZGw2dHY2RmZaOHQ2U19fZHBBTWh2QzBVMlRZZmtGRThfSmphdDJxUG9nTGZNb29KdWJsbHFSWkZidXhF?oc=5",
-     "fonte": "Yamaha Racing"
     }
    ]
   },
@@ -2857,28 +2867,28 @@
    ]
   },
   {
-   "tema": "Kawasaki",
+   "tema": "Yamaha",
    "mencoes": 6,
    "materias": [
     {
-     "titulo": "Archives Column | 1976 Kawasaki KZ750",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQM1FRUHVleG9xeUdGVWhYNTgxd1Zhb25udFRCby1kSUsxT0hwTkxtWHNsOUtESEF6Y053Ri1icU5aei01cGN0Y0xyZFhJaXhkeV9OOVlmT0YyenBNNERudVR1bkY1VFFUdlVCOVluRmJieThVeWZ4RUlQVVpXbU02bllrOWo?oc=5",
-     "fonte": "Cycle News"
+     "titulo": "Yamaha R7 vs Triumph Daytona 660: Vale a pena esperar a esportiva japonesa?",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1RcTdfdVBEX09EV0hxMng4MlVYeTNxekVBS2pINDhVWFF6OXN1YzR4bDRKRFo0S0k1STlib1pVNkY5c2ZuUWtNaHpNWkRpSTltWVotanFBQ0VtTGoyUTg4UmtKNlZJdUlzLW16MnM3Q3BRcDd1?oc=5",
+     "fonte": "Motonline"
     },
     {
-     "titulo": "Kawasaki Changed Almost Nothing On Its Electric Ninja This Year",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdjBDd1RHMVd5QlBNd0NuM2t6ZlFNWm1ETVdSZlgyRldySVM1cUUtZEN4UVliekxjbHcwU250cmx6blpBUlhJNW5feU5mQmZtSTJGOXlzX2lHR2hzU0xzcmZMcHYzaDh1STh4Y2JzckpxYTlrNlFhQXBLZWQtSENmdmpuNGl4VnM?oc=5",
-     "fonte": "RideApart"
+     "titulo": "‘Decisive week’ as Yamaha MotoGP rider closes on Ducati WorldSBK seat",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPc1RzRzIzVTRuNkR1YnRFakZPLTcyeVdRbG9IMW1KdmFfWjM3ejZFVFdUdWh3MWlDU1J1QjNPLTk4RDRPSlYxQUtiMzVURWdnUmFNQkY5cVRLODl4VzRTaHlyNV9haEpWZjVfZFdZZDN4NnUtc1VtTE5HS1pZMFFJQ0pTOUJEZVBWWjktWTYyVXZFYTVDYWlQSDZGSkRaNndkLXpobVBiWWw?oc=5",
+     "fonte": "Crash MotoGP"
     },
     {
-     "titulo": "Kawasaki KLX 230, Veja Preço E Ficha Técnica",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqT2oyaGxVRnp3QU1CeUprTWJSMFc0QXQyaWc1YW1QMHhpY1pYaVpTVGJWVjRuaDNmRTl6ZWR0Z25PWDJIeU83dU5IYXl5RzNUUDhJeDJDVVc0cWsxWnNoVmlzM1dlUzlxZ21HZFJpRlc3aWs?oc=5",
-     "fonte": "MotoRede"
+     "titulo": "MotoGP, Kenny Roberts: “I paid $100,000 to ride the worst Yamaha of my life”",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQXladWVRdHlfVDR4bkVYWkgxQ3BzeGYwSjktVkhjM1hpbWN5LXgxWU5ucDRLeGpyTHNwTGxvd0haNGZFeE82ckgyUURRc2Z4dFAwRHJCaEZGRHZrblgzRkxBX2ppU0Z3dFJrOVVTRFZFTHJqX3duZnFQODZ5aTIzUXl4Y052dnhPX2ZHazdWblE3LW9IUWNXVHFXVmdYSEctT21FNTBicEhoMWJ2b2dTQw?oc=5",
+     "fonte": "GPOne"
     },
     {
-     "titulo": "Kawasaki apresenta a nova Ninja ZX-10R 2027 no Festival Interlagos",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMjdsTWpKc0taN0tQd2RZMmkzM1gwdFlQNV80WHZkWnNBbDlBTmxPWUNnbjhvdjZrb3BuS2xxWlczV1dka2RlZVoydGZKbWxHNElCQzhCSjRidG9Bb1NIejZ0VmJJQW5qTXU1N3pFbFh6cnhuejNaOUs3SFJmLTBLWUo5cWh3LWphSnBTZHpxYXY1M0V3YTI4?oc=5",
-     "fonte": "MotoMundo"
+     "titulo": "Monster Energy Yamaha Factory MXGP and MX2 Teams Ready to Duke it Out at the Dutch Grand Prix",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOb2RpSTNPX1BwSG1RU01EQ2dEOFVFbDVBTzRDa0JjYmZCVkNUUUxydGpjY3VqXzNpLWV6blM3VDM5N24tekJibzhwTmVxS01zTFlkM1VMVUZQeEtBUzh3YmtYbnEzd0RmSGVoN0ZBeVBydUVxZGw2dHY2RmZaOHQ2U19fZHBBTWh2QzBVMlRZZmtGRThfSmphdDJxUG9nTGZNb29KdWJsbHFSWkZidXhF?oc=5",
+     "fonte": "Yamaha Racing"
     }
    ]
   }
@@ -2968,10 +2978,10 @@
   },
   {
    "pauta": "Yamaha",
-   "urgencia": "3 fontes / 48h",
-   "porque": "3 fontes publicaram sobre isso nas ultimas 48h.",
+   "urgencia": "2 fontes / 48h",
+   "porque": "2 fontes publicaram sobre isso nas ultimas 48h.",
    "furo": false,
-   "fontes": 3,
+   "fontes": 2,
    "materias": [
     {
      "titulo": "Yamaha R7 vs Triumph Daytona 660: Vale a pena esperar a esportiva japonesa?",
@@ -2982,11 +2992,6 @@
      "titulo": "‘Decisive week’ as Yamaha MotoGP rider closes on Ducati WorldSBK seat",
      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPc1RzRzIzVTRuNkR1YnRFakZPLTcyeVdRbG9IMW1KdmFfWjM3ejZFVFdUdWh3MWlDU1J1QjNPLTk4RDRPSlYxQUtiMzVURWdnUmFNQkY5cVRLODl4VzRTaHlyNV9haEpWZjVfZFdZZDN4NnUtc1VtTE5HS1pZMFFJQ0pTOUJEZVBWWjktWTYyVXZFYTVDYWlQSDZGSkRaNndkLXpobVBiWWw?oc=5",
      "fonte": "Crash MotoGP"
-    },
-    {
-     "titulo": "MotoGP, Kenny Roberts: “I paid $100,000 to ride the worst Yamaha of my life”",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQXladWVRdHlfVDR4bkVYWkgxQ3BzeGYwSjktVkhjM1hpbWN5LXgxWU5ucDRLeGpyTHNwTGxvd0haNGZFeE82ckgyUURRc2Z4dFAwRHJCaEZGRHZrblgzRkxBX2ppU0Z3dFJrOVVTRFZFTHJqX3duZnFQODZ5aTIzUXl4Y052dnhPX2ZHazdWblE3LW9IUWNXVHFXVmdYSEctT21FNTBicEhoMWJ2b2dTQw?oc=5",
-     "fonte": "GPOne"
     }
    ]
   },
