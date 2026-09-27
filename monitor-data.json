@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-27T14:44:44Z",
+ "updated_at": "2026-09-27T19:02:52Z",
  "fontes_monitoradas": [
   {
    "nome": "Grid Motors",
@@ -410,14 +410,74 @@
  ],
  "materias": [
   {
-   "titulo": "Thiago Fonseca coloca a Kawasaki no topo do warm-up da GP Light",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOV3VTOXN4SVVkcHotQXZVS2ZrdGNTU1lyWUpRaDExVDZmRF9uVFN2bHdWc3BnQ0Y1WjEwcU1GaFZzR3hjVVdpR1dhcWhSVWREenhlSGdTdW5mSWFCdDFXRGFTSHk3TDdiOHNTYThTRnJXTDFrREk5cFBIUEV5X1VHYWQ5WkRhX0lIa2NYRg?oc=5",
+   "titulo": "Pódio com pilotos de três países no MOTO1000GP marca reencontro de Gandola com a vitória na GP1000 by Motul",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNV0txdzY1UXJoQWtxbTVNVHYtRTVQeFpUMDYxQ1FLRW5QSVlqM1JxbElOYVowX1FIYVI2ZW9iQ1FnRVBoSEY2VTZBVUlGSC0zcVBVcTVHcDk2dG02ZzM0cjlreDQ4U0FTTE80cEpmMmY2ZldVY2JYdnB3R0YxY0NqSG90OWxjcllUV0VpZTR5NUxxNklYTDB1d2drQWVLLVNPUElJNEdNbTV3ZFhEaEZ1ZlY1bS1nbm5BUUluWng2V3k5ZjlzVE5V?oc=5",
    "fonte": "MOTO1000GP",
    "ig": "moto1000gp",
    "escopo": "Brasil",
    "tier": "Corrida",
    "dominio": "m1gp.com.br",
-   "ts": "2026-09-27T12:55:00Z"
+   "ts": "2026-09-27T17:19:00Z"
+  },
+  {
+   "titulo": "GP Light, Corrida",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5RMGJiajIxNUtTVlFvUG1oNC13T1lzd0NOYWswdm5YbkxDYUFBbmVyOWpQSkYybkdDME5XcGFfNE5US0s3M1gxemFtZGpva1h3?oc=5",
+   "fonte": "MOTO1000GP",
+   "ig": "moto1000gp",
+   "escopo": "Brasil",
+   "tier": "Corrida",
+   "dominio": "m1gp.com.br",
+   "ts": "2026-09-27T16:55:00Z"
+  },
+  {
+   "titulo": "GP1000, Corrida",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5sUzM2UERld1RreGQtX09mZXhHQ3BndXFaVFlfMkFZUHZKQ192SUc5c1pWSWxUbDNiVzRpXzdGSWhjVGU0bVBsYmJ6SDB2YU0?oc=5",
+   "fonte": "MOTO1000GP",
+   "ig": "moto1000gp",
+   "escopo": "Brasil",
+   "tier": "Corrida",
+   "dominio": "m1gp.com.br",
+   "ts": "2026-09-27T15:45:00Z"
+  },
+  {
+   "titulo": "Nicolo Bulega wins 2026 WorldSBK title at Italian Round",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQd0pzVjVmYlB2dHpRVWxLQzZjNGRESDVZX1hTYTc3VzlfMk9hZ0FTQ2xNdFo3N2FYSG1lMmEtWjJfTXBmdlFtenFiWjdHRGhVVHY3U0duTm5nc0tkS21xQkZzTmF6N0JhSS1RaHBRdndGeUY4ZEdfNEFwNWZOV2FFZ1Y2ZHdETFN4Y0ZXRm1STkZibWtKb0V4dnlB?oc=5",
+   "fonte": "Crash MotoGP",
+   "ig": "crashmotogp_",
+   "escopo": "Global",
+   "tier": "Corrida",
+   "dominio": "crash.net",
+   "ts": "2026-09-27T14:05:00Z"
+  },
+  {
+   "titulo": "R3 Femenino BluCru LA, Corrida 3",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9lV1h6TnRLOVA3emZXRWhpXzZwdmVWd0xUdm9GejBYd1NMSFk3V1BFTm5rSm4wZnNxOXFoRElkRmcybXMwcWxtSGJjb1pibEhsOWNacmtUZ3JyMVpjRVd1UnNB?oc=5",
+   "fonte": "MOTO1000GP",
+   "ig": "moto1000gp",
+   "escopo": "Brasil",
+   "tier": "Corrida",
+   "dominio": "m1gp.com.br",
+   "ts": "2026-09-27T14:00:00Z"
+  },
+  {
+   "titulo": "Moto4 LA, Corrida 2",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9vdC1vdzhteVZvRE9fWVpKT3dxTUZZXzRlR2hNRm5GOG0zbzVNVExCQWtBc2x5elBDUkthM1JYWnN1S1JPYjdiUUhBelFrTFdQ?oc=5",
+   "fonte": "MOTO1000GP",
+   "ig": "moto1000gp",
+   "escopo": "Brasil",
+   "tier": "Corrida",
+   "dominio": "m1gp.com.br",
+   "ts": "2026-09-27T12:45:00Z"
+  },
+  {
+   "titulo": "Watch WorldSPB Race 2: EICMA Italian Round",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcllqeE5JRVRlVmVuSUZLT3JOaHNkUTZxRnN3dUZ6UW9tcmtIbEY0Z29HUldscTZ0T3dIU2hKOFNKeHdxc2RVTW9fSTMxcU42RlVRbzA5QWRxdmpiZE1VQ0U0N3Q4YW1nRlVBWmUzOV9xaHdxenVMRWJ2QXlUa0xKN0JUM3FOY2swdENSVmVZc1c0OEk?oc=5",
+   "fonte": "WorldSBK (Superbike)",
+   "ig": "worldsbk",
+   "escopo": "Global",
+   "tier": "Corrida",
+   "dominio": "worldsbk.com",
+   "ts": "2026-09-27T12:06:00Z"
   },
   {
    "titulo": "Alpine issues statement as Lando Norris targeted by online abuse after Franco Colapinto remarks",
@@ -450,6 +510,16 @@
    "ts": "2026-09-27T10:37:45Z"
   },
   {
+   "titulo": "Takahira Takes Series Lead by a Point after Race 2 Victory in Cremona",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSEotSzFFRmRMM3YyMmhGcy1sb2RPSzAwcnpqbW9paFpRSmNsb2pSblJya0JIaUZfU3hyaTZYSU5mY1c5MkdCU2ZXZ0FZTVZwbHMxN1VyRnp6Tlk2SS1PazBxWUFtOWRKaFV1dlpYYnhDZmZ3RDFydW1rcFpyWW41R0ZpeFpSWWtETzZnNnNvMWhDYWM3Y0hCNHhtNzVZS1c0V1RGY1k3c0o1MDJENEtXMnZpZ2FsdnJy?oc=5",
+   "fonte": "Yamaha Racing",
+   "ig": "yamaharacingcomofficial",
+   "escopo": "Global",
+   "tier": "Corrida",
+   "dominio": "yamaha-racing.com",
+   "ts": "2026-09-27T10:35:20Z"
+  },
+  {
    "titulo": "Could Alpine bench Franco Colapinto for Malaysia and who could replace him?",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdnJzWjQydjZsUkVIeUh4MHJEaC1RRGs4VHI0aGV2THEzQ3lLT2hwMUNpUGZLRDZtRUFzSEtyaFhfX2puWTNmTUN4bXhBRWJOYWpQQjJSdXVKMnU0cEpPTDZlZTB5QkttQ0lFY2xad0tXVVhaejFsSkpIRVZQd1doU2hDYndBbVV1NG1BNVQwSk1HZDljSnBtM1EtZXFhWWI2Y0I4ZUZzLWRfUjhIZDBV?oc=5",
    "fonte": "Crash MotoGP",
@@ -470,6 +540,16 @@
    "ts": "2026-09-27T06:59:41Z"
   },
   {
+   "titulo": "Orange County Paid People To Get Rid Of Legal E-Bikes. But Why?",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTms4cTNVdHVEcGpqQ0UxMzB6cHY1dmhNc2ZBa21JNFpTWWR2Um5RSVJHa3dVcW9rX3RCQ2tSSzgwYm50ZTNKSmFhYXJLcEZpTURaaXdrVjRxRE0wdmFtQzNUQnJBeEYwelJ1bTRNME0yNVJqbm1fQXk5eVVQQWJUOEpzcEtaZw?oc=5",
+   "fonte": "RideApart",
+   "ig": "rideapart",
+   "escopo": "Global",
+   "tier": "Mundo",
+   "dominio": "rideapart.com",
+   "ts": "2026-09-27T05:03:27Z"
+  },
+  {
    "titulo": "Scooter entrega 45 km/l e custa R$ 19.080? Conheça a Honda feita para o ‘caos’ urbano",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lbU5vSktEMGNQMXAtZlB4RzN0UnFxUnRFNzMyT3diSUhpeW9UNzBZM0EwVDlHOEFEN0FPcUNkbEJZakdhZXJ0ZF9Jc3NYNFFPZXBoQzl4ZkEyQVJ3c3VzeU5VQjNCdHVndWkzS1ctNzdvTzdQWHpiM1g5NGF4UWM?oc=5",
    "fonte": "Motonline",
@@ -478,16 +558,6 @@
    "tier": "Brasil",
    "dominio": "motonline.com.br",
    "ts": "2026-09-26T22:46:35Z"
-  },
-  {
-   "titulo": "Orange County Paid People To Get Rid Of Legal E-Bikes. But Why?",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTms4cTNVdHVEcGpqQ0UxMzB6cHY1dmhNc2ZBa21JNFpTWWR2Um5RSVJHa3dVcW9rX3RCQ2tSSzgwYm50ZTNKSmFhYXJLcEZpTURaaXdrVjRxRE0wdmFtQzNUQnJBeEYwelJ1bTRNME0yNVJqbm1fQXk5eVVQQWJUOEpzcEtaZw?oc=5",
-   "fonte": "RideApart",
-   "ig": "rideapart",
-   "escopo": "Global",
-   "tier": "Mundo",
-   "dominio": "rideapart.com",
-   "ts": "2026-09-26T22:34:27Z"
   },
   {
    "titulo": "Honda Cafe Racer",
@@ -520,16 +590,6 @@
    "ts": "2026-09-26T20:16:00Z"
   },
   {
-   "titulo": "- gridmotors.com.br",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5CLW1xZWNVS0VKZ0xWVW5oeGVDbUtRYmZKNEt4amtPbVZnbFB4bkFfRDhial9aa0RtNGZmNExKak1EWG50bzV5R3FqTGt5TG8xNU5Da0FPT09LMVFtcGpRcWFWbw?oc=5",
-   "fonte": "Grid Motors",
-   "ig": "gridmotors",
-   "escopo": "Brasil",
-   "tier": "Brasil",
-   "dominio": "gridmotors.com.br",
-   "ts": "2026-09-26T19:17:49Z"
-  },
-  {
    "titulo": "GP Light, Sexta-feira",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Rd19MeEUyTThMQUZYajVURWg3UTZPejNQWE5obFZpbEFkeWhGV1o3MERUZE0yWk4tN2lZMkFyV3dnaWhlUGZIQ29QdWRKZXZMdnFCakhn?oc=5",
    "fonte": "MOTO1000GP",
@@ -538,26 +598,6 @@
    "tier": "Corrida",
    "dominio": "m1gp.com.br",
    "ts": "2026-09-26T18:02:00Z"
-  },
-  {
-   "titulo": "GP Light: Marcelo Miarelli conquista sua primeira pole",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wRVYwdzJsWktkM0VyMHM0dGdCME9oN2lYbGN0aXFzNTFIcGY4Z1BzNnNueW1BS0NrZVFJeXhaaktFUmlQbWF3Uy15b3F0ak1SbzhFNDcteEIzTUtZZnNNTjdyT2VGY3VGOENxTHU2ZlZqM3JOZ1MyNHM2c3lvTFk?oc=5",
-   "fonte": "MOTO1000GP",
-   "ig": "moto1000gp",
-   "escopo": "Brasil",
-   "tier": "Corrida",
-   "dominio": "m1gp.com.br",
-   "ts": "2026-09-26T17:29:00Z"
-  },
-  {
-   "titulo": "GP1000 by Motul: Eric Granado conquista pole position no GP Santa Cruz do Sul 148 anos",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQclFJdW5Oc2w3M0JTZDlEZURGOTJhVkFlM0pfMDJ0STJwNG45TkNTZmRibFl0ZDA2VE1KbEY5RE5BR0pzTHVhaXRJYVV1b0J3d1BDRmFkX3NKWllneGllZE50dHJoc1E3dy1jRmpmWFdqa2hFZ2t2ck5aYThoZHMtSm8wYVFrUnpOWGtDTkwtUDl1TDJDVjhhQlJhOUZKTjZoamVCQndLd0JJdw?oc=5",
-   "fonte": "MOTO1000GP",
-   "ig": "moto1000gp",
-   "escopo": "Brasil",
-   "tier": "Corrida",
-   "dominio": "m1gp.com.br",
-   "ts": "2026-09-26T16:44:00Z"
   },
   {
    "titulo": "Watch FREE HIGHLIGHTS: Lecuona emphatic at Cremona as he beats Bulega while the podium battle ignites",
@@ -640,7 +680,7 @@
    "ts": "2026-09-26T14:29:02Z"
   },
   {
-   "titulo": "Super Pole - m1gp.com.br",
+   "titulo": "Super Pole - MOTO1000GP",
    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9tVDFFYkt4MU5JRm5OWS1VbklfT0doWFFnVGQ4bUtBV3VMWGdKVkFzXzY1bzJKclBMdC12LUR2RjJKRmVHRE5GZg?oc=5",
    "fonte": "MOTO1000GP",
    "ig": "moto1000gp",
@@ -680,16 +720,6 @@
    "ts": "2026-09-26T12:20:00Z"
   },
   {
-   "titulo": "Christian Horner makes explosive Adrian Newey claim: “I couldn’t rely on him”",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNU3hsTG1VeWNvQzF4eThrdThFWV9PUHExdEhmeXFYMWFQUDJoRkxDcjBJNVEtVkdXdHpiSkFMb095QWxmOUJJU3NvTXRRR3h5OXFNN0dFbmJRTnI5QkNPVlgtdWlqRi0zWmFCMVZNWkZlbExuRzRlVmc4V2F6dlRmTkZEU3FvWTBvU0lfOFZtOElIRzNMT2k4VVNOc29NM3FEdWRNWHBfQlI3RjVxOFRV?oc=5",
-   "fonte": "Crash MotoGP",
-   "ig": "crashmotogp_",
-   "escopo": "Global",
-   "tier": "Corrida",
-   "dominio": "crash.net",
-   "ts": "2026-09-26T10:41:02Z"
-  },
-  {
    "titulo": "Victory for Bocanegra as Title Fight Intensifies in Cremona Race 1",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeUlpZUxBWU04NVpNa1o4a1pWMFlzcFdleWRJOU5UWUw1M2hleTk1TC1sbUkzWUpheDl3SC1UWVlORkM2WXdlNy1VS3hXZ1NnbE5QdnUxc25VT3ZzRzZiUTIyVU1zVXVlVHlJMnFpZEdZS3JQYW5NVzRTOFBBUzJDdWczUlZMamxRdVUyNG9ydWdiYTJRZG03bHJKX0liZkg2X2VBMDZYd3BjVGp6QU5FLTd5ekU?oc=5",
    "fonte": "Yamaha Racing",
@@ -720,6 +750,16 @@
    "ts": "2026-09-26T07:39:44Z"
   },
   {
+   "titulo": "Bruno Crivilin encara novo desafio pelo Mundial de Rally Raid no Marrocos",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcS1lbmZjSno1MDMyOC02a0ZfRGtMVDBtUDJEelo4S0hHam9vcGR6dnhNTTNxVFllVTZBODFGM3lYUmdSTkRmVG4zb0JzMTJPckYxamh5cU9PRmctbW0xYzREdjB4c2FzLUNWM2RYT3pSM0RpZ0VNYmxKcTNmWlkyZlV1dmVFdWluVWlCbVRVcThTX1dZTVBWM3EwdGpKcFMw?oc=5",
+   "fonte": "MotoMundo",
+   "ig": "motomundo.com.br",
+   "escopo": "Brasil",
+   "tier": "Criador",
+   "dominio": "motomundo.com.br",
+   "ts": "2026-09-26T02:05:36Z"
+  },
+  {
    "titulo": "Moto Guzzi World Days 2026",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5qcDhWNG40SkNQc0E5XzRtdGtMb3RxRjNNMGt2eG4tdHdQNTBGQmd5Z1lFX3piektRMDhoNXRkc2JSNXdlS3ktMENLR2Z2UW5Qb2JXYWQ4RFNxam1kT0xIU3JvcXQ2ejB3dUJDZXVxbzJzVUdqTXpyQw?oc=5",
    "fonte": "Cycle News",
@@ -738,16 +778,6 @@
    "tier": "Brasil",
    "dominio": "motonline.com.br",
    "ts": "2026-09-25T21:21:21Z"
-  },
-  {
-   "titulo": "GP1000 by Motul: Gui Brito é o mais rápido do dia andando abaixo do recorde da pista",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcVh3R3hGSHh5SDFNS0FLbjRnUks0eXBpODJkUDZVb2ZkaTYyUmRGWF9QMFRFUUoxN19fbzFJLWY3OE1kUUZoNUloYk9wMXdjaXBWSWFRMXBWTDg3TlExdFNtREhiLXU5MWJDaHNHa3ZXQ28xeW1GdmVRNFVLcXRzWVBUOTZ6Q094NW1hS01iVkxwV19oeUM3NXlEZE55U1FpcEl5VmpiNA?oc=5",
-   "fonte": "MOTO1000GP",
-   "ig": "moto1000gp",
-   "escopo": "Brasil",
-   "tier": "Corrida",
-   "dominio": "m1gp.com.br",
-   "ts": "2026-09-25T19:47:00Z"
   },
   {
    "titulo": "Trail de R$ 20 mil, R$ 25 mil ou R$ 27 mil: qual dessas entrega mais pelo seu dinheiro",
@@ -880,16 +910,6 @@
    "ts": "2026-09-25T15:54:48Z"
   },
   {
-   "titulo": "Watch WorldSSP Superpole: EICMA Italian Round",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWlM2ZmJ3dHRuSlNEaXJBeTVYQjEyaUZSaVZsZXVSLXBNb1R2ZE00UVZSNlBxOUhza0VPX3hzRU95anF4UVJ5WG9GdGFkdG1VXzlWZ1BxVnd3NDNFNFpDMnVKZzJtWXFGNnM3dGgtWlRmWW16LVczMVBrU2h0NlBGejF1V2xlYlNwLTVmc2lJY0Y1NjBuZ2U4?oc=5",
-   "fonte": "WorldSBK (Superbike)",
-   "ig": "worldsbk",
-   "escopo": "Global",
-   "tier": "Corrida",
-   "dominio": "worldsbk.com",
-   "ts": "2026-09-25T15:13:00Z"
-  },
-  {
    "titulo": "Fany e Nay: mãe e filha dividem as pistas no SuperBike Brasil",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5MVTFGZDk4dzVlNl9OTm8tQkRNMGs4YS1pMjVYSExoNGxZcDYzWjloQTNWcXlodUNyZTFLUk9uZEhaaWRnYnVCWURfaG1xcnRMTUlPUFBJZDVkT3picDBkSmRzRVI?oc=5",
    "fonte": "SuperBike Brasil",
@@ -938,6 +958,16 @@
    "tier": "Corrida",
    "dominio": "motogpbra.com.br",
    "ts": "2026-09-25T13:57:19Z"
+  },
+  {
+   "titulo": "The Official Home of WorldSBK",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE43azRMRGRuWXRDREpZUTdvLWVtSjFJbjdHZm5aODBQVGFtSXdWRzdvMXc3Y2xlWmMtY25aMjFZd0F0SVhQeVhNTmxlMjdNMVltTTNMbnhBZ2czQkJ6VEVEVXBB?oc=5",
+   "fonte": "WorldSBK (Superbike)",
+   "ig": "worldsbk",
+   "escopo": "Global",
+   "tier": "Corrida",
+   "dominio": "worldsbk.com",
+   "ts": "2026-09-25T13:47:30Z"
   },
   {
    "titulo": "WSBK, BMW looking ahead to 2027: new Ducati-style swingarm debuting in Cremona!",
@@ -1210,16 +1240,6 @@
    "ts": "2026-09-24T21:37:58Z"
   },
   {
-   "titulo": "What a weekend at Cremona! Bulega wants to become Superbike World Champion in front of the Italian fans. Lecuona aiming for his second win of the season.",
-   "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNVXFlSzN4NmZ0OGNWUl9TdHF1dzZCcmJWbUhMQWJFNlJpZ0swMmNkVmd6M0I4SnU1YWU0RmZ6QlYxWTNYcXJWaFpBZHhDVDJUVXExZVdSMmJLbkU2d2wtTXZ0c0hjT2F2MkEyNTU4X1dhRUNVV3p4YzZVRjRQREhkQmQ4X2s1dWhaUVdJVFdaYlZ4MnlDNUJ5SHVzaXQ4YVB0UHhjWUVVcm9Wc3pZZG85bzM0OVhfeHcxQXh4QzNRSzg4LXpCaGt3dl9UcmVvTkRveVNEODhlVUV5T2NJWVBsa2ZjMVJiNGI4QUhZcXI3SnRTNmY2S2tIbEcySHRFYkZMV2Z4ak13RFF6VWZULTh3LUk5WVpibTdwbHhnQVMwalJybWlfQ2VTdXNn?oc=5",
-   "fonte": "Ducati Corse",
-   "ig": "ducaticorse",
-   "escopo": "Global",
-   "tier": "Corrida",
-   "dominio": "ducati.com",
-   "ts": "2026-09-24T20:22:10Z"
-  },
-  {
    "titulo": "Arena Freestyle estreia em Pindamonhangaba com grandes nomes do motociclismo radical",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTWFqN2NDMDJRVTBLWUNpUkt6Ylk3cWZQUC1oSzBoVy1RMDFiQS1PN3QzUUJ1SFpLR3BvbElpLWN6ZEtGSF9zSzRnZmpkdFhkcklzeWtMM0h4REV4M0JLWFNIQU5Uc2dFcGI3dWVGOG85UlVrQjhYWlpsTE5FTEY4bUs0QUJ3M3k1MmRVaUtCSHVMSEFMbl92dmVOU1o4TjRJTnVWNV9ReW8tUTRrY2pB?oc=5",
    "fonte": "MotoMundo",
@@ -1480,16 +1500,6 @@
    "ts": "2026-09-24T07:00:00Z"
   },
   {
-   "titulo": "A Warm Welcome as Pata Maxus Yamaha Get Down to Work on Cremona Friday",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOUVubTQ1V0w4eldFSVNSUjRsOFg3RkJ3TzdoRmd4NGJZeXJZV05Sdk56N3lERkdtb1NSSWZIQ29hUFVTc3NRbnh2NEo0b25VUTVkSU9FenB4cWVsd3JMal9KYXlBUWNlZGhVM1prUHZaQTlkT2FYenA2Mkt3TnFQWWpGZE1SOEJiWkZsSWhvNm0xOVZvQ2c?oc=5",
-   "fonte": "Yamaha Racing",
-   "ig": "yamaharacingcomofficial",
-   "escopo": "Global",
-   "tier": "Corrida",
-   "dominio": "yamaha-racing.com",
-   "ts": "2026-09-24T07:00:00Z"
-  },
-  {
    "titulo": "Okada on Pole by 0.005 seconds in Cremona",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeGNHN21BVTlkSDYyM01iNGxZLWhORy1GeXMzdnBtR0s5akgtQXRrVTQ3QVp0d0RYZ1M0YUpoX3l5NVdTRGVCS21oQkYzODM0ZHdmWUNtU05xWHpsUVU4TGs4aDkzMkxLZmdhRVQ5VVJLbjJZX1FjLXFrVWhGN09TQ0JUN2k?oc=5",
    "fonte": "Yamaha Racing",
@@ -1620,14 +1630,14 @@
    "ts": "2026-09-23T11:00:40Z"
   },
   {
-   "titulo": "GYTR GRT Yamaha Ready for Second Home Round in Cremona",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQU1zY2xhRlB2NEE3ZkZzUm9DR3pYcldnZ1hnUFo1ZHgwOFNfNXgxWmVfcGNNYlR5QW0xLVliNTBzVEt0amdpOHFSc2szUHg1eGk3NUJMd3lfdGo2ZXAzeWd0VV9hWmdTMnNpdzVvYWF1d19XcjlwenZSQmJSRUtCak1FNFlsVFdWZXE5dzVQQUYtQ0hNcnFpUzRTOU5ZRjN0QVE?oc=5",
-   "fonte": "Yamaha Racing",
-   "ig": "yamaharacingcomofficial",
+   "titulo": "Hypermotard 698 Mono",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0zazRldG1qQTlOOWdnSVJMN2hfc0RhUTU3dmUxeTJrQlN5blBMbzFLSFlzVHZiNWwxQjJ0bDJETk5mTHVjMFpubWN3Y2RZNlY0UDQ2M1EyU0t6MVBJOWRET0tfWTBlcXlrOHVGYjlrZw?oc=5",
+   "fonte": "Ducati Corse",
+   "ig": "ducaticorse",
    "escopo": "Global",
    "tier": "Corrida",
-   "dominio": "yamaha-racing.com",
-   "ts": "2026-09-23T10:45:37Z"
+   "dominio": "ducati.com",
+   "ts": "2026-09-23T10:23:51Z"
   },
   {
    "titulo": "OliMoto partners with Honda for 19,000-mile round-the-world record attempt",
@@ -1728,16 +1738,6 @@
    "tier": "Corrida",
    "dominio": "motogp.com",
    "ts": "2026-09-23T07:00:00Z"
-  },
-  {
-   "titulo": "Pirelli bring new development SCX tyre to Cremona, SCQ also in the allocation",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVkUyOTEyRm14T19RcS0yN01DNzZ2akpWWjhwSFJxaHB3emlWNm9MRVBpbmVpNTlHdm9IcExSXzNiTGxxUW4xN1hLTGdqRkdRS1d6M0lac0t1Z0lPV19CdHNpTjhzbG93eHBJaVBfVFRJSGRFMm5XT0pzU0k0X2FRVzFJazlYWWtUVDBjY2pwSnBjZXZVZ29GZ09RTTNVM3NGWGpOR3Q5YkZWV2JfRWpkalNveUd6M1h1SUstNTJSck9lbDM3T0Q0?oc=5",
-   "fonte": "WorldSBK (Superbike)",
-   "ig": "worldsbk",
-   "escopo": "Global",
-   "tier": "Corrida",
-   "dominio": "worldsbk.com",
-   "ts": "2026-09-23T06:00:00Z"
   },
   {
    "titulo": "MotoGP Confirms Valencia GP as 2027 Season Finale",
@@ -1870,14 +1870,14 @@
    "ts": "2026-09-22T16:20:52Z"
   },
   {
-   "titulo": "Poll: Will the Flying Flea be an electric success story?",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1YaWxjeXhOWDVlc3k4VjY3WnA0bHRzY0NnMHFjWkRpUzQxSVRGQno2aTBiVFBhaXZRY3BRLXItcERHV3NKcDY2OWRiV21mVWtIRHRvWFNLZmk2VWVqeWRkM2YzSEg1NENnd3puRzJYNld6bVAz?oc=5",
-   "fonte": "Motorcycle News (MCN)",
-   "ig": "motorcyclenews",
-   "escopo": "Global",
-   "tier": "Mundo",
-   "dominio": "motorcyclenews.com",
-   "ts": "2026-09-22T15:52:02Z"
+   "titulo": "Teste Kove 625X - Para tudo e para todos",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSzl4ZGU3UXJhSWw4alRDLVE1SU9YbDQxU1lEblF4TmxhMkoyTGhPcm81TEQxZWJIZzV6ZXREX0doSzRGbi12dTlCU0EwajJqWnVsVkJxNVp0bV9wTWt0Ukh1Rlc3czQ1NHZsN1NnV0Rpc1Vpa1c1X2VtN2xsNWtLdXNEUmVYMVVReTRpdnVRNFZHUQ?oc=5",
+   "fonte": "AndarDeMoto Brasil",
+   "ig": "andardemoto",
+   "escopo": "Brasil",
+   "tier": "Brasil",
+   "dominio": "andardemoto.com.br",
+   "ts": "2026-09-22T15:38:51Z"
   },
   {
    "titulo": "Royal Enfield Flying Flea C6 (2027), Technical Review",
@@ -1970,6 +1970,36 @@
    "ts": "2026-09-22T11:00:24Z"
   },
   {
+   "titulo": "FIM World Supercross cancels British GP as investment talks continue",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZDRNX1J1TkhNY2JBcFE2VnZOR0E2ajJ2OTlKVWxVTnF4N3ZsMGRSZ0h0NG8tLVV5Sk5CbUVrTXNPWFdBSE9vRV9lQlVhLUNXRl80QlZKMUVJSGN6bzBkQ0tIZU1LOTRiejdaVHNES19OQzJNUnlWaWZjRFNaUkgwM1VUWUNrLS16eGtyODVKcUl4Z2w3TmFYbGxBQUE?oc=5",
+   "fonte": "Visordown",
+   "ig": "visordown",
+   "escopo": "Global",
+   "tier": "Mundo",
+   "dominio": "visordown.com",
+   "ts": "2026-09-22T10:23:37Z"
+  },
+  {
+   "titulo": "Zero set to offer 20-80% charging in 30 minutes for several of their electric motorbikes",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBQWktWa2otWE83eVM2RmpJcGtmLS1HNnY0UDhrTGFhYmY4TjRieHhERmMyTWRHM3Z1ZFpVaE8tTE1qYXAyandLT09qUEFFRHFHRmVTZF9KNmJFT05vZC11eG5kdHphbENldmlJMjRZX2Z2TG4tYl81VWdBRDJ2QQ?oc=5",
+   "fonte": "Motorcycle News (MCN)",
+   "ig": "motorcyclenews",
+   "escopo": "Global",
+   "tier": "Mundo",
+   "dominio": "motorcyclenews.com",
+   "ts": "2026-09-22T10:02:15Z"
+  },
+  {
+   "titulo": "ROYAL ENFIELD ONE RIDE 2026 MASSIVE SUCCESS WITH OVER 150,000 RIDER PARTICIPATION",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNajl5RGRhY1lGc3lTVnZMZHVvbks1cmQyRFVNQ3dZYURRZjJObWhNN1hfclB1ZVhwS25SQk5FTkZudE5oMWdpSDg0WmtZOFhzUWY0SjJMN0VaUDNaU1pmV0VFU05lTDJSZDBjaXFjYUtnVVlpXzVlMXQwWkVfSVZBYjlGVjIwRzZEbWVBRnF4a2R6WFpOTkRVQ0lxQVhITVpsVHY1ZDB3bmIzWW95d1oxQW9ENA?oc=5",
+   "fonte": "IAMABIKER",
+   "ig": "",
+   "escopo": "Global",
+   "tier": "Mundo",
+   "dominio": "iamabiker.com",
+   "ts": "2026-09-22T09:24:01Z"
+  },
+  {
    "titulo": "2026 AMA Hare & Hound Round 6 Results",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRWJFU2c5RklscU9YN0RjcTRvZHpQU0JlckNUQlpaOEtEY0J6aTJMQUl5N1laWnpqX3Rpd2VmX1dVZTFKRGtKWTZ2U0UtVkpCQWJYSjRqeWdrNFM5TVh2eC1UWXJURHV6dUhoU3RRc2ViaWg2N1lvQnI4R2V3d2NxcGp3N1Y?oc=5",
    "fonte": "Cycle News",
@@ -2020,14 +2050,14 @@
    "ts": "2026-09-21T20:24:56Z"
   },
   {
-   "titulo": "Arquivo de SSP LIGHT",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9WNVdXQWlTbzNYNGpLUDhmc2lzTzZMeVdDTTVPVVZ4ME1DUkFlbVRFTXh4Z1NVb1BtZnhndHhGX254Z3BlS2xQUWtRM19fZFZMQzhyUThVaEpYWjJsVTlOQU9OdDJFSlJfYW9R?oc=5",
+   "titulo": "Arquivo de SSP MASTER",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52STQzc1NyRGMwRWpKNElkZTllc0gtV0FUdDJsSk9Kald3enVhOXVQTWVWNmV5bUpENV90WklQejVpVTQ1QVIyX3J2N2pLSFJ0QVNWM19IYVo1V1hWalJJS2RpYmdEcnlVLVRCSQ?oc=5",
    "fonte": "SuperBike Brasil",
    "ig": "superbikebrasil",
    "escopo": "Brasil",
    "tier": "Corrida",
    "dominio": "superbike.com.br",
-   "ts": "2026-09-21T19:04:23Z"
+   "ts": "2026-09-21T19:10:00Z"
   },
   {
    "titulo": "Arquivo de SSP PRO",
@@ -2078,16 +2108,6 @@
    "tier": "Corrida",
    "dominio": "ducati.com",
    "ts": "2026-09-21T17:39:29Z"
-  },
-  {
-   "titulo": "Theo Manna representa o Brasil nas 24 Horas de Bol d’Or",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObGdzdGFEZ3BvMEFVajNuSG1iaDNDS2pDeXYtdkFnUURNQ1pVS2NfVTM5WGJWT05pNTN5ekJOVnRGaTgxalNORmRoeEZZSE1Rc1BVaWRta3BQN0NkQkVGS0hSRktfdFNmTXc2X3BsZVlMeF9kMHNzelNmTTRoOG9xRQ?oc=5",
-   "fonte": "MOTO1000GP",
-   "ig": "moto1000gp",
-   "escopo": "Brasil",
-   "tier": "Corrida",
-   "dominio": "m1gp.com.br",
-   "ts": "2026-09-21T17:07:00Z"
   },
   {
    "titulo": "Diogo Badaz mira título da SuperBike Rookie em sua primeira temporada no SuperBike Brasil",
@@ -2148,16 +2168,6 @@
    "tier": "Mundo",
    "dominio": "iamabiker.com",
    "ts": "2026-09-21T10:36:51Z"
-  },
-  {
-   "titulo": "Triumph wins first world championship title three years after motocross debut",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM3QxUzVQRVNsMVk4QWJHbUZsQW9RNjdpS1Z4NS1MRkFCVEdxM3ozejFFQjlTV2M1UjZSY0NiUWQ4OVRoV2RidDlQN2pDNG1zMlR1NWV6UURUZW9QZERtcjBuV2FtZ2NyNEpmcFVuXzI4QjVwdG13aWJYamxjWlJxcGh6bXNnSmdRN0RWY0pVR1NSMGNTTEVGcGhtN09CVkF6OXRMSGNETm5HN1lN?oc=5",
-   "fonte": "Visordown",
-   "ig": "visordown",
-   "escopo": "Global",
-   "tier": "Mundo",
-   "dominio": "visordown.com",
-   "ts": "2026-09-21T08:32:36Z"
   },
   {
    "titulo": "MotoGP, Viñales back on track: testing today at the Red Bull Ring to return to racing at Motegi",
@@ -2238,6 +2248,16 @@
    "tier": "Corrida",
    "dominio": "gpone.com",
    "ts": "2026-09-20T14:12:16Z"
+  },
+  {
+   "titulo": "MotoGP™ Grand Prix: Qatar Airways GP of Austria",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWmxlMVcxMkp0Z294eWg1VHI4T2NrTE16VTZRa3FFaURxeTNSNWk4MTJxMzA4UW9QOWoySGtHb3RMblBoVTFUMVpqbXhmLUhfV0dtVFBuSEZKcFZFdFpxT1JfYzM0MXV3dk5SMU56QWlscUpSWXNBTFlmSk5tejF0OFNVWHAzc2xMSVVTWXN0VXRsaUtJVEJhSXRiZll3Zw?oc=5",
+   "fonte": "MotoGP",
+   "ig": "motogp",
+   "escopo": "Global",
+   "tier": "Corrida",
+   "dominio": "motogp.com",
+   "ts": "2026-09-20T13:50:00Z"
   },
   {
    "titulo": "Arlen Ness Carbon Derby Cover For Harley Softail 2018-2026",
@@ -2350,16 +2370,6 @@
    "ts": "2026-09-19T16:15:49Z"
   },
   {
-   "titulo": "Kia Carens Clavis Range Updated with New Entry-Level Automatic Variants",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZlBRbExMVmlmSFZhVUxtX0t1eXhWblFkd212TmIzdFNOLTg5emk4bnFRVGc5VmczdWtQYlljMWdBc0RKZVdLMXVvUjhjVDE2UnU0VzJjMDFPM3YzcXlUNzJwZnVfcldtaFpJQkR0VWdfLTE2T0poRVdTS3QxYkxmOHk2RFc1VnI1Ni1ZR0RqVjEzb3Z6b0V4ZGZLWXRtN092RDdWUWVZcw?oc=5",
-   "fonte": "IAMABIKER",
-   "ig": "",
-   "escopo": "Global",
-   "tier": "Mundo",
-   "dominio": "iamabiker.com",
-   "ts": "2026-09-19T13:06:19Z"
-  },
-  {
    "titulo": "Flying Flea C6 Launches with Fresh Parachute White Colourway in India and Global Markets",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUmFmVnlDNXlPcUxhaGhHMDZUYnFkSDhjTHBOMVVMelZTR2pyZzFqSG40Y2xOSVdaTW5BOS1fR09mMllDZ1R2cE5TWHV0N3pLUi0yMHVUdnh0UWtwcUJjUmlWQjQwLTFIMmtGWUFFVlFGQk9samNHWVMwajZacDRZU2xNRkhxZmNTa2JXb3RrblJOTnVSN0FBaFd5MEtiMUEwdHhQRnZxcFh5dEdFTlV2SG5vNVRIUTZRbUdaTEx3?oc=5",
    "fonte": "IAMABIKER",
@@ -2378,6 +2388,16 @@
    "tier": "Mundo",
    "dominio": "iamabiker.com",
    "ts": "2026-09-19T07:52:45Z"
+  },
+  {
+   "titulo": "Prima Pramac Yamaha MotoGP closes its most difficult weekend of the season",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeWFwWEpWSTFLNF9mT0N6bFhXN2hTdGc0bHN5SHBIcXB3V1pBdGxVMVU1TjNMdzhyV2k4ZUNpZEFMYmNSdnQzSEFqUlNLZTJLVmxsTHp3ZXR6X3h0R0RlS05GVWVzS3NId0otMHNEY0RnRi1ieFlVM0s0RUVEU2dMV2xHeUtOc3I2Wlo0SWFOWGl3Z0t4SlJoSjdURzlLYUk0eThKaExKWHZ4N1d6MGY1U1IzVTJOOUJS?oc=5",
+   "fonte": "Yamaha Racing",
+   "ig": "yamaharacingcomofficial",
+   "escopo": "Global",
+   "tier": "Corrida",
+   "dominio": "yamaha-racing.com",
+   "ts": "2026-09-19T07:00:00Z"
   },
   {
    "titulo": "Marc Márquez and the Ducati Lenovo Team fourth in Spielberg Friday. Francesco Bagnaia, eighteenth, to tackle Q1",
@@ -2510,36 +2530,6 @@
    "ts": "2026-09-17T19:12:20Z"
   },
   {
-   "titulo": "Throwback Thursday, Hometown Hero: A SR150 Scrambler from Taiwan",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB1ZlVoSTNPNS04MU9wNFp3Zi1MbkRMSlVGMm1wb19LXy1RdFRmSUpBR3NCcl9CbG5hM3c0NzFQdEJNejZyNmNPWER2LWZpWkVsZzdzd3ZldnluZFpfNl9kY1dUbXNTUnpfcUNHWWZoc19NcnIxNVVxNHpPSQ?oc=5",
-   "fonte": "Bike EXIF",
-   "ig": "bikeexif",
-   "escopo": "Global",
-   "tier": "Mundo",
-   "dominio": "bikeexif.com",
-   "ts": "2026-09-17T17:00:00Z"
-  },
-  {
-   "titulo": "Enzo Lopes, da Honda Racing, em contagem regressiva para o Motocross das Nações 2026",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMTV0c3ROeno2T3Q4OG1RZXFsYzJ0Vzlrd0I5RWFwb0VmdVN0cTNNNWtXS3RVWWpVdlZ1Z0ExcEUtSDc5WlBWbk9FNDRvSUxBYW9ibVQ3VGs2bF9DbGxFRGtmSzh1djExcXY4MWlVTkFmYjk5ZXE2a1NvWS1aakVDNFBKZ2NlN2g5Q1dIWVRVSFE5T3BJVDY2WEhETXNuMThNZUw2ZVdtd0h0Snd2?oc=5",
-   "fonte": "MotoMundo",
-   "ig": "motomundo.com.br",
-   "escopo": "Brasil",
-   "tier": "Criador",
-   "dominio": "motomundo.com.br",
-   "ts": "2026-09-17T15:24:05Z"
-  },
-  {
-   "titulo": "EICMA leva mais de 70 anos de história do MotoGP a Milão com exposição \"Legends of Speed\"",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQek5pQlhsNWhFbGxzLWtPODFfR3AycVVkRmtkcV9kcVhxR2VMMF9HbWZZRU11NXBKV0EwN0JXOTFXdmxFU1A1QjB1WVhuOWRaYzFXcFI3UWx4eWc0TEU3eDc5aHBCUGlLRmU1M3ZqSUZiYkJNV1BQSlpQUGgxX1BBOEkxU29rdjBEU3RVV1M5aWhzb0Zma1ZrMDhFZE9fVnZlbEdKRUxtQ2hBdHZGS3I3TDhsLV9SZ1NxUkVwOFI5MXpOMDBzWW9B?oc=5",
-   "fonte": "AndarDeMoto Brasil",
-   "ig": "andardemoto",
-   "escopo": "Brasil",
-   "tier": "Brasil",
-   "dominio": "andardemoto.com.br",
-   "ts": "2026-09-17T15:08:03Z"
-  },
-  {
    "titulo": "Harley-Davidson Balances Between Business and Bikes, New H2 Brewing at Kawasaki",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZGdINWs2M0ZsZDBJbzFnN2liV19yQUFjM1VOcVQ1YkRCX3QzUnRtVDdvbWxrVUhnR2JhSXQwaWJXejBHNWxTTklHMFk1Z1dPYWdfTnhINnJfSThXSzNGNjJXc1g3ZmhvSHpVdDVhSllEQ2E5bjlmVmpUeHIwYjJOVkdCZXhaMXNhNGxzMXhVZ0F5VTNvaEtsYXNlV0REUXpnN2Q4bGVkN1lKY05f?oc=5",
    "fonte": "WebBikeWorld",
@@ -2588,16 +2578,6 @@
    "tier": "Brasil",
    "dominio": "andardemoto.com.br",
    "ts": "2026-07-22T16:33:43Z"
-  },
-  {
-   "titulo": "The Official Home of MotoGP",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbDJpMXFEUnVfeTYtZGFjVUtVME5oWnRmQjZock8zWXA4emJ2VVlsUXVhWC1IYnc4RHczek42bWN5dWFwNUF0SFVHbnhuZUNDU0ZPSHRySXNxd19jRDVFRzYzTzd3bkc4dFhaNkl0bElBQTd5ZFRSQkd0M2JUeUlpZ0Y5LXJpZy1MbGVGaVZlQURlZw?oc=5",
-   "fonte": "MotoGP",
-   "ig": "motogp",
-   "escopo": "Global",
-   "tier": "Corrida",
-   "dominio": "motogp.com",
-   "ts": "2025-07-24T17:37:38Z"
   },
   {
    "titulo": "Honda CB 500 Hornet 2026 | Ficha Técnica, Top Speed, Consumo, Imagens e Preço",
@@ -2770,8 +2750,8 @@
    "ts": "2017-09-03T18:16:49Z"
   }
  ],
- "total_materias": 236,
- "materias_24h": 22,
+ "total_materias": 234,
+ "materias_24h": 18,
  "reddit": [],
  "em_alta": [
   {
@@ -2802,7 +2782,7 @@
   },
   {
    "tema": "Honda",
-   "mencoes": 20,
+   "mencoes": 19,
    "materias": [
     {
      "titulo": "Scooter entrega 45 km/l e custa R$ 19.080? Conheça a Honda feita para o ‘caos’ urbano",
@@ -2853,32 +2833,6 @@
    ]
   },
   {
-   "tema": "Yamaha",
-   "mencoes": 13,
-   "materias": [
-    {
-     "titulo": "MAIDEN P1: Thompson secures his and Yamaha's first WorldSPB pole at Cremona, Salvador penalised to P8",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRG5rZzdTb1V5THU4ZXdDOG1vRjJSU092akQ0eWdGRWk2SGRGM3c5aF9uSERXdnExYW1DOHdvYzBMSGFCdTJLcHllR0FSbUJUOEEycFk5S3FJSEM0a1V0QmsyUndvNzlob3RQTDNMTnBoWTE2cDg4XzY4cVlKc211NXBDUFVHMnhXS3RhNE9Xd1k2VUhPcGF0elpSQXZicGtsTi1hYzJoS0ZGZXp1Qk14NzJMRFlxRm5CNlVkSGgzcEFLZ2s?oc=5",
-     "fonte": "WorldSBK (Superbike)"
-    },
-    {
-     "titulo": "Locatelli Fights to Seventh for Pata Maxus Yamaha on Home Soil at Cremona",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUTVZSjh3dmxNU3ljZjVleXowOW15OFpQMG9QUVp3YTlYcmE0Z1VwRVpSaTJsTFoxc2p6LWhEWVRWd0Z2bkVyMUdoVUJfd3RYdkpHeG5CajJlOVQxMWdFa2lYbHVZTVpTUDcydXg5SnFMTUVFZHNLd3NYclZiSDFjWlhTWWNvUlQxRWM4UGlqVTV1VEJzaE9tN21oUTZPQQ?oc=5",
-     "fonte": "Yamaha Racing"
-    },
-    {
-     "titulo": "Campeonato Latinoamericano Femenino Yamaha R3 BLU CRU reúne pilotos de toda a América Latina no Rio Grande do Sul",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQa1d4TUY3YzlxVEk1bDNoenZsS0E5MHRrbHpUT1gwTXZCNEU3RU9acW5Kcm11MFd3eENFMlJkcnBHMVU2a3JGSEVOVzcycDV3eEExYUptVjJpdXg0bmNuV3J2TGxQQ0xXYm0xZUlpamNaN3FFdi0tUGhlaUVJS1JjODIxbkROR1RMbU95a3lLVDM0UzRvS25sckU0bEo3UnpfMVRPLW5xQXhpalZDbzhIQTBESDRXWENmREtndjhwc0JxY0IxTzNNVEVjTWdyQi14UGlHMmp3?oc=5",
-     "fonte": "MotoMundo"
-    },
-    {
-     "titulo": "Blustar amplia operação e chega a Goiânia com aluguel de motos Yamaha",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZlJyTVpSbXpXWU1BSmFMM3BZVHU3UmFRVnBCRGpxSmtVVEtFNEJvdnM4dU1YRGY4WDNZRGNJU3piaGctZ1JCMjIyMGJ4SV83enlDU0g4YXhiVXl1MHlnQi1jTGdNdUJKNlJnejJLakRmWkd3MmkyNkQtV1gxbW5VNmY3eGNhbkE?oc=5",
-     "fonte": "Motociclismo"
-    }
-   ]
-  },
-  {
    "tema": "Bmw",
    "mencoes": 12,
    "materias": [
@@ -2905,28 +2859,54 @@
    ]
   },
   {
-   "tema": "Kawasaki",
-   "mencoes": 4,
+   "tema": "Yamaha",
+   "mencoes": 12,
    "materias": [
     {
-     "titulo": "Thiago Fonseca coloca a Kawasaki no topo do warm-up da GP Light",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOV3VTOXN4SVVkcHotQXZVS2ZrdGNTU1lyWUpRaDExVDZmRF9uVFN2bHdWc3BnQ0Y1WjEwcU1GaFZzR3hjVVdpR1dhcWhSVWREenhlSGdTdW5mSWFCdDFXRGFTSHk3TDdiOHNTYThTRnJXTDFrREk5cFBIUEV5X1VHYWQ5WkRhX0lIa2NYRg?oc=5",
-     "fonte": "MOTO1000GP"
+     "titulo": "MAIDEN P1: Thompson secures his and Yamaha's first WorldSPB pole at Cremona, Salvador penalised to P8",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRG5rZzdTb1V5THU4ZXdDOG1vRjJSU092akQ0eWdGRWk2SGRGM3c5aF9uSERXdnExYW1DOHdvYzBMSGFCdTJLcHllR0FSbUJUOEEycFk5S3FJSEM0a1V0QmsyUndvNzlob3RQTDNMTnBoWTE2cDg4XzY4cVlKc211NXBDUFVHMnhXS3RhNE9Xd1k2VUhPcGF0elpSQXZicGtsTi1hYzJoS0ZGZXp1Qk14NzJMRFlxRm5CNlVkSGgzcEFLZ2s?oc=5",
+     "fonte": "WorldSBK (Superbike)"
     },
     {
-     "titulo": "Kawasaki Ninja H2 CARBON 2027: mais torque e pinças Brembo Hypure",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNFNmYW43bHZYOERUZVF5XzkwNkc4MS1xZHZ3cDhsT0g0bHZzemgtUWpfejJDT1NONjVXVFcweEU5TS1wbmxWdkZvV2lFSEVfRkRGSUNnSmx5djRxbERQS1F6NThyeUo1cS1Sb29GZFBBbFQyZ2NOZFV0c2h1cU5uSEFpT241bVlEVW0zOU5uNTdjOFlDaURtRTBCS3U?oc=5",
+     "titulo": "Locatelli Fights to Seventh for Pata Maxus Yamaha on Home Soil at Cremona",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUTVZSjh3dmxNU3ljZjVleXowOW15OFpQMG9QUVp3YTlYcmE0Z1VwRVpSaTJsTFoxc2p6LWhEWVRWd0Z2bkVyMUdoVUJfd3RYdkpHeG5CajJlOVQxMWdFa2lYbHVZTVpTUDcydXg5SnFMTUVFZHNLd3NYclZiSDFjWlhTWWNvUlQxRWM4UGlqVTV1VEJzaE9tN21oUTZPQQ?oc=5",
+     "fonte": "Yamaha Racing"
+    },
+    {
+     "titulo": "Campeonato Latinoamericano Femenino Yamaha R3 BLU CRU reúne pilotos de toda a América Latina no Rio Grande do Sul",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQa1d4TUY3YzlxVEk1bDNoenZsS0E5MHRrbHpUT1gwTXZCNEU3RU9acW5Kcm11MFd3eENFMlJkcnBHMVU2a3JGSEVOVzcycDV3eEExYUptVjJpdXg0bmNuV3J2TGxQQ0xXYm0xZUlpamNaN3FFdi0tUGhlaUVJS1JjODIxbkROR1RMbU95a3lLVDM0UzRvS25sckU0bEo3UnpfMVRPLW5xQXhpalZDbzhIQTBESDRXWENmREtndjhwc0JxY0IxTzNNVEVjTWdyQi14UGlHMmp3?oc=5",
+     "fonte": "MotoMundo"
+    },
+    {
+     "titulo": "Blustar amplia operação e chega a Goiânia com aluguel de motos Yamaha",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZlJyTVpSbXpXWU1BSmFMM3BZVHU3UmFRVnBCRGpxSmtVVEtFNEJvdnM4dU1YRGY4WDNZRGNJU3piaGctZ1JCMjIyMGJ4SV83enlDU0g4YXhiVXl1MHlnQi1jTGdNdUJKNlJnejJLakRmWkd3MmkyNkQtV1gxbW5VNmY3eGNhbkE?oc=5",
+     "fonte": "Motociclismo"
+    }
+   ]
+  },
+  {
+   "tema": "Royal Enfield",
+   "mencoes": 5,
+   "materias": [
+    {
+     "titulo": "Royal Enfield Classic 350 tem novas versões na Índia",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOY0c4NXNzcmxLOExGTW1FWGFCN0RYMjdLR0xzXzRxX08zRnBHbVhSaDhKcV9MSDNVUXRwdDVudHlzZWhQWVlZQ1NrWkRQTnhnMzItdXZBQTdmTXVkSlJDODRuYTZ5TUZRUW9TZzBPYlVCV0Z6TTM5TmFyMlp1XzV5Sm5JTndneUdTc0RKMVNGc0xRaXM?oc=5",
      "fonte": "Motociclismo"
     },
     {
-     "titulo": "Kawasaki Ninja 1100 SX 2027, Cai Bem No Brasil?",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9uaVBLVU9maGtCbVdVSTVNOXZCandjSXlNS1dQU0hMb240QkM5bHV1am0wUEJDNGhlZkZDdzMxTnVoNEZ0QWFGekJMV0gyLWNjUV9yalFOVlVOaFBROVBsRjZJWGNlamFZUWRIRDhiZzBSSHc?oc=5",
-     "fonte": "MotoRede"
+     "titulo": "Royal Enfield Flying Flea C6 (2027), Technical Review",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSmtwT1hmbUR6TV96MFU4Tk5RODRYZXpXMVA5aFRHcm5iY1gzSWJyYkxIRjZyeUJlVHkxTE9PSGg2VW50TXpSZUUwSm1Nb0VNem5CMVlrTHVIWGg1MlNhVlJDeDI0cENNNnJFaGZuNjJpdVdmVGx2eFpiQTBOTHNka1NlS3FUMHRGVk5lX1gyQTNGc2w5a2xv?oc=5",
+     "fonte": "Bennetts BikeSocial"
     },
     {
-     "titulo": "Harley-Davidson Balances Between Business and Bikes, New H2 Brewing at Kawasaki",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZGdINWs2M0ZsZDBJbzFnN2liV19yQUFjM1VOcVQ1YkRCX3QzUnRtVDdvbWxrVUhnR2JhSXQwaWJXejBHNWxTTklHMFk1Z1dPYWdfTnhINnJfSThXSzNGNjJXc1g3ZmhvSHpVdDVhSllEQ2E5bjlmVmpUeHIwYjJOVkdCZXhaMXNhNGxzMXhVZ0F5VTNvaEtsYXNlV0REUXpnN2Q4bGVkN1lKY05f?oc=5",
-     "fonte": "WebBikeWorld"
+     "titulo": "ROYAL ENFIELD ONE RIDE 2026 MASSIVE SUCCESS WITH OVER 150,000 RIDER PARTICIPATION",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNajl5RGRhY1lGc3lTVnZMZHVvbks1cmQyRFVNQ3dZYURRZjJObWhNN1hfclB1ZVhwS25SQk5FTkZudE5oMWdpSDg0WmtZOFhzUWY0SjJMN0VaUDNaU1pmV0VFU05lTDJSZDBjaXFjYUtnVVlpXzVlMXQwWkVfSVZBYjlGVjIwRzZEbWVBRnF4a2R6WFpOTkRVQ0lxQVhITVpsVHY1ZDB3bmIzWW95d1oxQW9ENA?oc=5",
+     "fonte": "IAMABIKER"
+    },
+    {
+     "titulo": "Breaking the Mold: The Top 7 Custom Royal Enfield Builds of 2022",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42bTAxcXVmX3NBTHJGVlFLT0NTZW5DdnVWc3ZiS0Z2ajlNRVBpU0lIU0xSN1Q2M29uay1jZTJZdjBtNlo0eExTN1VUQ3g3MFF3aXoxLWZuSzRFN0dadTc5SU5VQ3dGSTV5TUEyLWVvbm4?oc=5",
+     "fonte": "Bike EXIF"
     }
    ]
   },
@@ -2985,35 +2965,6 @@
  ],
  "pautas": [
   {
-   "pauta": "Motogp",
-   "urgencia": "3 fontes / 48h",
-   "porque": "3 fontes publicaram sobre isso nas ultimas 48h.",
-   "furo": false,
-   "fontes": 3,
-   "materias": [
-    {
-     "titulo": "MotoGP, Toprak: \"This year reminds me of my first year in SBK, when I thought about quitting.\"",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUzBJV0lVdG9ZWjduWVNqY3E0S01wN3FTV0hyUFBvamdIcDNkM1pBWW0xQ2l0OGNFX2NkeGRmOFJoMG9EZjBwNTFzSWdmSFBidlZGLWN2eUc0a2s3Ry1SNVVUZGpCVUQyREVhLUhkd3ExVjNUdU9fWlNrNWRrd1Zmb1cxM0NhRUkwd2lCbm04Q3Y5R2dMYXRBVXJXYjdLMnByVXRndGtmRl8za2l0S2h0WFZLdEdFLWM1cjkyeDA0VGkwSzA5UWVrZg?oc=5",
-     "fonte": "GPOne"
-    },
-    {
-     "titulo": "MotoGP, Luzzi: “Márquez has Stoner’s talent and Lorenzo’s determination”",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcmptRWhzMWYyV1BXN2dWR3l5amJGVlgyUHNGbGN6Yl95MHdRdjY1TDJWdVlNdG1QNmIxdmNoVXBUM0hOclZNMGlrcHNjbHZBRnAzbGdDVmI5MmdQNWJlMC0zRklHcVYtOWZ4S0lxMTlZM1J5dE9nSVJfVk1LdExrSGlBUkl1WTBnMU9xLW1uWkxXNmx1STBTWFFEd1ZiWERvbVd1Q2NqZFc0UkE?oc=5",
-     "fonte": "GPOne"
-    },
-    {
-     "titulo": "Suzuki’s New Collab for Street Fighter 6, KTM’s Big Win in MotoGP",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcEx0cWx2V0E1MktuM2FVS3ZOMVpjejl5UzRITlEtNUloMjRXbGZVOHBWeVN4V29TVWtKUmwzTGhmeU5sVkNtbFNRVzMtbVVZLW43SVd3N1pKckVJSTY4a3RIWTlhUHVkR0NGYWVBU2JZOVplbktVV3dkTWNwZ3B0d0xuemg2Q1BUekhnc2thc2x4cHZ0Vmxj?oc=5",
-     "fonte": "WebBikeWorld"
-    },
-    {
-     "titulo": "2027 FIM MotoGP World Championship Calendar",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZFY0X3puaFAtVU5rUk9yTEt5YWxWNHN6aEppZGVGT3hEbHBNVHFqRDZaV283YUtJcm5iMTR3TDIydE9hMEdzaVNkUS1nZnh5RHBpR0U5OVJnQjFlekZSbl9QWGh6cjFNRGFYU0xfaXBSbUxldWNLQ0RpQWRLSkxwY3VoLVRNWjB5YTVkR1BHNA?oc=5",
-     "fonte": "Cycle News"
-    }
-   ]
-  },
-  {
    "pauta": "Honda",
    "urgencia": "2 fontes / 48h",
    "porque": "2 fontes publicaram sobre isso nas ultimas 48h.",
@@ -3039,63 +2990,6 @@
      "titulo": "Honda NXR 160 Bros: 6 cuidados antes de comprar a trail mais popular da Honda",
      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdzZBUjFLSUI4X050OXE1X01jQlpHWUk1SXcyTDBlWEVIbEQxX3h6VENKWmw5Q2VFOHp6YWFBcjQ5VjNUaUl5cHVfTXdhSmNrZGs3MEc4WExfYVJ4Qy1ra2hsOWpHYVlQWmpTUDFQYnhVZjdmeVExYXhpTGRMRzlSTg?oc=5",
      "fonte": "Motonline"
-    }
-   ]
-  },
-  {
-   "pauta": "Ducati",
-   "urgencia": "2 fontes / 48h",
-   "porque": "2 fontes publicaram sobre isso nas ultimas 48h.",
-   "furo": false,
-   "fontes": 2,
-   "materias": [
-    {
-     "titulo": "Fantastic race by Lecuona with a dominant win on Saturday at Cremona. Bulega runner-up in another 1-2 for Aruba.it Racing - Ducati",
-     "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQVDBnZGNSdUpvM2YyelU0VDBSellwdnNJcW9TQ2pmZUxYLVBfclNaZVJ1THVTWENQMmRmTmtyTHNvbmhLZWlOdkNYR05hS2J3SFlGbUFRUHNxZkVRU1Z1azlMODA3UzVvVlN1bHRHTmhtcWY0eUxPLTYtVkRBb293QW9RVG9pNUhCOV93WC1sWDBOYzlneDNDYjBkYWJWU2kzSWVrQi1IYUJzOGV0c2RjdlFiT0RhMDdwcHN1Q2JfUDJyYm42VWhmSUdDOTc0emRPMERKcFUySkFBWGJ3WHB6NDkxZUV0SFA4eEZpR09leTFNX09lTDFNSlp4VXVjLXBQWW1hdExKUzlYQQ?oc=5",
-     "fonte": "Ducati Corse"
-    },
-    {
-     "titulo": "OFICIAL: Justin Barcia deixa a equipe Troy Lee Designs Red Bull Ducati",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMEJrd2Npek55X1M2RzFEMVJFZ1dJZkRzbEE0UXRaT24tTkxBWkl6R2J6SHpTUWNzTk9ldFFxNXJiWTNYTFdrSnlzbGdGZkNRVlh1c0xSbzRJUTUweHh0a2xCNXJKZzl5a0FvQndvRnVqTXFSV1ROaG5YRFoxb29HTzROYW0ybDBUUHdzYTB4UlBJNEh3SFRGQkxjQQ?oc=5",
-     "fonte": "MotoMundo"
-    }
-   ]
-  },
-  {
-   "pauta": "Bmw",
-   "urgencia": "2 fontes / 48h",
-   "porque": "2 fontes publicaram sobre isso nas ultimas 48h.",
-   "furo": false,
-   "fontes": 2,
-   "materias": [
-    {
-     "titulo": "BMW Is Already Expanding Its New 450 Platform, And We’re Here For It",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0zb09TN2wzZGNNbnBHZmR2Y3MxLU92Y3NZalFhLUFjcE9KRDB2WTNvMDRLM0w1czBHSlBnVllHNG1KdkF1ZGxjXzl4LWpkbDJBV1VENU14MHo4bTdMdmNCYVk1MTNJZjllblJpT3FxV1Y5WmJmT3c?oc=5",
-     "fonte": "RideApart"
-    },
-    {
-     "titulo": "BMW F 450 R: nova naked com motor da F 450 GS chega em 1º de outubro",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9UYmJ0UEZVcUVXdnBsRlEtMEgyT1ZycElLSm83eVFMTko1OTZRQXV2NTRkcEVkWDZoSmFMT0QzdnlFNHdCcEpWMkxlOUVYdThUbnNXQ0ZtYi1oZUQ3OXRIRWZCbGdESjROanROSlBVVk5xeW13VURfWE5zOW4yZw?oc=5",
-     "fonte": "Motonline"
-    }
-   ]
-  },
-  {
-   "pauta": "Suzuki",
-   "urgencia": "2 fontes / 48h",
-   "porque": "2 fontes publicaram sobre isso nas ultimas 48h.",
-   "furo": false,
-   "fontes": 2,
-   "materias": [
-    {
-     "titulo": "Suzuki’s New Collab for Street Fighter 6, KTM’s Big Win in MotoGP",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcEx0cWx2V0E1MktuM2FVS3ZOMVpjejl5UzRITlEtNUloMjRXbGZVOHBWeVN4V29TVWtKUmwzTGhmeU5sVkNtbFNRVzMtbVVZLW43SVd3N1pKckVJSTY4a3RIWTlhUHVkR0NGYWVBU2JZOVplbktVV3dkTWNwZ3B0d0xuemg2Q1BUekhnc2thc2x4cHZ0Vmxj?oc=5",
-     "fonte": "WebBikeWorld"
-    },
-    {
-     "titulo": "British rider becomes the first paralysed motorcyclist to top 200mph using turbo Suzuki Hayabusa",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNV3dPcTlhcHZ6TU5DNEhBS1U2UWZZMXU0cVZPZHZMY0FYUFpob0REMEVhWldRT3FkNEpJbE9XYXNIQ19MblF0ZTVBSTdpMEJuY0xuRW5XczNZcmRKZW9VeFNVbEh5X3dkeHduOG1pLW5Bc01RQ3ZzX0xrNS1ZQXpWUVIxNlFONnNpZUZfdG92anA4azBmaUxkVFJieWdMdGxsZmlLVWpuSGV0NEFwZkE?oc=5",
-     "fonte": "Motorcycle News (MCN)"
     }
    ]
   }
@@ -3366,18 +3260,18 @@
  ],
  "marca": {
   "ga4": {
-   "sessions": 89611,
-   "users": 84010,
-   "updated_at": "2026-09-27T14:14:52Z"
+   "sessions": 89677,
+   "users": 84074,
+   "updated_at": "2026-09-27T18:37:27Z"
   }
  },
- "pesado_em": "2026-09-26T19:57:26Z",
+ "pesado_em": "2026-09-27T19:02:52Z",
  "integracoes": {
   "google_news": true,
   "reddit": false,
   "claude": true,
   "apify": true,
   "ga4": true,
-  "janela_pesada": false
+  "janela_pesada": true
  }
 }
