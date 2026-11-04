@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-11-04T06:55:22Z",
+ "updated_at": "2026-11-04T16:30:40Z",
  "property": "397973331",
  "totals": {
-  "sessions": 85073,
-  "users": 79645,
-  "pageviews": 123722
+  "sessions": 85155,
+  "users": 79730,
+  "pageviews": 123819
  },
  "daily": [
   {
@@ -632,27 +632,27 @@
   },
   {
    "date": "2026-11-03",
-   "sessions": 1263,
+   "sessions": 1260,
    "users": 1182,
    "new_users": 967,
    "pageviews": 1742
   },
   {
    "date": "2026-11-04",
-   "sessions": 33,
-   "users": 33,
-   "new_users": 28,
-   "pageviews": 49
+   "sessions": 118,
+   "users": 118,
+   "new_users": 105,
+   "pageviews": 146
   }
  ],
  "canais": [
   {
    "canal": "Organic Search",
-   "sessions": 12160
+   "sessions": 12012
   },
   {
    "canal": "Direct",
-   "sessions": 8193
+   "sessions": 8186
   },
   {
    "canal": "Organic Social",
@@ -672,7 +672,7 @@
   },
   {
    "canal": "Unassigned",
-   "sessions": 8
+   "sessions": 7
   },
   {
    "canal": "Mobile Push Notifications",
