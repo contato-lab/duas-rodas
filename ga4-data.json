@@ -1,19 +1,12 @@
 {
- "updated_at": "2026-11-12T23:49:57Z",
+ "updated_at": "2026-11-13T07:09:02Z",
  "property": "397973331",
  "totals": {
-  "sessions": 78839,
-  "users": 73804,
-  "pageviews": 115650
+  "sessions": 77416,
+  "users": 72441,
+  "pageviews": 113403
  },
  "daily": [
-  {
-   "date": "2026-08-14",
-   "sessions": 1729,
-   "users": 1631,
-   "new_users": 1247,
-   "pageviews": 2778
-  },
   {
    "date": "2026-08-15",
    "sessions": 1120,
@@ -639,28 +632,28 @@
   },
   {
    "date": "2026-11-12",
-   "sessions": 440,
-   "users": 407,
-   "new_users": 284,
-   "pageviews": 807
+   "sessions": 746,
+   "users": 675,
+   "new_users": 496,
+   "pageviews": 1338
   }
  ],
  "canais": [
   {
    "canal": "Organic Search",
-   "sessions": 12347
+   "sessions": 12216
   },
   {
    "canal": "Direct",
-   "sessions": 8641
-  },
-  {
-   "canal": "Organic Social",
-   "sessions": 137
+   "sessions": 8520
   },
   {
    "canal": "AI Assistant",
-   "sessions": 121
+   "sessions": 118
+  },
+  {
+   "canal": "Organic Social",
+   "sessions": 79
   },
   {
    "canal": "Referral",
@@ -672,7 +665,7 @@
   },
   {
    "canal": "Organic Video",
-   "sessions": 7
+   "sessions": 5
   },
   {
    "canal": "Mobile Push Notifications",
